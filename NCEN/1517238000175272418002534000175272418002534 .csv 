@@ -1,0 +1,781 @@
+"","V1"
+"1","<SEC-DOCUMENT>0001752724-18-002534.txt : 20181212"
+"2","<SEC-HEADER>0001752724-18-002534.hdr.sgml : 20181212"
+"3","<ACCEPTANCE-DATETIME>20181212154546"
+"4","ACCESSION NUMBER:		0001752724-18-002534"
+"5","CONFORMED SUBMISSION TYPE:	N-CEN"
+"6","PUBLIC DOCUMENT COUNT:		4"
+"7","CONFORMED PERIOD OF REPORT:	20180930"
+"8","FILED AS OF DATE:		20181212"
+"9","DATE AS OF CHANGE:		20181212"
+"10","EFFECTIVENESS DATE:		20181212"
+"11","FILER:"
+"12","	COMPANY DATA:	"
+"13","		COMPANY CONFORMED NAME:			Centre Funds"
+"14","		CENTRAL INDEX KEY:			0001517238"
+"15","		IRS NUMBER:				000000000"
+"16","	FILING VALUES:"
+"17","		FORM TYPE:		N-CEN"
+"18","		SEC ACT:		1940 Act"
+"19","		SEC FILE NUMBER:	811-22545"
+"20","		FILM NUMBER:		181230901"
+"21","	BUSINESS ADDRESS:	"
+"22","		STREET 1:		48 WALL STREET"
+"23","		STREET 2:		SUITE 1100"
+"24","		CITY:			NEW YORK"
+"25","		STATE:			NY"
+"26","		ZIP:			10005"
+"27","		BUSINESS PHONE:		215.988.9188"
+"28","	MAIL ADDRESS:	"
+"29","		STREET 1:		48 WALL STREET"
+"30","		STREET 2:		SUITE 1100"
+"31","		CITY:			NEW YORK"
+"32","		STATE:			NY"
+"33","		ZIP:			10005"
+"34","	FORMER COMPANY:	"
+"35","		FORMER CONFORMED NAME:	Drexel Hamilton Mutual Funds"
+"36","		DATE OF NAME CHANGE:	20110401"
+"37","</SEC-HEADER>"
+"38","<DOCUMENT>"
+"39","<TYPE>N-CEN"
+"40","<SEQUENCE>1"
+"41","<FILENAME>primary_doc.xml"
+"42","<TEXT>"
+"43","<XML>"
+"44","<?xml version=1.0 encoding=UTF-8?>"
+"45","<edgarSubmission xmlns=http://www.sec.gov/edgar/ncen xmlns:com=http://www.sec.gov/edgar/common>"
+"46","  <schemaVersion>X0101</schemaVersion>"
+"47","  <headerData>"
+"48","    <submissionType>N-CEN</submissionType>"
+"49","    <filerInfo>"
+"50","      <liveTestFlag>LIVE</liveTestFlag>"
+"51","      <filer>"
+"52","        <issuerCredentials>"
+"53","          <cik>0001517238</cik>"
+"54","          <ccc>XXXXXXXX</ccc>"
+"55","        </issuerCredentials>"
+"56","        <fileNumber>811-22545</fileNumber>"
+"57","      </filer>"
+"58","      <investmentCompanyType>N-1A</investmentCompanyType>"
+"59","    </filerInfo>"
+"60","    <seriesClass>"
+"61","      <reportSeriesClass>"
+"62","        <rptIncludeAllSeriesFlag>true</rptIncludeAllSeriesFlag>"
+"63","      </reportSeriesClass>"
+"64","    </seriesClass>"
+"65","  </headerData>"
+"66","  <formData>"
+"67","    <generalInfo reportEndingPeriod=2018-09-30 isReportPeriodLt12=N/>"
+"68","    <registrantInfo>"
+"69","      <registrantFullName>Centre Funds</registrantFullName>"
+"70","      <investmentCompFileNo>811-22545</investmentCompFileNo>"
+"71","      <registrantCik>0001517238</registrantCik>"
+"72","      <registrantLei>5493007J05BKEHZDGR72</registrantLei>"
+"73","      <registrantstreet1>48 Wall Street, Suite 1100</registrantstreet1>"
+"74","      <registrantcity>New York</registrantcity>"
+"75","      <registrantzipCode>10005</registrantzipCode>"
+"76","      <registrantstate>US-NY</registrantstate>"
+"77","      <registrantcountry>US</registrantcountry>"
+"78","      <registrantphoneNumber>212-918-4705</registrantphoneNumber>"
+"79","      <websites>"
+"80","        <website webpage=http://www.centrefunds.com//>"
+"81","      </websites>"
+"82","      <locationBooksRecords>"
+"83","        <locationBooksRecord>"
+"84","          <officeName>Union Bank, N.A.</officeName>"
+"85","          <officeAddress1>350 California Street, 6th Floor</officeAddress1>"
+"86","          <officeCity>San Francisco</officeCity>"
+"87","          <officeStateCountry officeCountry=US officeState=US-CA/>"
+"88","          <officeRecordsZipCode>94104</officeRecordsZipCode>"
+"89","          <officePhone>1-800-238-4486</officePhone>"
+"90","          <booksRecordsDesc>The books and records required to be maintained by"
+"91","Section 31(a) of the Investment Company Act of 1940, as amended, and the rules thereunder</booksRecordsDesc>"
+"92","        </locationBooksRecord>"
+"93","        <locationBooksRecord>"
+"94","          <officeName>Centre Asset Management, LLC</officeName>"
+"95","          <officeAddress1>48 Wall Street, Suite 1100</officeAddress1>"
+"96","          <officeCity>New York</officeCity>"
+"97","          <officeStateCountry officeCountry=US officeState=US-NY/>"
+"98","          <officeRecordsZipCode>10005</officeRecordsZipCode>"
+"99","          <officePhone>212-918-4705</officePhone>"
+"100","          <booksRecordsDesc>The books and records required to be maintained by"
+"101","Section 31(a) of the Investment Company Act of 1940, as amended, and the rules thereunder</booksRecordsDesc>"
+"102","        </locationBooksRecord>"
+"103","        <locationBooksRecord>"
+"104","          <officeName>ALPS Fund Services, Inc.</officeName>"
+"105","          <officeAddress1>1290 Broadway, Suite 1100</officeAddress1>"
+"106","          <officeCity>Denver</officeCity>"
+"107","          <officeStateCountry officeCountry=US officeState=US-CO/>"
+"108","          <officeRecordsZipCode>80203</officeRecordsZipCode>"
+"109","          <officePhone>1-855-298-4236</officePhone>"
+"110","          <booksRecordsDesc>The books and records required to be maintained by"
+"111","Section 31(a) of the Investment Company Act of 1940, as amended, and the rules thereunder</booksRecordsDesc>"
+"112","        </locationBooksRecord>"
+"113","      </locationBooksRecords>"
+"114","      <isRegistrantFirstFiling>Y</isRegistrantFirstFiling>"
+"115","      <isRegistrantLastFiling>N</isRegistrantLastFiling>"
+"116","      <isRegistrantFamilyInvComp>N</isRegistrantFamilyInvComp>"
+"117","      <registrantClassificationType>N-1A</registrantClassificationType>"
+"118","      <totalSeries>3</totalSeries>"
+"119","      <isSecuritiesActRegistration>Y</isSecuritiesActRegistration>"
+"120","      <directors>"
+"121","        <director>"
+"122","          <directorName>Joseph M. Marinaro</directorName>"
+"123","          <crdNumber>001404840</crdNumber>"
+"124","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"125","          <fileNumbers>"
+"126","            <fileNumberInfo fileNumber=811-22545/>"
+"127","          </fileNumbers>"
+"128","        </director>"
+"129","        <director>"
+"130","          <directorName>James A. Abate</directorName>"
+"131","          <crdNumber>001496799</crdNumber>"
+"132","          <isDirectorInterestedPerson>Y</isDirectorInterestedPerson>"
+"133","          <fileNumbers>"
+"134","            <fileNumberInfo fileNumber=811-22545/>"
+"135","          </fileNumbers>"
+"136","        </director>"
+"137","        <director>"
+"138","          <directorName>Aloke Ghosh</directorName>"
+"139","          <crdNumber>N/A</crdNumber>"
+"140","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"141","          <fileNumbers>"
+"142","            <fileNumberInfo fileNumber=811-22545/>"
+"143","          </fileNumbers>"
+"144","        </director>"
+"145","        <director>"
+"146","          <directorName>James L. Grant</directorName>"
+"147","          <crdNumber>N/A</crdNumber>"
+"148","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"149","          <fileNumbers>"
+"150","            <fileNumberInfo fileNumber=811-22545/>"
+"151","          </fileNumbers>"
+"152","        </director>"
+"153","      </directors>"
+"154","      <chiefComplianceOfficers>"
+"155","        <chiefComplianceOfficer>"
+"156","          <ccoName>Theodore James Uhl</ccoName>"
+"157","          <crdNumber>N/A</crdNumber>"
+"158","          <ccoStreet1>1290 Broadway</ccoStreet1>"
+"159","          <ccoStreet2>Suite 1100</ccoStreet2>"
+"160","          <ccoCity>Denver</ccoCity>"
+"161","          <ccoStateCountry ccoCountry=US ccoState=US-CO/>"
+"162","          <ccoZipCode>80203</ccoZipCode>"
+"163","          <ccoPhone>XXXXXX</ccoPhone>"
+"164","          <isCcoChangedSinceLastFiling>N</isCcoChangedSinceLastFiling>"
+"165","          <ccoEmployers>"
+"166","            <ccoEmployer ccoEmployerName=ALPS Fund Services, Inc. ccoEmployerId=84-1583422/>"
+"167","          </ccoEmployers>"
+"168","        </chiefComplianceOfficer>"
+"169","      </chiefComplianceOfficers>"
+"170","      <securityMatterSeriesInfo isRegistrantSubmittedMatter=Y>"
+"171","        <seriesInfo seriesName=Centre Active U.S. Tax Exempt Fund seriesId=S000048103/>"
+"172","      </securityMatterSeriesInfo>"
+"173","      <isPreviousLegalProceeding>N</isPreviousLegalProceeding>"
+"174","      <isPreviousProceedingTerminated>N</isPreviousProceedingTerminated>"
+"175","      <isClaimFiled>N</isClaimFiled>"
+"176","      <coveredByInsurancePolicy isCoveredByInsurancePolicy=Y isClaimFiledDuringPeriod=Y/>"
+"177","      <isFinancialSupportDuringPeriod>N</isFinancialSupportDuringPeriod>"
+"178","      <isExemptionFromAct>N</isExemptionFromAct>"
+"179","      <principalUnderwriters>"
+"180","        <principalUnderwriter>"
+"181","          <principalUnderwriterName>ALPS DISTRIBUTORS, INC.</principalUnderwriterName>"
+"182","          <principalUnderwriterFileNumber>008-34626</principalUnderwriterFileNumber>"
+"183","          <principalUnderwriterCrdNumber>000016853</principalUnderwriterCrdNumber>"
+"184","          <principalUnderwriterLei>N/A</principalUnderwriterLei>"
+"185","          <principalUnderWriterStateCountry principalUnderWriterCountry=US principalUnderWriterState=US-CO/>"
+"186","          <isPrincipalUnderwriterAffiliatedWithRegistrant>N</isPrincipalUnderwriterAffiliatedWithRegistrant>"
+"187","        </principalUnderwriter>"
+"188","      </principalUnderwriters>"
+"189","      <isUnderwriterHiredOrTerminated>N</isUnderwriterHiredOrTerminated>"
+"190","      <publicAccountants>"
+"191","        <publicAccountant>"
+"192","          <publicAccountantName>COHEN &amp; CO., LTD.</publicAccountantName>"
+"193","          <pcaobNumber>925</pcaobNumber>"
+"194","          <publicAccountantLei>N/A</publicAccountantLei>"
+"195","          <publicAccountantStateCountry publicAccountantCountry=US publicAccountantState=US-OH/>"
+"196","        </publicAccountant>"
+"197","      </publicAccountants>"
+"198","      <isPublicAccountantChanged>N</isPublicAccountantChanged>"
+"199","      <isMaterialWeakness>N</isMaterialWeakness>"
+"200","      <isOpinionOffered>N</isOpinionOffered>"
+"201","      <isMaterialChange>N</isMaterialChange>"
+"202","      <isAccountingPrincipleChange>N</isAccountingPrincipleChange>"
+"203","      <isPaymentErrorInNetAssetValue>N</isPaymentErrorInNetAssetValue>"
+"204","      <isPaymentDividend>N</isPaymentDividend>"
+"205","    </registrantInfo>"
+"206","    <managementInvestmentQuestionSeriesInfo>"
+"207","      <managementInvestmentQuestion>"
+"208","        <mgmtInvFundName>Centre Global Infrastructure Fund</mgmtInvFundName>"
+"209","        <mgmtInvSeriesId>S000055251</mgmtInvSeriesId>"
+"210","        <mgmtInvLei>549300Y7RDPJE53MZZ87</mgmtInvLei>"
+"211","        <isFirstFilingByFund>Y</isFirstFilingByFund>"
+"212","        <numAuthorizedClass>2</numAuthorizedClass>"
+"213","        <numAddedClass>0</numAddedClass>"
+"214","        <numTerminatedClass>0</numTerminatedClass>"
+"215","        <sharesOutstandings>"
+"216","          <sharesOutstanding sharesOutstandingClassName=Institutional Class sharesOutstandingClassId=C000173736 sharesOutstandingTickerSymbol=DHINX/>"
+"217","          <sharesOutstanding sharesOutstandingClassName=Investor Class sharesOutstandingClassId=C000173735 sharesOutstandingTickerSymbol=DHIVX/>"
+"218","        </sharesOutstandings>"
+"219","        <fundType>N/A</fundType>"
+"220","        <isNonDiversifiedCompany>N</isNonDiversifiedCompany>"
+"221","        <isForeignSubsidiary>N</isForeignSubsidiary>"
+"222","        <isFundSecuritiesLending>N</isFundSecuritiesLending>"
+"223","        <didFundLendSecurities>N</didFundLendSecurities>"
+"224","        <paymentToAgentManagerType>N/A</paymentToAgentManagerType>"
+"225","        <avgPortfolioSecuritiesValue>N/A</avgPortfolioSecuritiesValue>"
+"226","        <netIncomeSecuritiesLending>N/A</netIncomeSecuritiesLending>"
+"227","        <relyOnRuleType>N/A</relyOnRuleType>"
+"228","        <isExpenseLimitationInPlace>Y</isExpenseLimitationInPlace>"
+"229","        <isExpenseReducedOrWaived>Y</isExpenseReducedOrWaived>"
+"230","        <isFeesWaivedRecoupable>Y</isFeesWaivedRecoupable>"
+"231","        <isExpenseWaivedRecoupable>N</isExpenseWaivedRecoupable>"
+"232","        <investmentAdvisers>"
+"233","          <investmentAdviser>"
+"234","            <investmentAdviserName>Centre Asset Management, LLC</investmentAdviserName>"
+"235","            <investmentAdviserFileNo>801-66295</investmentAdviserFileNo>"
+"236","            <investmentAdviserCrdNo>000136940</investmentAdviserCrdNo>"
+"237","            <investmentAdviserLei>5493007J05BKEHZDGR72</investmentAdviserLei>"
+"238","            <investmentAdviserStateCountry investmentAdviserState=US-NY investmentAdviserCountry=US/>"
+"239","            <isInvestmentAdviserHired>N</isInvestmentAdviserHired>"
+"240","          </investmentAdviser>"
+"241","        </investmentAdvisers>"
+"242","        <transferAgents>"
+"243","          <transferAgent>"
+"244","            <transferAgentName>ALPS FUND SERVICES, INC.</transferAgentName>"
+"245","            <transferAgentFileNo>84-5730</transferAgentFileNo>"
+"246","            <transferAgentLei>N/A</transferAgentLei>"
+"247","            <transferAgentStateCountry transferAgentState=US-CO transferAgentCountry=US/>"
+"248","            <isTransferAgentAffiliated>N</isTransferAgentAffiliated>"
+"249","            <isTransferAgentSubAgent>N</isTransferAgentSubAgent>"
+"250","          </transferAgent>"
+"251","        </transferAgents>"
+"252","        <isTransferAgentHiredOrTerminated>N</isTransferAgentHiredOrTerminated>"
+"253","        <pricingServices>"
+"254","          <pricingService>"
+"255","            <pricingServiceName>ICE Data Services</pricingServiceName>"
+"256","            <pricingServiceLei>ICE Data Pricing &amp; Reference Data, LLC</pricingServiceLei>"
+"257","            <pricingServiceIdNumberDesc>5493000NQ9LYLDBCTL34</pricingServiceIdNumberDesc>"
+"258","            <pricingServiceStateCountry pricingServiceState=US-DE pricingServiceCountry=US/>"
+"259","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"260","          </pricingService>"
+"261","        </pricingServices>"
+"262","        <isPricingServiceHiredOrTerminated>N</isPricingServiceHiredOrTerminated>"
+"263","        <custodians>"
+"264","          <custodian>"
+"265","            <custodianName>UNION BANK, N.A.</custodianName>"
+"266","            <custodianLei>OX3PU53ZLPQKJ4700D47</custodianLei>"
+"267","            <custodianStateCountry custodianState=US-CA custodianCountry=US/>"
+"268","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"269","            <isSubCustodian>N</isSubCustodian>"
+"270","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"271","          </custodian>"
+"272","        </custodians>"
+"273","        <isCustodianHiredOrTerminated>N</isCustodianHiredOrTerminated>"
+"274","        <isShareholderServiceHiredTerminated>N</isShareholderServiceHiredTerminated>"
+"275","        <admins>"
+"276","          <admin>"
+"277","            <adminName>ALPS FUND SERVICES, INC.</adminName>"
+"278","            <adminLei>N/A</adminLei>"
+"279","            <adminStateCountry adminState=US-CO adminCountry=US/>"
+"280","            <isAdminAffiliated>N</isAdminAffiliated>"
+"281","            <isAdminSubAdmin>N</isAdminSubAdmin>"
+"282","          </admin>"
+"283","        </admins>"
+"284","        <isAdminHiredOrTerminated>N</isAdminHiredOrTerminated>"
+"285","        <brokers>"
+"286","          <broker>"
+"287","            <brokerName>INTERACTIVE BROKERS LLC</brokerName>"
+"288","            <brokerFileNo>008-47257</brokerFileNo>"
+"289","            <brokerCrdNo>000036418</brokerCrdNo>"
+"290","            <brokerLei>50OBSE5T5521O6SMZR28</brokerLei>"
+"291","            <brokerStateCountry brokerState=US-CT brokerCountry=US/>"
+"292","            <grossCommission>2731.00000000</grossCommission>"
+"293","          </broker>"
+"294","          <broker>"
+"295","            <brokerName>Deutsche Bank Securities Inc.</brokerName>"
+"296","            <brokerFileNo>008-17822</brokerFileNo>"
+"297","            <brokerCrdNo>000002525</brokerCrdNo>"
+"298","            <brokerLei>9J6MBOOO7BECTDTUZW19</brokerLei>"
+"299","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"300","            <grossCommission>9269.00000000</grossCommission>"
+"301","          </broker>"
+"302","        </brokers>"
+"303","        <aggregateCommission>9269.00000000</aggregateCommission>"
+"304","        <principalTransactions>"
+"305","          <principalTransaction>"
+"306","            <principalName>RAYMOND JAMES &amp; ASSOCIATES, INC.</principalName>"
+"307","            <principalFileNo>008-17983</principalFileNo>"
+"308","            <principalCrdNo>000000705</principalCrdNo>"
+"309","            <principalLei>U4ONQX15J3RO8XCKE979</principalLei>"
+"310","            <principalStateCountry principalState=US-FL principalCountry=US/>"
+"311","            <principalTotalPurchaseSale>5679160.74</principalTotalPurchaseSale>"
+"312","          </principalTransaction>"
+"313","        </principalTransactions>"
+"314","        <principalAggregatePurchase>16916444</principalAggregatePurchase>"
+"315","        <isBrokerageResearchPayment>N</isBrokerageResearchPayment>"
+"316","        <mnthlyAvgNetAssets>5863661.70</mnthlyAvgNetAssets>"
+"317","        <hasLineOfCredit>N</hasLineOfCredit>"
+"318","        <isSwingPricing>N</isSwingPricing>"
+"319","      </managementInvestmentQuestion>"
+"320","      <managementInvestmentQuestion>"
+"321","        <mgmtInvFundName>Centre American Select Equity Fund</mgmtInvFundName>"
+"322","        <mgmtInvSeriesId>S000035644</mgmtInvSeriesId>"
+"323","        <mgmtInvLei>549300NNJ3F01UDBBT17</mgmtInvLei>"
+"324","        <isFirstFilingByFund>Y</isFirstFilingByFund>"
+"325","        <numAuthorizedClass>2</numAuthorizedClass>"
+"326","        <numAddedClass>0</numAddedClass>"
+"327","        <numTerminatedClass>0</numTerminatedClass>"
+"328","        <sharesOutstandings>"
+"329","          <sharesOutstanding sharesOutstandingClassName=Institutional Class sharesOutstandingClassId=C000136015 sharesOutstandingTickerSymbol=DHANX/>"
+"330","          <sharesOutstanding sharesOutstandingClassName=Investor Class sharesOutstandingClassId=C000109113 sharesOutstandingTickerSymbol=DHAMX/>"
+"331","        </sharesOutstandings>"
+"332","        <fundType>N/A</fundType>"
+"333","        <isNonDiversifiedCompany>N</isNonDiversifiedCompany>"
+"334","        <isForeignSubsidiary>N</isForeignSubsidiary>"
+"335","        <isFundSecuritiesLending>N</isFundSecuritiesLending>"
+"336","        <didFundLendSecurities>N</didFundLendSecurities>"
+"337","        <paymentToAgentManagerType>N/A</paymentToAgentManagerType>"
+"338","        <avgPortfolioSecuritiesValue>N/A</avgPortfolioSecuritiesValue>"
+"339","        <netIncomeSecuritiesLending>N/A</netIncomeSecuritiesLending>"
+"340","        <relyOnRuleType>N/A</relyOnRuleType>"
+"341","        <isExpenseLimitationInPlace>Y</isExpenseLimitationInPlace>"
+"342","        <isExpenseReducedOrWaived>Y</isExpenseReducedOrWaived>"
+"343","        <isFeesWaivedRecoupable>Y</isFeesWaivedRecoupable>"
+"344","        <isExpenseWaivedRecoupable>N</isExpenseWaivedRecoupable>"
+"345","        <investmentAdvisers>"
+"346","          <investmentAdviser>"
+"347","            <investmentAdviserName>Centre Asset Management, LLC</investmentAdviserName>"
+"348","            <investmentAdviserFileNo>801-66295</investmentAdviserFileNo>"
+"349","            <investmentAdviserCrdNo>000136940</investmentAdviserCrdNo>"
+"350","            <investmentAdviserLei>5493007J05BKEHZDGR72</investmentAdviserLei>"
+"351","            <investmentAdviserStateCountry investmentAdviserState=US-NY investmentAdviserCountry=US/>"
+"352","            <isInvestmentAdviserHired>N</isInvestmentAdviserHired>"
+"353","          </investmentAdviser>"
+"354","        </investmentAdvisers>"
+"355","        <transferAgents>"
+"356","          <transferAgent>"
+"357","            <transferAgentName>ALPS FUND SERVICES, INC.</transferAgentName>"
+"358","            <transferAgentFileNo>84-5730</transferAgentFileNo>"
+"359","            <transferAgentLei>N/A</transferAgentLei>"
+"360","            <transferAgentStateCountry transferAgentState=US-CO transferAgentCountry=US/>"
+"361","            <isTransferAgentAffiliated>N</isTransferAgentAffiliated>"
+"362","            <isTransferAgentSubAgent>N</isTransferAgentSubAgent>"
+"363","          </transferAgent>"
+"364","        </transferAgents>"
+"365","        <isTransferAgentHiredOrTerminated>N</isTransferAgentHiredOrTerminated>"
+"366","        <pricingServices>"
+"367","          <pricingService>"
+"368","            <pricingServiceName>ICE Data Services</pricingServiceName>"
+"369","            <pricingServiceLei>ICE Data Pricing &amp; Reference Data, LLC</pricingServiceLei>"
+"370","            <pricingServiceIdNumberDesc>5493000NQ9LYLDBCTL34</pricingServiceIdNumberDesc>"
+"371","            <pricingServiceStateCountry pricingServiceState=US-DE pricingServiceCountry=US/>"
+"372","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"373","          </pricingService>"
+"374","        </pricingServices>"
+"375","        <isPricingServiceHiredOrTerminated>N</isPricingServiceHiredOrTerminated>"
+"376","        <custodians>"
+"377","          <custodian>"
+"378","            <custodianName>UNION BANK, N.A.</custodianName>"
+"379","            <custodianLei>OX3PU53ZLPQKJ4700D47</custodianLei>"
+"380","            <custodianStateCountry custodianState=US-CA custodianCountry=US/>"
+"381","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"382","            <isSubCustodian>N</isSubCustodian>"
+"383","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"384","          </custodian>"
+"385","        </custodians>"
+"386","        <isCustodianHiredOrTerminated>N</isCustodianHiredOrTerminated>"
+"387","        <isShareholderServiceHiredTerminated>N</isShareholderServiceHiredTerminated>"
+"388","        <admins>"
+"389","          <admin>"
+"390","            <adminName>ALPS FUND SERVICES, INC.</adminName>"
+"391","            <adminLei>N/A</adminLei>"
+"392","            <adminStateCountry adminState=US-CO adminCountry=US/>"
+"393","            <isAdminAffiliated>N</isAdminAffiliated>"
+"394","            <isAdminSubAdmin>N</isAdminSubAdmin>"
+"395","          </admin>"
+"396","        </admins>"
+"397","        <isAdminHiredOrTerminated>N</isAdminHiredOrTerminated>"
+"398","        <brokers>"
+"399","          <broker>"
+"400","            <brokerName>Deutsche Bank Securities Inc.</brokerName>"
+"401","            <brokerFileNo>008-17822</brokerFileNo>"
+"402","            <brokerCrdNo>000002525</brokerCrdNo>"
+"403","            <brokerLei>9J6MBOOO7BECTDTUZW19</brokerLei>"
+"404","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"405","            <grossCommission>87672.00000000</grossCommission>"
+"406","          </broker>"
+"407","          <broker>"
+"408","            <brokerName>INTERACTIVE BROKERS LLC</brokerName>"
+"409","            <brokerFileNo>008-47257</brokerFileNo>"
+"410","            <brokerCrdNo>000036418</brokerCrdNo>"
+"411","            <brokerLei>50OBSE5T5521O6SMZR28</brokerLei>"
+"412","            <brokerStateCountry brokerState=US-CT brokerCountry=US/>"
+"413","            <grossCommission>5081.00000000</grossCommission>"
+"414","          </broker>"
+"415","        </brokers>"
+"416","        <aggregateCommission>92753.00000000</aggregateCommission>"
+"417","        <principalAggregatePurchase>0</principalAggregatePurchase>"
+"418","        <isBrokerageResearchPayment>N</isBrokerageResearchPayment>"
+"419","        <mnthlyAvgNetAssets>130096145.31</mnthlyAvgNetAssets>"
+"420","        <hasLineOfCredit>N</hasLineOfCredit>"
+"421","        <isSwingPricing>N</isSwingPricing>"
+"422","      </managementInvestmentQuestion>"
+"423","      <managementInvestmentQuestion>"
+"424","        <mgmtInvFundName>Centre Active U.S. Treasury Fund</mgmtInvFundName>"
+"425","        <mgmtInvSeriesId>S000043829</mgmtInvSeriesId>"
+"426","        <mgmtInvLei>549300DCYYWYZ55XHM14</mgmtInvLei>"
+"427","        <isFirstFilingByFund>Y</isFirstFilingByFund>"
+"428","        <numAuthorizedClass>2</numAuthorizedClass>"
+"429","        <numAddedClass>0</numAddedClass>"
+"430","        <numTerminatedClass>0</numTerminatedClass>"
+"431","        <sharesOutstandings>"
+"432","          <sharesOutstanding sharesOutstandingClassName=Investor Class sharesOutstandingClassId=C000136010 sharesOutstandingTickerSymbol=DHTRX/>"
+"433","          <sharesOutstanding sharesOutstandingClassName=Institutional Class sharesOutstandingClassId=C000136011 sharesOutstandingTickerSymbol=DHTUX/>"
+"434","        </sharesOutstandings>"
+"435","        <fundType>N/A</fundType>"
+"436","        <isNonDiversifiedCompany>N</isNonDiversifiedCompany>"
+"437","        <isForeignSubsidiary>N</isForeignSubsidiary>"
+"438","        <isFundSecuritiesLending>N</isFundSecuritiesLending>"
+"439","        <didFundLendSecurities>N</didFundLendSecurities>"
+"440","        <paymentToAgentManagerType>N/A</paymentToAgentManagerType>"
+"441","        <avgPortfolioSecuritiesValue>N/A</avgPortfolioSecuritiesValue>"
+"442","        <netIncomeSecuritiesLending>N/A</netIncomeSecuritiesLending>"
+"443","        <relyOnRuleType>N/A</relyOnRuleType>"
+"444","        <isExpenseLimitationInPlace>Y</isExpenseLimitationInPlace>"
+"445","        <isExpenseReducedOrWaived>Y</isExpenseReducedOrWaived>"
+"446","        <isFeesWaivedRecoupable>Y</isFeesWaivedRecoupable>"
+"447","        <isExpenseWaivedRecoupable>N</isExpenseWaivedRecoupable>"
+"448","        <investmentAdvisers>"
+"449","          <investmentAdviser>"
+"450","            <investmentAdviserName>Centre Asset Management, LLC</investmentAdviserName>"
+"451","            <investmentAdviserFileNo>801-66295</investmentAdviserFileNo>"
+"452","            <investmentAdviserCrdNo>000136940</investmentAdviserCrdNo>"
+"453","            <investmentAdviserLei>5493007J05BKEHZDGR72</investmentAdviserLei>"
+"454","            <investmentAdviserStateCountry investmentAdviserState=US-NY investmentAdviserCountry=US/>"
+"455","            <isInvestmentAdviserHired>N</isInvestmentAdviserHired>"
+"456","          </investmentAdviser>"
+"457","        </investmentAdvisers>"
+"458","        <transferAgents>"
+"459","          <transferAgent>"
+"460","            <transferAgentName>ALPS FUND SERVICES, INC.</transferAgentName>"
+"461","            <transferAgentFileNo>84-5730</transferAgentFileNo>"
+"462","            <transferAgentLei>N/A</transferAgentLei>"
+"463","            <transferAgentStateCountry transferAgentState=US-CO transferAgentCountry=US/>"
+"464","            <isTransferAgentAffiliated>N</isTransferAgentAffiliated>"
+"465","            <isTransferAgentSubAgent>N</isTransferAgentSubAgent>"
+"466","          </transferAgent>"
+"467","        </transferAgents>"
+"468","        <isTransferAgentHiredOrTerminated>N</isTransferAgentHiredOrTerminated>"
+"469","        <pricingServices>"
+"470","          <pricingService>"
+"471","            <pricingServiceName>ICE Data Services</pricingServiceName>"
+"472","            <pricingServiceLei>ICE Data Pricing &amp; Reference Data, LLC</pricingServiceLei>"
+"473","            <pricingServiceIdNumberDesc>5493000NQ9LYLDBCTL34</pricingServiceIdNumberDesc>"
+"474","            <pricingServiceStateCountry pricingServiceState=US-DE pricingServiceCountry=US/>"
+"475","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"476","          </pricingService>"
+"477","        </pricingServices>"
+"478","        <isPricingServiceHiredOrTerminated>N</isPricingServiceHiredOrTerminated>"
+"479","        <custodians>"
+"480","          <custodian>"
+"481","            <custodianName>UNION BANK, N.A.</custodianName>"
+"482","            <custodianLei>OX3PU53ZLPQKJ4700D47</custodianLei>"
+"483","            <custodianStateCountry custodianState=US-CA custodianCountry=US/>"
+"484","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"485","            <isSubCustodian>N</isSubCustodian>"
+"486","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"487","          </custodian>"
+"488","        </custodians>"
+"489","        <isCustodianHiredOrTerminated>N</isCustodianHiredOrTerminated>"
+"490","        <isShareholderServiceHiredTerminated>N</isShareholderServiceHiredTerminated>"
+"491","        <admins>"
+"492","          <admin>"
+"493","            <adminName>ALPS FUND SERVICES, INC.</adminName>"
+"494","            <adminLei>N/A</adminLei>"
+"495","            <adminStateCountry adminState=US-CO adminCountry=US/>"
+"496","            <isAdminAffiliated>N</isAdminAffiliated>"
+"497","            <isAdminSubAdmin>N</isAdminSubAdmin>"
+"498","          </admin>"
+"499","        </admins>"
+"500","        <isAdminHiredOrTerminated>N</isAdminHiredOrTerminated>"
+"501","        <brokers>"
+"502","          <broker>"
+"503","            <brokerName>INTERACTIVE BROKERS LLC</brokerName>"
+"504","            <brokerFileNo>008-47257</brokerFileNo>"
+"505","            <brokerCrdNo>000036418</brokerCrdNo>"
+"506","            <brokerLei>50OBSE5T5521O6SMZR28</brokerLei>"
+"507","            <brokerStateCountry brokerState=US-CT brokerCountry=US/>"
+"508","            <grossCommission>2731.00000000</grossCommission>"
+"509","          </broker>"
+"510","        </brokers>"
+"511","        <aggregateCommission>2731.00000000</aggregateCommission>"
+"512","        <principalTransactions>"
+"513","          <principalTransaction>"
+"514","            <principalName>RAYMOND JAMES &amp; ASSOCIATES, INC.</principalName>"
+"515","            <principalFileNo>008-17983</principalFileNo>"
+"516","            <principalCrdNo>000000705</principalCrdNo>"
+"517","            <principalLei>U4ONQX15J3RO8XCKE979</principalLei>"
+"518","            <principalStateCountry principalState=US-FL principalCountry=US/>"
+"519","            <principalTotalPurchaseSale>1401286.94</principalTotalPurchaseSale>"
+"520","          </principalTransaction>"
+"521","        </principalTransactions>"
+"522","        <principalAggregatePurchase>5679161.00000000</principalAggregatePurchase>"
+"523","        <isBrokerageResearchPayment>N</isBrokerageResearchPayment>"
+"524","        <mnthlyAvgNetAssets>45625247.00</mnthlyAvgNetAssets>"
+"525","        <hasLineOfCredit>N</hasLineOfCredit>"
+"526","        <isSwingPricing>N</isSwingPricing>"
+"527","      </managementInvestmentQuestion>"
+"528","    </managementInvestmentQuestionSeriesInfo>"
+"529","    <attachmentsTab>"
+"530","      <isLegalProceedings>false</isLegalProceedings>"
+"531","      <isProvisionFinancialSupport>false</isProvisionFinancialSupport>"
+"532","      <isIPAReportInternalControl>true</isIPAReportInternalControl>"
+"533","      <isChangeAccPrinciples>false</isChangeAccPrinciples>"
+"534","      <isInfoRequiredEO>false</isInfoRequiredEO>"
+"535","      <isOtherInfoRequired>true</isOtherInfoRequired>"
+"536","    </attachmentsTab>"
+"537","    <signature registrantSignedName=Centre Funds signedDate=2018-09-30 signature=James Abate title=Managing Director/>"
+"538","  </formData>"
+"539","</edgarSubmission>"
+"540","</XML>"
+"541","</TEXT>"
+"542","</DOCUMENT>"
+"543","<DOCUMENT>"
+"544","<TYPE>GRAPHIC"
+"545","<SEQUENCE>2"
+"546","<FILENAME>fp0037498_01.jpg"
+"547","<DESCRIPTION>GRAPHIC"
+"548","<TEXT>"
+"549","begin 644 fp0037498_01.jpg"
+"550","M_]C_X  02D9)1@ ! 0$ > !X  #_VP!#  , @, @,# P,$ P,$!0@%!00$"
+"551","M!0H'!P8(# H,# L*PL-#A(0#0X1#@L+$!80$1,4%145# \7&!84&!(4%13_
+MVP!# 0,$! 4$!0D%!0D4#0L-%!04%!04%!04%!04%!04%!04%!04%!04%!04
+M%!04%!04%!04%!04%!04%!04%!04%!3_P  1 ! -@# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $ P0%!@<(0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $ P0%!@<(0H+_\0 M1$  @$! 0#! <%! 0  0)W  $
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!2,S4O 58G+1A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#]4Z*** B"
+"552","MDJHFL6,FIR:<M[;MJ$<8E>T$JF54)P&*9R 2.N,4 7**** BBB@ HHHH **
+M** BBB@ HHHH **** BBB@ HHHH **** BDHH 6BBB@ I,XZTM>#?'[QI"
+"553","MK'B?Q1H_P=\'74EKKWBWDN-9U2V)\S1M+Y1IP>TCM\B#()YQZ@ SO%WQ1\5
+M?&[Q9J'@7X3W3Z1H^GS&U\0?$#RE>.T<??MK$-Q+/V+X*IGKN KA=+^%_@KX
+M6?M<?#?1/!&EF_\ %=OH^I7GB36+R\::^EMY1&D3W,IR68OO8!@!P ,9%?3_
+M ('\Z+\+?!.G^'/#>G+::5IEOY5O:P@ M@9)/0%F.23W))KRW]E_P$^O\
+MA-/%OC3QS&I\=^+M3DN[G<4=[6T4[;>V#+G 5 /E#$#@=J /=ESCGK2U0U[7
+M+'PSHM_JVIW4=EIUC ]S<7$IPL<:J69C] *\R_9M^-&J_'GPKK/BBZT%= T7
+M^U9K31XY)?,GN+:,!?.E(^4,S[_E4D#&,G&: /7**** BBN4^)7Q.\._/P
+MRWB'Q1J']FZ2MQ#:F;RFD/F2N$0;5!/4Y)QP 2> : .KHIJMN4'KGTIU 45"
+"554","MX[^T)\:+[P#;Z9X7\'PVNI_$?Q2FEV=T6\FUA4@37MP5!VPQ*2V3@,0%]:X
+M']@FVU_5/ OB?Q?KOB>^\5+X@UB1K*]O'?\ >01$KYJQLQ$8=RYK@!0@ XR"
+"555","M0#ZAHHHH **** BBB@ HHHH *B2YBDDEC25'DB(#JK E1D CMP<U(>AKY'"
+"556","M_: ^'^J?!?2?%OC73OBWXOTO3M8U W,/A32XK5I[_49MBQV\,\B&1=Q0*,'
+M(#V6@#I?VLOC7XHT:ZTSX8?#!/M7Q(\20NR2QY+:;;CCSB<84DG[Q(VJK-V%
+M>AWGC33/V<_@WH<OCC7[C5+JQM;>P>X^>YO-5O2H41PH<O+)(^=J\GD9/!-?
+M.'PZT'5/A+I/@'PGI&H1:]\9?'EW:ZOXL\10WGVO[#ID+K+.?/PW[LJOD(21
+MO9W8'@ = OCJ]^(&K3?$VQ5;W5_$4\OACX7:3<PAEMXU+XU=QR0K;&F+]H8"
+"557","MHUZR8(!]+_#7XA:?\4/-KXATVWO+.WFDF@>UU PSP30RM%+&Z^JR(ZY!(."
+"558","M,@D<T5<\#>#[+P#X1TKP_IYD>VT^!81+,Q:25NK2.3U9F+,3ZL:* +VOZW9^"
+"559","M&M#U#5]0E\BPL+>2ZN)3_!&BEF/X &O%/V2?#=W?>%M6^)^OQ;?%GQ N1JMR"
+"560","M63:T%DN5L;;K]U(<'ZN:Z3]JS0]8\2?LX_$73=!CFGU2?1K@16]NQ$DZA=SQ"
+"561","M+@$EG0,@'?=CO7/_  Z_:6^$NC?!SPC>2>.-#TVSCTFUB6SFOD^TQ%(!F(PY"
+"562","M,F\;-N,DCOD4 >TZUK%GX?TF\U/4)UM;&SA>XGF?[L<:*69C] #7$? OXM3
+M?&GP.WB<Z#<Z!9S7UQ!91W3AFN;='VI<#@8#@9QVP1DUX+\8/$WCG]J[2](\
+M)>!O#>KZ)\-M<NA'J7BS48&M)9K9,.7BC9ED2,X!5B-SL ,*N6.WJ'[-I^'/
+MPWU63Q;\7_'>M>!]!T^28:+8W$6GJ+6%&8Q-);HLTGR@+]\9QSR<T )^TYKE
+M[\;/&VA? CPE=P%KTC5?%M\'5ET_3X9$*PL.C22N1B/T3GY237O6AMX5^'%M
+MX<\%6E[8Z5(UN;?2M+FN56>X2%07,:D[I!\S$9ZY/6OBWX_!CXF^ =3T+X
+MHZ5X&TC68]8MKR\@\,VM^FG_ -F>>J?9R7D4E@8<J1DL-Q+ L21W'@_X _&G
+MQ=\9M4^(/C76M+\)ZA/;+;VDFGR#4FTZ(J08K1)%6.-U#.#,ZN<R284[L@ ^
+MP9)5B4%F@D 9/4GH*?7YX?#NW\7:;\2YO&VN^$/B7XF^'EAJ]_<:'8B:6]O"
+"563","M)[R+9 MU<0O(&PX21E!VIN/RJ!U^VOAC\0M2^(EG?7MYX*U[P=:12.V7QL"
+"564","M,5Q==0[B%'=D4$#&_!;.<8H Y3]J#QUKOP]\ Z9JFD7TFC:>VN6-MKFMPVZS"
+"565","MR:7ILDFV:Y575E^4[ 692%5F8CBOGWQ1K_B#XG_&GX>?W7-2MO&WAC3]93Q
+M>GBV 6X@U#3HH'D@6<1?NMZ3!T+( & C;:N2:^WYH4N(7BD19(W!5D89# \$
+M$=Q7S3JO[%O@_5/CQ'XA?PAX;7P.VD-;W.C);!8Y[MI&;S6@[0I #YX&X8
+MY)H ]4\1?';PKI.H'1M*O1XJ\3MQ%H>@XN[@MD#]X4RL*C.2\I4 <UK>./B)
+M:?#'X:ZAXL\4F*SCTVR^T7<=O(74R[1^ZC8@%BSD(O ))'%;'AGPCH?@O3$T
+M[P_I%CHFGJ<BUT^V2//KM4 9]Z\A_:VT35=4\+^#;VQ\-:GXOTS1O$]GJFK"
+"566","MZ-IQR7-Q:Q+(<+Y EQ(8CL!!XR.E %K]GWX::C'_:_Q&\;I'<>._%R+)/&"
+"567","M8R$TRPQFPC5B2H5<&3^\Y)/05!\/_VHO OBCXM:]\.M%DL;6VT.)HX[X3I#
+M!//&X6:*,A<[WWE)!VO_=R>:USQ%\=_CAHNLZ?X=\+P_'1Y+>2.+5/$-R"
+"568","M)M4NV*?*L4,0(ME;.#*Y9U[)GD-^!_[#_@?P+X&DL?%V@Z-XFUJ_F6ZOUH#
+M;VS!-HAM\_,(Q\Q.3\[,S$#.  >KM^T)\,UUJXTD^/?#QO[>)YIXUU&(B%4Q
+MNWL&VJ1D?*3GVKK--\5:1K&K:AIECJ-M>7^GK$UW;PR!G@$BEH]X'3<H)'MS
+M7Q)XF_8N\6?$34)]9U+PWX:T26]U5=,L]#@\H6>A:(BRYFQIMGG=MIXP/,
+M;)&<IF^']%^)_PRSH\_@32-*T*'7?%>MS)::M:W;WNKZYNR%FCC8*DP1%-
+MTL[$#& O(- 'VAJ'QD\%:7XVTSP?<^)+!?$VI.\=MIB2;Y2R+N8,%R$..@;&
+M>V:VM:\8:+X>U32=-U'4K>TU#5IC!86LCCS+EPI8A%ZG !)/0=Z^O _P7^,"
+"569","MG@&&V\31?#BW?4/\UYJTL>K:VUY<Z[J;H8_M(2$,9J%Q%&2N[,69F)KL/
+MAU\ ?CK-\6+#XL:Y-X9E\47UC<6I;77G=]$CD88\J([6(13B+>H'FD,Y(S0"
+"570","M!]@ZMXX\/Z#K5AI&I:U86&JWZN]K97%PB33*BEG95)R0 I)/3BMN.19$5T8,"
+"571","MK#(93D$>M?7Q6_9.^)'B#Q\VN?V;;>.-.T^XMS/'J&K_8KWQ&&4/<-)(HV0
+MPACY2V^-JQJ-HR6)ZWXB:7^T3\0O$GA*YN]&\-_#KP7I)_M.\3^W#<Q6DL(W
+M))=+&L9N$CVEEA1EC)*F0D*10!]=_;(/MGV3SH_M7E^;Y.\;]F<;MO7&>,U/
+M7QA^RUXP\->&[CQ1\4?'?C)K:^\6WK6NB7/BJ\CBOKS386VI<>1A?*25U9EC
+M50J*J^N:^J?GQ$T'QOJ6OZ?HUZ+NYT.Z6SOE5&QR-&LB@,1A@58<C(H S]
+M<^+6@Z+X\TWP=YSW>OWEM+?2P6ZAEL+6,9:YNFR!%&3A5)Y9C@ X)'R!HOQZ
+ME^(GQ$\0>.?%UC_;^G^$=)2X\Z'I^G/%%KCW5R]K_:4<4CM(P+A858Y4(Y?"
+"572","M +8'N?BS]DU?%WQ2\0^()_%]Y:>&/$8MFUG0+6V59KQH  D9NBQ9(#M!:-%!"
+"573","M; &[ Q5'7K!/#_[;OPVMM-C%EI\G@K4;5[>%@J;8IHCH7/1=S]!Z9Z4 ? O
+MB31[KP7-X@M/#T6MZ1K6APWW_5#PQ'/'91Y/F&RQ^7%#:0;]H,LFZ0[BJD
+M8)_1#]F#X!M\,?#NEZOK>I#6?$/]DPZ;9M&3]FTW3P0ZVT (&=S'>\F 7(48
+MH@'HOQ>\ )\1OA/XS\)Q;;>37=+NK-9%^7$LD157)]CM_*N;_9C^)T?Q2^#"
+"574","MNA7EQ&]GX@TZ%=*US39T\J:RU .:-XSROS*6'JK*1D4 =3\-_BUX3^+EGJ"
+"575","M]UX2UB+6+?2=1FTJ\>-'41W,1 =/F R!D889![$T5NZ'X8TCPRMVND:79Z6M"
+"576","MW.UU<+9VZ0B:9L;I&@98X&2>310!IUQ,/P1^'EKKTFMP^!/#<6L2/YCWZ:3
+M )V;(.XOLR3D YSVKMJ* $'%))&LB%'4.K#!5AD&G44 (%]!B@@-UI:* $I"
+"577","M:** BBB@ HHHH **** ,_Q#KMEX7T'4M9U*<6VG:=;27=S,PR(XHU+NWX*"
+"578","M:^>OV5]#OOBEJNH_'?Q73JOB*(VWAVTF /]F:0'9HU09PK2YRY&-VU2>M?2
+M4T,=Q\4J++%(I5T<95@1@@CN*2&&.VA2*&-8HD4*J(HJ!P  .@H DHHHH
+M2OD7X[?&IOC=X@TKX/\ @,M<:?XAU&33=5\11_-#Y$'S7BP;3\X3:8VD)[\"
+"579","MH-^' ^E/B=X=O_&'PX\4:'I=XVGZEJ6F7-I;72MM,<CQLJMG!QR1S@XKQ']D"
+"580","MO]G36OAH6\2>,[6PLO$4>FPZ#INE:9,9K33-/AYQL0/FD?,C>['GG  .]A_
+M9F\:3\/]?\ #&A:+;:.VLZ=)I\^K+)KTAHO+#&63+,5&, G QP!6M\#_@O
+MH_P*\$KX>TFYNM0>6=KN]U&^*^?=W# !G;: H&%50H& J@>]>A44 %?/GQ;T
+MV32_VMO@9XA+DV=Y#K&B2!L*B2M:F>([NI9A%* O?&>PKZ#IDD,<K(7C5S&V
+MYP!VG!&1Z'!/YT /KAI/A#HL/Q+B\=:6TVB:]+']GU-K$A8M7AD(MRA!#L
+MAP5D&'7&W=M)4]S10 4444 %%%% !1110 4444 %%%% !1110 4444 %%%%
+?!1110 4444 %%%% !1110 4444 %%%% !1110!__V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INTERNAL CONTROL RPT
+<SEQUENCE>3
+<FILENAME>fp0037498_g1aiii.htm
+<DESCRIPTION>INTERNAL CONTROL REPORT
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE=font: 11pt Times New Roman, Times, Serif>
+
+<P STYLE=margin: 0></P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center><B><U>REPORT OF INDEPENDENT REGISTERED PUBLIC
+ACCOUNTING FIRM</U></B></P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>To the Shareholders and Board of Trustees of</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>Centre Funds</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>In planning and performing our audit of the
+financial statements of Centre Funds, comprising Centre American Select Equity Fund, Centre Active U.S. Treasury Fund, and Centre
+Global Infrastructure Fund (the &ldquo;Funds&rdquo;), as of and for the year or period ended September 30, 2018, in accordance
+with the standards of the Public Company Accounting Oversight Board (United States), we considered the Funds&rsquo; internal control
+over financial reporting, including controls over safeguarding securities, as a basis for designing our auditing procedures for
+the purpose of expressing our opinion on the financial statements and to comply with the requirements of Form N-CEN, but not for
+the purpose of expressing an opinion on the effectiveness of the Funds&rsquo; internal control over financial reporting. Accordingly,
+we express no such opinion.</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>The management of the Funds is responsible
+for establishing and maintaining effective internal control over financial reporting. In fulfilling this responsibility, estimates
+and judgments by management are required to assess the expected benefits and related costs of controls. A fund&rsquo;s internal
+control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles (GAAP).
+A fund&rsquo;s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance
+of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the fund;
+(2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance
+with GAAP, and that receipts and expenditures of the fund are being made only in accordance with authorizations of management and
+trustees of the fund; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition,
+use or disposition of a fund&rsquo;s assets that could have a material effect on the financial statements.</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>Because of its inherent limitations, internal
+control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness
+to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree
+of compliance with the policies or procedures may deteriorate.</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>A deficiency in internal control over financial
+reporting exists when the design or operation of a control does not allow management or employees, in the normal course of performing
+their assigned functions, to prevent or detect misstatements on a timely basis. A material weakness is a deficiency, or combination
+of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement
+of the Funds&rsquo; annual or interim financial statements will not be prevented or detected on a timely basis.</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>Our consideration of the Funds&rsquo; internal
+control over financial reporting was for the limited purpose described in the first paragraph and would not necessarily disclose
+all deficiencies in internal control that might be material weaknesses under standards established by the Public Company Accounting
+Oversight Board (United States). However, we noted no deficiencies in the Funds&rsquo; internal control over financial reporting
+and its operation, including controls over safeguarding securities, that we consider to be a material weakness as defined above
+as of September 30, 2018.</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>This report is intended solely for the information
+and use of management and the Board of Trustees of the Funds and the Securities and Exchange Commission and is not intended to
+be and should not be used by anyone other than these specified parties.</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify><IMG SRC=fp0037498_01.jpg ALT="">&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>COHEN &amp; COMPANY, LTD.</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>Cleveland, Ohio</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>November 21, 2018</P>
+
+
+
+<P STYLE=margin: 0></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>OTHER REQUIRED INFO
+<SEQUENCE>4
+<FILENAME>fp0037498_g1avi.htm
+<DESCRIPTION>MERGERS
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE=font: 11pt Times New Roman, Times, Serif>
+
+<P STYLE=margin: 0></P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0 0 9pt>CENTRE FUNDS &ndash; N-CEN for Period Ended September 30,
+2018</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0 0 9pt>Item G.1.a.vi, Mergers</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>Form of Agreement and Plan of Reorganization
+of the Centre Active U.S. Tax Exempt Fund (the &ldquo;Target Fund&rdquo;), a series of Centre Funds (the &ldquo;Trust&rdquo;),
+into the Centre Global Infrastructure Fund (the &ldquo;Acquiring Fund&rdquo;), another series of the Trust, is incorporated herein
+by reference to Registrant&rsquo;s Registration Statement on Form N-14/A, filed on June 7, 2018, accession number: 0000919574-18-004390.</P>
+
+
+
+<P STYLE=margin: 0></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+"

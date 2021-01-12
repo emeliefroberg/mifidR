@@ -1,0 +1,750 @@
+"","V1"
+"1","<SEC-DOCUMENT>0001145549-20-020729.txt : 20200416"
+"2","<SEC-HEADER>0001145549-20-020729.hdr.sgml : 20200416"
+"3","<ACCEPTANCE-DATETIME>20200416095415"
+"4","ACCESSION NUMBER:		0001145549-20-020729"
+"5","CONFORMED SUBMISSION TYPE:	N-CEN/A"
+"6","PUBLIC DOCUMENT COUNT:		4"
+"7","CONFORMED PERIOD OF REPORT:	20191231"
+"8","FILED AS OF DATE:		20200416"
+"9","DATE AS OF CHANGE:		20200416"
+"10","EFFECTIVENESS DATE:		20200416"
+"11","FILER:"
+"12","	COMPANY DATA:	"
+"13","		COMPANY CONFORMED NAME:			WILSHIRE VARIABLE INSURANCE TRUST"
+"14","		CENTRAL INDEX KEY:			0001026708"
+"15","		IRS NUMBER:				000000000"
+"16","		STATE OF INCORPORATION:			DE"
+"17","		FISCAL YEAR END:			1231"
+"18","	FILING VALUES:"
+"19","		FORM TYPE:		N-CEN/A"
+"20","		SEC ACT:		1940 Act"
+"21","		SEC FILE NUMBER:	811-07917"
+"22","		FILM NUMBER:		20795374"
+"23","	BUSINESS ADDRESS:	"
+"24","		STREET 1:		1299 OCEAN AVENUE"
+"25","		STREET 2:		SUITE 700"
+"26","		CITY:			SANTA MONICA"
+"27","		STATE:			CA"
+"28","		ZIP:			90401"
+"29","		BUSINESS PHONE:		6106763419"
+"30","	MAIL ADDRESS:	"
+"31","		STREET 1:		1299 OCEAN AVENUE"
+"32","		STREET 2:		SUITE 700"
+"33","		CITY:			SANTA MONICA"
+"34","		STATE:			CA"
+"35","		ZIP:			90401"
+"36","	FORMER COMPANY:	"
+"37","		FORMER CONFORMED NAME:	HORACE MANN MUTUAL FUNDS"
+"38","		DATE OF NAME CHANGE:	19961108"
+"39","<SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"40","<EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"41","<SERIES>"
+"42","<OWNER-CIK>0001026708"
+"43","<SERIES-ID>S000001038"
+"44","<SERIES-NAME>Wilshire Global Allocation Fund"
+"45","<CLASS-CONTRACT>"
+"46","<CLASS-CONTRACT-ID>C000002798"
+"47","<CLASS-CONTRACT-NAME>Wilshire Global Allocation Fund"
+"48","</CLASS-CONTRACT>"
+"49","</SERIES>"
+"50","</EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"51","</SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"52","</SEC-HEADER>"
+"53","<DOCUMENT>"
+"54","<TYPE>N-CEN/A"
+"55","<SEQUENCE>1"
+"56","<FILENAME>primary_doc.xml"
+"57","<TEXT>"
+"58","<XML>"
+"59","<?xml version=1.0 encoding=UTF-8?>"
+"60","<edgarSubmission xmlns:com=http://www.sec.gov/edgar/common xmlns=http://www.sec.gov/edgar/ncen>"
+"61","  <schemaVersion>X0201</schemaVersion>"
+"62","  <headerData>"
+"63","    <submissionType>N-CEN/A</submissionType>"
+"64","    <accessionNumber>0001145549-20-014899</accessionNumber>"
+"65","    <filerInfo>"
+"66","      <liveTestFlag>LIVE</liveTestFlag>"
+"67","      <filer>"
+"68","        <issuerCredentials>"
+"69","          <cik>0001026708</cik>"
+"70","          <ccc>XXXXXXXX</ccc>"
+"71","        </issuerCredentials>"
+"72","      </filer>"
+"73","      <flags>"
+"74","        <returnCopyFlag>true</returnCopyFlag>"
+"75","        <overrideInternetFlag>false</overrideInternetFlag>"
+"76","        <confirmingCopyFlag>false</confirmingCopyFlag>"
+"77","      </flags>"
+"78","      <investmentCompanyType>N-1A</investmentCompanyType>"
+"79","    </filerInfo>"
+"80","    <seriesClass>"
+"81","      <reportSeriesClass>"
+"82","        <rptSeriesClassInfo>"
+"83","          <seriesId>S000001038</seriesId>"
+"84","          <includeAllClassesFlag>true</includeAllClassesFlag>"
+"85","        </rptSeriesClassInfo>"
+"86","      </reportSeriesClass>"
+"87","    </seriesClass>"
+"88","  </headerData>"
+"89","  <formData>"
+"90","    <generalInfo reportEndingPeriod=2019-12-31 isReportPeriodLt12=N/>"
+"91","    <registrantInfo>"
+"92","      <registrantFullName>Wilshire Variable Insurance Trust</registrantFullName>"
+"93","      <investmentCompFileNo>811-07917</investmentCompFileNo>"
+"94","      <registrantCik>0001026708</registrantCik>"
+"95","      <registrantLei>549300J6DGJY7A7OPM39</registrantLei>"
+"96","      <registrantstreet1>1299 Ocean Avenue</registrantstreet1>"
+"97","      <registrantstreet2>Suite 700</registrantstreet2>"
+"98","      <registrantcity>Santa Monica</registrantcity>"
+"99","      <registrantzipCode>90401</registrantzipCode>"
+"100","      <registrantstate>US-CA</registrantstate>"
+"101","      <registrantcountry>US</registrantcountry>"
+"102","      <registrantphoneNumber>8665911568</registrantphoneNumber>"
+"103","      <websites>"
+"104","        <website webpage=http://advisor.wilshire.com/VITDocuments.aspx/>"
+"105","      </websites>"
+"106","      <locationBooksRecords>"
+"107","        <locationBooksRecord>"
+"108","          <officeName>Wilshire Associates Incorporated</officeName>"
+"109","          <officeAddress1>1299 Ocean Avenue</officeAddress1>"
+"110","          <officeCity>Santa Monica</officeCity>"
+"111","          <officeStateCountry officeState=US-CA officeCountry=US/>"
+"112","          <officeRecordsZipCode>90401</officeRecordsZipCode>"
+"113","          <officePhone>3104513051</officePhone>"
+"114","          <booksRecordsDesc>Records relating to its function as investment adviser.</booksRecordsDesc>"
+"115","        </locationBooksRecord>"
+"116","        <locationBooksRecord>"
+"117","          <officeName>Compass Distributors, LLC</officeName>"
+"118","          <officeAddress1>Three Canal Plaza</officeAddress1>"
+"119","          <officeAddress2>3rd Floor</officeAddress2>"
+"120","          <officeCity>Portland</officeCity>"
+"121","          <officeStateCountry officeState=US-ME officeCountry=US/>"
+"122","          <officeRecordsZipCode>04101</officeRecordsZipCode>"
+"123","          <officePhone>2075537111</officePhone>"
+"124","          <booksRecordsDesc>Records relating to its functions as distributor.</booksRecordsDesc>"
+"125","        </locationBooksRecord>"
+"126","        <locationBooksRecord>"
+"127","          <officeName>U.S. Bank, National Association Custody Operations</officeName>"
+"128","          <officeAddress1>1555 North Rivercenter Drive</officeAddress1>"
+"129","          <officeAddress2>Suite 302</officeAddress2>"
+"130","          <officeCity>Milwaukee</officeCity>"
+"131","          <officeStateCountry officeState=US-WI officeCountry=US/>"
+"132","          <officeRecordsZipCode>53212</officeRecordsZipCode>"
+"133","          <officePhone>18336121912</officePhone>"
+"134","          <booksRecordsDesc>Records relating to its function as custodian.</booksRecordsDesc>"
+"135","        </locationBooksRecord>"
+"136","        <locationBooksRecord>"
+"137","          <officeName>U.S. Bancorp Fund Services, LLC</officeName>"
+"138","          <officeAddress1>615 East Michigan Street</officeAddress1>"
+"139","          <officeAddress2>Suite 302</officeAddress2>"
+"140","          <officeCity>Milwaukee</officeCity>"
+"141","          <officeStateCountry officeState=US-WI officeCountry=US/>"
+"142","          <officeRecordsZipCode>53202</officeRecordsZipCode>"
+"143","          <officePhone>18336121912</officePhone>"
+"144","          <booksRecordsDesc>Records relating to its function as fund accountant and administrator.</booksRecordsDesc>"
+"145","        </locationBooksRecord>"
+"146","        <locationBooksRecord>"
+"147","          <officeName>Vedder Price</officeName>"
+"148","          <officeAddress1>222 North LaSalle Street</officeAddress1>"
+"149","          <officeCity>Chicago</officeCity>"
+"150","          <officeStateCountry officeState=US-IL officeCountry=US/>"
+"151","          <officeRecordsZipCode>60601</officeRecordsZipCode>"
+"152","          <officePhone>3126097500</officePhone>"
+"153","          <booksRecordsDesc>Records relating to its function as independent external legal counsel.</booksRecordsDesc>"
+"154","        </locationBooksRecord>"
+"155","        <locationBooksRecord>"
+"156","          <officeName>Cohen &amp; Company Ltd.</officeName>"
+"157","          <officeAddress1>1350 Euclid Ave</officeAddress1>"
+"158","          <officeAddress2>Suite 800</officeAddress2>"
+"159","          <officeCity>Cleveland</officeCity>"
+"160","          <officeStateCountry officeState=US-OH officeCountry=US/>"
+"161","          <officeRecordsZipCode>44115</officeRecordsZipCode>"
+"162","          <officePhone>2165791040</officePhone>"
+"163","          <booksRecordsDesc>Records relating to its function as independent public accounting firm.</booksRecordsDesc>"
+"164","        </locationBooksRecord>"
+"165","        <locationBooksRecord>"
+"166","          <officeName>DST Systems, Inc.</officeName>"
+"167","          <officeAddress1>333 W. 11th Street</officeAddress1>"
+"168","          <officeCity>Kansas City</officeCity>"
+"169","          <officeStateCountry officeState=US-MO officeCountry=US/>"
+"170","          <officeRecordsZipCode>64105</officeRecordsZipCode>"
+"171","          <officePhone>8164351000</officePhone>"
+"172","          <booksRecordsDesc>Records relating to its functions as transfer agent.</booksRecordsDesc>"
+"173","        </locationBooksRecord>"
+"174","      </locationBooksRecords>"
+"175","      <isRegistrantFirstFiling>N</isRegistrantFirstFiling>"
+"176","      <isRegistrantLastFiling>N</isRegistrantLastFiling>"
+"177","      <registrantFamilyInvComp isRegistrantFamilyInvComp=Y familyInvCompFullName=Wilshire Mutual Funds/>"
+"178","      <registrantClassificationType>N-1A</registrantClassificationType>"
+"179","      <totalSeries>1</totalSeries>"
+"180","      <isSecuritiesActRegistration>Y</isSecuritiesActRegistration>"
+"181","      <directors>"
+"182","        <director>"
+"183","          <directorName>Edward Gubman</directorName>"
+"184","          <crdNumber>N/A</crdNumber>"
+"185","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"186","          <fileNumbers>"
+"187","            <fileNumberInfo fileNumber=811-07917/>"
+"188","          </fileNumbers>"
+"189","        </director>"
+"190","        <director>"
+"191","          <directorName>George J. Zock</directorName>"
+"192","          <crdNumber>N/A</crdNumber>"
+"193","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"194","          <fileNumbers>"
+"195","            <fileNumberInfo fileNumber=811-07917/>"
+"196","          </fileNumbers>"
+"197","        </director>"
+"198","        <director>"
+"199","          <directorName>Jason Schwarz</directorName>"
+"200","          <crdNumber>N/A</crdNumber>"
+"201","          <isDirectorInterestedPerson>Y</isDirectorInterestedPerson>"
+"202","          <fileNumbers>"
+"203","            <fileNumberInfo fileNumber=811-07917/>"
+"204","          </fileNumbers>"
+"205","        </director>"
+"206","        <director>"
+"207","          <directorName>Roger A. Formisano</directorName>"
+"208","          <crdNumber>N/A</crdNumber>"
+"209","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"210","          <fileNumbers>"
+"211","            <fileNumberInfo fileNumber=811-07917/>"
+"212","          </fileNumbers>"
+"213","        </director>"
+"214","        <director>"
+"215","          <directorName>Suanne K. Luhn</directorName>"
+"216","          <crdNumber>N/A</crdNumber>"
+"217","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"218","          <fileNumbers>"
+"219","            <fileNumberInfo fileNumber=811-07917/>"
+"220","          </fileNumbers>"
+"221","        </director>"
+"222","        <director>"
+"223","          <directorName>Elizabeth Ann Levy-Navarro</directorName>"
+"224","          <crdNumber>N/A</crdNumber>"
+"225","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"226","          <fileNumbers>"
+"227","            <fileNumberInfo fileNumber=811-07917/>"
+"228","          </fileNumbers>"
+"229","        </director>"
+"230","      </directors>"
+"231","      <chiefComplianceOfficers>"
+"232","        <chiefComplianceOfficer>"
+"233","          <ccoName>Benkai Bouey</ccoName>"
+"234","          <crdNumber>002288174</crdNumber>"
+"235","          <ccoStreet1>1299 Ocean Avenue</ccoStreet1>"
+"236","          <ccoStreet2>Suite 700</ccoStreet2>"
+"237","          <ccoCity>Santa Monica</ccoCity>"
+"238","          <ccoStateCountry ccoState=US-CA ccoCountry=US/>"
+"239","          <ccoZipCode>90401</ccoZipCode>"
+"240","          <ccoPhone>XXXXXX</ccoPhone>"
+"241","          <isCcoChangedSinceLastFiling>N</isCcoChangedSinceLastFiling>"
+"242","          <ccoEmployers>"
+"243","            <ccoEmployer ccoEmployerName=Wilshire Associates Incorporated ccoEmployerId=23-1206684/>"
+"244","          </ccoEmployers>"
+"245","        </chiefComplianceOfficer>"
+"246","      </chiefComplianceOfficers>"
+"247","      <isRegistrantSubmittedMatter>N</isRegistrantSubmittedMatter>"
+"248","      <isPreviousLegalProceeding>N</isPreviousLegalProceeding>"
+"249","      <isPreviousProceedingTerminated>N</isPreviousProceedingTerminated>"
+"250","      <isClaimFiled>N</isClaimFiled>"
+"251","      <coveredByInsurancePolicy isCoveredByInsurancePolicy=Y isClaimFiledDuringPeriod=N/>"
+"252","      <isFinancialSupportDuringPeriod>N</isFinancialSupportDuringPeriod>"
+"253","      <isExemptionFromAct>N</isExemptionFromAct>"
+"254","      <principalUnderwriters>"
+"255","        <principalUnderwriter>"
+"256","          <principalUnderwriterName>Compass Distributors, LLC</principalUnderwriterName>"
+"257","          <principalUnderwriterFileNumber>8-69518</principalUnderwriterFileNumber>"
+"258","          <principalUnderwriterCrdNumber>000172662</principalUnderwriterCrdNumber>"
+"259","          <principalUnderwriterLei>N/A</principalUnderwriterLei>"
+"260","          <principalUnderWriterStateCountry principalUnderWriterState=US-ME principalUnderWriterCountry=US/>"
+"261","          <isPrincipalUnderwriterAffiliatedWithRegistrant>N</isPrincipalUnderwriterAffiliatedWithRegistrant>"
+"262","        </principalUnderwriter>"
+"263","      </principalUnderwriters>"
+"264","      <isUnderwriterHiredOrTerminated>Y</isUnderwriterHiredOrTerminated>"
+"265","      <publicAccountants>"
+"266","        <publicAccountant>"
+"267","          <publicAccountantName>Cohen and Company, Ltd.</publicAccountantName>"
+"268","          <pcaobNumber>925</pcaobNumber>"
+"269","          <publicAccountantLei>N/A</publicAccountantLei>"
+"270","          <publicAccountantStateCountry publicAccountantState=US-OH publicAccountantCountry=US/>"
+"271","        </publicAccountant>"
+"272","      </publicAccountants>"
+"273","      <isPublicAccountantChanged>N</isPublicAccountantChanged>"
+"274","      <isMaterialWeakness>N</isMaterialWeakness>"
+"275","      <isOpinionOffered>N</isOpinionOffered>"
+"276","      <valuationMethodsChanges isMaterialChange=Y>"
+"277","        <valuationMethodsChange>"
+"278","          <dateOfChange>2019-11-25</dateOfChange>"
+"279","          <changeExplanation>Exchange-traded options will be valued at most recent mid price rather than most recent sale price.</changeExplanation>"
+"280","          <assetType>Derivative-equity</assetType>"
+"281","          <investmentType>Exchange-traded options</investmentType>"
+"282","          <statutoryRegulatoryBasis>N/A</statutoryRegulatoryBasis>"
+"283","        </valuationMethodsChange>"
+"284","      </valuationMethodsChanges>"
+"285","      <isAccountingPrincipleChange>N</isAccountingPrincipleChange>"
+"286","      <isPaymentErrorInNetAssetValue>N</isPaymentErrorInNetAssetValue>"
+"287","      <isPaymentDividend>N</isPaymentDividend>"
+"288","    </registrantInfo>"
+"289","    <managementInvestmentQuestionSeriesInfo>"
+"290","      <managementInvestmentQuestion>"
+"291","        <mgmtInvFundName>Wilshire Global Allocation Fund</mgmtInvFundName>"
+"292","        <mgmtInvSeriesId>S000001038</mgmtInvSeriesId>"
+"293","        <mgmtInvLei>549300IZPTFT3FEPNY12</mgmtInvLei>"
+"294","        <isFirstFilingByFund>N</isFirstFilingByFund>"
+"295","        <numAuthorizedClass>0</numAuthorizedClass>"
+"296","        <numAddedClass>0</numAddedClass>"
+"297","        <numTerminatedClass>0</numTerminatedClass>"
+"298","        <sharesOutstandings>"
+"299","          <sharesOutstanding sharesOutstandingClassName=Wilshire Global Allocation Fund sharesOutstandingClassId=C000002798 sharesOutstandingTickerSymbol=N/A/>"
+"300","        </sharesOutstandings>"
+"301","        <fundTypes>"
+"302","          <fundType>Fund of Funds</fundType>"
+"303","          <fundType>Underlying fund</fundType>"
+"304","        </fundTypes>"
+"305","        <isNonDiversifiedCompany>N</isNonDiversifiedCompany>"
+"306","        <isForeignSubsidiary>N</isForeignSubsidiary>"
+"307","        <isFundSecuritiesLending>Y</isFundSecuritiesLending>"
+"308","        <didFundLendSecurities>N</didFundLendSecurities>"
+"309","        <securityLendings>"
+"310","          <securityLending>"
+"311","            <securitiesAgentName>U.S. Bank, N.A.</securitiesAgentName>"
+"312","            <securitiesAgentLei>6BYL5QZYBDK8S7L73M02</securitiesAgentLei>"
+"313","            <isSecuritiesAgentAffiliated>N</isSecuritiesAgentAffiliated>"
+"314","            <securityAgentIdemnity isSecurityAgentIdemnity=Y>"
+"315","              <idemnityProviders>"
+"316","                <idemnityProvider idemnityProviderName=N/A idemnityProviderLei=N/A/>"
+"317","              </idemnityProviders>"
+"318","              <didIndemnificationRights>N</didIndemnificationRights>"
+"319","            </securityAgentIdemnity>"
+"320","          </securityLending>"
+"321","        </securityLendings>"
+"322","        <collateralManagers>"
+"323","          <collateralManager collateralManagerName=U.S. Bancorp Asset Management, Inc. collateralManagerLei=8KUMV9EIJ75IBFMLFD23 isCollateralManagerAffliliated=N isCollateralManagerAffliliatedWithFund=N/>"
+"324","        </collateralManagers>"
+"325","        <paymentToAgentManagerType>N/A</paymentToAgentManagerType>"
+"326","        <avgPortfolioSecuritiesValue>N/A</avgPortfolioSecuritiesValue>"
+"327","        <netIncomeSecuritiesLending>N/A</netIncomeSecuritiesLending>"
+"328","        <relyOnRuleTypes>"
+"329","          <relyOnRuleType>Rule 32a-4 (17 CFR 270.32a-4)</relyOnRuleType>"
+"330","        </relyOnRuleTypes>"
+"331","        <isExpenseLimitationInPlace>Y</isExpenseLimitationInPlace>"
+"332","        <isExpenseReducedOrWaived>N</isExpenseReducedOrWaived>"
+"333","        <isFeesWaivedRecoupable>Y</isFeesWaivedRecoupable>"
+"334","        <isExpenseWaivedRecoupable>N</isExpenseWaivedRecoupable>"
+"335","        <investmentAdvisers>"
+"336","          <investmentAdviser>"
+"337","            <investmentAdviserName>Wilshire Associates Incorporated</investmentAdviserName>"
+"338","            <investmentAdviserFileNo>008-23852</investmentAdviserFileNo>"
+"339","            <investmentAdviserCrdNo>000006210</investmentAdviserCrdNo>"
+"340","            <investmentAdviserLei>5493006KQ33M42BQX139</investmentAdviserLei>"
+"341","            <investmentAdviserStateCountry investmentAdviserState=US-CA investmentAdviserCountry=US/>"
+"342","            <isInvestmentAdviserHired>N</isInvestmentAdviserHired>"
+"343","          </investmentAdviser>"
+"344","        </investmentAdvisers>"
+"345","        <transferAgents>"
+"346","          <transferAgent>"
+"347","            <transferAgentName>DST Systems, Inc.</transferAgentName>"
+"348","            <transferAgentFileNo>84-00448</transferAgentFileNo>"
+"349","            <transferAgentLei>21B7QCD05XOK0YTYOP98</transferAgentLei>"
+"350","            <transferAgentStateCountry transferAgentState=US-MO transferAgentCountry=US/>"
+"351","            <isTransferAgentAffiliated>N</isTransferAgentAffiliated>"
+"352","            <isTransferAgentSubAgent>N</isTransferAgentSubAgent>"
+"353","          </transferAgent>"
+"354","        </transferAgents>"
+"355","        <isTransferAgentHiredOrTerminated>N</isTransferAgentHiredOrTerminated>"
+"356","        <pricingServices>"
+"357","          <pricingService>"
+"358","            <pricingServiceName>Refinitiv Global Markets Inc.</pricingServiceName>"
+"359","            <pricingServiceLei>801-55328</pricingServiceLei>"
+"360","            <pricingServiceIdNumberDesc>SEC File No.</pricingServiceIdNumberDesc>"
+"361","            <pricingServiceStateCountry pricingServiceState=US-MA pricingServiceCountry=US/>"
+"362","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"363","          </pricingService>"
+"364","          <pricingService>"
+"365","            <pricingServiceName>ICE Data Pricing and Reference Data, LLC</pricingServiceName>"
+"366","            <pricingServiceLei>5493000NQ9LYLDBCTL34</pricingServiceLei>"
+"367","            <pricingServiceStateCountry pricingServiceState=US-NY pricingServiceCountry=US/>"
+"368","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"369","          </pricingService>"
+"370","          <pricingService>"
+"371","            <pricingServiceName>IHS Markit Ltd.</pricingServiceName>"
+"372","            <pricingServiceLei>549300HLPTRASHS0E726</pricingServiceLei>"
+"373","            <pricingServiceCountry>BM</pricingServiceCountry>"
+"374","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"375","          </pricingService>"
+"376","          <pricingService>"
+"377","            <pricingServiceName>Bloomberg Finance LP</pricingServiceName>"
+"378","            <pricingServiceLei>5493001KJTIIGC8Y1R12</pricingServiceLei>"
+"379","            <pricingServiceStateCountry pricingServiceState=US-NY pricingServiceCountry=US/>"
+"380","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"381","          </pricingService>"
+"382","          <pricingService>"
+"383","            <pricingServiceName>PricingDirect Inc.</pricingServiceName>"
+"384","            <pricingServiceLei>549300WIC0TOJ7N7GD54</pricingServiceLei>"
+"385","            <pricingServiceStateCountry pricingServiceState=US-DE pricingServiceCountry=US/>"
+"386","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"387","          </pricingService>"
+"388","        </pricingServices>"
+"389","        <isPricingServiceHiredOrTerminated>N</isPricingServiceHiredOrTerminated>"
+"390","        <custodians>"
+"391","          <custodian>"
+"392","            <custodianName>The Northern Trust Company</custodianName>"
+"393","            <custodianLei>6PTKHDJ8HDUF78PFWH30</custodianLei>"
+"394","            <custodianStateCountry custodianState=US-IL custodianCountry=US/>"
+"395","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"396","            <isSubCustodian>N</isSubCustodian>"
+"397","            <custodyType>Bank - section 17(f)(1) (15 U.S.C. 80a-17(f)(1))</custodyType>"
+"398","          </custodian>"
+"399","          <custodian>"
+"400","            <custodianName>U.S. Bank N.A.</custodianName>"
+"401","            <custodianLei>6BYL5QZYBDK8S7L73M02</custodianLei>"
+"402","            <custodianStateCountry custodianState=US-WI custodianCountry=US/>"
+"403","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"404","            <isSubCustodian>N</isSubCustodian>"
+"405","            <custodyType>Bank - section 17(f)(1) (15 U.S.C. 80a-17(f)(1))</custodyType>"
+"406","          </custodian>"
+"407","          <custodian>"
+"408","            <custodianName>The Bank of New York Mellon</custodianName>"
+"409","            <custodianLei>HPFHU0OQ28E4N0NFVK49</custodianLei>"
+"410","            <custodianStateCountry custodianState=US-NY custodianCountry=US/>"
+"411","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"412","            <isSubCustodian>Y</isSubCustodian>"
+"413","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"414","          </custodian>"
+"415","          <custodian>"
+"416","            <custodianName>Royal Bank of Canada</custodianName>"
+"417","            <custodianLei>ES7IP3U3RHIGC71XBU11</custodianLei>"
+"418","            <custodianCountry>CA</custodianCountry>"
+"419","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"420","            <isSubCustodian>Y</isSubCustodian>"
+"421","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"422","          </custodian>"
+"423","          <custodian>"
+"424","            <custodianName>Euroclear Bank S.A. / NV</custodianName>"
+"425","            <custodianLei>549300OZ46BRLZ8Y6F65</custodianLei>"
+"426","            <custodianCountry>BE</custodianCountry>"
+"427","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"428","            <isSubCustodian>Y</isSubCustodian>"
+"429","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"430","          </custodian>"
+"431","        </custodians>"
+"432","        <isCustodianHiredOrTerminated>Y</isCustodianHiredOrTerminated>"
+"433","        <isShareholderServiceHiredTerminated>N</isShareholderServiceHiredTerminated>"
+"434","        <admins>"
+"435","          <admin>"
+"436","            <adminName>Ultimus Fund Solutions, LLC</adminName>"
+"437","            <adminLei>084-05829</adminLei>"
+"438","            <idNumberDesc>SEC File No.</idNumberDesc>"
+"439","            <adminStateCountry adminState=US-OH adminCountry=US/>"
+"440","            <isAdminAffiliated>N</isAdminAffiliated>"
+"441","            <isAdminSubAdmin>N</isAdminSubAdmin>"
+"442","          </admin>"
+"443","          <admin>"
+"444","            <adminName>U.S. Bancorp Fund Services LLC</adminName>"
+"445","            <adminLei>N1GZ7BBF3NP8GI976H15</adminLei>"
+"446","            <adminStateCountry adminState=US-WI adminCountry=US/>"
+"447","            <isAdminAffiliated>N</isAdminAffiliated>"
+"448","            <isAdminSubAdmin>N</isAdminSubAdmin>"
+"449","          </admin>"
+"450","        </admins>"
+"451","        <isAdminHiredOrTerminated>Y</isAdminHiredOrTerminated>"
+"452","        <aggregateCommission>0.000000000000</aggregateCommission>"
+"453","        <principalAggregatePurchase>0.000000000000</principalAggregatePurchase>"
+"454","        <isBrokerageResearchPayment>N</isBrokerageResearchPayment>"
+"455","        <mnthlyAvgNetAssets>513771003.000000000000</mnthlyAvgNetAssets>"
+"456","        <hasLineOfCredit>N</hasLineOfCredit>"
+"457","        <isInterfundLending>N</isInterfundLending>"
+"458","        <isInterfundBorrowing>N</isInterfundBorrowing>"
+"459","        <isSwingPricing>N</isSwingPricing>"
+"460","      </managementInvestmentQuestion>"
+"461","    </managementInvestmentQuestionSeriesInfo>"
+"462","    <exchangeSeriesInfo/>"
+"463","    <attachmentsTab>"
+"464","      <isIPAReportInternalControl>true</isIPAReportInternalControl>"
+"465","      <isInfoRequiredEO>true</isInfoRequiredEO>"
+"466","    </attachmentsTab>"
+"467","    <signature registrantSignedName=Wilshire Variable Insurance Trust signedDate=2020-04-14 signature=/s/Benkai Bouey title=Chief Compliance Officer/>"
+"468","  </formData>"
+"469","</edgarSubmission>"
+"470","</XML>"
+"471","</TEXT>"
+"472","</DOCUMENT>"
+"473","<DOCUMENT>"
+"474","<TYPE>INTERNAL CONTROL RPT"
+"475","<SEQUENCE>2"
+"476","<FILENAME>g1aiii_vit.htm"
+"477","<DESCRIPTION>WILSHIRE VIT N-CEN INTERNAL CONTROL 12.31.19"
+"478","<TEXT>"
+"479","<html>"
+"480","    <head>"
+"481","        <title>PDFtoHTML Conversion Output</title>"
+"482","    </head>"
+"483","    <body style=margin-top: 0px; margin-left: 0px; min-height: 110%;>"
+"484","        <div style=position:relative; overflow: hidden;margin: 85px 0px 109px 96px;padding: 0px;width: 720px;>"
+"485","        <p style=padding-left: 127px;margin: 0px;font: bold 13px/15px 'Calibri';><font style=text-decoration: underline;>REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM</font></p>"
+"486","        <p style=margin-top: 16px;margin-bottom: 0px;font: 13px/15px 'Calibri';>To the Shareholders and Board of Trustees of</p>"
+"487","        <p style=margin-top: 3px;margin-bottom: 0px;font: 13px/15px 'Calibri';>Wilshire Variable Insurance Trust</p>"
+"488","        <p style=text-align: justify;padding-right: 96px;margin-top: 18px;margin-bottom: 0px;font: 13px/17px 'Calibri';>In planning and performing our audit of the financial statements of Wilshire Variable Insurance Trust comprising Wilshire Global Allocation Fund (the Fund) as of and for the year ended December 31, 2019, in accordance with the standards of the Public Company Accounting Oversight Board (United States), we considered the Fund's internal control over financial reporting, including controls over safeguarding securities, as a basis for designing our auditing procedures for the purpose of expressing our opinion on the financial statements and to comply with the requirements of Form NCEN, but not for the purpose of expressing an opinion on the effectiveness of the Fund's internal control over financial reporting. Accordingly, we express no such opinion.</p>
+        <p style=text-align: justify;padding-right: 96px;margin-top: 11px;margin-bottom: 0px;font: 13px/16px 'Calibri';>The management of the Fund is responsible for establishing and maintaining effective internal control over financial reporting. In fulfilling this responsibility, estimates and judgments by management are required to assess the expected benefits and related costs of controls. A fund's internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles (GAAP). A fund's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the fund; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with GAAP, and that receipts and expenditures of the fund are being made only in accordance with authorizations of management and trustees of the fund; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of a fund's assets that could have a material effect on the financial statements.</p>
+        <p style=text-align: justify;padding-right: 96px;margin-top: 20px;margin-bottom: 0px;font: 13px/17px 'Calibri';>Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.</p>
+        <p style=text-align: justify;padding-right: 96px;margin-top: 13px;margin-bottom: 0px;font: 13px/17px 'Calibri';>A deficiency in internal control over financial reporting exists when the design or operation of a control does not allow management or employees, in the normal course of performing their assigned functions, to prevent or detect misstatements on a timely basis. A material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the Fund's annual or interim financial statements will not be prevented or detected on a timely basis.</p>
+        <p style=text-align: justify;padding-right: 96px;margin-top: 13px;margin-bottom: 0px;font: 13px/17px 'Calibri';>Our consideration of the Fund's internal control over financial reporting was for the limited purpose described in the first paragraph and would not necessarily disclose all deficiencies in internal control that might be material weaknesses under standards established by the Public Company Accounting Oversight Board (United States). However, we noted no deficiencies in the Fund's internal control over financial reporting and its operation, including controls over safeguarding securities, that we consider to be a material weakness as defined above as of December 31, 2019.</p>
+        <p style=text-align: justify;padding-right: 96px;margin-top: 12px;margin-bottom: 0px;font: 13px/17px 'Calibri';>This report is intended solely for the information and use of management and the Board of Trustees of the Fund and the Securities and Exchange Commission and is not intended to be and should not be used by anyone other than these specified parties.</p>
+        <p style=margin-top: 14px;margin-bottom: 0px;font: 13px/15px 'Calibri';>/s/ Cohen &amp; Company, LTD.</p>
+        <p style=margin-top: 16px;margin-bottom: 0px;font: 13px/15px 'Calibri';>COHEN &amp; COMPANY, LTD.</p>
+        <p style=margin-top: 2px;margin-bottom: 0px;font: 13px/15px 'Calibri';>Cleveland, Ohio</p>
+        <p style=margin-top: 2px;margin-bottom: 0px;font: 13px/15px 'Calibri';>February 28, 2020</p>
+        </div>
+    </body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXEMPT ORDER INFO
+<SEQUENCE>3
+<FILENAME>exepmtiveorderncen.htm
+<DESCRIPTION>WILSHIRE VIT N-CEN EXEMPTIVE ORDER 12.31.19
+<TEXT>
+<HTML><HEAD>
+<TITLE>HTML</TITLE>
+</HEAD>
+ <BODY BGCOLOR=WHITE>
+
+ <P STYLE=margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman ALIGN=center>UNITED STATES OF AMERICA </P>
+<P STYLE=margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman ALIGN=center>BEFORE THE </P> <P STYLE=margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman ALIGN=center>SECURITIES AND EXCHANGE
+COMMISSION </P> <P STYLE=margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman>INVESTMENT COMPANY ACT OF 1940 </P> <P STYLE=margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman>Release No.
+31456/February 12, 2015 </P> <P STYLE=font-size:12pt;margin-top:0pt;margin-bottom:0pt>&nbsp;</P>
+<TABLE CELLSPACING=0 CELLPADDING=0 WIDTH=100% BORDER=0 STYLE=BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt ALIGN=center>
+
+
+<TR>
+
+<TD WIDTH=49%></TD>
+
+<TD VALIGN=bottom WIDTH=1%></TD>
+<TD WIDTH=1%></TD>
+
+<TD VALIGN=bottom WIDTH=1%></TD>
+<TD WIDTH=48%></TD></TR>
+
+
+<TR STYLE=page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt>
+<TD VALIGN=top STYLE=BORDER-TOP:1px solid #000000>In the Matter of</TD>
+<TD VALIGN=bottom>&nbsp;</TD>
+<TD VALIGN=bottom>:</TD>
+<TD VALIGN=bottom>&nbsp;&nbsp;</TD>
+<TD VALIGN=bottom></TD></TR>
+<TR STYLE=page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt>
+<TD VALIGN=bottom>&nbsp;</TD>
+<TD VALIGN=bottom>&nbsp;</TD>
+<TD VALIGN=bottom>:</TD>
+<TD VALIGN=bottom>&nbsp;&nbsp;</TD>
+<TD VALIGN=bottom>&nbsp;</TD></TR>
+<TR STYLE=page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt>
+<TD VALIGN=top>WILSHIRE MUTUAL FUNDS, INC.</TD>
+<TD VALIGN=bottom>&nbsp;</TD>
+<TD VALIGN=bottom>:</TD>
+<TD VALIGN=bottom>&nbsp;&nbsp;</TD>
+<TD VALIGN=bottom></TD></TR>
+<TR STYLE=page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt>
+<TD VALIGN=top>WILSHIRE VARIABLE INSURANCE TRUST</TD>
+<TD VALIGN=bottom>&nbsp;</TD>
+<TD VALIGN=bottom>:</TD>
+<TD VALIGN=bottom>&nbsp;&nbsp;</TD>
+<TD VALIGN=bottom></TD></TR>
+<TR STYLE=page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt>
+<TD VALIGN=top>WILSHIRE ASSOCIATES INCORPORATED</TD>
+<TD VALIGN=bottom>&nbsp;</TD>
+<TD VALIGN=bottom>:</TD>
+<TD VALIGN=bottom>&nbsp;&nbsp;</TD>
+<TD VALIGN=bottom></TD></TR>
+<TR STYLE=page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt>
+<TD VALIGN=top>SEI INVESTMENTS DISTRIBUTION CO.</TD>
+<TD VALIGN=bottom>&nbsp;</TD>
+<TD VALIGN=bottom>:</TD>
+<TD VALIGN=bottom>&nbsp;&nbsp;</TD>
+<TD VALIGN=bottom></TD></TR>
+<TR STYLE=page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt>
+<TD VALIGN=bottom>&nbsp;</TD>
+<TD VALIGN=bottom>&nbsp;</TD>
+<TD VALIGN=bottom>:</TD>
+<TD VALIGN=bottom>&nbsp;&nbsp;</TD>
+<TD VALIGN=bottom>&nbsp;</TD></TR>
+<TR STYLE=page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt>
+<TD VALIGN=top>1299 Ocean Avenue, Suite 700</TD>
+<TD VALIGN=bottom>&nbsp;</TD>
+<TD VALIGN=bottom>:</TD>
+<TD VALIGN=bottom>&nbsp;&nbsp;</TD>
+<TD VALIGN=bottom></TD></TR>
+<TR STYLE=page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt>
+<TD VALIGN=top>Santa Monica, CA 90401</TD>
+<TD VALIGN=bottom>&nbsp;</TD>
+<TD VALIGN=bottom>:</TD>
+<TD VALIGN=bottom>&nbsp;&nbsp;</TD>
+<TD VALIGN=bottom></TD></TR>
+<TR STYLE=page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt>
+<TD VALIGN=bottom>&nbsp;</TD>
+<TD VALIGN=bottom>&nbsp;</TD>
+<TD VALIGN=bottom>:</TD>
+<TD VALIGN=bottom>&nbsp;&nbsp;</TD>
+<TD VALIGN=bottom>&nbsp;</TD></TR>
+<TR STYLE=page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt>
+<TD VALIGN=top><FONT STYLE=white-space:nowrap>(812-14350)</FONT></TD>
+<TD VALIGN=bottom>&nbsp;</TD>
+<TD VALIGN=bottom>:</TD>
+<TD VALIGN=bottom>&nbsp;&nbsp;</TD>
+<TD VALIGN=bottom></TD></TR>
+<TR STYLE=page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt>
+<TD VALIGN=top STYLE=BORDER-BOTTOM:1px solid #000000>&nbsp;</TD>
+<TD VALIGN=bottom>&nbsp;</TD>
+<TD VALIGN=bottom>:</TD>
+<TD VALIGN=bottom>&nbsp;&nbsp;</TD>
+<TD VALIGN=bottom></TD></TR>
+</TABLE> <P STYLE=margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman>ORDER UNDER SECTION 12(d)(1)(J) OF THE INVESTMENT COMPANY ACT OF 1940 GRANTING AN EXEMPTION FROM SECTIONS 12(d)(1)(A) AND
+(B)&nbsp;OF THE ACT, UNDER SECTIONS 6(c) AND 17(b) OF THE ACT GRANTING AN </P> <P STYLE=margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman>EXEMPTION FROM SECTIONS 17(a)(1) and (2)&nbsp;OF THE ACT, AND UNDER SECTION 6(c)
+OF THE ACT FOR AN EXEMPTION FROM RULE <FONT STYLE=white-space:nowrap>12d1-2(a)</FONT> UNDER THE ACT </P> <P STYLE=margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman>Wilshire Mutual Funds, Inc., Wilshire Variable
+Insurance Trust, Wilshire Associates Incorporated, and SEI Investments Distribution Co. filed an application on August&nbsp;19, 2014, and an amendment to the application on November&nbsp;10, 2014, requesting an order under section 12(d)(1)(J) of the
+Investment Company Act of 1940 (the &#147;Act&#148;) granting an exemption from sections 12(d)(1)(A) and (B)&nbsp;of the Act, under sections 6(c) and 17(b) of the Act granting an exemption from sections 17(a)(1) and (2)&nbsp;of the Act, and under
+section 6(c) of the Act for an exemption from rule <FONT STYLE=white-space:nowrap>12d1-2(a)</FONT> under the Act. The order would (a)&nbsp;permit certain registered <FONT STYLE=white-space:nowrap>open-end</FONT> management investment companies
+that operate as &#147;funds of funds&#148; to acquire shares of certain registered <FONT STYLE=white-space:nowrap>open-end</FONT> management investment companies and unit investment trusts that are within and outside the same group of investment
+companies as the acquiring investment companies, and (b)&nbsp;permit funds of funds relying on rule <FONT STYLE=white-space:nowrap>12d1-2</FONT> under the Act to invest in certain financial instruments.&nbsp;&nbsp;&nbsp;&nbsp; </P>
+<P STYLE=margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman>On December&nbsp;16, 2014, a notice of the filing of the application was issued (Investment Company Act Release No.&nbsp;31381). The notice gave interested
+persons an opportunity to request a hearing and stated that an order granting the application would be issued unless a hearing was ordered. No request for a hearing has been filed, and the Commission has not ordered a hearing. </P>
+
+<p Style='page-break-before:always'>
+<HR SIZE=3 style=COLOR:#999999 WIDTH=100% ALIGN=CENTER>
+
+ <P STYLE=margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman>The matter has been considered and it is found, on the basis of the information set forth in the application, as
+amended, that granting the requested exemption is appropriate in and consistent with the public interest and consistent with the protection of investors and the purposes fairly intended by the policy and provisions of the Act. </P>
+<P STYLE=margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman>It is also found that the terms of the proposed transactions are reasonable and fair and do not involve overreaching, and the proposed transactions are
+consistent with the policies of each registered investment company concerned and with the general purposes of the Act.&nbsp;&nbsp;&nbsp;&nbsp; </P>
+<P STYLE=margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman>Accordingly, </P> <P STYLE=margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman>IT IS ORDERED, that the relief requested under
+section 12(d)(1)(J) of the Act from sections 12(d)(1)(A) and (B)&nbsp;of the Act, under sections 6(c) and 17(b) of the Act from sections 17(a)(1) and (2)&nbsp;of the Act, and under section 6(c) of the Act for an exemption from rule <FONT
+STYLE=white-space:nowrap>12d1-2(a)</FONT> under the Act by Wilshire Mutual Funds, Inc., et al. (File <FONT STYLE=white-space:nowrap>No.&nbsp;812-14350)</FONT> is granted, effective immediately, subject to the conditions contained in the
+application, as amended. </P> <P STYLE=margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman>For the Commission, by the Division of Investment Management, under delegated authority. </P>
+<P STYLE=margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman>Brent J. Fields </P> <P STYLE=margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman>Secretary </P>
+ <p STYLE=margin-top:0pt;margin-bottom:0pt ; font-size:8pt>&nbsp;</P> <P STYLE=margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman ALIGN=center>2 </P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXEMPT ORDER INFO
+<SEQUENCE>4
+<FILENAME>exemptiveoderncentwo.htm
+<DESCRIPTION>WILSHIRE VIT N-CEN EXEMPTIVE ORDER 2 12.31.19
+<TEXT>
+<html>
+    <head>
+        <title>PDFtoHTML Conversion Output</title>
+    </head>
+    <body style=margin-top: 0px; margin-left: 0px; min-height: 110%;>
+        <div style=position:relative; overflow: hidden;margin: 44px 0px 387px 47px;padding: 0px;width: 769px;>
+        <div style=position: absolute; top: 139px; left: 0px; z-index: -1; width: 362px; height: 1px; font-size: 1px; padding-left: 0px;> &#160;</div>
+        <p style=margin: 0px;font: 15px/17px 'Times New Roman';>EXEMPT ORDER INFO 2 fp0040404_g1av.htm</p>
+        <p style=margin: 0px;font: 15px/17px 'Times New Roman';>&#160;</p>
+        <p style=padding-left: 260px;margin: 0px;font: 15px/17px 'Times New Roman';>UNITED STATES OF AMERICA</p>
+        <p style=padding-left: 317px;margin: 0px;font: 15px/17px 'Times New Roman';>BEFORE THE</p>
+        <p style=padding-left: 212px;margin: 0px;font: 15px/17px 'Times New Roman';>SECURITIES AND EXCHANGE COMMISSION</p>
+        <p style=margin-top: 17px;margin-bottom: 0px;font: 15px/17px 'Times New Roman';>INVESTMENT COMPANY ACT OF 1940</p>
+        <p style=margin: 0px;font: 15px/17px 'Times New Roman';>Release No. 23712 February 25, 1999</p>
+        <table cellpadding=0 cellspacing=0 style=width: 370px;margin-top: 16px;font: 15px 'Times New Roman';>
+
+
+                <tr>
+                    <td style=height: 24px;padding: 0px;width: 362px;vertical-align: bottom;>
+                    <p style=padding-left: 4px;margin: 0px;white-space: nowrap;font: 15px/17px 'Times New Roman';>In the Matter of</p>
+                    </td>
+                    <td style=height: 24px;padding: 0px;width: 8px;vertical-align: bottom;>
+                    <p style=text-align: right;margin: 0px;white-space: nowrap;font: 15px/17px 'Times New Roman';>:</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style=height: 17px;padding: 0px;width: 362px;vertical-align: bottom;>
+                    <p style=margin: 0px;white-space: nowrap;font: 1px/1px 'Times New Roman';>&#160;</p>
+                    </td>
+                    <td style=height: 17px;padding: 0px;width: 8px;vertical-align: bottom;>
+                    <p style=text-align: right;margin: 0px;white-space: nowrap;font: 15px/17px 'Times New Roman';>:</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style=height: 17px;padding: 0px;width: 362px;vertical-align: bottom;>
+                    <p style=padding-left: 4px;margin: 0px;white-space: nowrap;font: 15px/17px 'Times New Roman';>HORACE MANN MUTUAL FUNDS, ET AL.</p>
+                    </td>
+                    <td style=height: 17px;padding: 0px;width: 8px;vertical-align: bottom;>
+                    <p style=text-align: right;margin: 0px;white-space: nowrap;font: 15px/17px 'Times New Roman';>:</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style=height: 17px;padding: 0px;width: 362px;vertical-align: bottom;>
+                    <p style=padding-left: 4px;margin: 0px;white-space: nowrap;font: 15px/17px 'Times New Roman';>One Horace Mann Plaza</p>
+                    </td>
+                    <td style=height: 17px;padding: 0px;width: 8px;vertical-align: bottom;>
+                    <p style=text-align: right;margin: 0px;white-space: nowrap;font: 15px/17px 'Times New Roman';>:</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style=height: 17px;padding: 0px;width: 362px;vertical-align: bottom;>
+                    <p style=padding-left: 4px;margin: 0px;white-space: nowrap;font: 15px/17px 'Times New Roman';>Springfield, Illinois 62715</p>
+                    </td>
+                    <td style=height: 17px;padding: 0px;width: 8px;vertical-align: bottom;>
+                    <p style=text-align: right;margin: 0px;white-space: nowrap;font: 15px/17px 'Times New Roman';>:</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style=height: 17px;padding: 0px;width: 362px;vertical-align: bottom;>
+                    <p style=margin: 0px;white-space: nowrap;font: 1px/1px 'Times New Roman';>&#160;</p>
+                    </td>
+                    <td style=height: 17px;padding: 0px;width: 8px;vertical-align: bottom;>
+                    <p style=text-align: right;margin: 0px;white-space: nowrap;font: 15px/17px 'Times New Roman';>:</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style=height: 17px;padding: 0px;width: 362px;vertical-align: bottom;>
+                    <p style=padding-left: 4px;margin: 0px;white-space: nowrap;font: 15px/17px 'Times New Roman';>(812-11406)</p>
+                    </td>
+                    <td style=height: 17px;padding: 0px;width: 8px;vertical-align: bottom;>
+                    <p style=text-align: right;margin: 0px;white-space: nowrap;font: 15px/17px 'Times New Roman';>:</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style=height: 20px;padding: 0px;width: 362px;vertical-align: bottom;>
+                    <p style=margin: 0px;white-space: nowrap;font: 1px/1px 'Times New Roman';>&#160;</p>
+                    </td>
+                    <td style=height: 20px;padding: 0px;width: 8px;vertical-align: bottom;>
+                    <p style=text-align: right;margin: 0px;white-space: nowrap;font: 15px/17px 'Times New Roman';>:</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style=height: 3px;border-bottom: #000000 1px solid;padding: 0px;width: 362px;vertical-align: bottom;>
+                    <p style=margin: 0px;white-space: nowrap;font: 1px/3px 'Times New Roman';>&#160;</p>
+                    </td>
+                    <td style=height: 4px;padding: 0px;width: 8px;vertical-align: bottom;>
+                    <p style=margin: 0px;white-space: nowrap;font: 1px/4px 'Times New Roman';>&#160;</p>
+                    </td>
+                </tr>
+
+        </table>
+        <p style=padding-right: 63px;margin-top: 14px;margin-bottom: 0px;font: 15px/18px 'Times New Roman';>ORDER UNDER SECTION 6(c) OF THE INVESTMENT COMPANY ACT OF 1940 GRANTING AN EXEMPTION FROM SECTION 15(a) OF THE ACT, RULE 18L2 UNDER THE ACT, AND CERTAIN DISCLOSURE REQUIREMENTS UNDER THE ACT</p>
+        <p style=padding-right: 58px;margin-top: 14px;margin-bottom: 0px;font: 15px/17px 'Times New Roman';>Horace Mann Mutual Funds and Wilshire Associates Incorporated filed an application on November 18, 1998, and an amendment to the application on February 12, 1999, requesting an order under section 6(c) of the Act exempting applicants from section 15(a) of the Act, rule 18f-2 under the Act, and certain disclosure requirements under the Act. The order would permit applicants to enter into and materially amend investment management agreements with subadvisers without shareholder approval, and grant relief from certain disclosure requirements regarding advisory fees paid to the subadvisers.</p>
+        <p style=padding-right: 65px;margin-top: 17px;margin-bottom: 0px;font: 15px/18px 'Times New Roman';>On February 1, 1999, a notice of the filing of the application was issued (Investment Company Act Release No. 23673). The notice gave interested persons an opportunity to request a hearing and stated that an order granting the application would be issued unless a hearing was ordered. No request for a hearing has been filed, and the Commission has not ordered a hearing.</p>
+        <p style=text-align: justify;padding-right: 45px;margin-top: 13px;margin-bottom: 0px;font: 15px/18px 'Times New Roman';>The matter has been considered and it is found, on the basis of the information set forth in the application, as amended, that granting the requested exemption is appropriate in the public interest and consistent with the protection of investors and the purposes fairly intended by the policy and provisions of the Act. Accordingly,</p>
+        </div>
+        <p style=page-break-before:always;>&#160;</p>
+        <div style=position:relative; overflow: hidden;margin: 61px 0px 755px 47px;padding: 0px;width: 769px;>
+        <p style=padding-left: 358px;margin: 0px;font: 15px/17px 'Times New Roman';>2</p>
+        <p style=padding-right: 74px;margin-top: 17px;margin-bottom: 0px;font: 15px/18px 'Times New Roman';>IT IS ORDERED, under section 6(c) of the Act, that the requested exemption from section 15(a) of the Act, rule 18f-2 under the Act, and certain disclosure requirements under the Act is granted, effective immediately, subject to the conditions contained in the application, as amended.</p>
+        <p style=margin-top: 14px;margin-bottom: 0px;font: 15px/17px 'Times New Roman';>For the Commission, by the Division of Investment Management, under delegated authority.</p>
+        <p style=padding-left: 363px;margin-top: 17px;margin-bottom: 0px;font: 15px/17px 'Times New Roman';>Jonathan G. Katz</p>
+        <p style=padding-left: 399px;margin: 0px;font: 15px/17px 'Times New Roman';>Secretary</p>
+        <p style=padding-left: 363px;padding-right: 231px;margin-top: 17px;margin-bottom: 0px;font: 15px/18px 'Times New Roman';>/s/ Margaret H. McFarland By: Margaret H. McFarland</p>
+        <p style=padding-left: 399px;margin: 0px;font: 15px/17px 'Times New Roman';>Deputy Secretary</p>
+        </div>
+    </body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+"

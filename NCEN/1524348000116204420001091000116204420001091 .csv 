@@ -1,0 +1,2179 @@
+"","V1"
+"1","<SEC-DOCUMENT>0001162044-20-001091.txt : 20201013"
+"2","<SEC-HEADER>0001162044-20-001091.hdr.sgml : 20201013"
+"3","<ACCEPTANCE-DATETIME>20201013085848"
+"4","ACCESSION NUMBER:		0001162044-20-001091"
+"5","CONFORMED SUBMISSION TYPE:	N-CEN"
+"6","PUBLIC DOCUMENT COUNT:		3"
+"7","CONFORMED PERIOD OF REPORT:	20200731"
+"8","FILED AS OF DATE:		20201013"
+"9","DATE AS OF CHANGE:		20201013"
+"10","EFFECTIVENESS DATE:		20201013"
+"11","FILER:"
+"12","	COMPANY DATA:	"
+"13","		COMPANY CONFORMED NAME:			RANGER FUNDS INVESTMENT TRUST"
+"14","		CENTRAL INDEX KEY:			0001524348"
+"15","		IRS NUMBER:				000000000"
+"16","		STATE OF INCORPORATION:			DE"
+"17","		FISCAL YEAR END:			1231"
+"18","	FILING VALUES:"
+"19","		FORM TYPE:		N-CEN"
+"20","		SEC ACT:		1940 Act"
+"21","		SEC FILE NUMBER:	811-22576"
+"22","		FILM NUMBER:		201234822"
+"23","	BUSINESS ADDRESS:	"
+"24","		STREET 1:		2828 N. HARWOOD STREET"
+"25","		STREET 2:		SUITE 1600"
+"26","		CITY:			DALLAS"
+"27","		STATE:			TX"
+"28","		ZIP:			75201"
+"29","		BUSINESS PHONE:		214-871-5230"
+"30","	MAIL ADDRESS:	"
+"31","		STREET 1:		2828 N. HARWOOD STREET"
+"32","		STREET 2:		SUITE 1600"
+"33","		CITY:			DALLAS"
+"34","		STATE:			TX"
+"35","		ZIP:			75201"
+"36","<SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"37","<EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"38","<SERIES>"
+"39","<OWNER-CIK>0001524348"
+"40","<SERIES-ID>S000033849"
+"41","<SERIES-NAME>RANGER SMALL CAP FUND"
+"42","<CLASS-CONTRACT>"
+"43","<CLASS-CONTRACT-ID>C000107719"
+"44","<CLASS-CONTRACT-NAME>INSTITUTIONAL CLASS"
+"45","<CLASS-CONTRACT-TICKER-SYMBOL>RFISX"
+"46","</CLASS-CONTRACT>"
+"47","</SERIES>"
+"48","<SERIES>"
+"49","<OWNER-CIK>0001524348"
+"50","<SERIES-ID>S000033850"
+"51","<SERIES-NAME>RANGER MICRO CAP FUND"
+"52","<CLASS-CONTRACT>"
+"53","<CLASS-CONTRACT-ID>C000107720"
+"54","<CLASS-CONTRACT-NAME>INSTITUTIONAL CLASS"
+"55","<CLASS-CONTRACT-TICKER-SYMBOL>RFIMX"
+"56","</CLASS-CONTRACT>"
+"57","</SERIES>"
+"58","<SERIES>"
+"59","<OWNER-CIK>0001524348"
+"60","<SERIES-ID>S000033851"
+"61","<SERIES-NAME>RG AURUM+ FUND"
+"62","<CLASS-CONTRACT>"
+"63","<CLASS-CONTRACT-ID>C000107721"
+"64","<CLASS-CONTRACT-NAME>INSTITUTIONAL CLASS"
+"65","<CLASS-CONTRACT-TICKER-SYMBOL>GLDPX"
+"66","</CLASS-CONTRACT>"
+"67","</SERIES>"
+"68","<SERIES>"
+"69","<OWNER-CIK>0001524348"
+"70","<SERIES-ID>S000033852"
+"71","<SERIES-NAME>RANGER QUEST FOR INCOME AND GROWTH FUND"
+"72","<CLASS-CONTRACT>"
+"73","<CLASS-CONTRACT-ID>C000107615"
+"74","<CLASS-CONTRACT-NAME>INSTITUTIONAL CLASS"
+"75","<CLASS-CONTRACT-TICKER-SYMBOL>RFIDX"
+"76","</CLASS-CONTRACT>"
+"77","</SERIES>"
+"78","</EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"79","</SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"80","</SEC-HEADER>"
+"81","<DOCUMENT>"
+"82","<TYPE>N-CEN"
+"83","<SEQUENCE>1"
+"84","<FILENAME>primary_doc.xml"
+"85","<TEXT>"
+"86","<XML>"
+"87","<?xml version=1.0 encoding=UTF-8?>"
+"88","<edgarSubmission xmlns=http://www.sec.gov/edgar/ncen xmlns:com=http://www.sec.gov/edgar/common>"
+"89","  <schemaVersion>X0303</schemaVersion>"
+"90","  <headerData>"
+"91","    <submissionType>N-CEN</submissionType>"
+"92","    <filerInfo>"
+"93","      <liveTestFlag>LIVE</liveTestFlag>"
+"94","      <filer>"
+"95","        <issuerCredentials>"
+"96","          <cik>0001524348</cik>"
+"97","          <ccc>XXXXXXXX</ccc>"
+"98","        </issuerCredentials>"
+"99","      </filer>"
+"100","      <flags>"
+"101","        <returnCopyFlag>false</returnCopyFlag>"
+"102","        <overrideInternetFlag>false</overrideInternetFlag>"
+"103","        <confirmingCopyFlag>false</confirmingCopyFlag>"
+"104","      </flags>"
+"105","      <investmentCompanyType>N-1A</investmentCompanyType>"
+"106","    </filerInfo>"
+"107","    <seriesClass>"
+"108","      <reportSeriesClass>"
+"109","        <rptSeriesClassInfo>"
+"110","          <seriesId>S000033849</seriesId>"
+"111","          <classInfo>"
+"112","            <classId>C000107719</classId>"
+"113","          </classInfo>"
+"114","        </rptSeriesClassInfo>"
+"115","        <rptSeriesClassInfo>"
+"116","          <seriesId>S000033850</seriesId>"
+"117","          <classInfo>"
+"118","            <classId>C000107720</classId>"
+"119","          </classInfo>"
+"120","        </rptSeriesClassInfo>"
+"121","        <rptSeriesClassInfo>"
+"122","          <seriesId>S000033851</seriesId>"
+"123","          <classInfo>"
+"124","            <classId>C000107721</classId>"
+"125","          </classInfo>"
+"126","        </rptSeriesClassInfo>"
+"127","        <rptSeriesClassInfo>"
+"128","          <seriesId>S000033852</seriesId>"
+"129","          <classInfo>"
+"130","            <classId>C000107615</classId>"
+"131","          </classInfo>"
+"132","        </rptSeriesClassInfo>"
+"133","      </reportSeriesClass>"
+"134","    </seriesClass>"
+"135","  </headerData>"
+"136","  <formData>"
+"137","    <generalInfo isReportPeriodLt12=N reportEndingPeriod=2020-07-31/>"
+"138","    <registrantInfo>"
+"139","      <registrantFullName>RANGER FUNDS INVESTMENT TRUST</registrantFullName>"
+"140","      <investmentCompFileNo>811-22576</investmentCompFileNo>"
+"141","      <registrantCik>0001524348</registrantCik>"
+"142","      <registrantLei>549300J8UKUNET3JGE24</registrantLei>"
+"143","      <registrantstreet1>2828 North Harwood Street, Suite 1900</registrantstreet1>"
+"144","      <registrantcity>Dallas</registrantcity>"
+"145","      <registrantzipCode>75201</registrantzipCode>"
+"146","      <registrantstate>US-TX</registrantstate>"
+"147","      <registrantcountry>US</registrantcountry>"
+"148","      <registrantphoneNumber>214-871-5200</registrantphoneNumber>"
+"149","      <websites>"
+"150","        <website webpage=www.rangerfunds.com/>"
+"151","      </websites>"
+"152","      <locationBooksRecords>"
+"153","        <locationBooksRecord>"
+"154","          <officeName>Ranger Funds Investment Trust</officeName>"
+"155","          <officeAddress1>2828 North Harwood Street, Suite 1900</officeAddress1>"
+"156","          <officeCity>Dallas</officeCity>"
+"157","          <officeStateCountry officeState=US-TX officeCountry=US/>"
+"158","          <officeRecordsZipCode>75201</officeRecordsZipCode>"
+"159","          <officePhone>214-871-5200</officePhone>"
+"160","          <booksRecordsDesc>All accounts, books and documents required to be maintained by the Registrant pursuant to Section 31(a) of the Investment Company Act of 1940 and Rules 31a-1 through 31a-3 thereunder are maintained at the office of the Registrant except all those relating to the activities of the Fund's Custodian, Transfer Agent and Shareholder Servicing Agent.</booksRecordsDesc>"
+"161","        </locationBooksRecord>"
+"162","        <locationBooksRecord>"
+"163","          <officeName>Mutual Shareholder Services, LLC</officeName>"
+"164","          <officeAddress1>8000 Town Centre Drive, Suite 400</officeAddress1>"
+"165","          <officeCity>Broadview Heights</officeCity>"
+"166","          <officeStateCountry officeState=US-OH officeCountry=US/>"
+"167","          <officeRecordsZipCode>44147</officeRecordsZipCode>"
+"168","          <officePhone>440-922-0066</officePhone>"
+"169","          <booksRecordsDesc>All accounts, books and documents required to be maintained by the Transfer Agent, Fund Accounting Agent and Shareholder Servicing Agent pursuant to Section 31(a) of the Investment Company Act of 1940 and Rules 31a-1 through 31a-3.</booksRecordsDesc>"
+"170","        </locationBooksRecord>"
+"171","        <locationBooksRecord>"
+"172","          <officeName>U.S. Bank, N.A.</officeName>"
+"173","          <officeAddress1>425 Walnut Street, 6th Floor</officeAddress1>"
+"174","          <officeCity>Cincinnati</officeCity>"
+"175","          <officeStateCountry officeState=US-OH officeCountry=US/>"
+"176","          <officeRecordsZipCode>45202</officeRecordsZipCode>"
+"177","          <officePhone>513-632-4140</officePhone>"
+"178","          <booksRecordsDesc>All accounts, books and documents relating to the activities of the Funds' Custodian.</booksRecordsDesc>"
+"179","        </locationBooksRecord>"
+"180","        <locationBooksRecord>"
+"181","          <officeName>Ranger Investment Management, LP</officeName>"
+"182","          <officeAddress1>2828 North Harwood Street, Suite 1900</officeAddress1>"
+"183","          <officeCity>Dallas</officeCity>"
+"184","          <officeStateCountry officeState=US-TX officeCountry=US/>"
+"185","          <officeRecordsZipCode>75201</officeRecordsZipCode>"
+"186","          <officePhone>214-871-5200</officePhone>"
+"187","          <booksRecordsDesc>Maintains records relating to its function as the investment adviser to the Funds.</booksRecordsDesc>"
+"188","        </locationBooksRecord>"
+"189","        <locationBooksRecord>"
+"190","          <officeName>Ranger International Management, LP</officeName>"
+"191","          <officeAddress1>263 Market Square, Suite B</officeAddress1>"
+"192","          <officeCity>Lake Forest</officeCity>"
+"193","          <officeStateCountry officeState=US-IL officeCountry=US/>"
+"194","          <officeRecordsZipCode>60045</officeRecordsZipCode>"
+"195","          <officePhone>847-615-1085</officePhone>"
+"196","          <booksRecordsDesc>Maintains records relating to its function as the investment adviser to the Fund.</booksRecordsDesc>"
+"197","        </locationBooksRecord>"
+"198","        <locationBooksRecord>"
+"199","          <officeName>RG Alts, LP</officeName>"
+"200","          <officeAddress1>2828 North Harwood Street, Suite 1900</officeAddress1>"
+"201","          <officeCity>Dallas</officeCity>"
+"202","          <officeStateCountry officeState=US-TX officeCountry=US/>"
+"203","          <officeRecordsZipCode>75201</officeRecordsZipCode>"
+"204","          <officePhone>214-871-5200</officePhone>"
+"205","          <booksRecordsDesc>Maintains records relating to its function as the investment adviser to the Fund.</booksRecordsDesc>"
+"206","        </locationBooksRecord>"
+"207","        <locationBooksRecord>"
+"208","          <officeName>Jefferies, LLC</officeName>"
+"209","          <officeAddress1>520 Madison Avenue</officeAddress1>"
+"210","          <officeCity>New York</officeCity>"
+"211","          <officeStateCountry officeState=US-NY officeCountry=US/>"
+"212","          <officeRecordsZipCode>10022</officeRecordsZipCode>"
+"213","          <officePhone>1-212-284-2300</officePhone>"
+"214","          <booksRecordsDesc>All accounts, books and documents relating to the activities of the Fund's Custodian.</booksRecordsDesc>"
+"215","        </locationBooksRecord>"
+"216","      </locationBooksRecords>"
+"217","      <isRegistrantFirstFiling>N</isRegistrantFirstFiling>"
+"218","      <isRegistrantLastFiling>N</isRegistrantLastFiling>"
+"219","      <isRegistrantFamilyInvComp>N</isRegistrantFamilyInvComp>"
+"220","      <registrantClassificationType>N-1A</registrantClassificationType>"
+"221","      <totalSeries>4</totalSeries>"
+"222","      <isSecuritiesActRegistration>Y</isSecuritiesActRegistration>"
+"223","      <directors>"
+"224","        <director>"
+"225","          <directorName>Curtis A. Hite</directorName>"
+"226","          <crdNumber>N/A</crdNumber>"
+"227","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"228","          <fileNumbers>"
+"229","            <fileNumberInfo fileNumber=811-22576/>"
+"230","          </fileNumbers>"
+"231","        </director>"
+"232","        <director>"
+"233","          <directorName>Benjamin C. Bell, Jr.</directorName>"
+"234","          <crdNumber>N/A</crdNumber>"
+"235","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"236","          <fileNumbers>"
+"237","            <fileNumberInfo fileNumber=811-22576/>"
+"238","          </fileNumbers>"
+"239","        </director>"
+"240","        <director>"
+"241","          <directorName>Jason Christopher Elliott</directorName>"
+"242","          <crdNumber>N/A</crdNumber>"
+"243","          <isDirectorInterestedPerson>Y</isDirectorInterestedPerson>"
+"244","          <fileNumbers>"
+"245","            <fileNumberInfo fileNumber=811-22576/>"
+"246","          </fileNumbers>"
+"247","        </director>"
+"248","      </directors>"
+"249","      <chiefComplianceOfficers>"
+"250","        <chiefComplianceOfficer>"
+"251","          <ccoName>Mark Hasbani</ccoName>"
+"252","          <crdNumber>N/A</crdNumber>"
+"253","          <ccoStreet1>2828 North Harwood Street, Suite 1900</ccoStreet1>"
+"254","          <ccoCity>Dallas</ccoCity>"
+"255","          <ccoStateCountry ccoCountry=US ccoState=US-TX/>"
+"256","          <ccoZipCode>75201</ccoZipCode>"
+"257","          <ccoPhone>XXXXXX</ccoPhone>"
+"258","          <isCcoChangedSinceLastFiling>N</isCcoChangedSinceLastFiling>"
+"259","          <ccoEmployers>"
+"260","            <ccoEmployer ccoEmployerId=N/A ccoEmployerName=N/A/>"
+"261","          </ccoEmployers>"
+"262","        </chiefComplianceOfficer>"
+"263","      </chiefComplianceOfficers>"
+"264","      <isRegistrantSubmittedMatter>N</isRegistrantSubmittedMatter>"
+"265","      <isPreviousLegalProceeding>N</isPreviousLegalProceeding>"
+"266","      <isPreviousProceedingTerminated>N</isPreviousProceedingTerminated>"
+"267","      <isClaimFiled>N</isClaimFiled>"
+"268","      <coveredByInsurancePolicy isCoveredByInsurancePolicy=Y isClaimFiledDuringPeriod=N/>"
+"269","      <isFinancialSupportDuringPeriod>N</isFinancialSupportDuringPeriod>"
+"270","      <isExemptionFromAct>N</isExemptionFromAct>"
+"271","      <principalUnderwriters>"
+"272","        <principalUnderwriter>"
+"273","          <principalUnderwriterName>Arbor Court Capital, LLC</principalUnderwriterName>"
+"274","          <principalUnderwriterFileNumber>008-67609</principalUnderwriterFileNumber>"
+"275","          <principalUnderwriterCrdNumber>000143839</principalUnderwriterCrdNumber>"
+"276","          <principalUnderwriterLei>N/A</principalUnderwriterLei>"
+"277","          <principalUnderWriterStateCountry principalUnderWriterCountry=US principalUnderWriterState=US-OH/>"
+"278","          <isPrincipalUnderwriterAffiliatedWithRegistrant>N</isPrincipalUnderwriterAffiliatedWithRegistrant>"
+"279","        </principalUnderwriter>"
+"280","      </principalUnderwriters>"
+"281","      <isUnderwriterHiredOrTerminated>Y</isUnderwriterHiredOrTerminated>"
+"282","      <publicAccountants>"
+"283","        <publicAccountant>"
+"284","          <publicAccountantName>KPMG LLP</publicAccountantName>"
+"285","          <pcaobNumber>185</pcaobNumber>"
+"286","          <publicAccountantLei>N/A</publicAccountantLei>"
+"287","          <publicAccountantStateCountry publicAccountantState=US-CO publicAccountantCountry=US/>"
+"288","        </publicAccountant>"
+"289","      </publicAccountants>"
+"290","      <isPublicAccountantChanged>N</isPublicAccountantChanged>"
+"291","      <isMaterialWeakness>N</isMaterialWeakness>"
+"292","      <isOpinionOffered>N</isOpinionOffered>"
+"293","      <isMaterialChange>N</isMaterialChange>"
+"294","      <isAccountingPrincipleChange>N</isAccountingPrincipleChange>"
+"295","      <isPaymentErrorInNetAssetValue>N</isPaymentErrorInNetAssetValue>"
+"296","      <paymentDividendSeries isPaymentDividend=Y>"
+"297","        <seriesInfo seriesName=Ranger Quest For Income And Growth Fund seriesId=S000033852/>"
+"298","      </paymentDividendSeries>"
+"299","    </registrantInfo>"
+"300","    <managementInvestmentQuestionSeriesInfo>"
+"301","      <managementInvestmentQuestion>"
+"302","        <mgmtInvFundName>Ranger Micro Cap Fund</mgmtInvFundName>"
+"303","        <mgmtInvSeriesId>S000033850</mgmtInvSeriesId>"
+"304","        <mgmtInvLei>549300MQX5YMNH7NQH52</mgmtInvLei>"
+"305","        <isFirstFilingByFund>N</isFirstFilingByFund>"
+"306","        <numAuthorizedClass>1</numAuthorizedClass>"
+"307","        <numAddedClass>0</numAddedClass>"
+"308","        <numTerminatedClass>0</numTerminatedClass>"
+"309","        <sharesOutstandings>"
+"310","          <sharesOutstanding sharesOutstandingClassName=Institutional Class sharesOutstandingClassId=C000107720 sharesOutstandingTickerSymbol=RFIMX/>"
+"311","        </sharesOutstandings>"
+"312","        <fundType>N/A</fundType>"
+"313","        <isNonDiversifiedCompany>N</isNonDiversifiedCompany>"
+"314","        <isForeignSubsidiary>N</isForeignSubsidiary>"
+"315","        <isFundSecuritiesLending>N</isFundSecuritiesLending>"
+"316","        <didFundLendSecurities>N</didFundLendSecurities>"
+"317","        <paymentToAgentManagerType>N/A</paymentToAgentManagerType>"
+"318","        <avgPortfolioSecuritiesValue>N/A</avgPortfolioSecuritiesValue>"
+"319","        <netIncomeSecuritiesLending>N/A</netIncomeSecuritiesLending>"
+"320","        <relyOnRuleType>N/A</relyOnRuleType>"
+"321","        <isExpenseLimitationInPlace>Y</isExpenseLimitationInPlace>"
+"322","        <isExpenseReducedOrWaived>Y</isExpenseReducedOrWaived>"
+"323","        <isFeesWaivedRecoupable>Y</isFeesWaivedRecoupable>"
+"324","        <isExpenseWaivedRecoupable>N</isExpenseWaivedRecoupable>"
+"325","        <investmentAdvisers>"
+"326","          <investmentAdviser>"
+"327","            <investmentAdviserName>Ranger Investment Management, LP</investmentAdviserName>"
+"328","            <investmentAdviserFileNo>801-62397</investmentAdviserFileNo>"
+"329","            <investmentAdviserCrdNo>000124414</investmentAdviserCrdNo>"
+"330","            <investmentAdviserLei>N/A</investmentAdviserLei>"
+"331","            <investmentAdviserStateCountry investmentAdviserCountry=US investmentAdviserState=US-TX/>"
+"332","            <isInvestmentAdviserHired>N</isInvestmentAdviserHired>"
+"333","          </investmentAdviser>"
+"334","        </investmentAdvisers>"
+"335","        <transferAgents>"
+"336","          <transferAgent>"
+"337","            <transferAgentName>Mutual Shareholder Services, LLC</transferAgentName>"
+"338","            <transferAgentFileNo>084-05821</transferAgentFileNo>"
+"339","            <transferAgentLei>N/A</transferAgentLei>"
+"340","            <transferAgentStateCountry transferAgentCountry=US transferAgentState=US-OH/>"
+"341","            <isTransferAgentAffiliated>N</isTransferAgentAffiliated>"
+"342","            <isTransferAgentSubAgent>N</isTransferAgentSubAgent>"
+"343","          </transferAgent>"
+"344","        </transferAgents>"
+"345","        <isTransferAgentHiredOrTerminated>N</isTransferAgentHiredOrTerminated>"
+"346","        <pricingServices>"
+"347","          <pricingService>"
+"348","            <pricingServiceName>SUNGARD/FIS MARKETMAP ANALYTIC PLATFORM</pricingServiceName>"
+"349","            <pricingServiceLei>N/A</pricingServiceLei>"
+"350","            <pricingServiceStateCountry pricingServiceCountry=US pricingServiceState=US-NY/>"
+"351","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"352","          </pricingService>"
+"353","        </pricingServices>"
+"354","        <isPricingServiceHiredOrTerminated>N</isPricingServiceHiredOrTerminated>"
+"355","        <custodians>"
+"356","          <custodian>"
+"357","            <custodianName>U.S. Bank, N.A.</custodianName>"
+"358","            <custodianLei>5493001WC5CQQI9L9G80</custodianLei>"
+"359","            <custodianStateCountry custodianCountry=US custodianState=US-OH/>"
+"360","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"361","            <isSubCustodian>N</isSubCustodian>"
+"362","            <custodyType>Bank - section 17(f)(1) (15 U.S.C. 80a-17(f)(1))</custodyType>"
+"363","          </custodian>"
+"364","        </custodians>"
+"365","        <isCustodianHiredOrTerminated>N</isCustodianHiredOrTerminated>"
+"366","        <shareholderServicingAgents>"
+"367","          <shareholderServicingAgent>"
+"368","            <shareholderServiceAgentName>Mutual Shareholder Services, LLC</shareholderServiceAgentName>"
+"369","            <shareholderServiceAgentLei>N/A</shareholderServiceAgentLei>"
+"370","            <shareholderServiceAgentStateCountry shareholderServiceAgentCountry=US shareholderServiceAgentState=US-OH/>"
+"371","            <isShareholderServiceAgentAffiliated>N</isShareholderServiceAgentAffiliated>"
+"372","            <isShareholderServiceAgentSubshare>N</isShareholderServiceAgentSubshare>"
+"373","          </shareholderServicingAgent>"
+"374","        </shareholderServicingAgents>"
+"375","        <isShareholderServiceHiredTerminated>N</isShareholderServiceHiredTerminated>"
+"376","        <admins>"
+"377","          <admin>"
+"378","            <adminName>Mutual Shareholder Services, LLC</adminName>"
+"379","            <adminLei>N/A</adminLei>"
+"380","            <adminStateCountry adminState=US-OH adminCountry=US/>"
+"381","            <isAdminAffiliated>N</isAdminAffiliated>"
+"382","            <isAdminSubAdmin>N</isAdminSubAdmin>"
+"383","          </admin>"
+"384","        </admins>"
+"385","        <isAdminHiredOrTerminated>N</isAdminHiredOrTerminated>"
+"386","        <brokers>"
+"387","          <broker>"
+"388","            <brokerName>Liquidnet, Inc.</brokerName>"
+"389","            <brokerFileNo>008-52461</brokerFileNo>"
+"390","            <brokerCrdNo>000103987</brokerCrdNo>"
+"391","            <brokerLei>213800HSKBBO1GCVRG79</brokerLei>"
+"392","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"393","            <grossCommission>12940.11</grossCommission>"
+"394","          </broker>"
+"395","          <broker>"
+"396","            <brokerName>BTIG, LLC</brokerName>"
+"397","            <brokerFileNo>008-65473</brokerFileNo>"
+"398","            <brokerCrdNo>000122225</brokerCrdNo>"
+"399","            <brokerLei>549300GTG9PL6WO3EC51</brokerLei>"
+"400","            <brokerStateCountry brokerState=US-CA brokerCountry=US/>"
+"401","            <grossCommission>2793.7</grossCommission>"
+"402","          </broker>"
+"403","          <broker>"
+"404","            <brokerName>Oppenheimer &amp; Co., Inc.</brokerName>"
+"405","            <brokerFileNo>008-04077</brokerFileNo>"
+"406","            <brokerCrdNo>000000249</brokerCrdNo>"
+"407","            <brokerLei>254900VH02JQR2L8XD64</brokerLei>"
+"408","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"409","            <grossCommission>1703.4</grossCommission>"
+"410","          </broker>"
+"411","          <broker>"
+"412","            <brokerName>Stephens, Inc.</brokerName>"
+"413","            <brokerFileNo>008-01927</brokerFileNo>"
+"414","            <brokerCrdNo>000003496</brokerCrdNo>"
+"415","            <brokerLei>213800LH6T9XDYZCA534</brokerLei>"
+"416","            <brokerStateCountry brokerState=US-AR brokerCountry=US/>"
+"417","            <grossCommission>1922.72</grossCommission>"
+"418","          </broker>"
+"419","          <broker>"
+"420","            <brokerName>Keefe Bruyette &amp; Woods</brokerName>"
+"421","            <brokerFileNo>008-10888</brokerFileNo>"
+"422","            <brokerCrdNo>000000481</brokerCrdNo>"
+"423","            <brokerLei>549300OM47DQV01G4854</brokerLei>"
+"424","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"425","            <grossCommission>1393.84</grossCommission>"
+"426","          </broker>"
+"427","          <broker>"
+"428","            <brokerName>Dougherty &amp; Company</brokerName>"
+"429","            <brokerFileNo>008-21937</brokerFileNo>"
+"430","            <brokerCrdNo>000007477</brokerCrdNo>"
+"431","            <brokerLei>N/A</brokerLei>"
+"432","            <brokerStateCountry brokerState=US-MN brokerCountry=US/>"
+"433","            <grossCommission>1385.36</grossCommission>"
+"434","          </broker>"
+"435","          <broker>"
+"436","            <brokerName>Piper Jaffray</brokerName>"
+"437","            <brokerFileNo>008-15204</brokerFileNo>"
+"438","            <brokerCrdNo>000000665</brokerCrdNo>"
+"439","            <brokerLei>549300O6YN0V6RVHQM09</brokerLei>"
+"440","            <brokerStateCountry brokerState=US-MN brokerCountry=US/>"
+"441","            <grossCommission>1042.56</grossCommission>"
+"442","          </broker>"
+"443","          <broker>"
+"444","            <brokerName>Craig-Hallum</brokerName>"
+"445","            <brokerFileNo>008-65407</brokerFileNo>"
+"446","            <brokerCrdNo>000121395</brokerCrdNo>"
+"447","            <brokerLei>549300YWNPUXBR9XZW77</brokerLei>"
+"448","            <brokerStateCountry brokerState=US-MN brokerCountry=US/>"
+"449","            <grossCommission>1350.05</grossCommission>"
+"450","          </broker>"
+"451","          <broker>"
+"452","            <brokerName>Jonestrading</brokerName>"
+"453","            <brokerFileNo>008-26089</brokerFileNo>"
+"454","            <brokerCrdNo>000006888</brokerCrdNo>"
+"455","            <brokerLei>2138008JJ5PA8H5UIL69</brokerLei>"
+"456","            <brokerStateCountry brokerState=US-CA brokerCountry=US/>"
+"457","            <grossCommission>1235.78</grossCommission>"
+"458","          </broker>"
+"459","          <broker>"
+"460","            <brokerName>Jefferies, LLC</brokerName>"
+"461","            <brokerFileNo>008-15074</brokerFileNo>"
+"462","            <brokerCrdNo>000002347</brokerCrdNo>"
+"463","            <brokerLei>58PU97L1C0WSRCWADL48</brokerLei>"
+"464","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"465","            <grossCommission>895.92</grossCommission>"
+"466","          </broker>"
+"467","        </brokers>"
+"468","        <aggregateCommission>32425.64</aggregateCommission>"
+"469","        <principalAggregatePurchase>0</principalAggregatePurchase>"
+"470","        <isBrokerageResearchPayment>N</isBrokerageResearchPayment>"
+"471","        <mnthlyAvgNetAssets>16416218.85</mnthlyAvgNetAssets>"
+"472","        <hasLineOfCredit>N</hasLineOfCredit>"
+"473","        <isInterfundLending>N</isInterfundLending>"
+"474","        <isInterfundBorrowing>N</isInterfundBorrowing>"
+"475","        <isSwingPricing>N</isSwingPricing>"
+"476","      </managementInvestmentQuestion>"
+"477","      <managementInvestmentQuestion>"
+"478","        <mgmtInvFundName>Ranger Quest For Income And Growth Fund</mgmtInvFundName>"
+"479","        <mgmtInvSeriesId>S000033852</mgmtInvSeriesId>"
+"480","        <mgmtInvLei>549300RSV0DO7IUL3774</mgmtInvLei>"
+"481","        <isFirstFilingByFund>N</isFirstFilingByFund>"
+"482","        <numAuthorizedClass>1</numAuthorizedClass>"
+"483","        <numAddedClass>0</numAddedClass>"
+"484","        <numTerminatedClass>1</numTerminatedClass>"
+"485","        <sharesOutstandings>"
+"486","          <sharesOutstanding sharesOutstandingClassName=Institutional Class sharesOutstandingClassId=C000107615 sharesOutstandingTickerSymbol=RFIDX/>"
+"487","        </sharesOutstandings>"
+"488","        <fundType>N/A</fundType>"
+"489","        <isNonDiversifiedCompany>N</isNonDiversifiedCompany>"
+"490","        <isForeignSubsidiary>N</isForeignSubsidiary>"
+"491","        <isFundSecuritiesLending>N</isFundSecuritiesLending>"
+"492","        <didFundLendSecurities>N</didFundLendSecurities>"
+"493","        <paymentToAgentManagerType>N/A</paymentToAgentManagerType>"
+"494","        <avgPortfolioSecuritiesValue>N/A</avgPortfolioSecuritiesValue>"
+"495","        <netIncomeSecuritiesLending>N/A</netIncomeSecuritiesLending>"
+"496","        <relyOnRuleType>N/A</relyOnRuleType>"
+"497","        <isExpenseLimitationInPlace>Y</isExpenseLimitationInPlace>"
+"498","        <isExpenseReducedOrWaived>Y</isExpenseReducedOrWaived>"
+"499","        <isFeesWaivedRecoupable>Y</isFeesWaivedRecoupable>"
+"500","        <isExpenseWaivedRecoupable>N</isExpenseWaivedRecoupable>"
+"501","        <investmentAdvisers>"
+"502","          <investmentAdviser>"
+"503","            <investmentAdviserName>Ranger International Management, LP</investmentAdviserName>"
+"504","            <investmentAdviserFileNo>801-71679</investmentAdviserFileNo>"
+"505","            <investmentAdviserCrdNo>000152714</investmentAdviserCrdNo>"
+"506","            <investmentAdviserLei>2138002AT45AHRMAH991</investmentAdviserLei>"
+"507","            <investmentAdviserStateCountry investmentAdviserCountry=US investmentAdviserState=US-IL/>"
+"508","            <isInvestmentAdviserHired>N</isInvestmentAdviserHired>"
+"509","          </investmentAdviser>"
+"510","        </investmentAdvisers>"
+"511","        <transferAgents>"
+"512","          <transferAgent>"
+"513","            <transferAgentName>Mutual Shareholder Services, LLC</transferAgentName>"
+"514","            <transferAgentFileNo>084-05821</transferAgentFileNo>"
+"515","            <transferAgentLei>N/A</transferAgentLei>"
+"516","            <transferAgentStateCountry transferAgentCountry=US transferAgentState=US-OH/>"
+"517","            <isTransferAgentAffiliated>N</isTransferAgentAffiliated>"
+"518","            <isTransferAgentSubAgent>N</isTransferAgentSubAgent>"
+"519","          </transferAgent>"
+"520","        </transferAgents>"
+"521","        <isTransferAgentHiredOrTerminated>N</isTransferAgentHiredOrTerminated>"
+"522","        <pricingServices>"
+"523","          <pricingService>"
+"524","            <pricingServiceName>SUNGARD/FIS MARKETMAP ANALYTIC PLATFORM</pricingServiceName>"
+"525","            <pricingServiceLei>N/A</pricingServiceLei>"
+"526","            <pricingServiceStateCountry pricingServiceCountry=US pricingServiceState=US-NY/>"
+"527","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"528","          </pricingService>"
+"529","        </pricingServices>"
+"530","        <isPricingServiceHiredOrTerminated>N</isPricingServiceHiredOrTerminated>"
+"531","        <custodians>"
+"532","          <custodian>"
+"533","            <custodianName>U.S. Bank, N.A.</custodianName>"
+"534","            <custodianLei>5493001WC5CQQI9L9G80</custodianLei>"
+"535","            <custodianStateCountry custodianCountry=US custodianState=US-OH/>"
+"536","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"537","            <isSubCustodian>N</isSubCustodian>"
+"538","            <custodyType>Bank - section 17(f)(1) (15 U.S.C. 80a-17(f)(1))</custodyType>"
+"539","          </custodian>"
+"540","        </custodians>"
+"541","        <isCustodianHiredOrTerminated>N</isCustodianHiredOrTerminated>"
+"542","        <shareholderServicingAgents>"
+"543","          <shareholderServicingAgent>"
+"544","            <shareholderServiceAgentName>Mutual Shareholder Services, LLC</shareholderServiceAgentName>"
+"545","            <shareholderServiceAgentLei>N/A</shareholderServiceAgentLei>"
+"546","            <shareholderServiceAgentStateCountry shareholderServiceAgentCountry=US shareholderServiceAgentState=US-OH/>"
+"547","            <isShareholderServiceAgentAffiliated>N</isShareholderServiceAgentAffiliated>"
+"548","            <isShareholderServiceAgentSubshare>N</isShareholderServiceAgentSubshare>"
+"549","          </shareholderServicingAgent>"
+"550","        </shareholderServicingAgents>"
+"551","        <isShareholderServiceHiredTerminated>N</isShareholderServiceHiredTerminated>"
+"552","        <admins>"
+"553","          <admin>"
+"554","            <adminName>Mutual Shareholder Services, LLC</adminName>"
+"555","            <adminLei>N/A</adminLei>"
+"556","            <adminStateCountry adminState=US-OH adminCountry=US/>"
+"557","            <isAdminAffiliated>N</isAdminAffiliated>"
+"558","            <isAdminSubAdmin>N</isAdminSubAdmin>"
+"559","          </admin>"
+"560","        </admins>"
+"561","        <isAdminHiredOrTerminated>N</isAdminHiredOrTerminated>"
+"562","        <brokers>"
+"563","          <broker>"
+"564","            <brokerName>CF Global Trading, LLC</brokerName>"
+"565","            <brokerFileNo>008-52725</brokerFileNo>"
+"566","            <brokerCrdNo>000104245</brokerCrdNo>"
+"567","            <brokerLei>549300Y08TJ4I4APO417</brokerLei>"
+"568","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"569","            <grossCommission>7143.72</grossCommission>"
+"570","          </broker>"
+"571","          <broker>"
+"572","            <brokerName>Sanders Morris Harris, LLC</brokerName>"
+"573","            <brokerFileNo>008-38325</brokerFileNo>"
+"574","            <brokerCrdNo>000020580</brokerCrdNo>"
+"575","            <brokerLei>254900ZNPYV465D1NZ47</brokerLei>"
+"576","            <brokerStateCountry brokerState=US-TX brokerCountry=US/>"
+"577","            <grossCommission>20.24</grossCommission>"
+"578","          </broker>"
+"579","          <broker>"
+"580","            <brokerName>Stifel, Nicolaus &amp; Co</brokerName>"
+"581","            <brokerFileNo>008-01447</brokerFileNo>"
+"582","            <brokerCrdNo>000000793</brokerCrdNo>"
+"583","            <brokerLei>N/A</brokerLei>"
+"584","            <brokerStateCountry brokerState=US-MO brokerCountry=US/>"
+"585","            <grossCommission>2232.44</grossCommission>"
+"586","          </broker>"
+"587","          <broker>"
+"588","            <brokerName>CFG ADVISORS LLC</brokerName>"
+"589","            <brokerFileNo>008-41491</brokerFileNo>"
+"590","            <brokerCrdNo>000024964</brokerCrdNo>"
+"591","            <brokerLei>N/A</brokerLei>"
+"592","            <brokerStateCountry brokerState=US-IL brokerCountry=US/>"
+"593","            <grossCommission>326.38</grossCommission>"
+"594","          </broker>"
+"595","          <broker>"
+"596","            <brokerName>Aqua Securities, LP.</brokerName>"
+"597","            <brokerFileNo>008-51866</brokerFileNo>"
+"598","            <brokerCrdNo>000047681</brokerCrdNo>"
+"599","            <brokerLei>N/A</brokerLei>"
+"600","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"601","            <grossCommission>132</grossCommission>"
+"602","          </broker>"
+"603","        </brokers>"
+"604","        <aggregateCommission>9854.78</aggregateCommission>"
+"605","        <principalAggregatePurchase>0</principalAggregatePurchase>"
+"606","        <isBrokerageResearchPayment>N</isBrokerageResearchPayment>"
+"607","        <mnthlyAvgNetAssets>12079725.7</mnthlyAvgNetAssets>"
+"608","        <hasLineOfCredit>N</hasLineOfCredit>"
+"609","        <isInterfundLending>N</isInterfundLending>"
+"610","        <isInterfundBorrowing>N</isInterfundBorrowing>"
+"611","        <isSwingPricing>N</isSwingPricing>"
+"612","      </managementInvestmentQuestion>"
+"613","      <managementInvestmentQuestion>"
+"614","        <mgmtInvFundName>Ranger Small Cap Fund</mgmtInvFundName>"
+"615","        <mgmtInvSeriesId>S000033849</mgmtInvSeriesId>"
+"616","        <mgmtInvLei>549300L436HQPW6WUT22</mgmtInvLei>"
+"617","        <isFirstFilingByFund>N</isFirstFilingByFund>"
+"618","        <numAuthorizedClass>1</numAuthorizedClass>"
+"619","        <numAddedClass>0</numAddedClass>"
+"620","        <numTerminatedClass>0</numTerminatedClass>"
+"621","        <sharesOutstandings>"
+"622","          <sharesOutstanding sharesOutstandingClassName=Institutional Class sharesOutstandingClassId=C000107719 sharesOutstandingTickerSymbol=RFISX/>"
+"623","        </sharesOutstandings>"
+"624","        <fundType>N/A</fundType>"
+"625","        <isNonDiversifiedCompany>N</isNonDiversifiedCompany>"
+"626","        <isForeignSubsidiary>N</isForeignSubsidiary>"
+"627","        <isFundSecuritiesLending>N</isFundSecuritiesLending>"
+"628","        <didFundLendSecurities>N</didFundLendSecurities>"
+"629","        <paymentToAgentManagerType>N/A</paymentToAgentManagerType>"
+"630","        <avgPortfolioSecuritiesValue>N/A</avgPortfolioSecuritiesValue>"
+"631","        <netIncomeSecuritiesLending>N/A</netIncomeSecuritiesLending>"
+"632","        <relyOnRuleType>N/A</relyOnRuleType>"
+"633","        <isExpenseLimitationInPlace>Y</isExpenseLimitationInPlace>"
+"634","        <isExpenseReducedOrWaived>Y</isExpenseReducedOrWaived>"
+"635","        <isFeesWaivedRecoupable>Y</isFeesWaivedRecoupable>"
+"636","        <isExpenseWaivedRecoupable>N</isExpenseWaivedRecoupable>"
+"637","        <investmentAdvisers>"
+"638","          <investmentAdviser>"
+"639","            <investmentAdviserName>Ranger Investment Management, LP</investmentAdviserName>"
+"640","            <investmentAdviserFileNo>801-62397</investmentAdviserFileNo>"
+"641","            <investmentAdviserCrdNo>000124414</investmentAdviserCrdNo>"
+"642","            <investmentAdviserLei>N/A</investmentAdviserLei>"
+"643","            <investmentAdviserStateCountry investmentAdviserCountry=US investmentAdviserState=US-TX/>"
+"644","            <isInvestmentAdviserHired>N</isInvestmentAdviserHired>"
+"645","          </investmentAdviser>"
+"646","        </investmentAdvisers>"
+"647","        <transferAgents>"
+"648","          <transferAgent>"
+"649","            <transferAgentName>Mutual Shareholder Services, LLC</transferAgentName>"
+"650","            <transferAgentFileNo>084-05821</transferAgentFileNo>"
+"651","            <transferAgentLei>N/A</transferAgentLei>"
+"652","            <transferAgentStateCountry transferAgentCountry=US transferAgentState=US-OH/>"
+"653","            <isTransferAgentAffiliated>N</isTransferAgentAffiliated>"
+"654","            <isTransferAgentSubAgent>N</isTransferAgentSubAgent>"
+"655","          </transferAgent>"
+"656","        </transferAgents>"
+"657","        <isTransferAgentHiredOrTerminated>N</isTransferAgentHiredOrTerminated>"
+"658","        <pricingServices>"
+"659","          <pricingService>"
+"660","            <pricingServiceName>SUNGARD/FIS MARKETMAP ANALYTIC PLATFORM</pricingServiceName>"
+"661","            <pricingServiceLei>N/A</pricingServiceLei>"
+"662","            <pricingServiceStateCountry pricingServiceCountry=US pricingServiceState=US-NY/>"
+"663","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"664","          </pricingService>"
+"665","        </pricingServices>"
+"666","        <isPricingServiceHiredOrTerminated>N</isPricingServiceHiredOrTerminated>"
+"667","        <custodians>"
+"668","          <custodian>"
+"669","            <custodianName>U.S. Bank, N.A.</custodianName>"
+"670","            <custodianLei>5493001WC5CQQI9L9G80</custodianLei>"
+"671","            <custodianStateCountry custodianCountry=US custodianState=US-OH/>"
+"672","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"673","            <isSubCustodian>N</isSubCustodian>"
+"674","            <custodyType>Bank - section 17(f)(1) (15 U.S.C. 80a-17(f)(1))</custodyType>"
+"675","          </custodian>"
+"676","        </custodians>"
+"677","        <isCustodianHiredOrTerminated>N</isCustodianHiredOrTerminated>"
+"678","        <shareholderServicingAgents>"
+"679","          <shareholderServicingAgent>"
+"680","            <shareholderServiceAgentName>Mutual Shareholder Services, LLC</shareholderServiceAgentName>"
+"681","            <shareholderServiceAgentLei>N/A</shareholderServiceAgentLei>"
+"682","            <shareholderServiceAgentStateCountry shareholderServiceAgentCountry=US shareholderServiceAgentState=US-OH/>"
+"683","            <isShareholderServiceAgentAffiliated>N</isShareholderServiceAgentAffiliated>"
+"684","            <isShareholderServiceAgentSubshare>N</isShareholderServiceAgentSubshare>"
+"685","          </shareholderServicingAgent>"
+"686","        </shareholderServicingAgents>"
+"687","        <isShareholderServiceHiredTerminated>N</isShareholderServiceHiredTerminated>"
+"688","        <admins>"
+"689","          <admin>"
+"690","            <adminName>Mutual Shareholder Services, LLC</adminName>"
+"691","            <adminLei>N/A</adminLei>"
+"692","            <adminStateCountry adminState=US-OH adminCountry=US/>"
+"693","            <isAdminAffiliated>N</isAdminAffiliated>"
+"694","            <isAdminSubAdmin>N</isAdminSubAdmin>"
+"695","          </admin>"
+"696","        </admins>"
+"697","        <isAdminHiredOrTerminated>N</isAdminHiredOrTerminated>"
+"698","        <brokers>"
+"699","          <broker>"
+"700","            <brokerName>Liquidnet, Inc.</brokerName>"
+"701","            <brokerFileNo>008-52461</brokerFileNo>"
+"702","            <brokerCrdNo>000103987</brokerCrdNo>"
+"703","            <brokerLei>213800HSKBBO1GCVRG79</brokerLei>"
+"704","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"705","            <grossCommission>10504.66</grossCommission>"
+"706","          </broker>"
+"707","          <broker>"
+"708","            <brokerName>Suntrust Robinson Humphrey, Inc.</brokerName>"
+"709","            <brokerFileNo>008-17212</brokerFileNo>"
+"710","            <brokerCrdNo>000006271</brokerCrdNo>"
+"711","            <brokerLei>CSVTK36R0PNGXEM7NS14</brokerLei>"
+"712","            <brokerStateCountry brokerState=US-GA brokerCountry=US/>"
+"713","            <grossCommission>1000.6</grossCommission>"
+"714","          </broker>"
+"715","          <broker>"
+"716","            <brokerName>BTIG, Inc.</brokerName>"
+"717","            <brokerFileNo>008-65473</brokerFileNo>"
+"718","            <brokerCrdNo>000122225</brokerCrdNo>"
+"719","            <brokerLei>549300GTG9PL6WO3EC51</brokerLei>"
+"720","            <brokerStateCountry brokerState=US-CA brokerCountry=US/>"
+"721","            <grossCommission>920.08</grossCommission>"
+"722","          </broker>"
+"723","          <broker>"
+"724","            <brokerName>Oppenheimer &amp; Co., Inc.</brokerName>"
+"725","            <brokerFileNo>008-04077</brokerFileNo>"
+"726","            <brokerCrdNo>000000249</brokerCrdNo>"
+"727","            <brokerLei>254900VH02JQR2L8XD64</brokerLei>"
+"728","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"729","            <grossCommission>757.7</grossCommission>"
+"730","          </broker>"
+"731","          <broker>"
+"732","            <brokerName>Jefferies, LLC</brokerName>"
+"733","            <brokerFileNo>008-15074</brokerFileNo>"
+"734","            <brokerCrdNo>000002347</brokerCrdNo>"
+"735","            <brokerLei>58PU97L1C0WSRCWADL48</brokerLei>"
+"736","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"737","            <grossCommission>2103.02</grossCommission>"
+"738","          </broker>"
+"739","          <broker>"
+"740","            <brokerName>Stifel, Nicolaus &amp; Co., Inc.</brokerName>"
+"741","            <brokerFileNo>008-01447</brokerFileNo>"
+"742","            <brokerCrdNo>000000793</brokerCrdNo>"
+"743","            <brokerLei>5WUVMA08EYG4KEUPW589</brokerLei>"
+"744","            <brokerStateCountry brokerState=US-MO brokerCountry=US/>"
+"745","            <grossCommission>1271.72</grossCommission>"
+"746","          </broker>"
+"747","          <broker>"
+"748","            <brokerName>Stephens</brokerName>"
+"749","            <brokerFileNo>008-01927</brokerFileNo>"
+"750","            <brokerCrdNo>000003496</brokerCrdNo>"
+"751","            <brokerLei>213800LH6T9XDYZCA534</brokerLei>"
+"752","            <brokerStateCountry brokerState=US-AZ brokerCountry=US/>"
+"753","            <grossCommission>809.18</grossCommission>"
+"754","          </broker>"
+"755","          <broker>"
+"756","            <brokerName>Piper Jaffray &amp; Co.</brokerName>"
+"757","            <brokerFileNo>008-15204</brokerFileNo>"
+"758","            <brokerCrdNo>000000665</brokerCrdNo>"
+"759","            <brokerLei>549300GRQCWQ3XGH0H10</brokerLei>"
+"760","            <brokerStateCountry brokerState=US-MN brokerCountry=US/>"
+"761","            <grossCommission>898.68</grossCommission>"
+"762","          </broker>"
+"763","          <broker>"
+"764","            <brokerName>Craig - Hallum</brokerName>"
+"765","            <brokerFileNo>008-65407</brokerFileNo>"
+"766","            <brokerCrdNo>000121395</brokerCrdNo>"
+"767","            <brokerLei>549300YWNPUXBR9XZW77</brokerLei>"
+"768","            <brokerStateCountry brokerState=US-MN brokerCountry=US/>"
+"769","            <grossCommission>717.6</grossCommission>"
+"770","          </broker>"
+"771","          <broker>"
+"772","            <brokerName>Cowen</brokerName>"
+"773","            <brokerFileNo>008-22522</brokerFileNo>"
+"774","            <brokerCrdNo>000007616</brokerCrdNo>"
+"775","            <brokerLei>N/A</brokerLei>"
+"776","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"777","            <grossCommission>693.42</grossCommission>"
+"778","          </broker>"
+"779","        </brokers>"
+"780","        <aggregateCommission>22871.29</aggregateCommission>"
+"781","        <principalAggregatePurchase>0</principalAggregatePurchase>"
+"782","        <isBrokerageResearchPayment>N</isBrokerageResearchPayment>"
+"783","        <mnthlyAvgNetAssets>24037613.79</mnthlyAvgNetAssets>"
+"784","        <hasLineOfCredit>N</hasLineOfCredit>"
+"785","        <isInterfundLending>N</isInterfundLending>"
+"786","        <isInterfundBorrowing>N</isInterfundBorrowing>"
+"787","        <isSwingPricing>N</isSwingPricing>"
+"788","      </managementInvestmentQuestion>"
+"789","      <managementInvestmentQuestion>"
+"790","        <mgmtInvFundName>RG Tactical Market Neutral Fund</mgmtInvFundName>"
+"791","        <mgmtInvSeriesId>S000033851</mgmtInvSeriesId>"
+"792","        <mgmtInvLei>549300C9FCH6XRTRTK49</mgmtInvLei>"
+"793","        <isFirstFilingByFund>Y</isFirstFilingByFund>"
+"794","        <numAuthorizedClass>1</numAuthorizedClass>"
+"795","        <numAddedClass>0</numAddedClass>"
+"796","        <numTerminatedClass>0</numTerminatedClass>"
+"797","        <sharesOutstandings>"
+"798","          <sharesOutstanding sharesOutstandingClassName=Institutional Class sharesOutstandingClassId=C000107721 sharesOutstandingTickerSymbol=RFIIX/>"
+"799","        </sharesOutstandings>"
+"800","        <fundType>N/A</fundType>"
+"801","        <isNonDiversifiedCompany>N</isNonDiversifiedCompany>"
+"802","        <isForeignSubsidiary>N</isForeignSubsidiary>"
+"803","        <isFundSecuritiesLending>N</isFundSecuritiesLending>"
+"804","        <didFundLendSecurities>N</didFundLendSecurities>"
+"805","        <paymentToAgentManagerType>N/A</paymentToAgentManagerType>"
+"806","        <avgPortfolioSecuritiesValue>N/A</avgPortfolioSecuritiesValue>"
+"807","        <netIncomeSecuritiesLending>N/A</netIncomeSecuritiesLending>"
+"808","        <relyOnRuleType>N/A</relyOnRuleType>"
+"809","        <isExpenseLimitationInPlace>Y</isExpenseLimitationInPlace>"
+"810","        <isExpenseReducedOrWaived>Y</isExpenseReducedOrWaived>"
+"811","        <isFeesWaivedRecoupable>Y</isFeesWaivedRecoupable>"
+"812","        <isExpenseWaivedRecoupable>N</isExpenseWaivedRecoupable>"
+"813","        <investmentAdvisers>"
+"814","          <investmentAdviser>"
+"815","            <investmentAdviserName>RG Alts, LP</investmentAdviserName>"
+"816","            <investmentAdviserFileNo>801-116767</investmentAdviserFileNo>"
+"817","            <investmentAdviserCrdNo>000301263</investmentAdviserCrdNo>"
+"818","            <investmentAdviserLei>N/A</investmentAdviserLei>"
+"819","            <investmentAdviserStateCountry investmentAdviserCountry=US investmentAdviserState=US-TX/>"
+"820","            <isInvestmentAdviserHired>N</isInvestmentAdviserHired>"
+"821","          </investmentAdviser>"
+"822","        </investmentAdvisers>"
+"823","        <transferAgents>"
+"824","          <transferAgent>"
+"825","            <transferAgentName>Mutual Shareholder Services, LLC</transferAgentName>"
+"826","            <transferAgentFileNo>084-05821</transferAgentFileNo>"
+"827","            <transferAgentLei>N/A</transferAgentLei>"
+"828","            <transferAgentStateCountry transferAgentCountry=US transferAgentState=US-OH/>"
+"829","            <isTransferAgentAffiliated>N</isTransferAgentAffiliated>"
+"830","            <isTransferAgentSubAgent>N</isTransferAgentSubAgent>"
+"831","          </transferAgent>"
+"832","        </transferAgents>"
+"833","        <isTransferAgentHiredOrTerminated>N</isTransferAgentHiredOrTerminated>"
+"834","        <pricingServices>"
+"835","          <pricingService>"
+"836","            <pricingServiceName>SUNGARD/FIS MARKETMAP ANALYTIC PLATFORM</pricingServiceName>"
+"837","            <pricingServiceLei>N/A</pricingServiceLei>"
+"838","            <pricingServiceStateCountry pricingServiceCountry=US pricingServiceState=US-NY/>"
+"839","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"840","          </pricingService>"
+"841","        </pricingServices>"
+"842","        <isPricingServiceHiredOrTerminated>N</isPricingServiceHiredOrTerminated>"
+"843","        <custodians>"
+"844","          <custodian>"
+"845","            <custodianName>U.S. Bank, N.A.</custodianName>"
+"846","            <custodianLei>5493001WC5CQQI9L9G80</custodianLei>"
+"847","            <custodianStateCountry custodianCountry=US custodianState=US-OH/>"
+"848","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"849","            <isSubCustodian>N</isSubCustodian>"
+"850","            <custodyType>Bank - section 17(f)(1) (15 U.S.C. 80a-17(f)(1))</custodyType>"
+"851","          </custodian>"
+"852","          <custodian>"
+"853","            <custodianName>Jefferies, LLC</custodianName>"
+"854","            <custodianLei>58PU97L1C0WSRCWADL48</custodianLei>"
+"855","            <custodianStateCountry custodianCountry=US custodianState=US-NY/>"
+"856","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"857","            <isSubCustodian>N</isSubCustodian>"
+"858","            <custodyType>Securities depository - rule 17f-4 (17 CFR 270.17f-4)</custodyType>"
+"859","          </custodian>"
+"860","        </custodians>"
+"861","        <isCustodianHiredOrTerminated>Y</isCustodianHiredOrTerminated>"
+"862","        <shareholderServicingAgents>"
+"863","          <shareholderServicingAgent>"
+"864","            <shareholderServiceAgentName>Mutual Shareholder Services, LLC</shareholderServiceAgentName>"
+"865","            <shareholderServiceAgentLei>N/A</shareholderServiceAgentLei>"
+"866","            <shareholderServiceAgentStateCountry shareholderServiceAgentCountry=US shareholderServiceAgentState=US-OH/>"
+"867","            <isShareholderServiceAgentAffiliated>N</isShareholderServiceAgentAffiliated>"
+"868","            <isShareholderServiceAgentSubshare>N</isShareholderServiceAgentSubshare>"
+"869","          </shareholderServicingAgent>"
+"870","        </shareholderServicingAgents>"
+"871","        <isShareholderServiceHiredTerminated>N</isShareholderServiceHiredTerminated>"
+"872","        <admins>"
+"873","          <admin>"
+"874","            <adminName>Mutual Shareholder Services, LLC</adminName>"
+"875","            <adminLei>N/A</adminLei>"
+"876","            <adminStateCountry adminState=US-OH adminCountry=US/>"
+"877","            <isAdminAffiliated>N</isAdminAffiliated>"
+"878","            <isAdminSubAdmin>N</isAdminSubAdmin>"
+"879","          </admin>"
+"880","        </admins>"
+"881","        <isAdminHiredOrTerminated>N</isAdminHiredOrTerminated>"
+"882","        <brokers>"
+"883","          <broker>"
+"884","            <brokerName>Jefferies, LLC</brokerName>"
+"885","            <brokerFileNo>008-15074</brokerFileNo>"
+"886","            <brokerCrdNo>000002347</brokerCrdNo>"
+"887","            <brokerLei>58PU97L1C0WSRCWADL48</brokerLei>"
+"888","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"889","            <grossCommission>2357.29</grossCommission>"
+"890","          </broker>"
+"891","          <broker>"
+"892","            <brokerName>Stifel, Nicolaus &amp; Co</brokerName>"
+"893","            <brokerFileNo>008-01447</brokerFileNo>"
+"894","            <brokerCrdNo>000000793</brokerCrdNo>"
+"895","            <brokerLei>N/A</brokerLei>"
+"896","            <brokerStateCountry brokerState=US-MT brokerCountry=US/>"
+"897","            <grossCommission>7228.43</grossCommission>"
+"898","          </broker>"
+"899","          <broker>"
+"900","            <brokerName>Janney Montgomery Scott, LLC</brokerName>"
+"901","            <brokerFileNo>008-00462</brokerFileNo>"
+"902","            <brokerCrdNo>000000463</brokerCrdNo>"
+"903","            <brokerLei>549300QQRY1JCFQHYS08</brokerLei>"
+"904","            <brokerStateCountry brokerState=US-PA brokerCountry=US/>"
+"905","            <grossCommission>2.45</grossCommission>"
+"906","          </broker>"
+"907","          <broker>"
+"908","            <brokerName>Sidoti &amp; Company, LLC</brokerName>"
+"909","            <brokerFileNo>008-52141</brokerFileNo>"
+"910","            <brokerCrdNo>000102860</brokerCrdNo>"
+"911","            <brokerLei>254900FHBEGNA4NAO961</brokerLei>"
+"912","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"913","            <grossCommission>3.29</grossCommission>"
+"914","          </broker>"
+"915","        </brokers>"
+"916","        <aggregateCommission>9591.46</aggregateCommission>"
+"917","        <principalAggregatePurchase>0</principalAggregatePurchase>"
+"918","        <isBrokerageResearchPayment>N</isBrokerageResearchPayment>"
+"919","        <mnthlyAvgNetAssets>4260282.1</mnthlyAvgNetAssets>"
+"920","        <hasLineOfCredit>N</hasLineOfCredit>"
+"921","        <isInterfundLending>N</isInterfundLending>"
+"922","        <isInterfundBorrowing>N</isInterfundBorrowing>"
+"923","        <isSwingPricing>N</isSwingPricing>"
+"924","      </managementInvestmentQuestion>"
+"925","    </managementInvestmentQuestionSeriesInfo>"
+"926","    <attachmentsTab>"
+"927","      <isLegalProceedings>false</isLegalProceedings>"
+"928","      <isProvisionFinancialSupport>false</isProvisionFinancialSupport>"
+"929","      <isIPAReportInternalControl>true</isIPAReportInternalControl>"
+"930","      <isChangeAccPrinciples>false</isChangeAccPrinciples>"
+"931","      <isInfoRequiredEO>false</isInfoRequiredEO>"
+"932","      <isOtherInfoRequired>false</isOtherInfoRequired>"
+"933","    </attachmentsTab>"
+"934","    <signature registrantSignedName=RANGER FUNDS INVESTMENT TRUST signature=Jay Thompson signedDate=2020-10-13 title=CFO/>"
+"935","  </formData>"
+"936","</edgarSubmission>"
+"937","</XML>"
+"938","</TEXT>"
+"939","</DOCUMENT>"
+"940","<DOCUMENT>"
+"941","<TYPE>INTERNAL CONTROL RPT"
+"942","<SEQUENCE>2"
+"943","<FILENAME>rangerncen.htm"
+"944","<TEXT>"
+"945","<!doctype html public -//IETF//DTD HTML//EN>"
+"946","<HTML>"
+"947","<HEAD>"
+"948","<TITLE>Converted by EDGARwiz</TITLE>"
+"949","</HEAD>"
+"950","<BODY style=margin-top:0;font-family:Times New Roman; font-size:10pt; color:#000000>"
+"951","<P style=margin-top:109.067px; margin-bottom:36.333px; font-family:Arial align=center><B>Report of Independent Registered Public Accounting Firm</B></P>"
+"952","<P style=margin-top:0px; margin-bottom:21.8px; font-family:Arial align=justify>The Shareholders and Board of TrusteesRanger Funds Investment Trust:</P>"
+"953","<P style=margin-top:0px; margin-bottom:11.133px; font-family:Arial align=justify>In planning and performing our audits of the financial statements of Ranger Small Cap Fund, Ranger Quest for Income and Growth Fund, Ranger Micro Cap Fund, and RG Tactical Market Neutral Fund (collectively, the Funds), each a series of Ranger Funds Investment Trust (the Trust), as of and for the years or periods ended July&#160;31, 2020, in accordance with the standards of the Public Company Accounting Oversight Board (United States), we considered the Funds<font style='font-family:Arial Unicode MS,Arial'>&#8217;</font> internal control over financial reporting, including controls over safeguarding securities, as a basis for designing our auditing procedures for the purpose of expressing our opinions on the financial statements and to comply with the requirements of Form&#160;N-CEN, but not for the purpose of expressing an opinion on the effectiveness of the Funds<font style='font-family:Arial Unicode MS,Arial'>&#8217;</font> internal control over financial reporting. Accordingly, we express no such opinion.</P>"
+"954","<P style=margin-top:0px; margin-bottom:11.133px; font-family:Arial align=justify>Management of the Funds is responsible for establishing and maintaining effective internal control over financial reporting. In fulfilling this responsibility, estimates and judgments by management are required to assess the expected benefits and related costs of controls. A company<font style='font-family:Arial Unicode MS,Arial'>&#8217;</font>s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company<font style='font-family:Arial Unicode MS,Arial'>&#8217;</font>s internal control over financial reporting includes those policies and procedures that (1)&#160;pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2)&#160;provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3)&#160;provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company<font style='font-family:Arial Unicode MS,Arial'>&#8217;</font>s assets that could have a material effect on the financial statements.</P>"
+"955","<P style=margin-top:0px; margin-bottom:11.133px; font-family:Arial align=justify>Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.</P>"
+"956","<P style=margin-top:0px; margin-bottom:11.133px; font-family:Arial align=justify>A deficiency in internal control over financial reporting exists when the design or operation of a control does not allow management or employees, in the normal course of performing their assigned functions, to prevent or detect misstatements on a timely basis. A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the Fund<font style='font-family:Arial Unicode MS,Arial'>&#8217;</font>s annual or interim financial statements will not be prevented or detected on a timely basis.</P>"
+"957","<P style=margin-top:0px; margin-bottom:11.133px align=justify><BR>"
+"958","<BR></P>"
+"959","<P style=margin-top:0px; margin-bottom:13.333px; text-indent:290.067px; font-size:11pt align=justify>0</P>"
+"960","<P style=margin-top:0px; margin-bottom:11.133px; font-family:Arial,Times New Roman; page-break-before:always align=justify>Our consideration of the Funds<FONT style=font-family:Arial><font style='font-family:Arial Unicode MS,Arial'>&#8217;</font></FONT><FONT style=font-family:Arial> internal control over financial reporting was for the limited purpose described in the first</FONT><FONT style=font-family:Arial>&#160;</FONT><FONT style=font-family:Arial>paragraph and would not necessarily disclose all deficiencies in internal control that might be material weaknesses under standards established by the Public Company Accounting Oversight Board (United States). However, we noted no deficiencies in the Funds</FONT><FONT style=font-family:Arial><font style='font-family:Arial Unicode MS,Arial'>&#8217;</font></FONT><FONT style=font-family:Arial> internal control over financial reporting and its operation, including controls over safeguarding </FONT><FONT style=font-family:Arial>securities that</FONT><FONT style=font-family:Arial> we consider to be a material weakness as defined above as of </FONT><FONT style=font-family:Arial>July</FONT><FONT style=font-family:Arial> 3</FONT><FONT style=font-family:Arial>1, 20</FONT><FONT style=font-family:Arial>20</FONT><FONT style=font-family:Arial>.</FONT></P>"
+"961","<P style=margin-top:0px; margin-bottom:12.133px; font-family:Arial align=justify>This report is intended solely for the information and use of management and the Board of Trustees of Ranger Funds Investment Trust and the Securities and Exchange Commission, and is not intended to be and should not be used by anyone other than these specified parties.</P>"
+"962","<P style=margin-top:21.8px; margin-bottom:0px align=center><img src=rangerncen002.gif alt=[rangerncen002.gif] align=middle></P>"
+"963","<P style=margin-top:21.8px; margin-bottom:0px; font-family:Arial align=justify>Denver, ColoradoSeptember 21, 2020</P>"
+"964","<P style=margin-top:21.8px; margin-bottom:0px align=justify><BR>"
+"965","<BR></P>"
+"966","<P style=margin-top:0px; margin-bottom:13.333px; text-indent:290.067px; font-size:11pt align=justify>1</P>"
+"967","</BODY>"
+"968","<!-- EDGAR Validation Code: CC5C30FB -->"
+"969","</HTML>"
+"970","</TEXT>"
+"971","</DOCUMENT>"
+"972","<DOCUMENT>"
+"973","<TYPE>GRAPHIC"
+"974","<SEQUENCE>3"
+"975","<FILENAME>rangerncen002.gif"
+"976","<TEXT>"
+"977","begin 644 rangerncen002.gif"
+"978","M1TE&.#EAP@%A /<         ,P  9@  F0  S   _P S   S,P S9@ SF0 S"
+"979","MS  S_P!F  !F,P!F9@!FF0!FS !F_P9  9,P99@9F09S 9_P#,  #,"
+"980","M,P#,9@#,F0#,S #,_P#_  #_,P#_9@#_F0#_S #__S,  #, ,S, 9C, F3,"
+"981","MS#, _S,S #,S,S,S9C,SF3,SS#,S_S-F #-F,S-F9C-FF3-FS#-F_S.9 #.9"
+"982","M,S.99C.9F3.9S#.9_S/, #/,,S/,9C/,F3/,S#/,_S/_ #/_,S/_9C/_F3/_"
+"983","MS#/__V8  &8 ,V8 9F8 F68 S&8 _V8S &8S,V8S9F8SF68SS&8S_V9F &9F"
+"984","M,V9F9F9FF69FS&9F_V:9 &:9,V:99F:9F6:9S&:9_V;, &;,,V;,9F;,F6;,"
+"985","MS&;,_V;_ &;_,V;_9F;_F6;_S&;__YD  )D ,YD 9ID F9D S)D _YDS )DS"
+"986","M,YDS9IDSF9DSS)DS_YEF )EF,YEF9IEFF9EFS)EF_YF9 )F9,YF99IF9F9F9"
+"987","MS)F9_YG, )G,,YG,9IG,F9G,S)G,_YG_ )G_,YG_9IG_F9G_S)G__\P  ,P"
+"988","M,\P 9LP F<P S,P _\PS ,PS,\PS9LPSF<PSS,PS_\QF ,QF,\QF9LQFF<QF"
+"989","MS,QF_\R9 ,R9,\R99LR9F<R9S,R9_\S, ,S,,\S,9LS,F<S,S,S,_\S_ ,S_"
+"990","M,\S_9LS_F<S_S,S___\  /\ ,_\ 9O\ F?\ S/\ __\S /\S,_\S9O\SF?\S"
+"991","MS/\S__]F /]F,_]F9O]FF?]FS/]F__^9 /^9,_^99O^9F?^9S/^9___, /_,"
+"992","M,__,9O_,F?_,S/_,____ /__,___9O__F?__S/___P   ! 0$ @(# P,$!
+M0%!04&!@8'!P<( @)0D*@H+PL,# P-#0T.#@X/#P\/___P
+M
+M                     P     P@%A   (_PE,6,FC1DS:<R826/&3!HS
+M:<R826/&3!HJ9M*826/&3!HS5-*826/&C H  P8 & !@P( !  8, #  P( !
+M  8 & !@P    P , #  P( !  8, #  P    P8 &#  P( !  8, #  P( !
+M  8 &#  P( !  8, #!@P    P8, #!@ ( !  8, #  P    P8 &#  P( !
+M  8, #!@ ( ! P8 & !@P( !  8 & !@P    P , #  P( !  8 & !@ ( !
+M  8, #  P( !  8, #!@ ( ! P , #!@ ( !  8, #  P( ! P ,& !@ ( !
+M P , #!@ ( ! P , /\P8   0,& !@P ,  0, #  P ,    , #!@ 8,
+M  ,& &    888   !@!@@ $ &&    88 ( !!@!@   & &    88 ( ! !@
+M@ $ &&    88 ( ! !A@   &&   0 88   !@!@@ $ &&    8 8( !!@!@"
+"993","M@ $ &&    8 8( ! !A@   & &  0 8 ( !!@!@   & &    8 8   !@!@
+M@ $ &&    88 ( ! !A@   & &    88 ( !!A@ @ $& &  0 8 ( !!@!@"
+"994","M@ $ &   0 88   !A@ @ $& &  0!8PHPTS$C##K2,,,,,](P(PTJTC#_
+M(PTSTJ#C#3,,,-,](P(PTSS$C###/2H(-,]*@(@TJTJ B#3/,,.,*,\Q("
+"995","MPPPSTDC#CO,,,-,](PPXPTJ$C## P& &    88 ( ! !@ @ $ &&    88"
+"996","M ( ! !@ @ $& &  08 8( ! !@ @ $&&   08 8   !@!@@ $ &&    88"
+"997","M8   !A@ @ $& &    88 ( !!@!@   & &    8 8( ! !@ @ $& &  0 8
+M ( !!@!@   & &    8 8( ! !@ @ $&&   0 88   !A@ @ $&&   08
+M8( ! !A@@ $& &  0 8 ( !!@!@@ $ &   08 _V  0 88   !A@ @ $&"
+"998","M &    88 ( ! !@ @ $ &&  0 88   !A@ @ $ &&    8 8( ! !@ @ $
+M&&    8 8( ! !A@@ $& &    88 ( !!@!@   &&   0 88   !@!@   &"
+"999","M&   08 8( ! !A@@ $ &   088 ( !!@!@   &&   088 ( ! !A@   &
+M&   0 88( ! !@ @ $  6# @ $ !@ 8 &#    #!@ 8, #    #!@ 8, #"
+"1000","M@ $ !@ 8, # @ $#  P8 &  @ $#  P ,&  @ $#  P ,&#    #  P , #"
+"1001","M   #  P8 &#    #  P ,/\ P( !  8, #!@ ( !  8 & !@P( N9LQ<,9/&"
+"1002","MC)DK9M*8,6,FC1DS5-*8,9/&S!4S9M*8H6(FC9DK9JZ826/&C)DT9LRD,6,F"
+"1003","M#94T9M*824,EC1DJ9LRD,9.&BIDT5-*8,9-&!8 !  8, #  P( !  8, #"
+"1004","MP    P8, #!@ ( !  8 & !@ ( ! P , #!@ ( ! P ,& !@ ( !  8 & !@"
+"1005","M ( ! P , #!@ ( !  8 & !@P( !  8,& !@P    P8 &   08 8( ! !@
+M@ $&&   088 ( ! !A@   & &    88 ( !!@!@   & &  0 8 ( ! !@
+M@ '_ !A@   & &  0 8 ( ! !A@   & &    88 ( ! !@ @ $ &&  0 8
+M8   !A@ @ $& &    8 8   !@!@   &&   08 8   !@!@@ $& &  0 8
+M8   !A@ @ $ &&    8 8   !@!@@ $& &    88 ( !!@!@@ $ &   0 8"
+"1006","M ( ! !@ @ $ &&    8 8( ! !@ @ $& &    8 8   !A@ @ $ &   08
+M8   !@!@@ $& &    8 8( !!@!@@ $ &   0 8 ( !!@!@@ $ &   0 8
+M8   !A@ @ $ &&    88 ( ! !@ @ $& &  0 88( !_P 8 ( !!A@ @ $&"
+"1007","M&   08 8   !A@ @ $& &  0 88   !A@ @ $ &&    88 ( !!@!@ 32
+M,,.,-,PP(PTSTC#CC/2H(-,](PPXPTJ$C###.N,,-,](PPXPTS# C#3/2"
+"1008","MH(-,](PPXPTS# C#3/2,(.*-,PP(PTSTC##CO,,,-,\Q(PXPTJ% !@ $&
+M &    88 ( !!@!@@ $& &  0 8 ( ! !A@   &&   08 8( ! !A@   &
+M &    88 ( !!@!@@ $ &&    88 ( ! !A@   & &    88 ( !!@!@   &
+M &    8 8   !@!@@ $ &   ?\ &   08 8   !@!@   &&   0 88"
+"1009","M!A@ @ $ &   088 ( ! !@ @ $& &  08 8   !A@ @ $& &  0 88
+M!@#$   #!@ 8 &  @ $#  P , #    #  P ,&  @ $#  P8 &#    #!@ 8
+M &  @ $#!@ 8, #    #  P , #    #!@ 8 &#    #!@ 8, #    #  P8
+M &  @ $#  P8 &# @ $ !@P8 &  @ $ !@P , #    #!@ 8, # @ $ !@P
+M,&  @ $ !@P ,&  @ $#  P ,&  @ $#  P , #    #!@P ,&  @ $#  P8
+M &# @ '_  8 & !@P    P , #!@P    P8 & !@ ( !  8 & !@ ( !  8
+M& !@ ( ! P8 & !@ ( ! P ,& !@P    P8 & !@P    P8, #!@@)8T9JZ8
+M24/%3!HJ9LRD,6/&3!HJ:<R826,F#3/,2,.,-*A(PPPSTC C#2K,2,,,*LQ(
+M@PHSTC C#2K,,,-,\Q(PXPTJ# C#3/2,,-,]*@PHPTS%!A@ $ &&  0 8"
+"1010","M ( ! !@ @ $ &&    8 8( !!@!@   & &  0 8 ( ! !@ @ $& &  0 8"
+"1011","M ( ! !A@   &&   0 88   !A@ @ $& &  08 8( ! !@ _X !!A@ @ $&"
+"1012","M &  0 88   !@!@@ $ &&  0 8 ( !!A@ @ $& &  0 8 ( !!@!@@ $
+M&&    8 8( ! !A@@ $ &   0 8 ( !!@!@@ $ &   08 8   !@!@@ $
+M&&    888   !AA@   & &  0 88   !A@ @ $ &   08 8( ! !A@   &
+M&   0 88   !@!@@ $& &  08 8( ! !@ @ $& &  0 88   !@!@@ $&"
+"1013","M &    88 ( !!@!@@ $ &   0 8 ( !!A@ @ $& &  0 88( ! !@ @ $"
+"1014","M&   08 8( ! !A@@ $ &   0 88/\   8 8( ! !A@   & &  0 88
+M!@!@@ $ &   0 8 ( ! !@ @ $& &  0 8 ( !!@!@   & &  0 88"
+"1015","M!A@ @ $ &&  0 8 ( !!A@ @ $&&   0 8 ( !!A@ @ $& &    8 8( !"
+"1016","M !A@   & &    8 8   !D B#3/,2,,,,](PPXPTS$C#CO,2,,,,](PPXPT
+MJ# C#3.H,,-,ZA(PPPSTC C#3/2,,-,](PXPHSS$C#CO,2,,,*M(PPXPT"
+"1017","MJ###C#2H,,.,-,R@P@P5!@!@   & &  08 8( !!@  $ , #!@ 8   0 &"
+"1018","M#!@ 8   0/_  P8, #    #!@ 8, # @ $ !@ 8 &#    #  P , #    #
+M!@ 8 &  @ $#  P , #    #!@ 8, #    #!@ 8, #    #!@ 8 &  @ $
+M!@ 8,&  @ $ !@ 8, # @ $ !@ 8, #    #!@ 8, # @ $ !@ 8, #    #
+M!@ 8, #    #  P8 &  @ $ !@ 8,&  @ $#  P , # @ $ !@P , #    #
+M  P8 &#    #  P8 &  @ $ !@ 8 &  @ $#  P8 &#    #!@ 8, #    #
+M!@ 8, #    #  P ,&  @ $#  P , # @ $ !@ 8, #    #!@ 8_S!@ ( !
+M  8  #  P   !AA@   & &  0 88   !@!@@ $ &   08 8( ! !@ @ $&
+M &  08 8( !!@!@   &&   08 8   !AA@@ $ &   0 8 ( !!@!@@ $&"
+"1019","M &    888   !@!@   & &  0 88   !@!@   & &  0 8 ( ! !@ @ $&"
+"1020","M &  0 88   !NC##.N,,.,-*A(PPPSKC####/2H,*,-,RXP@PSTC#BC3,
+M2,,,,](P(XTKS##CC/,2(,*,](PPPPSTC C#3/,,,-,](P(PTSTC C#3/2
+M,,-,](P(PT5 !A@   &&   0 88    /\8 ( !!@!@@ $ &&    8 8( !
+M !@ @ $ &   0 88   !A@ @ $& &  08 8( ! !@ @ $&&   088 ( !"
+"1021","M !A@   &&   08 8( ! !A@   & &    888   !@!@@ $ &&    8 8( !
+M !A@@ $ &     88 ( !!@!@@ $ &   08 8( ! !A@   &&   0 8 ( !
+M!@!@@ $ &&    88 ( !!A@ @ $& &    88 ( !!@!@   & &    88 ( !
+M!@!@@ $ &&    88 ( !!@!@@ $ &&    8 8( !!@!@@ $ &&    88 ( !
+M!@!@   & &    ;_&   0 88   !@!@   &&   08 8   !A@ @ $& &"
+"1022","M 0 8 ( !!@!@   &&   08 8   !A@ @ $&&&    88 ( ! !@ @ $& &
+M  8 8( ! !A@   &&   08 8( ! !@ @ $ &   0 8 ( ! !A@   & &"
+"1023","M 08 8   !@!@@ $ &&    88  ! #  P ,    ,& !@ 8,    , #!@ 8,"
+"1024","M  , #!@ 8,  0 & !@P ,  0, #!@ 8   0, +#&3QDP:,VG,F$ECQDP:
+M,VG,I#&3QHR9-&;2F$EC)@T5,VFHI#%C)HT9,VG,F$ECADH:,U?,I*&2_R8-
+ME31FJ*0Q<\5,&BIIS%PQDX9*&C,8!@ 8, # @ $ !@ 8,&#    #  P ,&
+M@ $#  P ,&# @ $ !@P ,&  @ $ !@ 8 &  @ $ !@ 8 &# @ $ !@ 8 &
+M@ $#  P ,&  @ $ !@P , #    #!@ 8, #    #!@ 8 &  @ $#  P ,&
+M@ $ !@P8, # @ $ !@ 8 &#    #  P , #    #!@ 8, # @ $ !@!@   &
+M &    8 8   !@!@   &&   0 88   !A@ @ $& &  0 88   !@!@   &
+M &  0 88   !@!@   & &  0 8 ( ! !@ @/\!!@!@@ $ &&     8 ( !
+M!A@ @ $ &&    88 ( ! !A@   & &    888   !@!@   &&   088 ( !"
+"1025","M !A@   & &    88 ( ! !A@   & &  0 88   !@!@   &&   08 8"
+"1026","M!@!@@ $ &   0 8 ( !!A@ @ $& &  08 8( !!@!@@ $ &   0 88( !
+M !@ @ $& &  0 88   !A@ @ $& &  0 8 ( !!A@ @ $ &   08 8"
+"1027","M!A@ @ $ &&  0 88   !@!@   &&   0 88  MTC#CC/2H*--*A((PTJ"
+"1028","MTC#CC/2H*--*A(PPS_*M(PPXPTS$C###/22,.,-*A(PXPKS$C###/2,,,,"
+"1029","M,\PPPPPSS# C#3/,,,,,,\PPPPPSS#####/,4 &  08 8   !A@ @ $& &"
+"1030","M  88 ( !!@!@   & &  0 8 ( ! !A@   &&   08 8( ! !A@@ $ &&"
+"1031","M  88 ( ! !@ @ $&&   08 8   !A@ @ $ &&    88 ( !!A@ @ $& &
+M  88 ( ! !@ @ $& &  0 8 ( ! !A@   & &    8 8( ! !A@   && 
+M 08 8( ! !@ @ $ &&    8 8( ! !A@   &&&    88 ( ! !A@   && "
+"1032","M_P$ &   08 8( ! !A@   & &  0 88( ! !@ @ $ &&  0 8 ( !!@!@
+M@ $ &&     Q8   0 & !@ 8,  0, #  P ,  0 & !@ 8,  0 &#  P
+M8   0 & !@P ,    , #  P ,  0 &#  P8   0, #!@ 8   0, #!@
+M8,  0 &#  P8   0, #!@ 8,    ,& !@P ,    ,& !@ 8   0 & !@"
+"1033","M8,    , #!@ 8   0, #!@ 8   0 &#  P8   0 & !@P ,    ,& !@P
+M ,    ,& !@ 8,    , #  P ,  0 &#  P8   ?\ EI@Q8\:,&3-FS)@Q
+M8\:,&3-FS)@Q8\:,&3-FTI@QD\9,&C-4TI@QD\:,F31FS*2A@@$#!@P8,&#
+M@ $#!@P8,&# @ $#!@P8,&# @ $#!@\#!@ 88   !@!@   &&   0 88"
+"1034","M!A@ @ $& &    888   !@!@   & &    88 ( !!@!@   & &  0 88
+M!A@ @ $ &   0 88( ! !A@   &&   0 88   !@!@   &&   08 8( !"
+"1035","M!A@ @ $ &   088 ( !!@!@@ $ &&    88 ( !!@!@@ $ &&    88 ( !
+M!AA@   & &  0 8 ( !!@#_8( ! !@ @ $& &  08 8( ! !A@@ $& &
+M  8 8   !@!@   &&   08 8   !AA@   & &    888   !@!@   && 
+M 08 8( !!@!@@ $& &    88 ( !!@!@   &&   08 8   !@!@@ $ &&"
+"1036","M  888   !AA@   &&   088 ( !!@!@@ $ &   0 8 ( !!@!@@ $ & 
+M 0 8 ( !!@!@   & &    88 ( ! !@ @ $ &&    88 ( ! !A@   && "
+"1037","M 08 8( ! !@ @ $&&   08 8   !@!@   &&&    8 8   !@!@@ $ &&
+M  88_P  0 88   !@!@@ $ &&    88 ( !!@!@@ $& &    88 ( ! !A@"
+"1038","M   &R $####   ,,,,   PPPP  ####   ,,,,   PPPP &-*@PPXPTS$C#
+MC#2H,,-*LQ(PPPG!@!@   &&&    8 8   !@!@   &&   08 8( ! !A@
+M   & &    8 8( ! !A@   & &  0 8 ( !!@!@@ $ &&    8 8( ! !A@"
+"1039","M@ $ &&    8 8   !A@ @ $& &    88 ( !!@!@@ $ &&    8 !( !  8"
+"1040","M& !@ ( ! P , #!@P    P8 & !@ ( !  8, #!@ ( ! /\&#  P ,    ,"
+"1041","M#!@ 8   0 & !@ 8   0 & !@  ,    ,& !@P8   0 & !@ 8,    ,
+M#  P ,    , #  P8   0, #!@ 8,  0 & !@ 8,    , #!@ 8,    ,
+M#!@ 8,    , #  P ,    , #  P ,  0 & !@ 8,  0 &#  P ,  0 &"
+"1042","M !@P ,    , #  P ,  0 & !@ 8     , #  P8   0, #  P ,    ,"
+"1043","M#!@ 8,    ,& !@P ,  0 & !@P8   0, #  P ,  0 &#  P ,    ,
+M#  P8   0 & !@P ( !!A@ @ '_ !@ @ $& &  0 88   !A@ @ $ & "
+"1044","M 08 8   !AA@   & &    8 8   !A@ @ $ &   08 8   !A@ @ $& &"
+"1045","M 0 88   !A@ @ $& &  08 8( ! !@ @ $ &  #,](PXPHSS$C###/2,,-"
+"1046","M,](P@PHG!A@ @ $ &   08 8( ! !A@@ $ &&    88 ( !!@!@@ $ &&
+M  88 ( !!@!@@ $ &   08 8   !@!@   & &  0 88   !@!@   & &"
+"1047","M 0 88   !@!@   &&   0 8 ( ! !@ @ $& &  0 88   !A@ @ $&& 
+M 0 88   _P8 8   !@!@@ $ &   0 88   !A@ @ $ &&    888   !@!@"
+"1048","M@ $ &&  0 88   !A@ @ $&&   0888    !@ @ $ &&    88 ( !!@!@"
+"1049","M@ $ &&    888   !@!@   &&   08 8( ! !@ @ $& &  0 88   !@!@"
+"1050","M@ $ &&    8 8( ! !A@   &&   08 8( !!@!@@ $ &   08 8( ! !@"
+"1051","M@ $ &   08 8( !!@!@   &&&    888   !@!@   &&   0888( ! !A@"
+"1052","M   &&   0888   !@!@@ $& &    8 8   !A@ @ $& &   /\&&   0 8"
+"1053","M ( !!@!@@ $& &  0 8 ( !!AA@   & &  0 88   !@!@   & &    88"
+"1054","M8   !@!@@ $ &&    8 8   !A@ @ $& &  0 8 ( ! !A@@ $ &&    8
+M8   !A@ @ $& &  0 8 ( !!@!@   &   0 P ,& !@ ( !  8 & !@ ( !"
+"1055","M P ,& !@@ HS9M*826.&2IHT9LRD,4,EC1DG  8 &#  P( !  8, #  P"
+"1056","M P , #  P    P , #!@ ( ! P , #  P    P8, #!@ ( ! P8 &#!@ ( !"
+"1057","M  8 &#  P( !  8, #!@ ( ! P8 &##_ ,  0, #!@ 8,    ,& !@ 8 "
+"1058","M 0, #  P ,    ,& !@ 8,    ,&#  P8,    ,& !@ 8   0, #!@ 8 "
+"1059","M 0, #  P ,    ,& !@P ,    , #!@ 8   0,&#  P8   0, #!@ 8 
+M 0, #  P    0,& !@P ,    , #  P ,  0 &#  P ,  0 &#  P ,
+M 0 88   !A@ @ $& &  0 8 ( ! !@ @ $ &&  0 88   !@!@@ $ &&
+M  8 8   !@!@@ $ &   0 8 ( !!@!@@ $& &    8 8   !A@ @ $ & 
+M 0 8 ( !!A@ _X ! !@ @ $& &  0 8 ( ! !A@@ $ &   0 88   !@!@
+M   & &    8 8( ! !@ @ $&&   0 8 ( !!A@ @ $& &  0 8 ( ! !A@
+M   & &    88 ( !!@!@@ $ &&    88 ( !!@!@   &&   088 ( !!@!@"
+"1060","M@ $ &   08 8( ! !@ @ $& &  0 88   !A@ @ $& &  08 8( ! !@
+M@ $P,,-,]*@PHPTS# C#2K,2,.,-,QP8H ! !@ @ $ &&    88 ( !!@!@"
+"1061","M@ $ &&  0 88( ! !@ @ $ &   088 ( !!A@ @ $ &   08 8/\   8
+M8   !AA@   & &  0 88   !@!@   & &    8 8( ! !@ @ $ &&    8"
+"1062","M8   !A@ @ $& &  0 88   !A@ @ $& &    88 ( ! !@ @ $ &   08"
+"1063","M8( ! !@ @ $ &&    8 8( ! !A@@ $ &   0 8 ( !!A@ @ $ &&    8
+M8   !@!@   &&   0 88   !@!@@ $& &  08 8   !@!@   &&&    88
+M ( !!@!@   &&   0 8 ( ! !A@   & &    88 ( ! !@ @ $ &&    88"
+"1064","M ( !!@!@   & &    88 ( ! !A@   &&&#_   &&   08 8( ! !A@   &
+M &  0 8 ( !!@!@ $ , #  P( !  8,& !@ ( !  8 &#  P( !  8, #!@"
+"1065","M ( ! P , #!@ ( ! P8 &#!@ ( ! P ,& !@P    P8 & !@ ( ! P ,& !@"
+"1066","M ( !  8, #!@ ( ! P , #!@P    P ,& !@P    P , #  P( !  8, #!@"
+"1067","M ( !  8 &#  P    P8 & !@P    P8 & !@P    P , #  P( !  8, #"
+"1068","MP    P ,& ! A1DJ:<R826/&C!DS:<R824/%C),!  8, #!@ ( !  8 &#"
+"1069","MP( !  8 & !@ ( !_P &#!@ 8,  0 & !@ 8   0 & !@P ,    ,& !@P"
+"1070","M ,    , #!@ 8   0 &#  P8   0, #!@ 8   0,& &    88 ( !!@!@
+M@ $ &&    88 ( !!@!@@ $ &   08 8   !A@ @ $& &  0 88   !A@
+M@ $& &  0 88   !A@ @ $ &&    888   !@!@   &&   0 8 ( !!@!@
+M@ $ &   08 8( ! !@ @ $ &&    8 8( ! !A@@ $ &   08 8   !@!@
+M@ $ &&    88 ( !!@!@   &&   0 8 ( !!@!@@ $ &   08 8( ! /\8
+M8   !A@ @ $& &  0 8 ( ! !@ @ $& &    8 8   !A@ @ $ &&    8"
+"1071","M8( ! !A@   & &  0 8 ( ! !A@@ $ &   08 8( ! !A@   &&   08
+M8   !A@ @ $ &   0 8 ( !!@!@@ $ &&    88 ( ! !A@   & &  0 8
+M ( !!@!@   & &  0 8 ( !!@!@   &&&    8 8   !@!@@ $& &  0 8
+M ( ! !@ @ $& &  0 8 ( !!@!@@ $ &&    8 8( ! !A@   &&   08
+M8( ! !@ @ $ &&    888( ! !@ @S3,2,.,-,S_N,(,,](PXPHSS$C##!X
+M&   08 8( ! !A@   & &    88 ( !!@!@@ $ &   0 8 ( ! !A@   &
+M&   0 88( ! !@ @ $& &  0 8 ( !!@!@@ $ &&    88 ( !!@!@@ $
+M&   0 88   !@!@   &&   08 8( ! !A@   & &    8 8   !@!@@ $&
+M &  0 8 ( !!@!@@ $ &   0 8 ( !!@!@   & &    88 ( !!@!@
+M,6  @ $ !@P ,&  @ $#  P8, # @ $ !@P , #    #  P8, #    #!@ 8
+M &#    #  P8 &  @ $#_P ,& !@ ( !  8 &#  P    P8 &#!@P    P ,
+M& !@P( !  8 & !@P    P8 & !@ ( !  8,& !@P    P ,& !@P( !  8
+M&#  P( !  8, #  P    P8 &#  P( ! P , #  P( ! P , #  P    P ,
+M #  P( !  8, #!@P    P8, #  P    P , #  P    P8 & !@P( !  8
+M&#  P( ! P8 & !@ ( ! P ,& !@ ( !  8, #!@ ( !  8 & !@P    P8,
+M #  P( !  8, #  P    P ,&   08 8   !@!@@ $ &&    88 ( !!@!@"
+"1072","M /\ !A@ @ $ &   0 80 4SS$B#C/2,,,,,](PPXPTS$C##<& &  0 8"
+"1073","M8   !A@ @ $& &  0 88( ! !A@   &&   08 8( ! !@ @ $& &  08
+M8   !@!@@ $ &   0 88( ! !@ @ $ &   08 8   !@!@   &&   0 8"
+"1074","M ( ! !A@@ $ &   0 8 ( ! !@ @ $ &&  0 88( ! !@ @ $ &   08
+M8( ! !@ @ $ &&    888   !A@ @ $& &  0 8 ( ! !@ @ $& &    88"
+"1075","M ( !!@!@   &&   0 8 ( !!@!@   &&&    88 (#_ 0 8 ( !!@!@   &
+M&   0 88   !@!@@ $ &&    8 8( !!@!@@ $ &&  0 8 ( ! !@ @ $&
+M &    8 8   !A@ @ $&    0 8 ( !!A@ @ $& &    88 ( ! !A@   &"
+"1076","M &    8 8( ! !@ @ $ &   08 8( ! !A@   & &    8 8   !A@ @ $
+M&&  0 88( ! !A@   &&   0 8 ( ! !@ @ $ &   08 8( ! !A@   &"
+"1077","M&   08 8   !A@ @ $ &&    8 8   !@!@@ $ &&  0 8 ( ! !A@   &"
+"1078","M&   08 8( !!@!@@ $ &  _P$& &    88 ( ! !@ @ $&&   08 8
+M!@!@@ $ &&  0 8 ( ! !@ @ $ &   088 ( ! !A@   &&&   %2@(@TS
+MS$C###/2,.,*,]*@P@PSKG @ $ &&    8 8   !@ $@ $#  P , #    #"
+"1079","M  P8 &#    #  P8, #    #  P ,&  @ $#  P8 &# @ $ !@ 8, # @ $"
+"1080","M!@ 8, # @ $#  P ,&# @ $ !@P , # @ $ !@P ,&  @ $#  P8 &  @ $"
+"1081","M!@ 8,&  @ $#  P , # @ $ !@P8 &#    #  P ,&  @ $#  P ,&  @ $#"
+"1082","M!@ 8,/\ P( !  8, #!@ ( !  8 & !@ ( !  8, #  P( !  8, #!@ ( !"
+"1083","M  8, #!@ ( ! P ,&#  P( !  8, #  P    P8 & !@ ( ! P ,& !@ ( !"
+"1084","M P ,&#  P    P8 &#!@P    P8 & !@P    P8 & !@P( !  8, #!@ ( !"
+"1085","M P ,& !@@ $ &&    88 ( ! !@ @ $& &  0 88( ! !A@   & &    8
+M8   !@!@@ $ &&  0 88   !A@ @ $& &    88 ( !!@!@@ $ &&    8"
+"1086","M8( ! !A@   & &  08 8( ! !@ @ $& &    88 ( !!@#_8   !@!@@ $
+M&   0 8 ( !!A@ @ $ &   0 88   !A@ @ $ &&    88 ( !!@!@   &
+M &    8 8( !!@!@@ $ &&    8 8( ! !@ @ $ &   50P(PTJTC#CC/2
+M,,-,\Q(PXPTS'!B@ $ &   0 88   !A@ @ $ &&    8 8( ! !@ @ $
+M&   08 8   !A@ @ $& &  0 88   !A@ @ $ &   0 88   !A@ @ $&"
+"1087","M&   08 8   !A@ @ $ &   08 8   !A@ @ $& &  0 88   !A@ @ $
+M&&    88 ( ! !@ @ $ &&    88_P  0 8 ( ! !@ @ $& &  0 8 ( !
+M !A@@ $ &   0 8 ( ! !@ @ $ &   0 8 ( !!AA@   &&   08 8"
+"1088","M!A@ @ $ &&    8 8( !!@!@   & &    8 8   !@!@   & &  0 88
+M!@!@@ $ &&    88 ( ! !A@   &&   0 88   !@!@   & &  0 8 ( !
+M!@!@   & &  0 8 ( ! !@ @ $ &&    88 ( !!@!@@ $ &   08 8( !
+M !@ @ $& &    8 8   !@!@@ $ &&  0 8 ( !!@!@   & &  0 88
+M!A@ @ $ &/]@   & &    8  ! #  P ,&#    #  P ,&  @ $ !@P , #
+M@ $ !@ 8, # @ $ !@ 8,&  @ $ !@P ,&#    #  P ,&#    #!@ 8, #
+M   #   8, # @ $ !@ 8,&  @ $#!@ 8 &#    #!@ 8 &#    #!@ 8, #
+M@ $JS)A)8\9,&C-FS*0QDX:*F31F>  8,&  @ $#  P8 &#    #!@ 8,&
+M@ $#!@ 8, #    #!@ 8 &#    #!@ 8 &  @ $ !@ 8, # @ $ !@ 8 &
+M@ $ !@ 8 &#    #  P8, #    #!@ 8 &#    #  P ,&  @ '_  8 &#
+MP( !  8, #!@ ( ! P ,& !@P    P8 &#  P    P , #!@ ( !!@!@   &
+M&   08 8( !!@!@@ $ &&    888   !@!@@ $ &&    88 ( ! !A@   &"
+"1089","M &  0 8 ( ! !A@   &&&    88 ( !!@!@@ $ &   08 8( ! !A@   &"
+"1090","M &  0 88   !@!@@ $ &&    8 8( ! !A@@ $ &   08 8( ! !A@   &"
+"1091","M&   08 8( ! !A@@ $ &   0 8 ( ! !@ @ $& &    88 ( !!@!@   &"
+"1092","M&   08 8( !!@!@   & &    888   _P88 ( !!@!@   & &    8 8( !
+M!@!@@ $ &&  0 88   !A@ @ $ &&    88 ( !!@!@   &&   08 8( !
+M !@ @ $& &  08 8   !@!@@ $ &   0 88   !A@ @ $ &&    8 8( !
+M !A@@ $& &  0 8 ( !!@!@   & &    88 ( ! !@ @ $& &  0 8 ( !
+M!@!@   & $%-*@P(PTSS$C#C#2H,,-,](PPPPG!@!@   &&   0 88"
+"1093","M!@!@   & &    8 8   !A@ @ $&&   08 8( ! !@ @ $ &&    88 ( !
+M!A@ @ $ &   ?\& &  08 8   !A@ @ $ &   08  ( ! !A@   && 
+M 0 8 ( !!@!@   & &  08 8   !@!@@ $ &&    88 ( ! !A@   & &"
+"1094","M  88 ( !!@!@@ $& &    88 ( ! !A@   &&   0 8 ( !!@!@@ $ & "
+"1095","M 0 8 ( !!@!@@ $ &&    888   !A@ @ $& &  0 88   !A@ @ $ &&
+M  88  ! #!@ 8,  0 & !@ 8   0 &#  P ,    ,& !@ 8   0, #!@"
+"1096","M8   0 & !@P ,    , #  P8   0 &#  P8   0 &#  P8   0/_  P8"
+"1097","M &#    #!@ 8, # @ $#  P8 &#    #  P ,&  @ $#  P , # @ $ !@ 8"
+"1098","M, # @ $ !@P , #    #!@ 8 &#    #!@ 8 &#    #!@ 8 &#    #!@ 8"
+"1099","M &  @ $ !@P , #    #  P ,&#    #  P8 &#    #!@ 8 &#    #  P8"
+"1100","M &#    #  P , # @ $#  P ,&  @ $#  P ,&  @ $#  P , # @ $ !@ 8"
+"1101","M, #   QFS*2ADL8,E31FTIBADL9,&C,\!A@ @ $ &&    8 8   !A@ @ $&"
+"1102","M &  0 8 ( !!@!@   & &    8 8   !A@ _X !!@!@@ $ &&    8 8( !
+M !A@   &&   0 88( ! !A@@ $ &&    888( ! !@ @ $ &&  0 88
+M!AA@   &&   0 88   !A@ @ $ &   0 88   !@!@   &&&    8 8
+M!A@ @ $ &&    8 8( ! !@ @ $& &  08 8   !@!@   &&   08 8( !
+M !@ @ $ &   0 8 ( ! !@ @ $ &   08 8   !@!@@ $ &   0 8 ( !"
+"1103","M !@ @ $ &&    88 ( !!@!@   &&   08 8( !!@!@   & &    88 ( !
+M!@!@   & &  0 88/\   88 ( !!@!@   & &  0 8 ( !!@!@@ $ &&
+M  8 8   !@!@   & &    8 8   !@!@   &&   08 8( ! !@ @ $& &"
+"1104","M  8 8( ! !A@   &&   08 8( ! !@ @ $& &    8 8( ! !A@   && "
+"1105","M 08 8   !@!@@ $ &&    88 ( !!A@ @ $& &  0 8 ( ! !A@   & &
+M  8 8( ! !A@   &&   0 8 ( !!@!@   &&   0 88   !@!@@ $ &&
+M  8 8( ! !A@   &&   0 88( ! !A@  !42,,,,](P(PTSTC##C#3,,/_
+M#2K,<&(   8 8( ! !A@   &&&    88 ( !!@!@@ $& &    88 ( !!A@
+M@ $&&   08 8( ! !@ @ $ &   08 8( ! !@ @ $ &&     Q ,    ,
+M#!@ 8,    , #!@ 8,    , #!@ 8   0 &#  P ,  0 &#  P ,  0,"
+"1106","M#!@ 8,    ,& !@ 8,    ,& !@ 8,  0 &#  P ,  0 & !@ 8   0,
+M#!@ 8,    ,& !@ 8   0, #!@P ,  0 &#  P8,    ,& !@P ,  0 &"
+"1107","M#  P8,    ,&#  P ,  0 &#  P8   0, #  P_V  @ $ !@ 8,&  @ $"
+"1108","M!@P ,&  @ $#!@ 8, # @ $ !@P , #    #!@ 8 &#    #!@ 8 &  @ $"
+"1109","M!@P ,&  @ $#!@ 8,&  @ $#!@ 8, #    #!@ 8 &  @ $#!@ 8, # @ $#"
+"1110","M  P , #    #!@ 8 ( ! !A@   &&   088 ( !!@!@   & &    8 8( !
+M !A@   &&   08 8   !@!@@ $ &   08 8( !!@!@   &&&    88 ( !
+M!@!@   & &  0 88   !@!@@ $& &    88 ( !!A@ @ $ &   088 ( !
+M !@ @ $ &&    8 8   !O\ 8( !,###C#2H,,-,\PP(PTJTC##C#3,< *"
+"1111","M 08 8   !@!@@ $ &   0 8 ( ! !@ @ $ &   08 8   !@!@   & &"
+"1112","M  8 8   !@!@@ $ &&    8 8   !AA@   &&   08 8( ! !A@   & &"
+"1113","M 0 8 ( !!@!@@ $ &   0 88   !@!@   &&   08 8( ! !@ @ $ &&"
+"1114","M  8 8( ! !A@   & &  0 88( ! !@ @ $ &   088 ( !!A@ @ $& &"
+"1115","M  88 ( !!@!@@ $ &&    8 8( ! !@ @ $ &   08 8( ! !@ @ $& &
+M  ;_&   0 8 ( ! !@ @ $ &   088 ( ! !@ @ $ &   0 88( ! !@"
+"1116","M@ $& &    8 8( !!@!@@ $ &   0 88   !@!@   & &  0 88( ! !A@"
+"1117","M@ $ &   0 88   !A@ @ $& &  0 88   !@!@   & &    8 8   !AA@"
+"1118","M   & &  08 8   !@!@   &&   0 88   !AA@   & &  0 88   !@!@
+M   & &    8 8   !A@ @ $& &  0 88   !A@ @ $& &    88 ( ! !A@"
+"1119","M   & &    8 8( ! !@ @ $ &&    8 !( !  8, #  _\  0 & !@P ,
+M  ,& !@ 8   0 &#  P8   0 &#  P8,    , #!@P ,    , #%!A)HV9
+M-&;,7#%C)HT9,VG,I*'B9   0, #!@ 8   0 &#!@ 8,  0 & !@P8 
+M 0 &#  P8   0, #!@ 8   0,& !@P ,    ,&#  P ,    , #  P8 "
+"1120","M 0 & !@P ,  0 &#  P ,    , #!@P ,  0 &#  P ,    , #!@ 8,"
+"1121","M  , #  P8   0, #!@ 8   0 & !@ 8   0,& !@ 8   0 &#  P ,
+M 0 & !@P ,    , #!@P ,   /\#!@ 8, #    #!@ 8 &#    #  P8 &"
+"1122","M 08 8( !!@!@@ $ &&    8 8( ! !A@   &&&    88 ( ! !A@@ $ &&"
+"1123","M  88 ( ! !@ @ $ &&    88 ( !!@!@@ $ &&    8 8   !@!@   & &
+M 0 8 ( !!@!@@ $ &   0 8 ( ! !A@@ $ &&    88 ( !!@!@   && 
+M 0 88   !@!@@ $ &   08 8( ! !@ @ $ &&    88 ( ! !A@   && 
+M 08 8( !!@!@   &&   08 8   !@!@   & &  08 8   !A@ @ $& &"
+"1124","M 0 88 #_  88 ( !!@!@   & &  08 8( !!@!@   &&&    8 8( ! !A@
+M   &&   08 8( ! !@ @ $& &  0 8 ( !!@!@   &&&    8   ,SKC##
+MCO,,,-,ZXP(PTSJ# C#2< &   08 8( !!@!@@ $ &   0 8 ( !!A@
+M@ $ &&    8 8   !A@ @ $& &  088 ( ! !@ @ $& &    8 8( ! !A@"
+"1125","M   &&&    88 ( !!@!@   & &    8 8( ! !A@@ $& &    8 8( ! !A@"
+"1126","M@ $ &&    8 8   !@!@@ $ &&    8 8   !@!@@ $& & _P$ &   088"
+"1127","M ( ! !A@   &&   0 88   !A@ @ $& &    8 8( ! !@ @ $ &&    88
+M ( !!A@ @ $ &   08 8( ! !@ @ $ &   0 8 ( ! !A@   &&   0 8"
+"1128","M8   !A@ @ $ &   08 8   !@!@   &&   088 ( !!@!@@ $ &&    8"
+"1129","M8( ! !A@   &   0 P8 &#!@ ( ! P8 &#!@ ( !  8, #!@P    P8, #"
+"1130","MP    P ,& !@P    P8 & !@ ( !  8 &#!@ ( !  8, #  P    P8 &#"
+"1131","MP    P ,&#  P( !  8, #!@ ( ! /\&#  P ,    , #!@ 8,    ,& !@"
+"1132","M8,    , #  P8   0 & !@ 8,    ,& !@P8   0 & !@ 8,    , #  P"
+"1133","M8   0, #!@ 8   0 & !@P ,  0 & !@P ,    ,& !@ 8   0,&J#!C"
+"1134","M)HV9-&;2F#%C)HV9-&;2F'$R ,  0 & !@ 8,    , #!@ 8,    , #  P
+M8   0, #!@ 8   0 & !@ 8   0, #!@ 8,    88 ( !!@!@   & &"
+"1135","M  8 8( ! !A@   &&   088 ( !!@!@   & &  0 88   !@!@   && 
+M 0 88   !AC_8   !A@ @ $ &&    88 ( ! !A@   &&&    8 8   !A@
+M@ $& &    88 ( ! !@ @ $ &&    888   !@!@@ $& &    8 8   !@!@
+M   &&&    8 8   !A@ @ $& &  0 88   !A@ @ $ &&    88 ( !!@!@"
+"1136","M   &&&    8 8( ! !A@   & &    8 8( ! !@ @ $ &   0 88   !@!@
+M   &&&    8 8   !@!@   & &    88 ( ! !@ @ $ &   0 88   !A@"
+"1137","M@ $& &    8 8   !@!@@ $&&   08 8   !@!@@ $ &   08 _V    88"
+"1138","M ( !!@!@@ $ &   0 8 ( ! !@ @ $ &&    88 ( !!@!@@ $& &  0 8"
+"1139","M8   !@!@@ $ &&    88 ( ! !A@@ $ &&    8 8   !@!@   & &  0 8
+M8   !A@ @ $ &&    8 8   !@!@   &&&    88 ( !!@!@   &&   0 8"
+"1140","M8   !A@ @ $& &   %1(PXPTS##CC/,,,-,\R@(@TSS.!A@ $ &   08
+M8   !A@ @ $ &&    88 ( ! !A@   & &  0 88   !A@ @ $& &    8"
+"1141","M8( ! !@ @ $ &&    8 8( ! !A@@ $ &/]@   & &    88 ( !!@!@   &"
+"1142","M &  0 8 ( ! !A@   &&   08 8   !AA@   &&   0 88   !AA@ $
+M&#  P( !  8 & !@ ( ! P , #!@ ( !  8, #  P( !  8,& !@ ( ! P ,
+M #!@ ( !  8, #!@ ( ! P ,&#  P    P8 &#  P( !  8, #!@ ( !  8
+M&#  P    P8 & !@ ( ! P , #!@ ( !  8 &#!@ ( ! P , #!@ ( ! P8
+M&#  P    P8 &#  P    P8, #!@ ( ! P ,& !@ ( ! P ,& !@P( !  8
+M&#  P( !  8 &##_ ,  0 &#  P ,  0 &#  P8,    ,& !@ 8,  0 &"
+"1143","M !@ 8,    ,& !@ 8,  0 &#!@ 8,    , #!@ 8,    , #  P ,    ,
+M#  P8   0, #  P8   0 &&   088 ( !!A@ @ $ &   08 8   !@!@
+M@ $& &  0 8 ( !!A@ @ $ &   08 8   !@!@@ $ &   08 8( ! !A@"
+"1144","M   &&   52@P@PSKC##C#3,2,.,*\Q(PXPTS' @ $ &&  0 88   !@!@
+M@ $& &    8 8( !!@!@   &&   0 8 ( !!@!@@ $ &&  0 88   _P88
+M ( !!@!@   &&   08 8   !@!@@ $ &&    8 8   !@!@@ $ &&    88"
+"1145","M8   !A@ @ $ &&    8 8( ! !@ @ $ &   08 8   !@!@   & &    88
+M ( !!A@ @ $& &  0 8 ( ! !A@   &&&    88 ( ! !A@   & &    88"
+"1146","M ( ! !A@   &&   08 8   !@!@   &&   08 8   !@!@   & &    88"
+"1147","M ( !!@!@   & &    8 8( ! !@ @ $& &  08 8( ! !@ @ $& &    88
+M ( ! !@ @ $ &&    88 ( !!@!@   &&   ?\ &   08 8   !@!@@ $&
+M &  0 8 ( ! !@ @ $& &    8 8( !!@!@@ $ &&    8 8( ! !A@   &"
+"1148","M &    88 ( !!A@ @ $ &&    88 ( ! !@ @ $&&   0 8 ( ! !@ @ $
+M&&    8 8   !@!@@ $ &&    888( ! !@ @ $ &   088 ( ! !A@   &"
+"1149","M &    8 8   !AA@   &&   08 8( ! !@ @ $& &  08 8   !A@ @ $&"
+"1150","M &    8 8( ! !@ @ $&&   0 8 ( ! !@ @ $  6 BC1FTIA)8\9,&C-I"
+"1151","MS)A)8X9*&B<#  P , #_P    P8 & !@ ( ! P ,& !@ ( ! P , #!@ ( !"
+"1152","M P , #  P    P ,& !@ ( ! P ,&#  P    P ,& !@P    P , #!@P"
+"1153","M P8 &#  P( !  8 & !@ ( ! P , #!@ ( ! P ,& !@P    P8 & !@P( !"
+"1154","M  8,& !@ ( !  8 & !@ ( !  8,&#  P( !  8 & !@ ( ! P , #!@P"
+"1155","M P8 &#  P    P , #  P    P8 &#  P    P ,& !@P( !  8, #!@ ( !"
+"1156","M P , #!@P( !  8,& !@P( !  8 & !@ ( ! P ,& !@ ( ! P , #!@ ( !"
+"1157","M_P, # !@@ $ &&    88 ( !!@!@@ $ &&    88 ( !!A@ @ $ &   08
+M8( ! !A@   &&   08 8   !@!@   & &  0 88   !@!@@ $ &&    8
+M8   !@!@@ $ &   08 8( ! !A@   & &  0 88   !AA@   & &  0 8"
+"1158","M8   !A@ @ $& &  0 8 ( !!@!@@ $ &&    8 8( ! !@ @ $ &&    88
+M ( ! !@ @ $& &    88 ( !!@!@   & &    88 ( ! !A@   &&   088"
+"1159","M ( !!A@ @ $ &&    8 8( !!@!@@ $& $ %,ZA(P_^,-,RXP@PSJ# C#2K,"
+"1160","M2,,,)P 88   !A@ @ $& &  08 8( ! !A@   & &  0 8 ( !!@!@@ $"
+"1161","M&&    88 ( !!A@ @ $ &&    8 8   !@!@@ $ &&    8 8( ! !A@@ $"
+"1162","M&   08 8   !@!@   & &    888   !A@ @ $& &    8 8   !A@ @ $
+M &  08 8   !@!@   & &  08 8( ! !A@@ $ &   0 8 ( ! !@ @ $"
+"1163","M&&    88 ( ! !@ @ $& &    88 ( !!A@ @ $& &  08 8   !@!@@ $
+M&&    8 8   !A@ @ $& &#_   &&   08 8   !@!@   & &    88 ( !"
+"1164","M!@!@@ $ &   0 88   !A@ @ $& &  0 8 ( !!@!@   & &    8 8"
+"1165","M!@!@@ $ &   08 8   !@!@@ $& &  0 8 ( ! !@ @ $& &  0 88
+M!A@ @ $& &    8 8( !  #$@ $ !@P ,&  @ $#  P ,&  @ $ !@ 8, #
+M   #!@ 8, #    #  P8 &  @ $#  P8 &  @ $ !@ 8 &#    #!@ 8, #
+M   #!@ 8, # @ $#  P8 &#    #!@ 8 &#    #  P , # @ $ !@P ,&
+M@ $#_P , #!@ ( !  8 & !@ ( ! P ,&#  P    P , #  @YDT9LQ026/&
+M3!HS:<RD,6,F#8\!  8, #!@ ( !  8 & !@ ( !  8, #!@ ( ! P8 &#
+MP( !  8, #  P   4:Z8N6)FP    P8, #!@ ( ! P ,& !@ ( !  8 &#
+MP    P8, #!@P    P8, #  P    P , #!@ ( ! P ,& !@@ $&&   0 8"
+"1166","M8   !A@ @ $&&   0 8 ( !!@!@   &&&    8 8( ! !A@@ $& &    8
+M8( !!@!@   &&   0 88   !@!@   &&   0 88   !O\8 ( !!@!@@ $
+M&&  &ZXP@XHT !A@   & &    88 ( ! !A@   &&   0 88    !@ @ $&"
+"1167","M &  0 8 ( ! !A@   &&   0 8 ( ! !A@   &&   08 8( ! !@ @ $&
+M &    88 ( ! !@ @ $ &   08 8( !!@!@   & &    8 8( ! !A@   &"
+"1168","M&   0 88   !@!@   & &    88 ( ! !A@   &&   088 ( !!@!@@ $"
+"1169","M&   08 8   !@!@@ $ &   0 8 ( !!A@ @ $& &    8 8   !@!@   &"
+"1170","M&   0 8 ( !!@!@   &&   0#_&&    88 ( ! !@ @ $&&   08 8( !
+M !@ @ $ &&    88 ( ! !A@   &&   08 8   !@!@   &&   08 8
+M5$C#C#3,2,.,-,PP(PTSJ$C#CO,< *  0 8 ( ! !A@@ $ &&    88 ( !"
+"1171","M!@!@   & &    8 8   !@!@   & &  0 8X 0SS$C#C@& &    8 8"
+"1172","M!@!@   &&   08 8   !A@ @ $ P. $&W*PX80<-@!@@ $ &   08 8( !"
+"1173","M !A@@ $ &&    8 8   !@!@   & &  0 88   !@!@   & &  0 8 ( !"
+"1174","M !A@   &_P!@@ $& &  0 8 ( ! !A@@ $ &   0 88   !A@ @ $ & 
+M 088 !  !@ 8,   AA,Y2.0X86/    #!@X8H9*&C,#!@ 8 &# @ $ !@ 8"
+"1175","M,&  @ $#  P ,&  @ $#!@P , #    #!@ 8@(%$CA,V3M@X@6' @ $D<I#("
+"1176","M<<)&CA,V3N0@,0/ @ $ !@ 8 &  @ $#<IRPD>-$#ALG<N38 &  @ $#!@ 8"
+"1177","M &#    &<M@XD8-$CAPG;.0 ,&  @ $#!@ 8, # @ $#!MBX B.'F31FS.2"
+"1178","M<07&   #!@ 8 &# @ $ !@P ,&  @ $#!@ 8  !&CA,V3N28 ?]@P    P8"
+"1179","M&#  P( !  8, ###QHD<)'+ &#  P    P ,&#  P( !   ,.&'C1 X2.6R<"
+"1180","MR''Q@D8 P , #!@ ( ! P ,& !@P   !A@ @ $& &  0 88   ,# C#2K2"
+"1181","M,(.*-,PPPXPTS###C#3,<&*  0 88   !@!@   & &  0 88   !A@ @ $
+M&&  0 88( ! !@ @ $&&   08 8 8STC#AP$ &&    88 ( !!A@ @ $"
+"1182","M&   0 88( ! !@ @ $&R,&,*\Q(PPPS>!@ @ $& &    88 ( !!@!@   &
+M &    88 ( !!A@ @ $& &    8 8(#_ 0 88   !A@ @ $&&   08 8( !"
+"1183","M !@ @ $ &   08 8( ! !@ @ $ &&    88 ( ! !A@@ $ &&    8 8( !
+M !@ @ %L2,.,-,PP(XH! !@ @ $ 2,.,-,R@(@< !AA@    &   08 8"
+"1184","M!@!@   && *,](PPXPT !A@   &&   0; P(8TS# C#3/2P   0# ( TS
+MTC##C#2H,,-,\Q(PXPTHFCAA $&&   08 ( <SS$B#C/,N,(,,]*@8H !"
+"1185","M!@!@   &&&    88  ,SKC##C#2H,,.,*YP8 ( ! !@ @ $ &   0!H88 H
+MS$C#CO,,.,*_S/2H,*,-& X 8 !!A@ @ $ &&    88 ( !!@!@   &&&"
+"1186","M)\PP(PTSS-A@   &&   08 8( ! !A@   &&, ),](P(PTS-A@ @ $& &"
+"1187","M 0 8 ( ! !A@@ $P,,-,\Q(PXPKS# C#3/2,,,,*EHX80  !@!@   & &
+M  88 ( !!@!@   & &    880 4SS###C#3,,,,,###   ,,,,   P8& &"
+"1188","M 0 88   !A@ @ $& &  0 88   !AA@   & &    8 8 ! #!@ 8   0 &"
+"1189","M1#&3AHJ9*  &#  P8   0 & !@ 8,    ,& !@ 8,  0 &4#%C)O\-%3-I"
+"1190","M-@ 8 &  @ $#  P , #    #!@ 8,&  @ $ !@ 8 &  @ $#!@ 8 &#    #"
+"1191","M!@ 8 &  @ $#  P , #    #!@ 8, #    #  P ,&#    #  P ,&  @ $"
+"1192","M!@P , # @ $ !@P ,.*&3-4TIB9 6  @ $# %PQ8R:-F2@#  P ,&# @ $
+M!@ 8, # @ $ !FPPDX:*F31F> P ,&  @ $ #.0P<\5,&C-F,  8 &# 3-F"
+"1193","MTIBY8B:-F314TI@QDX:*F30P#  8, #  IFTIA)8R:-&3-7S&  , #    #
+M!@ 8 &# !C-IS# C#3/2,,-,UH 8( !!@#_8( ! !A@  P&H,(,,ZXPPXPT"
+"1194","MS$C###/2,,-,\Q((PH !@!@   &&   0 8 ( ! !@ @ $& & #,ZXP(PTJ"
+"1195","MTC!C@ $ &&    8 8   !@!@   &V,,*\PP@XHTS !@@ $ &&    8 8( !
+M!@!@  !.,,.,-,RXP@PSTC#CC/,2,,,*M(P P8# !A@@ $ &   08 8
+M!@!@@ $ &&  0 8P ,,,,   PPPP # 0 8 ( ! !@ @ $ &&    8 8( !
+M !@ @ $ &   0 8 ( !  !@@ $ &   08 8   !@!@@ $ &  #'LPP(PTG
+M !@ @ $& &  0 8_V    88 ( !!@!@@ $ &   0 88( 6S$C#C#3,B&*
+M 08 8( ! !A@   &&&    8 8( ! !@ @ $&&   08 8( ! !@ @ $&&"
+"1196","M  8 8   !A@ @ $ &   08 8( !!@!@@ $ &   08 8( !!@!@   && 
+M 08 8( ! !@ @ $ &&    88 ( !!@@A33,2,.,-,P88( ! !A@ #/,N,(,"
+"1197","M,ZX88   !@!@   &&   0 88   !AA@@C,2,.,-,PP8X,!!@!@   &P, &"
+"1198","M,](PPPPSKL  @ $& &  ,]*@P@PSTC C#3/,2,.,-*@P(PTSS# CAP$ &/\"
+"1199","M@ $P,,.,*\PP(PTSTC C#1@&&&    88 ( !!@!@  RH,,-,]*@PHPTS$B#
+MB@$ &   0 88   <HCC#3,2,.,-,PPPXPTS$C##K,2,,,,Z[@88 ! !A@"
+"1200","M   &&   08 8( !!@!@@ %X,,-,P1QHR9$P, #  P ,  0 &#  P8"
+"1201","M'F;,I#&3QLR) 0 & !@ 8,    , #!@ 8(9-%3,I#&3QHR9-&;,I*&2QHR9
+M-&9R#  P ,  0, #  P8   0 &#  P ,  0 & !@ 8   0  #  P8,
+M  ,&#  P ,  0 &#  P8,    , #!@ 8,  0/_  P8, #    #  P8, #
+M@ %4TIA)8X;'@ $#  P , # @ $ !@P , # @ $ !@P ,&  @ $ >*2A8L9,
+M&A@ !@ 8, #    #!@ 8 &# @ $ !@ 8, #    #  P8 &  @ $#  P ,&#
+M   #!@P ,&  @ $#!@ 8,   @ $ !@ 8,&  @ $ !@ 8 &#    #!@ 8 ( !
+M!@!@@ $& &    8 8   !A@@C/2H,(,,W@ 8   !@!@@O,2,.,-%H 8
+M!A@ @ $& &  0 8 ( ! !@ @ ',H(-,]*(8@  !@!@@ $,R,&,*\Q(@XHT
+MS!A@@ $ && #<Q(PXPT_\PPPPPSTC C#3/,2,.,-*A(PXPH!@!@@ &<N,(,"
+"1202","M,](PXPHSS$C##!@ &   0 8 ( ! !@@!S/,2,,,*LQ(PXPTJ# C!P & &"
+"1203","M 0 8 ( KS##CC/2,,-,\S(8088>###C#3,2(.*-,R( @, !@!@   & &
+M 0 8 ( ! !@ @ &H2,,,,\PP(PT, !A@   &&&    88 ( !!@!@@O,2,.,"
+"1204","M-,PP P, !AA@   &&   0 88   !AA@ S/,2,,,,](P(PTSS$C#C#3,,,-"
+"1205","M*M(P(XH! !A@   & &  08 8( !!@!@   & &    8 8( ! !A@   && "
+"1206","M ?\ &   0 8 ( !!@!@   & &  0 8 ( !!A@ @ $& &    8 8   !A@"
+"1207","M@ $&&   0 8   #HC C#3-@&   0 8 ( !!A@ @ $ &   08 8   !@!@
+M   & &  3 P(PTSTC##CL& &    88 ( ! !A@   & &    8 8( ! !A@
+M   & &    88 ( ! !A@   & &  0 8 ( ! !A@   & &    888( ! !A@"
+"1208","M   & &  0 88   !A@ @ $ &&    8 8   !@!@@ $ &&    88 ( -TC##
+MC#3,2,.  0 88   !C####.N, .& 08 8   !@!@@ '_ !A@@ $ &&    :
+M(0TSTC#BA8& ,0   , 8,AA)HT9,VG,1!D 8   0 &.#%C)@V5-#Q@S( !
+M(X>9-&;,F$EC)HV- 0, 8#3QDP:,V:<I*%B)@V/ 0 & !@P8   0!FF$EC
+M)HT3,V;,I#&39@  0, #!@P (.9-&;,I#%C!@:/ 0 & !@ 8X89,VG,F$EC"
+"1209","M)LJ  0 &#  P ,  0 &#!@ 8,  &&;24$ECA@>  0 &#  P ,    , #  P
+M   ,,VFHF$G# \    , #  P8   0, #  PP$F:-&:NF.$! \8,&#;2F#&3"
+"1210","MQHR9-&9R !@ 8,    , #  P_P#    #!@ 8,&#    #  P8 &#     !@P8"
+"1211","M &#    #!@ 8, #    #!@ 8 &#    #  P ,   088 ( !!@!@   & &
+M  88 ( TS$C###.B&&    888   !@!@   &&&    8 8( ! !A@   &&&
+M  S(P88<2,@AAPT &&  0 88   !A@ @ $ &   088 ( ! !@ @ $&& "
+"1212","M 08 8   !A@ @ $ &&    8 8( !!@!@   &&   08 8   !A@ @ $ &&
+M  88 ( !!@!@   &&   08 8( ! !A@   &&   08 8  >S$B#BC3,< *
+M 0 8 /^  0 XP8PTS$C#A@$ &   08 8   !@!@   &&   09(PPPSJ# C
+M#3,& &  0RPX0HSS+C##.B&   0 88( !-C#CC/2,,-&P8 8( ! -A@"
+"1213","M S/2,,-*LQ( X ! #C!C#2H,,-&&8PPXPTS$@#@ $&&   0 8 ( <S+C"
+"1214","M##.<V -*M(PPXP< !A@   & &  *LQ(@PHSTC CAX& &  0 88( ! ,@A
+M#3/,N,*,-  8 ( !!@!@@ $& &    8 8   !@ @BC3,2,,,,S 8 ( !!@!@
+M   &&   08 8( !!H@B#3/,2,,,# 88 ( !!@!@@ $ & #_@ $ && #<R@
+MP@PSTC##A@$& &  3;8( TSTC#BC3,&&  0 88   !A@ @ $& &  0 8
+M8   !@!@@ $& &    8 8( ! !@ @ $ &&    8 8   !AA@   &&   0 8"
+"1215","M8   !AA@   & &    8 8( ! !A@   &&   0R(P@PSTN!A   & &    88
+M ( !!@!@   &&   0 88   !A@ @ $ &&    88 ( ! !@ @ $ &  0  8"
+"1216","M& !@P    P8, #  P( !  8, #  P( !  8,& !@P    P ,& !@ ( !  8"
+"1217","M& !@P    P8 & !@ ( ! P ,&   _\     & !@P ,    ,& !@ 8   0 &
+M !@ 8  -&;,I#&39L,   ,& !@PP$8:*F;2F!D 8,    ,&#  P8   0,
+M#   PTP:,VG,I$Q , CG,I#&3QDR:* , #!@P ,   $[,F$E#Q8P9 P,"
+"1218","M#  P8,  )U32F#&3QLR  0#2F#&3QHR9 3#,I*%BQLP   , #!@ 8,  &&G,"
+"1219","MI*$2)8>9-&;24,$P ,  0 &\#3QDP:,V:HP!@P ,    , #  P((J9-&;2"
+"1220","MF#$S8P  0 & !@ 8,    88 ( !!H A#3/,2(.*-*@88   !@!@@ $ &&
+M  88 ( !8/](PXPTS* B#2H& &    88 ( !!@!@@ $ &   )](P(PTJS$C#
+M   &&   08 P DJTC C#3/,&   0 8 ( ! !A@   & &    8 8( ! !@
+M@ $ &&    88 ( ! !A@   &&   08 8( ! !@ @ $ &&    88 ( ! !@"
+"1221","M@ $& &  0 88   !A@ @ $& &  <Q(@XHTS(AB   &&   08 8   !@!@
+M@ $ &&  08 8   !@!@   &&   0 88   !AA@   &&   08 8   !A@"
+"1222","M@ $ &   08 8( ! !@ @ $& &    8 8( ! !A@   & &  0;_ &  088
+M ( ! !@ @ $& &  0 8 ( ! !A@@ $&&&  08 8   !A@ @ $& &  0 8"
+"1223","M8   !A@ @ $&@,&,-,R@PHPT !A@   &&  $\Q(PXPTS!A@@ $ &   0 8"
+"1224","M8   !@!@   &&(*-,Q(PPPJS,!@   ,R$-,\RXP@PSHA@ @ $ &   0 8
+MX HSTC C#3.<&   088 ( ! )C!##/2,.,*,P 88  8TJ B#3/2X&$ ,](P"
+"1225","M(PTS,!@ @ $& &  6Q(PPPSTG @#3,,.,*,]*( H !!@!@  .B,,-*LQ(
+M(PH8 !@ @ $& &  0 88  2TC#C/2_S # P &&   08 8( ! !A@   &
+M & *,Q(@XHTS# C!P & &  08 8   !A@ @ $ & *,]*@PHPTS,@!@ $&"
+"1226","M &    88 ( ! !@ @ $&H,*,-,PP(PTG !A@ $  & !@ ( 99LRD,4,E#8 !"
+"1227","M  8, #!@ ( ! P ,&#  P( !  8 & !@P    P8 &#  P    P ,& !@P"
+"1228","M P ,& !@ ( ! P , #!@ ( !  8, #!@ ( !  8 & !@ ( ! 'B826,FR@"
+"1229","M P8 & !@ ( !  8,L!'EA4S/#8,&#  P( !  8 &#!@ ( ! P , #  P( !
+M  8,&(!1(X3 _\ #  P ,  0 &#  P ,   #-.V,A!(@>  0,P1,$ 8T8+
+M*A@ #!@ 8,    , #  P8( !'E1FP(!(0H&  , #!@ 8   0 &#  P8,&"
+"1230","M'#E@#!@P $4-&;2F$E#8L    ,& !B0PXR9*V;,#  P8   0, #  P8 
+M 0, &  #,ZXP(PTS<@!@  QRH,*,-,PP(XTH!A@ @ $& &  0 8  8STJ#
+MC#0V&&    8 8   !H A#3/,2,,,)P8 8( HS$C###/,V,,-,PPPXPT3@!@"
+"1231","M@ $ &   7@P(PTJS(CB!#/2,,,,,]* 80  !A@   S2,,.,-,PP@X?_ 08
+M8( ! !A@   &&  ',Q(PXPTS##CB@$ &&    88 ( !!@!@@ $ &&   -(P"
+"1232","MPPPSTC!C@ $ &   0 88   !@!@@ $& &  ,\Q(PPPST@!@   &&&    8
+M8( ! !A@   &@$-,ZXPPXP-!@!@@ $& &   &8P(PTSTC##B0$&&   08
+M8   !@!@   & &    88 ( !!A@ @ $ &   08 8( ! !A@   & &    88"
+"1233","M8   !@!@@ $ &   088 ( ! !A@   & &    88 ( !!A@ @ $&B,*,-,PP
+M8X ! !@ @ $ &&  0;@H04JTC####/2,,.,_QE@ &  0 88( !HC#BC3,"
+"1234","M,,.) 08 8( ! !@  S-X,,-,\R(8@ ,!H A#3/2H,(,#  88( !!C##C#2H
+M2,., 3 8P PJTC#C/2B(*' 0 8 ( ! !A@   &V #*-(PPPPSKC##CBN
+M &  0 88   !A@ @ $VP *,ZA(PPPGJ!@ ABO,,.,*,\P8 ( ! !@ @ $
+M.,&,-,PP(PT !A@ @ $& &  0 8 ( !!@!@  !R,,.,-,PP X,!#+ A#3/2"
+"1235","MH,*,-*( 8   !A@ @ $ &   <RXP@PSTC##C $ &   0888  SS+CC#3,
+MV&   #9(PPPSS$@CBO\! $$E#94T::C8&#  P    Z*826/&3(X!9JZ826,F
+MC9D!  8, '#C)DT5-*8F0%@ ( !  8 & !@ ( ! #<L)&#1(X<&P , #
+MP    P , #  P( ! &9026/FBID< P ,& !@P    P8 & !@ ( !,*Z824,E
+MC8T! P8 & !@ ( ! P ,& !@P( T5,R826,F#8 !  8 &#!@@!DS5\R82;,!
+MP    P , #!@ ( ! P8 &#!@ ( ! P , #!@ ( ! P ,& !@P    P8 &#
+MP    P8 & !@ ( ! P , #!@ ( !  8, #!@ ( ! P , #  P( 99LRD,3/_
+M \  0 &#  P  :,-&;2F+EB)@V5-&;,I.$!8   0 VF$G###/2,,,   8
+M8   !J BBC3,,,-,](P@XH9,$C###/,2*.% 08 8   -DC###/2,,'&'@P
+M(PTSS$C#C#3,,,-& 88 ( !!@!@@ &HB,*,-,Q(@XHTS$C#C#3,P   0 8
+M ( !!@  @P',2,.,-,PPXPHSS, @C/2,,.,-&P88   !A@ @ $&L$-*LQ(
+MPXP! !@ @ $ &   08 8   !@!@  RH2,,,,](PXPH,;$C###/2,.-*  8
+M8   !@!@@ $& &  &,Q(PXPTS$B#A $ &&    8 _R *,](PPXPTS(AB@ &B
+M,.,*,](P8X,!<C####/,2,'  8 8( !!N#!##/2,,' %HPPPPSKC #A@$
+M&   3 P(PTSS# C#1L&&   08 8( !!@!@@ $& &  0 8 ( ! !A@   &"
+"1236","M&   08 8( ! !@ @ $ 2,,,,](PPXP! !@ @ $& &    8 8( !!@!@  #,
+M2,,,,](P8P  !@!@@ $ &&    88 ( !!@  !C/2,,-,](@88 !!@!@   &"
+"1237","MB(-,\Q(PPPSHA@ @ $& &  0 88   !@!@   & &    88 ( ! !A@   &"
+"1238","M &  08 8   !@!@@ $ &/\ @ $& &  0 88( ! !@ @ $& &  0 8 ( !
+M!@!@   & &    888 ,SJ$C#C!P &&    88 ( !8(@B#2K2,,,,,](PPXPT
+MS+C#<& &  0#@(0TSTJ#C!P &&    88 (,TS###CO,2(,*,](P8P,S"
+"1239","MS+CC#2H&   0 8X 0SS+C##-FB,*,-,Q(PPPSKC##C#3,P&    88 ( !
+M   $AC1FTI@Q8R:-&3-IS%!)8X;'@ $ !@P 8,!&&C-FKI@QD\:,F31FG%PQ
+M8R:-&0P#  P8 &#    GS*0QD\;,@ $ !@P8 &#    #!@P ,&! #C-FTE!)
+M8X;_1(XT9JBD,6,FRH !  8 &#  P    P9$26/&S!4S9@8,& !@ ( !&**D
+M,6/FBIDH& 8 &&#&3!HJ9LP,()'&S)4T9J@, #!@ ( H9M)020,#P  >:<RD
+M,9,&P    P9L2&.&2AHS:6 ,& !@P    P , #  P    P , #!@ ( ! P ,
+M& !@P    P8 &#  P( 39LRDH9+&3)0!  8, #  P( ! P , #!@P(DT9LQ<
+M,6,FR@   P8 &#  P    P , # @BC3,2(,*,\P8 ( ! !@ @ $PB,*,-,R@
+M(HTH,!@ @ $ &&    8 8( ! !A@   &&   08 8   _P88 ( !!@!@@ $"
+"1240","M&&  0 8 ( !!@!@   &&   08 8   !A@ @ $ &   088 ( ! !A@@ $
+M&&  0 8@ HSTC C#2H& &    8 8  #HC C#3/2B&* '&RX8@PSS# C#3-."
+"1241","M&   088P PSTC C#0P& &  0# P(PTS+CC#3,2,.,-,Q(PXPTS# C#3-@
+M&&    8 ( TSTC C#3/2,,,,'F#(P8PTS$B#C/2@&$   8 8( !,###C#3,"
+"1242","MN(*#,P8( HSTC##C#1X &  0 8P( <S$B#BC3,2,*&&8PPXPTS$C#CO,"
+"1243","M2(.* 0 8 ( ! !A@ !O2,,.,-/]@&   0 8 ( ! !A@   & &    :@(HTT
+MS# C#3-R,,.,-,Q((XH<!@!@@ $ &&    88 ( ! !C CO,,,-&P8 8( !
+M!@ @!Q[,2,.,-,Q(@PH !@!@!C/2,,-,TX8  ,SS###C#3,&&    88P DS"
+"1244","MS$C#C!P&P,,*\PP(PTS>!A@   &H,*,-,PP(PTJHA@ @ $& &  08 8( !"
+"1245","M!@!@@ $ &&    88 ( ! !@ @ $ &   0 8 ( !!@ @#3/2,,,,,]* 88 !
+M !A@   & &    88 ( ! ###C#3,2,.,-& 88   !@!@   &&   08 8( !"
+"1246","M ##CC/_TC CAP$& &  0#(@0<SS$C#C#3,H&*  08 8( ! !A@   & &"
+"1247","M  88 ( ! !@ @ $& &    8 8( !!@!@   & &    88 !  !@P , #    #"
+"1248","M!@ 8, # @ $#  P8 &  @ $#  P , #    #!N0PD\:,&1@#!@ 8, #   QF"
+"1249","MTI@Q$P7&   #  PPDR:-&3,Y  P , &F2MFS*2A,@# @ %4TIBADL:,F18P
+M  R($L5,&BIFTIB),@#    #!LX8L8,E31F>.0 ,&! %#-IS)A)8R;*@ $"
+"1250","M!@(DL;,%3-F,& 8 &  CAFTI@QDP;&   #!MA(8\9,&C-1_\P, #  0PXJ"
+"1251","M:<R826/&#(P! P ,&#  P( H9JBD,0,#P( ! P ,& !@ ( !  8, #@A1DJ
+M9M*826/FBIDT9LP & !@ ( ! P , #  P    W*826,FC1DG5-)0,8.!AYDT
+M9JBD,9/&!H8!!AC C#2H,,-,S  8  STC C#3.H&   0:@(@TJTC #A@$
+MX,$,,]*@(@TS-A@ @ $ R$-,\RXP@PS,!@ @ $ &   0 8 ( ! !@ @ $&
+M&   08 8( ! !A@@ $& &  08 8( ! !@  RK,2,.,-*(8 ( ! !@ @ $&
+M &  0 88   !L#@C/,2,.,* 8 8/\   88 ( !!@!@@ $ &&   ')(PPPS
+MS$C#2K,N,(,#'A(PPPSKC C#3-RP   0 88   !@!@   &&   08 8( !"
+"1252","M!@!@@ $ &&    88 ( ! !@ @ $& &  0 8 ( ! !A@   &&   0 8 ( !"
+"1253","M !@ @ $ &&    88 ( !!@!@@ $ &  #<Q(PXPT>   @ $& &  0!(PPPJ"
+"1254","MTC!C!@ & &  :*  0889H!A!@ &&  -,Q(PXPTS(!A@ $ V*-,Q(PXPT"
+"1255","M, !@@ $ & *,\Q(PPPSKFAA@ $ &   :(P(PTSTC C@P &   0#(P8PK"
+"1256","MS# C#1@& &#_@ $,B,*,-,Q( X8! !A@   &P,,-,RXPHPH!A@  #/2,,-"
+"1257","M*LQ( P8 !@!@   P,,.,*\PP(PTS!@!@@ $ &   0:@(@TSTC!C@ $ & "
+"1258","M 0 88( ! !A@   &&& *-(P(PTJS(@B#3/,2(.*-*+ 8   !@!@@ $ &&
+M  88 ( TS###CO,2,.,-,RXPHPTS* B#3/2,,*& 8  ( 9S# C#3/,X &
+M 0:(PHPTJ$BCA0$&  #*,Q(PXPT-AA@ #/2,,.,-,R(8H ! !@  S/,2,.,"
+"1259","M-,S( 8 !!@!@@ $&  -,](P(PU 4$ECQHR9-&9X !@ 8     , _PP , #
+M   #!@#(82:-F3148 P ,&  @ $ !@P , #    # .0PD\:,F2LP!@ 8, #
+M@ $ !@P , #    #S)A)8^:*&3-IS)BY8L:,F2MFTI@Q$P7&@ $ !@P ,&
+M@ $#  P8 &  @ $ !@P ,&  @ $#  P8 &  @ $#  P8 &#    #!@P ,&
+M@ $ !@P8 &  @ $#  P , #    #  P8 &#   !1TIBA8@;#@ $#  P8 ""'
+MF31FTIAQ8F# @ $ !@ 8, #    #!@882:-&2IIS P ,&  !C-FTI@Q V/"
+"1260","M@ $ !@ PD,9,&BIIS)@9 &# @ $;S*0QD__&C)DH P8 &#!@ (PT9LQ(PPP,"
+"1261","M !A@   P2,,,*LPP8P8 !A@ @ $&H(-*LPP(PTS!@  @RBN,,.,-,PP8X !
+M!A@ @ $&@$-,]*@(@T8!A@ @ $ &&    ; P PSS$B#B@$ &&    8 8"
+"1262","M!A@ @ $ && #,\Q(PPPSTH@BC/2,,-,]*@8H ! !A@   &&   08 ( <S
+MKC C#3/,2(,*,](PPPPSTC C#3/,B *& 0888  JTC C#3/2P&  08P0PS
+MTC #!@ &&( *,](PPPP, !@ @!G,H(-,])H 8 ! !C@!#.N,,-,\P88( !
+M !@ @ $ &&#-,S_,,-,\Q(PXPKS# #@P$ &&  08 8( !!@!@@ $& &"
+"1263","M \Q(PPPJS$C#C $&&   08 8   !@!@@ $& , -,PPXPHSS$@#@ $& &"
+"1264","M  8 8   !@!@@ $&L$-*M(PPXPTS* B#3/2,,-,](PPXPTHH!A@ $ & 
+M 0 8 ( !!@!@   & &  0 8 ( ! !@ @ $ &   0 88( ! !@ @ $ & "
+"1265","M 08 8   !@!@@ $ &   0 88( ! !A@@ $ &&    88 ( ! !@ @ $&P,,"
+"1266","M-,Q((PH !@!@   &&, &*M(P@XHTS#!C@R@V&&    8 8( ! !@ @ &H_S##"
+"1267","MC#3,, .& 08 8 ,STC#CC/2V   0 88   !C##C#3,,.-$P8 8   !LC!
+MC#3,H*-* 8 8   !@!@ !O2,.,*,]*@8@  !L @C/2,.-'  8 ( !!@!@"
+"1268","M  S,2,.,-,RX H !S$C###/2H,*) 0 8 ( !!@!@  #2,,.,-,P8 ( !!@!@"
+"1269","M@ $ &&  &P1ADH:,SD #  P8,    , #  P8,   #S,I#%#)8V9#1C24#&3
+MQHR9*!@&#  P ,    , #!A Q8R9-&;24#&3QLP5,VG,7#%C)@V,#0, #  P
+M (,9,V:NF*$R ,  &&;2F+D8P  #%'24$EC9O_#   #HJ0Q8^:*&2H#!@P"
+"1270","MD,9,&C-4TIBA,@# @ $#  P X(1*&C-4TIBADL9,&C-7!@P , # @ $ !@ 8"
+"1271","M &  @ $ <I@QD\9,&C,\  P , # @ $#  P8 &  @ $YS)A)8R:-&1X#  P8"
+"1272","M &# @ $ !@P8 &  @MFS*0QDX9*&C-FKI@Q8^:*F31F8&P8 &#    #!@P
+M, # @ $ !@P , # @ $#  P8 &  @ $#!@ 8    !@!@@ $& &  0 8 ( !"
+"1273","M !A@   &&   08 8   !@!@   &&   08 8( ! !A@   &R,$,*M(P X8!"
+"1274","M!@!@@ $ & &-,PP(PW_,\Q(PXPTS+!A !@&&   08 8( !,##CC/2,&.
+M 0 8@(HTS# C#3-@&&    88 ( !!C C#3/,N,(,#  8 ( !!A@@#3/,2,.,
+M%@ 88( ! !@ @#3,,,-,\S( 8 !!HCC#3,N,(,,](P(PTSS$C#C#3,,,-"
+"1275","M*LPP8X !># C#2K2,,-  8 8( ! !A@  S,,,-,\R(8@  !@!@   &   #"
+"1276","M,](P(PTS!@!@@ $ &   088 ( ! !@ @ &H2,,,,](P(XH!-C##C#2H,,-"
+"1277","M,Z@ 8( ! !A@   &&   3 P(PTSKC##C#3,,,.,-,PPPPPG,(!A@ $ & "
+"1278","M_P$ R$-*M(PPXP< !A@@ ',2,,,,YP8 ( KS# C#3,P&   68PPPPSTC##"
+"1279","MC!P &   38PPPPSTC C#1L&&   0 88( -TC C#3/2,,.,-,Q(PPPS8!@"
+"1280","M@ $ &&    8 8( ! !A@   &N,*,*\Q(PPPS-AA@   &&   0 88   !@!@
+M@ &H2(.*-,Q(PXP- !A@   & &    8 8   !@!@  S,2,,,*M(PPXPTS# C
+M#3/2,,,)#& 88   !A@ @ $ &   08 8   !A@ @ $ &   0 88   !AA@
+M   & &    88 ( ! !@ @ $ &&    888   !@!@ /\ !A@ @ $& &  0 8"
+"1281","M ( ! !@ @ $ &&    8 8  STC C#3,& &  0 8 ( !!H#!C#3, ,05,V:N
+MF$EC)HV9&3 & !@P ,  &VG,F$EC)LJ  0!FF$E#Q4P:*@, #  P ,  &&FH
+MF$EC)@>  0, #   (PV5-&;24!D 8   0-RF+EBQLP5,P8& !BPP4P:,V;2"
+"1282","MF#%SQ4P:*F;24$E#)8V9-#P P$ACQHR9-&8V#!@ 8   0 &P#3ADH:,QL&"
+"1283","M#!@ 8,    -XF$ECQLR& 0, #!@ 8   0 &#!@ 8,  &&FHI#&3IL4  !C2
+MF#&3QDR:*!@& !@ 8,    /_!@!P<L6,F31F<MC(<2*'C1,Y!@ 8, # @ $
+M!@S 8,9,&C-IS P8 & &3-7S*0Q,V#F2MFS$3!,&  @AIJ*0Q<\4,A@$"
+"1284","M!@R D<;,%3-FTI 8 &  0 8   >S$C###/,2,.,-,R@(@TS!@!@   & &"
+"1285","M 0 8 ( !!@!@@ $ :,&,-,R@(@T>!@!@@ $ &&    8 8( ! !A@  !:,,-
+M,Z@P@X<!!@!@@ $ &&    88 ( ! !A@@6N,,-,\S((0<;3LC!AA-R &
+M  8 8( ! !@ @ $& &    88 ( ! !@ @ $&&&    8 8   !@!@@ $ & "
+"1286","M 08 _V  08 8( !!@!@@ $ &   08 8( ! !@ @ $ &&    88 ( !!@!@"
+"1287","M@ $& &    88  8STC##C@&&   08 8( ! ,!@!C/2,,-,](PPXPTS+C"
+"1288","MCA@&   0 8P(PTS+C##,V&   <PP(PTSTC CAP$ &&  0 8@ <STC C
+M#3,P&   08 8( TS# C#2K,R&$   88 ( !J# C#3/2,,.) 0 88  STC##"
+"1289","MC#3,N,(,,](PPXPTS# C#3/2,,.,#0:XPHPTS+C#< &   08 8( !!H@B
+M#3/2,.* 0 8 ( !!@!@@ $&,,,,*M(P8P  !A@ @ $& /]@@ $ &   0 8
+MP PSTC####.N & #<Q(PXPTJ# C#2H &   08 8   !C# ##/2,,.,-*@8
+M ( ! !@ @ $ &   0 8 ( !!@ @!RK2,(.*-& 8 ( ! +CC#3,H(- #!("
+"1290","MPPPSTC!C   & &  ,](PPPPS<A@ @ $ &  &,](PPXPTS,AA@ $ &   08
+M8( ! !A@@ W2H,*,-,R8 8 !!A@ @ $& &  0 8 ( ! !A@@C2,,.,-,QH
+M 8 !!@!@   &&   08 8   !@ @BC3,2 ,09M*T& !@ ( !  8 &#  P( !"
+"1291","M P 82&,FC1DS::@, #  P    P#_#  P8   0 &#!@ 8   0, #!@P ,
+M 0 & !@P ,  0 &#  P8,    ,& !@ 8   0 & !@P ,    ,& !@P ,"
+"1292","M 0 & !@ 8,    ,&   P ,  0 &Y#!SQ4P:& , #  P ,    ,& .#1PHP9
+M,VG,I*%BQDP:,TX&#!@ ( >5-&;,I(DR ,  &&G,4$ECQLP   , #  P8
+M,VG,F$E#90  0 &P#3QHR9-&8 #!@ 8   2W,F*&2Q@R& 0 &V*2QDP:
+M*F;2F$ECQDP:,VG,F#%C)HV3 0!@F$EC)HV9#0, #  P8    ##,7#%C)@V,
+M 08 8   _P8 8   G+CC#3,V&  0 8 ( ! !A@   &&   0: X0HSS$B#"
+"1293","MBC1L&   3 PXPHSS$C#C#0V&&    88 ( ! ,C!C#2H2,.,*VP88   !AA@
+M   & &  08 8( ! !C C#3,2,,,,P8 8( ! #C!C#3,2,.,&<Q(PXPTHC!@"
+"1294","M@ $ & ',\RXPHPT, !@@ $ & &-,Q(PXPKS(AB   & &  0 8 ( ! !@
+M@#',2,,,,]( 8   !@!@@ $ &   088 ( !!@!@@S3,H(-,]*@8@  !A@
+M@ $ &   0 88   !M@@#3.H2,,,,ZX 8( !!@!@@ $ &   ?\ &   6Q("
+"1295","MPPPJTC#BAP &&    88 ( !!A@ @ $ &&    8 8( ! !@ @ $  &  0 8"
+"1296","M8   !@!@@ $ &   0 8 ( ! !@ @ $ &&    88 ( !!@!@@ $ &&    88
+M ( !!@!@   &&&    8 8   !AA@@ $ &   :(PPXPTS(!A   &&   088
+M ( ! !@ @ %XP( ',\Q(PXPTS+C#!@& & -,PPPXPTS(!A   &.,$,,](P
+MPXPT !A@@ $ &&   'A(PPPSKC C!P &&   =*@(@TSKC CAP$ &   088
+M@(<TS$C###.H&   :)(PXPKS# C#0#_!@!@@ $ &   0 88   !@!@ >N"
+"1297","M,,,,,]*@8H ! !A@   &&& -,PP(PTSS!@ @ $& &  0 (P0PSTC C!P &"
+"1298","M &    888   !@!@   &&  *,Q(PXPTS# #@P$&  ',\Q(PXPTJ# # P &"
+"1299","M&   0 88  JTC C#48,6,&PP   P , #!@P    P , #  P( -9LR826,F"
+"1300","MRH !  ;D,&/&3!HS/,Q<,6/&#( !  8 2&,FC9DT9LP,& !@P  ,9JBD,6/&"
+"1301","M# 8  P8, #  P( !  8,V$ EC1DJ:<SP& !@P    P ,& !@ ( ! P ,X&$F"
+"1302","MC9DT5,SD #!@_P  0, #!@ 8,    ,&\#!C)HT9*FEL#  P ,  0 &#!@"
+"1303","M8,    .NF#&3QDP:,Q@&#  P8   0 & !@ 8,    , #!@ 8,    ,&#!@
+M8   0, #!@ 8,    ,&#  P8   0, #  P ,  0 & !@ 8   0 & !@
+M8   0, #  P8   0, #  P8   0.HI#%#)0V, 0, &&    8 8( !!@!@"
+"1304","M@ $ &&  &&8PPXPTS# CC1, &  #=(P(PTSTJ!B@ $ R(&*-,PPXPHS!@!@
+M   & & -,R@(@TSS$@#@ $ &&   # PPPPSTC #@P$&&   0# P/\,*M(P
+M(PTS<AA@  #2,,,,,](P@X<!!@!@   &&   08 8( ! !A@ #/,2(.*-,Q("
+"1305","M X !!@!@@ $ P *,](PPXPK> !@   &&   0:0( TSS$B#B@$& &  0 8
+M ( !!@!@@ $ &&  #,PPXPHSTN!A   &&  &<PP(PTSTC CC0T &   08
+M8( 6S*#C#3,X &  08 8   !@!@   &&   08 8( !HDC#CO,2 ,&  88"
+"1306","M ( -TC#CC/,2,,,,]+@ 8,! !A@ !O2H,*,-,Q(@X0! !@ @ &H2,,,,](P
+MXXHH, !@   &&   0 8 ( !HDC#C#3,2,/_C T&&   0 88   !A@ @ $
+M&&   ,R@PHPTS$C#C $ &   0 88   !A@ @ $& &  ,ZXPPXPTS$@#@ $&"
+"1307","M &  0 8 ( ! !@ @ $& *%-*@P(PTS> !@   &&   088 ( !!A@ @ $&
+M &  0 8 ( !!@!@   &&   0 8 ( ! !@ @ $& &    88 ( !!@!@@ $
+M&&    8 8( ! !A@   &&   08 8( !!@!@   &&   08 8   !A@ @ $&
+M  -,\Q(PPP8!@!@@ $ &&#$VS(@80<# !@   &   #,]*@PHPTS,  @ $&
+M<,*,*\PP@XH<!@!@_P ,S# C#3/2,(.' 0 88( !8(CC#3,2,.,&0 88"
+"1308","M #$ 0(XT9M)0,1,%P    P ,.&$FC9DT9LP, #  P!4S:<Q<,6-C ( !  8,"
+"1309","M ' B!XD<)V , ## 3!HS:<R8H3( P    P ,H)+&S!4S:<Q@& !@P    P ,"
+"1310","MX&'FBADS&  ,&   P    P8 &#  P( ! '*826/&C!D,  8 &  @AYDT9JBD"
+"1311","M,6,&PP   P8 &# @2AHS:<RD:3%@ ( ! P8 & !@P    P8 &#!@@QDS:<R8"
+"1312","MB3)@ ( !  :826/&3!HJ9M*8B3( P( ! *Z8,9.&BADS P8 &#  P PS:?^H"
+"1313","MI#&3QDR+ 0 &#  P8   0, ##!C)HT9,U$& !@ 8,    , #  P8   0 &"
+"1314","MS#3QHR9-#8&#  P8   0 & !@ @ $ &  &<Q(PXPTS+!A@ $ &     88
+M ( !!@!@@ $ & *,](P(PTS6AA@   & &    8 8   !@!@@ $ &&    8"
+"1315","M8( ! !@ @ $& &  08 8( !!@!@@ $ &   08 8   !A@ @ $& &  0 8
+M ( !!@!@@ $ &&    88 ( ! !A@   & &    88 ( !!@!@   & . *,](P
+M(PT8!A@    & *%-*XP(PTS<@!@@ $ &  #*M+_,,-,S888   -DC###/2
+M,,-#  8 ( !HDC##K2,.'#08 8( HHDB#C/2,,., 08 8( ! !C #K2"
+"1316","M,,-,V88 ( !!@!@ #/,2,,,*M* 88 ! !C C#2H2,.,-*@8 ( !!@!@ K2"
+"1317","M,,.,-,R(8H ! ###CO,2,.,' 8 8( ! !A@!C/2,,.,-,S@80  !@!@@ $
+M&( ',](P(PT, !@ @ $&&&    8 8( ! !@ @ $ 2(,*,](P(PTJ!A@ @ $&
+M & &,](PPXPTJ$AC@P$ &&   #8PPXPTS+C#H& &    8 8( !!@!@   &
+M &    9PPHPKS$C#C!D _QA@   &&, ,,](P(PTSTC#AP$ &   0# P(PT
+MS$C#C!D &&    88   GS# C#2K,,..*%@P8 ( ! !A@   && &-,R@(@TS"
+"1318","M6AA@   & &  08 8( ! !A@   & ,,-,RXP@PS9K#AA!Q(R.&$'$ZP(8<3"
+"1319","M<M@ @ $&,,.,-*@P(PT8<B AAQ-R.,&&$W*PX80<-@!@@ W2,,.,-*@PXPH"
+"1320","M!AA@   &&   0 88   !@!@   & &  0 88   !@#$   #  P , #    #"
+"1321","M  P8 &#    #!@ 8 &  @ $ !@ 8,&  @ $#  P8 &  @ $ !@ 8, #    #"
+"1322","M!O\, #  P    P8 &## #)4T9M+ & !@P( ! S:8,6/&3!HJ P8 &#  @YDT"
+"1323","M9LRDL3$ P  >9JZ826.&!X !  8,P&#&3!HS9M*8@3$CBIDT9LRD,4,E310"
+"1324","M P8 &)##3!HS9M*8&0!@ ( !  ; 2$/%3!HS P8 & #@A!DS9M*8X8%AP"
+"1325","M WB826,FC9DH&  ,&  CC1DS:<Q<L3%@ ( !5**8,6/FBADS+08, #!@ ( !"
+"1326","M V826/&S(8!  8, #  P( !  8 & !@P( <9M*8N6+&3(X!  8, # AQDS"
+"1327","M::BD,6,& P &&   7@P(PTJS# C#1L&&&    88 (#_ 0 8 ( !!A@ @ $&
+MH(-,\Q(@PHS!@!@@ $ & &*\Q(PPPJS$@C@ &&   0;@(0TSJ$C##  &
+M &    8 8  >S$C###/22,.,-*+ @(H3<B A!QZHV -,\Q(PXPTJ!@ @ $&"
+"1328","M&   0 88   !A@ @ $&F,&,*\PP(PTSS+C##/2,,-,\RXP@PSS.!A@ %@
+M,.,*,\Q(PXPTJ$C#C#3,,,-,ZA(PPPS>!A@ ![,,.,*,\Q(PX8! !@ @ $&"
+"1329","M &  08 8( ! !A@   &&&    8 8   !@!@   & &  08 8( !!@!@   &"
+"1330","M &    8 8( ! !A@   &&  _P$ &   0 8 ( ! !A@@ $ &&    888"
+"1331","M!@!@@ $& &    88 ( !S$C###.HB&*  0 8 ( !S$C#CO,,,-#$C((0H8"
+"1332","MTC##CO, &  0 8P PSTC##C#0P&&  0 88(,HTC C#2K,N,(,,ZXP(XHT
+MS# C#3/2@&$   88   JTC C#3/,F &  08 8( !!HCC#3,2,.,* 88 ( !"
+"1333","M,(@B#3/,2,,,)ZC((8H6S+C##/2H(*' 0 8 ( TS$B#C/,2,,,#*@8P(DT"
+"1334","MS$C#C#3,2,.,*P 88   !A@ @ W,2,.,*V 88( ! !A@   & &  08 8( !
+M !B O\STC##C#3,&   0 88   !N#!C#3,,,-,]+88   !@!@@#3,2,.,"
+"1335","M-,P8 ( ! !A@   &&   08 8   !@!@ !C,2,,,,]+@ 8 ! !A@  !@2,,,
+M,](P(PT;!A@ @ $&   #,\Q( Q!FS*2),F#    #!@ 8@,',%3-FJ)A)8\9,
+M&C-IS*0Q8R8-%3-IS%!)8V/    #  P8 &  @ $ !@ 8 ""*F31FTIBY8B:-
+MF31FJ)A)8\9,&C-I-@P $6-F31FS%PQ8R:-&3-7S*0QD\9,&C,;!@ 88:-
+MF31FT@ 8, #    #  P , #    #  P8 &  @ $ !@P8 &#_ ( ! P8 & !@
+M ( !  8,& !@P    P8  #!@ ( ! P , #!@ ( ! P ,&#  P    P , #
+MP    P8 & !@ ( ! P ,&$#%3!HS:<P, #  P( !&Z*D,6,F#14S::B824/%
+M3!HS& 8, #!@ (PK9LQ<,6,&P    P ,B&+&C)DT9M*826,F@\STJ#C#2B
+M &  0 88( 6TC#BC3,&   0 88   -DC###.N,,,,& 8 8( ! !C ##.N"
+"1336","M,,.,*\Q(PXPKS###C#3,2 .  0 88( -HC C#3/2,(.*-,Q(PPPS8##CC/,
+MN,(,&P8 8   !@!@  RN,,,,,W( _V    8 8( ! !@ @ $ &&    8 H(4T
+MS##CC-R&   08 8   !HC##/2,(.*-,S 8   !A@ !BK2,(.*-&P8 ( !"
+"1337","M!@!@   & &  0 8 ( !!@!@@#2H2,.,-,S 8   !A@ @ $P,,-*M(PPXP<"
+"1338","M !@ @ $ &. $,]*@(@TSTM@ @ $ &&    8 8  ,S$C#C#32,,.,-,R@(@TS"
+"1339","MJ$C#C#3,2,,,,](P8P  !@!@@ $ &&    88 ( !!@!@@ ',2(,*,](PPXPT"
+"1340","MJ# C#3/2,.,*,](P(XH! !A@ #/,H(-,](P(PTJS$C###/2H,*,-,R(8@
+M!H#AC/,H/\B#1L&&   0 88( ! !A@   &&   08 8   !AA@   & &
+M 08 8   !@!@@ $ &&    8 8( ! !A@   &&   0 8 ( ! !@ @ $& &
+M 0 8 ( !!@!@@ $ &&  0 8 ( !!@!@@ $ &   0 8X 0SS+CC#0 &&"
+"1341","M  8 8( HS$C###/2,,-,](P(PTSHC!C   & &   -(PPXPTS$CCA $ &&"
+"1342","M 0 8( <>S# C#3/,, ,##'@P(PTSTC #A@$ &   0#@P8PTS$C##!X&& "
+"1343","M 0 8( HSTC##C#2B&   0 88  ,;$C#C#3,,,-,\Q(PXPTS(C_(@H !A@"
+"1344","M@ $ & *0*0Q8R:-F31FS%PQDP-&&C-IS)A)8V  @ $#  S88:-F30P!@P"
+"1345","M,&  @ $ !@P8 &  @ $#  S@82:-F31F!@ 8 &  @ $#  QP8H9*&C-IS%#9"
+"1346","M,&  @#1FS*0Q8V; @ $ !@ 8, #    #  P8 &#  !AFS*2A8H;'@ $ !@ 8"
+"1347","M,,!,&C-FTE9 6#    #!@!(8\9,&C-FH@P8 &  @ $#  P ,,!,%#-FS*2A
+MDL9,&C-FTIBA8B:-F31FTM@8 &#    #  P , # @ $ !@P D,.,F31FJ*0Q
+M8R:-&2IIS)A)8X9*&A@#  RPD<9,&C-4_\RD,6,F#94T9LRD,4/%S P  P:8
+M,9/&3!HS P8 &#!@ ( !  8 &#  P( !  88 ( ! !@ @ $& &    88 ( !
+M !@ @ $& &  0 8 ( ! !@ @ $ P  #### P  ,,'@ @ $ &   0 88
+M!A@ @ $ &   0 88   !@!@   &&   08 ( <STC##C#0 &   08 8"
+"1348","M<H#!C#3,2,,,,](PPPDJ,!@ @ $&&  &<Q(PXPTS# #@ $ &     88 ( !
+M8$B#C-XP&    8PPXPTJ$C#C $& &  3 P(PTSS# CC0T &   088 ( T"
+"1349","MS# C#3-@&&   /\&&   3# P PSTC##C#3,2,.,*##88( ! !A@   & &
+M&WA(PXPTS$C##>B&( $,](PPXPTS!@ @ $& &  3 PPXPKS,AA   & &
+M  88 ( ! !A@   & &  #,Q(PPPSS# CB@$& &  08 8( !HDC#C#3,,,-
+M,UH8 ( 9S# C#3/2,,*  8 8( !!@!@@ $& &  0 8 ( !HC C#3/,2*,%
+M  8 8( ! !B C/,2,.,-&P88   !A@ @ %@,,-,](P8P8 !A@ @ $& &"
+"1350","M 0 88  ,HM@@#3/,2,,,,](P(PTSTC CC2A@H('  888   !@!@@ '_!@!@
+M@ $ &   0!(PXPTS# C#3/,2,,,,](PPXPTS# C#3/,&&  <Q(PPPSTC C
+M#3/,2,.,-,PP(PTSTC C#3,&&  &,](P(PTSS(@@ $ &   0 88( ! !A@
+M   & &    888   !A@ @ $ &&    888   !A@ @ $ &, ####   ,,,,
+M S/2H(-,\Q(PPPG!@!@@ $& &  0 8 ( !!@!@@ $& &     Q8,    ,&
+M !@P ,  0#2F$ECQLR  0 & !@P ,  1MXF*&2AHJ-#0,& !@P ,    ,
+M#  P ,  0, #!@P8   0, #  P8,    ,&_S@QD\:,&3,\!@ 8 &  @ $
+M!@P , # @ $ !@ 8, # @ $ !@P ,&  @ $ !@ 8L'* !@S8+2@P@/#   #"
+"1351","M  P ,&#    #!@ $86*&2HS  P8@&$ @ $ !@ 8 &  @ $ -J0QD\9,BP$
+M!@P ,&  @ $#  P ,&  @ $ !@P ,&  @ $#  P8 &  @ $ !@ 8 &  @ $
+M!@P , # @ $ !@ 8, # @ $ !@ 8 &  @ $ !@P ,&  @ $#  P , # @ $
+M!@P ,&  @ $ !@ 8 ( ! !A@   &&   0 8 ( ! !@ @ $ &   08 8
+M!A@ @!ELH(-*LRXPO\,*G*P80  !A@ @ $ &   08 8   !@!@   && "
+"1352","M 08 8   !A@ @ $& &  0 88   !A@ @ $& &    8 8( ! !@ @ $& &
+M  8 8   !@!@   & &  0 8 ( !!@!@@ $& &    8 8   !@!@   && 
+M 0 8 ( !!@!@@ $ &   0 8 ( !!@!@@ $ &$ %,\Q(PPPSTJ#C#3,,,-"
+"1353","M,](P(PTG !A@   & &    8 8( ! !A@   & &  0 8 ( !!@!@   && "
+"1354","M 0:(PHPKS$C#A@$ &&  0 88   !@!@@ $ &&    8 8( ! !@ @ $&& #_
+M@ $ &&     8 ( !HC#CBK,N&*# 0 8 ( ! #C!C#2H,.-* 8 8( ! !@
+M@ $&&   0 88   !@!@@ $ &   08 8   !@!@   &&&    88 ( ! !A@
+M   & &  08 8( ! !@ @ $& &  0 88( ! !A@   & &  0 88   !AA@"
+"1355","M   &P,,-,PP8P, !A@ @ $& &    88 ( !!@!@@ $ &   08 8( ! !@"
+"1356","M@ $ &&    88 ( !!@!@@ $& &    88 ( !!@!@@ $ &&    8 8( ! !A@"
+"1357","M   &&   08 8( ! !A@   &&&    88 ( ! !@ _X !!@!@@ $& &  0 8"
+"1358","M ( ! !A@   &&   08 8( !!@!@   &&   08 8( ! !A@   & &  0 8
+M8   !A@ @ $& &  0 88   !AA@   & ,0   , #!@ 8,    , #!@ 8 
+M 0 & !@ 8   0, #!@ 8,    , #!@P ,  0 &#  P8   0 &#  P ,"
+"1359","M  ,&#  P8   0 &#!@ 8,    ,& !@ 8   0, #!@ 8,    , #!@ 0,45"
+"1360","M,VG,7#%C)HV9-%3,F+EBQ@R/ 0 &#  P8,    ,& !@P ,  0 & !@P ,
+M  ,& !@ 8   3#,F$ECYO\$@ $ !@ 8 &#    #  P8 &#    #  P8 &"
+"1361","M@ $ !@P8 &# @ $#  R 82:-F31F> P8 &#    SS*0QD\8,@ $ !@ 8,&"
+"1362","M@ $ !@P , # @ $ !@ 8, #    #  P8 &#    #  P , # @ $ !@P , 
+M 0 88   !A@ @ $ &   08 8   !A@ @ $& &    88 ( ! !@ @ $V2,,,"
+"1363","M*M*@8H ! !@ @ $ &&    8 8( ! !@ @ $&&   0 8 ( !!@!@@ $ & "
+"1364","M 0 88   !A@ @ $ &   08 8   !A@ @ $& &    88 ( !!@!@@ $ &&
+M  ;_ &    8 8( ! !@ @ $ &   08 8( ! !@ @ $ &   08 8( ! !@
+M@ $ &&    88 ( ! !@ @ $& &    88 ( !!@!@   &&   08 8( ! !A@"
+"1365","M   & &    8 8( ! !@ @ $ &   08 8   !@!@@ $ &   088 ( !!A@"
+"1366","M@ $&&   0 8 ( ! !A@   & &    8 8( ! !A@   & &  0 88   !A@"
+"1367","M@ $ &   0 88( ! !@ @ $ &&     8 ( !!A@ @ $& &    8 8( ! !@
+M@ %4,,,,,](P(PTSTDC#C#3,2,,,,])P H !!@!@   &_P!@   & &    8
+M ( !!A@ @ $ &&  0 88   !A@ @ ',2,,,*G(88   !A@ @ $& &  08
+M8( ! !@ @ $& &    88 ( !!@!@   & &    88 (8TS* B#3-: &  0 P"
+"1368","M  ,STC####.BP&  0 88   !@!@@ $ &   088 ( !!@!@   &&   088
+M ( !!@!@   &&   08 8   !@!@@ $ &&    8 8   !@!@@ $& &    88"
+"1369","M ( ! !@ @ $ &&    8 8   !AA@ S/2,,*# 8 8( ! !A@   & &  0 8"
+"1370","M ( !!@!@   &&  0  8, #  P/\   ,& !@P ,    , #  P8,    , #!@"
+"1371","M8   0 & !@P ,    , #  P8   0 &#!@ 8,    , #!@ 8,  0 &#  P
+M ,  0 &#  P ,    ,& !@P ,    , #  P8,    , #!@ 8   0 & !@P
+M ,    , #  P8   0 &#!@ 8,    , #!@ 8,  0 &#  P8   0 &#  P"
+"1372","M ,    , #  P ,  0 &#  P8   0, #!@ 8,    , #  P8,    ,& !@P"
+"1373","M ,    ,&#  P8   0 &#  P8   0,&#  P ,    ,& !@P8   0, #!B
+M(8V9*V;_S%PQ8\9,&C-IJ*0Q0\7)   #!@ 8 &# @ $ &&    888   !@!@
+M@ $ &   0 8 ( !!@!@ #/2,,.,-&P8 ( !!@!@@ $ &   0 8 ( ! !A@
+M   &&&    8 8   !A@ @ $&&   0 8  ,STC##C#2H<(***S((@TSS+C"
+"1374","MC#1X&   08 8( ! !@ @ $ &&    8 8   !A@ @ $ &&    8 8   !A@
+M@ $ &&    888   !A@ @ $& &  0 88   !A@ @ $ &&    8 8   !A@"
+"1375","M@ $& &  0 88( ! ,C!##/,2.* 0 8 ( !!@!@   &&  _P$& &    88
+M ( ! !A@   &&&    88 ( !!@!@@ $ &&    88 ( ! !A@   & &    88
+M ( !!@!@@ $ &&  0 8 ( ! !A@   & &    88 ( ! !A@   & &    88"
+"1376","M ( ! !A@   &&&    88 ( !!@!@@ $ &&    88 ( ! !A@   & &    88"
+"1377","M ( !!@!@@ $ &&  0 8 ( ! !A@   & &    88 ( ! !A@   & &    88
+M ( !!@!@@ $ &&    88 ( !!A@ @ $ &&    88 ( ! !@ @ $& &  0 8"
+"1378","M8   !A@ @ $ &   0 8 ( !!@!@ /\ !A@ @ $& &    88 ( !!@!@   &
+M&   0 8 ( !!@!@   & &    8 0 4STC C#3/,2,.,-*@PPXPTS$C##<
+M&&    888   !@!@@ $ &&    8 8( ! !A@   &&   08 8   !A@ @ $&"
+"1379","M &    88 ( ! !@ @ $& &  0 88( ! !@ @ $ &&    88 ( ! !@  $ ,
+M #!@ ( -:<R8N6(F31HS9LRDH6(FC9DT40 ,& !@ ( !  8, #!@ ( !  8
+M&#  P( ! P , #  P( ! P ,& !@P    P , #!@ ( !  8 & !@P    P8
+M& !@P    P;_ !@P8   0, #!@ 8   0 &#  P8   0 & !@P ,  0,
+M#  P ,  0, #!@ 8,    , #  P8   0 & !@ 8,    ,& !@ 8,    ,&
+M !@P8   0, #!@ 8   0 &#  P8   0 & !@P ,  0, #  P ,  0,"
+"1380","M#!@ 8,    , #  P8   0 & !@ 8,    ,& !@ 8,    ,& !@P8   0,"
+"1381","M#!@ 8   0 &#  P8   0 & &  0 88( ! !@ @ $ &&  0 88   !A@"
+"1382","M@ $ &   08 8   !@!@   &&   0 88   !A@ @ $ &   0 8_P  08"
+"1383","M8   !A@ @ $& &  0 8 ( !!@!@   & &  0 8 ( ! !@ @ $& &  08
+M8( ! !@ @ $& &  0 80 4SKC##C#3,N,(,,](PXPHSS# C#2< &   0 8
+M ( !!@!@   & &  0 8 ( ! !@ @ $ &&    88 ( !!@!@   &&&    8"
+"1384","M8   !A@ @ $ &   08 8   !AA@   & &  0 88( ! !A@   &&   0:(
+MPHPTS#####.N,,-,\Q(PPP88!@ @ $ &&  0 8 ( !!@!@@ $& &  08"
+"1385","M8   !@!@@ $ &&    8 8   !@!@   &&/]@   & &  0 88( ! !A@   &
+M&   08 8   !@!@@ $ &   0 8 ( ! !A@@ $ &   08 8( !!@!@@ $&"
+"1386","M &    8 8( ! !A@   & &    8 8   !AA@   & &  0 88( ! !A@   &
+M&   08 8   !@!@@ $ &   0 8 ( ! !A@@ $ &   08 8( !!@!@@ $&"
+"1387","M &    8 8( ! !A@   & &    8 8   !AA@   & &  0 88( ! !A@   &
+M&   08 8   !@!@@ $ &   0 8 ( ! !A@@ $ &   08 8( !!@!@@ $&"
+"1388","M &    8 8( ! !C_8   !@!@   & &    88 ( !!@!@@ $ &&    88 ( !"
+"1389","M!@!@   &&   088 ( !!@!@@ $& &  0 8 ( ! #$ P( !  8, #  P( !"
+"1390","M  8, #  P( ! P ,& !@ ( !  8 & !@P    P ,& !@ ( !*LR824/%3!HS"
+"1391","M9LRD,6,FC9DT5)P, #!@ ( ! P , #!@ ( ! P , #!@P    P ,& !@P"
+"1392","M P , #!@ ( !  8, #!@P    P8 &#  P    P8 & !@ ( ! P , #  P( !"
+"1393","M  8 & !@ ( !&S XH9+&3!HS9M+8&) #P( ! P , #  P( !  8 & !@_P
+M 0 & !@ 8   0, #!@ 8   0, #!@P ,    , #!@ 8   0 & !@ 8 
+M 0 & !@P ,  0 & !@P ,  0, #  P ,  0 & !@ 8   0 & !@ 8 "
+"1394","M 0, #!@ @ $ &&    888   !@!@   &&   0 8 ( ! !@ @ $ &   0 8"
+"1395","M8   !A@ @ $ &&    888   !@!@   &&   0 8 ( ! !@ @ $ &   0 8"
+"1396","M8   !A@ @ $ &&    888   !@!@   &&   0 8 ( ! !@ @ $ &   0 8"
+"1397","M8   !A@ @ $ &&    888   !@!@   &&   ?\ &   0 8 ( ! !@ @ $"
+"1398","M&&    88 ( ! !A@   &&   08 8( ! !A@   &&   08 8   !A@ @ $&"
+"1399","M &    8 8( ! !@ @ $ &   0 88   !@!@   &&   08 8   !A@ @ $&"
+"1400","M &    8 8   !AA@   &&   08 8( ! !A@   &&   3 P(PTSS$C###/2"
+"1401","M,.,*,](P@XHTS'!B@ $ &&    8 8( ! !A@   & &  0 8 ( !!A@ @ $
+M&   088 ( ! !A@   & &  0 8 ( ! !A@   &&   08 8( ! !A@   &"
+"1402","M&   08 8   !A@ @ '_!@!@   & &  #&PX(0<;9@!@   &&   0 88( !"
+"1403","M !@ @ $&&   08 8( !!@!@   &&&    88 ( !!@!@   &&   0 88( !"
+"1404","M !@ @ $&&   08 8( !!@!@   &&&    88 ( !!@!@   &&   0 88( !"
+"1405","M !@ @ $&&   08 8( !!@!@   &&&    88 ( !!@!@   &&   0 88( !"
+"1406","M !@ @ $&&   08 8( !!@!@   &&&    88 ( !!@!@   &&   0 88( !"
+"1407","M !@ @ $&&   08 8( !!@ $@ $ !@P8 &#    #!@ 8 &#    #  P8, #
+M_P   P8, #!@ ( ! P8 & !@P( !  8, #!@ ( !  8, #  P( ! P , #!@
+MP    P8 &#!@ ( !  8,& !@P    P8 & !@P    P8 &#  P    P , #
+MP    P8 & !@ ( ! P ,& !@ ( ! P8 &#  P( !  8, #!@ ( !  8 &#!@
+M ( !  8 &#!@ ( !  8, #  P    P8 & !@ ( ! P , #!@   5:<Q<,9/&
+MS!4S9LRD,6,FC1DS3@ , #  P    P8 & !@P    P8 & !@P    P ,& !@
+M ( !  8, #  P    P8 & !@P    P ,& !@ ( ! /\& !@P ( !!@!@@ $
+M&&    8 8( ! !A@@ $ &&    88 ( ! !A@   & &    88 ( ! !A@   &
+M &  0 8 ( ! !A@@ $ &   0 8 ( ! !A@   & &    88 ( ! !A@   &
+M &  0 8 ( ! !A@@ $ &   0 8 ( ! !A@   & &    88 ( ! !A@   &
+M &  0 8 ( ! !A@@ $ &   0 8 ( ! !A@   & &    88 ( ! !A@   &
+M &  0 8 ( ! !A@@ $ &   0 8 ( ! !A@   & &    88 ( ! !A@   &
+M &  0 8 ( ! !A@@ $ & #_@ $ &   0 88   !@!@   &&   0 88"
+"1408","M!@!@@ $ &   0 88( ! !@ @ $ &   0 88   !@!@   &&   0 88
+M!@!@@ $ &   0 88( ! !@ @ $ &   0 88   !@!@   & &    8 8( !
+M !A@   &&&    88 ( !!A@ @ $& &    88 ( ! !A@   &&   08 8( !"
+"1409","M !A@   &&   0 88   !A@ @ $ &&  0 8 ( !!@!@@ $ &&  0 88
+M!@!@@ $ &$ %*LQ(PPPSTC####/2,.,*,](PXPHG !A@@ $ &&    88 ( !
+M !A@_P  !A@ @ $ &&    8 8( !!A@ @ $ &&  0 88   !@!@@ $ &&
+M 0 8 ( !!@!@@ $ &&    8 8   !@!@   &&&    8 8   !@!@   && "
+"1410","M 0 88   !AA@   &&   08 8   !A@ @ $ &&    88 ( ! !@ @ $& &"
+"1411","M 0 8 ! #  P8, # @ $ !@P , # @ $ !@ 8, # @ $ !@ 8 &#    #!@ 8"
+"1412","M, # @ $#  P8 &#    #  P8 &  @ $#  P8 &  @ $ !@P ,&  @ $#  P8"
+"1413","M, # @ $ !@P , # @ $ !@ 8, # @ $ !@ 8 &#    #!O\ &#  P( ! P ,"
+"1414","M& !@P    P ,& !@ ( ! P ,& !@ ( !  8, #!@ ( ! P ,&#  P( !  8,"
+"1415","M #  P( !  8 &#  P( !  8 & !@P    P8 &#  P( ! P ,& !@P    P ,"
+"1416","M& !@ ( ! P ,& !@ ( !  8, #!@ ( ! P ,&#  P( !  8, #!@ ( ! P ,"
+"1417","M #  P    P , #  P    P ,& !@P   !@!@   & &    8 8   !@!@@ $"
+"1418","M&&    8 8( ! !A@   & &    88 ( ! !A@   & &    8 8   !A@ @ $&"
+"1419","M $%-,PP(PTJS$C###/,2,,,,Z[_,,,,)P8 8   !A@ @ $& &  0 8 ( !"
+"1420","M!@!@@ $& &    88 ( ! !@ @ $& &    88 ( ! !A@   & &    8 8( !"
+"1421","M !A@   & &    88 ( !!A@ @ $ &   08 8( ! !A@   & &    88 ( !
+M !@ @ $& &    8 8( ! !@ @ $& &  0 8 ( ! !A@   & &    88 ( !"
+"1422","M !@ @ $& &    8 8( ! !@ @ $& &  0 8 ( ! !A@   & &    88 ( !
+M !@ @ $& &    8 8( ! !@ @ $& &  0 8 ( ! !A@   & &    88 ( !"
+"1423","M !@ @ $&_P!@   & &  0 8 ( !!@!@@ $ &   0 88   !@!@   && 
+M 0 8 ( !!@!@   & &  0 8 ( !!@!@@ $ &   0 88   !@!@   && "
+"1424","M 0 8 ( !!@!@   & &  0 8 ( !!@!@@ $ &   0 88   !@!@   && 
+M 0 8 ( !!@!@   & &  0 8 ( !!@!@@ $ &   0 88   !@!@   && "
+"1425","M 0 8 ( !!@!@@ $ &&    88 ( !!@!@   &&   088 ( !!@!@@ $& &
+M  8 8( ! !A@   &&   088 ( !!@!@   &&   08 8   !O\ 8( ! !A@
+M   & &  0 8 ( ! !A@   &&&    8 8( !,###CO,2,,,0)A)DX:*F31F
+MS*0QXV3    #  P , #    #!@ 8 &  @ $ !@ 8, # @ $ !@ 8 &#    #
+M!@ 8,&  @ $#  P8 &#    #  P ,&#    #!@ 8 &  @ $#!@ 8 &#    #
+M!@ 8,&  @ $#  P8 &#    #  P8 &#    #!@ 8, #    #!@ 8,&  @ $#
+M!@ 8, # @ $ !@P , # @ $ !@P ,&  @ $#  P ,&  @ $#!@ 8,&  @ $#
+M  P8 &#    #  P8 &#    #!@ 8, #_P    P8 &#!@ ( ! P8 &#  P( !
+M  8, #  P( !  8, #!@ ( ! P , #!@ ( ! P8 &#!@ ( ! P ,& !@P
+M P ,& !@P    P8 8( ! !@ @ $& &  08 8( !!@!@@ $ &&    88 ( !"
+"1426","M !A@   &&   08 8( ! !@ @ $& &  08 8( !!@!@@ $ &&    88 ( !"
+"1427","M !A@   &&   08 8( ! !@ @ $& &  08 8( !!@!@@ $ &&    88 ( !"
+"1428","M !@ @ $ &   0 8 ( ! !A@@ $ &&    8 8   !A@ @ $ &&    88 ( !
+M!@!@@ $& &  _P & &  0 88   !@!@   &&   08 8   !A@ @ $&& "
+"1429","M 08 8( !!@!@@ $ &   08 8   5# C#3/,2,.,*\Q(PXPTS$C#CO,<&("
+"1430","M  8 8( !!@!@   &&   08 8( ! !A@@ $ &   0 88( ! !A@   & &"
+"1431","M  8 8   !@!@@ $ &&    88 ( !!@!@   & &    88 ( !!@!@   && 
+M 0 8 ( ! !@ @ $& &  0 8 ( !!@!@@ $ &&    88 ( !!@!@   && 
+M 0 8 ( ! !@ @ $& &  0 8 ( !!@!@@ $ &&    88 ( !!@!@ /\ !A@"
+"1432","M@ $ &   0 8 ( !!@!@@ $ &   08 8( ! !A@   &&   08 8   !A@
+M@ $ &   0 8 ( !!@!@@ $ &   08 8( ! !A@   &&   08 8   !A@"
+"1433","M@ $ &   0 8 ( !!@!@@ $ &   08 8( ! !A@   &&   08 8   !A@
+M@ $ &   0 8 ( !!@!@@ $ &   08 8( ! !A@   &&   08 8   !A@"
+"1434","M@ $ &   0 8 ( !!@!@@ $ &   0 Q ,  0 &#  P8   0, #  P8 
+M 0 & !@ 8   0, #!@ 8   0, #!@ 8,#_@ $ !@P ,&#    #  P , #
+M@ $ !@P , # @ $ !@P , #    #  P ,&  @ $#  P , # @ $ !@P ,&
+M@ $#  P , #    #  P8 &  @ $ !@ 8, #    #!J@P<\5,&BIIS)@Q8R8-
+M%3-IS)CA,0# @ $ !@ 8,&  @ $#  P8 &  @ $ !@ 8, #    #  P8 &#
+M   #!@ 8 &# @ $ !@ 8 &  @ $#  P ,&  @ $#  P , # @ $ !@P ,&#
+M   #!@P , #    #  P8 &  @ $ !@P , #    #  P8 &#    #!@P 8( !
+M!@!@   & &    88_P  0 8 ( !!@!@   & &    88 ( !!@!@@ $& &
+M 08 8   !@!@   &&   0 8 ( !!@!@   & &    88 ( !!@!@@ $& &
+M 08 8   !@!@   &&   0 8 ( !!@!@   & &    88 ( !!@!@@ $& &
+M 08 8   !@!@   &&   0 8 ( !!@!@   & &    88 ( !!@!@@ $& &
+M 08 8   !@!@   &&   0 8 ( !!@!@   & &    88 ( !!@!@@ $& &
+M 08 8   !@!@   &&   0 8 ( !!@!@   & &    88 ( !!@!@@ $& /]@"
+"1435","M@ $& &    8 8   !A@ @ $ &   08 8   !A@ @ $ &   08 8( ! !@"
+"1436","M@ $& &  0 88   !@!@@ $ &&  0 88   !@!@@ $ &&    88 ( ! !@"
+"1437","M@ $& &    888   !A@ @ $& &    88 ( !!A@ @ $ &&    8 0 4SS$C#"
+"1438","M##/,2,,,,](PPXPTS# C#2< &&    8 8( ! !@ @ $ &   0 88   !AA@
+M@ $ &&    88 ( ! !@ @ $& &  08 8   !@!@@ $ &&    8 8( ! !@"
+"1439","M@ $ &&    88 ( ! !@ @ $ &   0 8 ( !!@#_8( ! !A@   & &  0 8"
+"1440","M ( ! !A@   &&   0 8 ( ! !@ @ $ &   08 8( ! !A@   & &  0 8
+M ( ! !A@   &&   0 8 ( ! !@ @ $ &   08 8( ! !A@   & &  0 8"
+"1441","M ( ! !A@   & ,0   , #  P ,    , #  P8   0, #!@ 8   0, #  P"
+"1442","M ,  0 &#  P ,    , #  P ,    ,& !@P ,  0 & !@P ,    , #!@"
+"1443","M8,    , #  P ,    , #  P8   0, #!@ 8   0, #  P ,  0 &#  P
+M ,    , #  P ,    ,&_P 8, # @ $ !@ 8, #    #  P8 &#    #  P
+M, #    #  P ,&  @ $#  P8 &  @ $#  P , # @ $ !@ 8, #    #!@ 8
+M, #    #  P , #    #!@ 8 &  @ $ !@ 8, #    #  P8 &#    #!@ 8
+M &#    #  P8 &  @ $ !@P ,&  @ $ !@ 8,   08 0(4KS$B#BC3,N,(,"
+"1444","M,ZXP(PTSKC###!X& &  0 8 ( !!@!@@ $ &&    88 ( ! !@ @ $ & "
+"1445","M 08 8   !A@ @ $ &   0 88   !A@ @ $& &    88 ( !!A@ @ $& &"
+"1446","M ?\ &&    88 ( !!@!@@ $& &    88 ( !!@!@   &&   088 ( !!@!@
+M@ $ &&    88 ( !!@!@@ $& &    88 ( !!@!@   &&   088 ( !!@!@"
+"1447","M@ $ &&    88 ( !!@!@@ $& &    88 ( !!@!@   &&   088 ( !!@!@
+M@ $ &&    88 ( !!@!@@ $& &    88 ( !!@!@   &&   088 ( !!@!@"
+"1448","M@ $ &&    88 ( !!@!@@ $& &    88 ( !!@!@   &&   088 ( !!@!@
+M@ $ &&    88 ( !!@!@@ $& &    88 ( !!@!@  #_!A@ @ $&&   08"
+"1449","M8( ! !A@   &&   08 8( !!@!@   &&   08 8   !A@ @ $&&   08
+M8( ! !A@   &&   08 8( !!@!@   &&   08 8   !A@ @ $&&   08"
+"1450","M8( ! !@ @ $&&   0 8 ( !!A@ @ $ &&  0 88   !A@ @ $& &    88"
+"1451","M ( !!@!@@ $ &   0 88   !A@ @ $& &  0 8 ( !!@!@@ $ &   0 8
+M8   !A@ @ $ &   50PPPPSTC##C#3,,,.,-,PPPXPTS' @ $& &  08"
+"1452","M8   !@!@@ $ &&    8 8   _P88 ( !!@!@   &&&    88 ( !!@  $ ,&"
+"1453","M !@P ,    , #!@P ,    , #!@ 8   0 & !@P ,  0 & !@ 8,    ,"
+"1454","M#  P ,  0, #  P ,  0 & !@ 8   0, #!@ 8   0 &#  P ,    ,"
+"1455","M#!@P ,    , #!@ 8   0 & !@P ,  0 & !@ 8,    , #  P ,  0,
+M#  P ,  0 & !@ 8   0, #!@ 8   0 &#  P ,    , #!@P ,    ,"
+"1456","M#!@ 8   0 & !@P ,  0 & !@ 8,    , #  P ,  0, #  P ,  0 &"
+"1457","M !@ 8/\ @ $#  P8 &  @ $ !@P , #    #  P8, #    #  P8 &  @ $"
+"1458","M!@ 8, # @ $ !@ 8 &#    & &    8 8( !!@!@   & &  0 8 ( ! !@
+M@ $& &  0 8 ( ! !A@   & &    8 8( !!@!@   & &  0 8 ( ! !A@
+M   & &  0 88   !@!@@ $& &    88 ( !!@!@@ $ &&  0 8 ( ! !A@
+M   &&&    88 ( ! !A@   & &    8 8( ! !A@   & &  0 8 ( !!@!@"
+"1459","M@ $ &&   %1(PXPTJ$C#C#3,2,,,,ZXP(PTJTG @ $ & #_@ $ &&  0 8"
+"1460","M8   !@!@@ $ &&  0 88   !A@ @ $ &   0 88   !A@ @ $ &   08
+M8( ! !@ @ $& &    8 8( ! !A@   &&   0 88   !@!@   &&   08
+M8( ! !@ @ $& &    8 8( ! !A@   &&   0 88   !@!@   &&   08
+M8( ! !@ @ $& &    8 8( ! !A@   &&   0 88   !@!@   &&   08
+M8( ! !@ @ $& &    8 8( ! !A@   &&   0 88   !@!@   &&   08
+M8( ! !@ @ $& &    8 8( ! !A@_P  !A@ @ $ &&    8 8   !A@ @ $&
+M &  0 8 ( !!@!@   & &  0 88   !A@ @ $ &&    8 8   !A@ @ $&
+M &  0 8 ( !!@!@   & &  0 88   !A@ @ $ &&    8 8   !A@ @ $&
+M &  0 8 ( !!@!@   & &  0 88   !A@ @ $ &&    8 8   !A@ @ $&
+M &  0 8 ( !!@!@   & &  0 88   !A@  $ , #!@ ( ! P , #  P( !
+M  8 & !@ ( !  8 & !@P( !  8, #  P    P ,& !@ ( ! P ,& !@P
+M P , #!@P/\   ,&#  P ,    ,& !@P0 65-&;,F$E#Q4P:,VG,I#%CQHR3
+M 0 &#  P8   0 & !@ 8,    , #  P ,    ,& !@P ,  0 &#  P ,
+M  ,& !@P ,  0 & !@P ,  0, #!@ 8,    ,& !@ 8,    ,&#  P8 "
+"1461","M 0, #!@ 8   0, #!@P ,  0 &#  P8   0 &#  P8,    ,& !@P ,"
+"1462","M 0 & !@P ,  0, #!@ 8,    ,& !@ 8,    ,&#  P8   0, #!@ 8 
+M 0, &&  0 88   !A@ @ $& &    88 ( !!A@ @ $& &  0#_&&    8
+M8( ! !A@@ $ &&    88 ( !!@!@   &&   088 ( !!@!@@ $ &&    8"
+"1463","M8( ! !A@@ $ &&    88 ( !!@!@   &&   088 ( !!@!@@ $ &&    8
+M8( ! !A@@ $ &&    88 ( !!@!@   &&   088 ( !!@!@@ $ &&    8"
+"1464","M8( ! !A@@ $ &&    88 ( !!@!@   &&   088 ( !!@!@@ $ &&    8
+M8( ! !A@@ $ &&    88 ( !!@!@   &&   08 8( ! !A@   & &  0 8
+M8   !AA@   &&   0 8 ( ! !A@   &_P!@@ $ &&    8 8( ! !A@   &"
+"1465","M&   08 8   !@!@   &&&    88 ( ! !A !3/,2,.,*\Q(PPPSJ$C#CO,"
+"1466","M2,,,'@88 ( !!@!@@ $ &&    88 ( !!A@ @ $& &  0 8 ( ! !A@   &
+M&   0 88   !@!@@ $ &&    8 8( ! !A@   & &    88 ( !!@!@   &"
+"1467","M&   08 8   !@!@@ $ &&    8 8( ! !A@   & &    88 ( !!@!@   &
+M&   08 8   !@!@@ $ &&    8 8( ! !A@   & &    88 ( !!@!@   &"
+"1468","M&   08 8   !O\ 8( ! !A@   & &  0 88   !@!@   &&   08 8
+M!A@ @ $& &    8 8( ! !A@   & &  0 88   !@!@   &&   08 8
+M!A@ @ $& &    8 8( !  %@P    P ,& !@P    P , #!@ ( ! P , #!@
+M ( ! P , #  P( !  8, #  P( !  8, #  P    P8 &#  P    P8 &#
+MP    P ,& !@P    P ,& !@P    P , #!@ ( ! P , #!@ ( ! P , #
+MP( !  8, #  P( !  8, #  P    P8 &#  P    P8 &#  P    P#_#!@
+M8,  0 &#  P8   0 &#  P8   0, #!@ 8,  0 &#  P8   0 & !@"
+"1469","M8   0, #  P8   0, #  P ,    ,&# @XHH9,VG,F$ECQDP:,V;,I#%C
+MQLD   , #  P ,  0 &#  P ,    ,& !@ 8,    ,&#   @ $ &   088
+M ( !!@!@   & &    88 ( ! !@ @ $ &&    8 8   !@!@@ $ &   0 8"
+"1470","M ( !!@!@   & &    88 ( ! !@ @ $ &&    8 8   !@!@@ $ &   0 8
+M ( !!@!@   & &    88 ( ! !@ @ $ &&  _P & &    8 8( ! !@ @ $
+M&   08 8   !@!@   &&   0 8 ( ! !A@   & &    8 8( ! !@ @ $
+M&   08 8   !@!@   &&   0 8 ( ! !A@   & &    8 8( ! !@ @ $
+M&   08 8   !@!@   &&   0 8 ( ! !A@   & &    8 8( ! !@ @ $
+M&   08 8   !@!@   &&   0 8 ( ! !A@   & &    8 8( ! !@ @ $
+M&   08 8   !@!@   &&   0 8 ( ! !A@   & &    8 8( ! !@ @ $
+M&   08 8   !@!@ /\ !A@ @ $ &   0 88   !@!@   & &  0 8 ( !"
+"1471","M !@ @ $& &    8 8   !@!@   & &    88 ( ! !A@   & &    8 8"
+"1472","M!@!@   & &  0 88   !AA@   & &  08 8   !@!@@ $ &&  0 8 ( !
+M5###C#3,2(.*-,PP(PTJTC C#3.N< *  08 8( ! !@    &    0 8 ( !"
+"1473","M !A@   &    0  8( !!A@ @ $& &    8 8( !!@!@@ $ &   088 ( !"
+"1474","M!@!@   &&&    88 ( ! !A@@ $ &&    8 8( !!@!@@ $ &   088 (#_
+M 08 !( !  8,& !@P    P ,&#  P( !  8 &#!@ ( ! P , #!@P    P8
+M& !@P( !  8, #  P( ! P ,& !@ ( ! P8 &#  P    P8, #!@ ( !  8,
+M& !@P    P ,&#  P( !  8 &#!@ ( ! P , #!@P    P8 & !@P( !  8,
+M #  P( ! P ,& !@ ( ! P8 &#  P    P8, #!@ ( !  8,& !@P    P ,
+M&#  P( !  8 &#!@ ( ! P , #!@P    P8 & !@P( !  8, #  P( ! P ,
+M& !@ ( ! P8 &#  P    P8, #!@ ( !  8,& !@_\    , #!@P ,  0 &"
+"1475","M !@P8   0, #  P8,    ,& !@ 8( !!@!@@ $ &   088 ( !!@!@   &"
+"1476","M&&    88 ( ! !A@@ $ &&    8 8( ! !@ @ $& &  0 88   !A@ @ $&
+M&   08 8( !  !@   &&   0 8 ( ! !@    &    08 8   5* B#3/,"
+"1477","M2,,,,](P(PTSS$B#C/,<&(   888   !AA@@ $&&&  0888   !A@ @ $&"
+"1478","M&&  0888   !@!@@ $ &   088 ( ! !A@   &&&    8 8( ! !A@@ $"
+"1479","M&   08 8( !!@!@   &&/\ @ $&&   0 88   !AA@   & &  0 88( !
+M !@ @ $& &  08 8   !A@ @ $&&   0 88   !AA@   & &  0 88( !"
+"1480","M !@ @ $& &  08 8   !A@ @ $&&   0 88   !AA@   & &  0 88( !
+M !@ @ $& &  08 8   !A@ @ $&&   0 88   !AA@   & &  0 88( !"
+"1481","M !@ @ $& &  08 8   !A@ @ $&&   0 88   !AA@   & &  0 88( !
+M !@ @ $& &  08 8   !A@ @ $&&   0 88   !AA@   & &  0 88( !"
+"1482","M !C_ ( !!@!@@ $& &    88 ( !!A@ @ $ &&    888   !@!@@ $ &&
+M 0 8 ( !!@!@@ $& &    88 ( !!A@ @ $ &&    888   !@!@@ $ &&"
+"1483","M 0 8 ( !!@!@@ $& &    88 ( !!A@ @ $ &&    888   !@!@@ $ &&
+M 0 8 ( !!A@ @ $& &  0 88   !@!@   & &  0 8 ! #!@P8, #    #
+M!@P8,&# @ $#!@P8 &# @ $JS*0QDX:*F31FS*2ADL9,&C-IG$2)$B7*CRA1
+MHD2)$B7*CRA1HD2A$B7*CRA1HD2)$B7!@ $ !@ 8, # _P   P ,& !@ ( !
+M  8 &#  P    P , #!@ ( !  8 & !@P    P , #  P( !  8 & !@ ( !
+M P , #  P    P8 & !@ ( !  8, #  P    P ,& !@ ( !  8 &#  P
+M P , #!@ ( !  8 & !@P    P , #  P( !  8 & !@ ( ! P , #  P
+M P8 & !@ ( !  8, #  P    P ,& !@ ( !  8 &#  P    P , #!@ ( !
+M  8 & !@P   !@!@   & &  0 8 ( ! !@ @ $& &    8 8   !A@ @ $"
+"1484","M&   0 88   !@!@   & &  ?\ &   0 8 ( !!@!@   & &    88 ( !
+M !@ @ $ &&    8 8   !@!@@ $ &   0 8 ( !!@!@   & &    88 ( !"
+"1485","M !@ @ $ &&    8 8   !@!@@ $ &   0 8 ( !!@!@   & &    88 ( !
+M !@ @ $ &&    8 8   !@!@@ $ &   0 8 ( !!@!@   & &    88 ( !"
+"1486","M !@ @ $ &   0 8 ( !!A@ @ $& &    8@(8HHHH@BBA^HB*****((HHH"
+"1487","M?H@BBBBBB****+XP0 STJ#C#3,N,(,,\Q(PPPSS+C##.N,,-,](P(PTS"
+"1488","MKC C#3/_TC##C#2H,,.,-,Q(PPPSKC###!4& &    88 ( !!@!@@ $ &&"
+"1489","M  88 ( !!@!@@ $ &&    88 ( !!@!@@ $ &&    88 ( !!@!@@ $ &&"
+"1490","M  88 ( !!@!@@ $ &&    88 ( !!@!@@ $ &&    88 ( !!@!@@ $ &&"
+"1491","M  88 ( !!@!@@ $ &&    88 ( !!@!@@ $ &&    88 ( !!@!@@ $ &&"
+"1492","M  88 ( !!@!@@ $ &&    88 ( !!@!@@ $ &&    88 ( !!@!@@ $ &&"
+"1493","M  88 ( !!@!@@ $ &&    88 ( !!@!@@ $ &&    88 ( !_P8 8( ! !A@"
+"1494","M   &&   08 8( ! !A@   &&   08 8( ! !A@   &&   08 8( ! !A@
+M   &&   08 8( ! !A@   &&   0 P8 &#    #!@ 8, # @ $ !@P ,&"
+"1495","M@ $#  P8 &#    #!@ 8, # @ $ !@P ,&  @ $#  P8 &#    #!@ 8, #"
+"1496","M@ $ !@P ,&  @ $#  P8 &#    #!@ 8, # @ $ !@P ,&  @ $#  P8 &#"
+"1497","M   #!@ 8, # @ $ !@P ,&  @ $#  P8 &  @ $#  P8 & EBMFTIA)8\:,
+MF314TI@QD\9,&C-IJ*0QD\:,F31FS/^D,9/&3!HS9M)026,FC9DT9LR8N6+&
+M3!HS9LRDH6(FC9DT9M*8N6+&3!HS:<RDH:(P( !  8 & !@P    P , #"
+"1498","MP( !  8 & !@ ( ! P , #  P    P8 & !@ ( !  8, #  P    P 88"
+"1499","M!@!@   & &  0 8 ( ! !@ @ $& &    8 8   !A@ @ $ &   0 88"
+"1500","M!@!@   & &  0 8 ( ! !@ @ $& &    8 8   !A@ @ $ &   0 88"
+"1501","M!@!@   & &  0 8 ( ! !@ @ $& &    8 8   !A@ @ $ &   0 88"
+"1502","M!@!@   & &#_@ $ &   0 8 ( !!@!@   & &    88 ( ! !@ @ $ &&
+M  8 8   !@!@@ $ &   0 8 ( !!@!@   & &    88 ( ! !@ @ $ &&"
+"1503","M  8 8   !@!@@ $ &   0 8 ( !!@!@   & &    88 ( ! !@ @ $ &&
+M  8 8   !@!@@ $ &   0 8 ( !!@!@   & &    88 ( ! !@ @ $ &&"
+"1504","M  8 8   !@!@@ $ &   0 8 ( !!@!@   & &    88 ( ! !@ @ $ &&
+M  8 8   !@!@@ $ &   0 8 ( !!@!@@ $ &&    88 ( ! !@ _X ! !A@"
+"1505","M@[,,,-*LQ(PXPTS###C#2H,,.,-,PP(PTSS+CC#3,,.,*,\Q(@PHSTDC#
+MC#3,,,-*LQ(PXPTS# C#2K2,,-,\Q(PXPKS# C#3/,2,.,*\PP(PTSS%!A
+M@ $ &&  0 88   !@!@@ $& &  0 8 ( !!A@ @ $& &    888   !A@
+M@ $ &&  0 88   !@!@@ $& &  0 8 ( !!A@ @ $& &    888   !A@
+M@ $ &&  0 88   !@!@@ $& &  0 8 ( !!A@ @ $& &    888   !A@
+M@ $ &&  0 !8,    , #!@P ,  0 & /\8,&  @ $#  P ,&#    #!@ 8
+M &# @ $ !@P , # @ $#  P8 &  @ $#!@ 8, #    #!@P ,&  @ $ !@P8
+M &#    #  P8, # @ $ !@ 8,&  @ $#  P ,&#    #!@ 8 &# @ $ !@P
+M, # @ $#  P8 &  @ $#!@ 8, #    #!@P ,&  @ $ !@P8 &#    #  P8
+M, # @ $ !@ 8,&  @ $#  P ,&#    #!@ 8 &# @ $ !@P , # @ $#  P8
+M &  @ $#!@ 8, #    #!@P ,&  @ $ !@P8 &#    #  P8, # @ $ !@ 8
+M,&  @ $#  P ,&#_P    P8 & !@P    P8 &   08 8( !!@!@ W2H,*,
+M-,Q(@PHSTC#CC/2,,-*LQ(PXPKS$C###.N,,-,](PPXPTS# C#3/2,,.,"
+"1506","M-,PPXPHSTC C#3/,2(.*-,Q(PPPSTC#BC3,2,,,,](P@XHTS%!A   & &
+M  8 8( ! !@ @ $ &   08 8   !@!@   &&   0 8 ( ! !A@   & &
+M  8 8( ! !@ @ $ &   08 8   !@!@   &&   0 8 ( ! !A@   & &
+M  8 8( ! !@ @ $ &   08 8   !@!@   &&   0 8 ( ! !A@   &_P!@
+M   & &  0 8 ( ! !@ @ $& &    8 8   !A@ @ $ &   0 88   !@!@
+M   & &  0 8 ( ! !@ @ $& &    8 8   !A@ @ $ &   0 88   !@!@
+M   & &  0 8 ( ! !@ @ $& &    8 8   !A@ @ $ &   0 88   !@!@
+M   & &  0 8 ( ! !@ @ $& &    8 8   !A@ @ $ &   0 88   !@!@
+M   & &  0 8 ( ! !@ @ $& &    8 8   !A@ @ $ &   0 88   !@!@
+M   & &  0 8 ( ! !@ @ $& &    8 8   !O\8 ( ! !@ @ $ &&    8"
+"1507","M8   !@!@@ $ &   0 8 ( !!@!@   & &    88 ( ! !@ @ $ &&    8
+M8   !@!@@ $ &   0 8 ( !!M B#3/2,,.,-,Q(PPPSTC##C#3,2,,,,](P"
+"1508","MPXPTS$C###/2,(.*-,Q(PXPTS##CC/2,(.*-,PPXPHSS##CC/, $0:*F;,"
+"1509","MI*&2QDP:*F;,I*&2QDP:*BH #!@ 8,    ,& !@P ,  0 &#  P8   0,"
+"1510","M#!@ 8,    ,& !@P ,  0 &#  P8   0, #!@ 8,    ,& !@P ,  0 &
+M#  P8   0, #!@ 8,#_   #!@ 8, # @ $ !@P ,&  @ $#  P8 &#    #"
+"1511","M!@ 8, # @ $ !@P ,&  @ $#  P8 &#    #!@ 8, # @ $ !@P ,&  @ $#"
+"1512","M  P8 &#    #!@ 8, # @ $ !@P ,&  @ $#  P8 &#    #!@ 8, # @ $"
+"1513","M!@P ,&  @ $#  P8 &#    #!@ 8, # @ $ !@P ,&  @ $#  P8 &#    #"
+"1514","M!@ 8, # @ $ !@P ,&    88 ( !!@!@@ $ &&    88 ( !!@!@@ $ &&"
+"1515","M  88 ( !!@!@@ $ &&    88 ( !!@!@@ $ &&    88 ( !!@!@@ $ &&"
+"1516","M_P &&   08 8( ! !A@   &&   08 8( ! !A@   &&   08 8( ! !A@
+M   &&   08 8( ! !A@   &&   08 8( ! !A@   &&   08 8( ! !A@"
+"1517","M   &&   08 8( ! %CC#2H,,-*LQ(@XHTS* B#3.H2,.,*\PPXPHSS+C"
+"1518","MC#2H,,-,ZA(PPPSKC####/2,,-,](PPXPTS$C#C#3,,,-,](PPXPTS# C
+M#3/2,,.,-,PP(PT5!@!@@ $ &&    88 ( !!@!@@ $ &&    88 ( !!@!@
+M@ $ &&    88 ( !!@!@@ $ &&    88 ( !!@!@@/\! !A@   &&   08"
+"1519","M8( ! !A@   &&   08 8( ! !A@   &&   08 8( ! !A@   &&   08
+M8( ! !A@   &&   08 8( ! !A@   &&   08 8( ! !A@   &&   08"
+"1520","M8( ! !A@   &&   08 8( ! !A@   &&   08 8( ! !A@   &&   08
+M8( ! !A@   &&   08 8( ! !A@   &&   08 8( ! !A@   &&   08"
+"1521","M8( ! !A@   &&   08 8( ! !A@   &&   08 8( ! !A@   &&   08
+M8( ! !A@   &&   08 8(#_ 0 88   !A@ @ $& &  0 88   !A@ @ $&
+M &  0 88   !A@ @ $& &  0 88   !A@ $  &#  P8   0, #!@ 8,"
+"1522","M  ,& !@P ,  0 &#  P8   0, #!@ 8,    ,& !@P ,  0 &#  P8 "
+"1523","M 0, #!@ 8,    ,& !@P ,  0 &#  P8   0.TI#%C)HV9-&;,I#%C)HV9"
+"1524","M-&;,I#%C)HV9-&;,I#%C)HV9-&;,I$EC)HV9*V;,7#%CYHJ9-%3,I*%B)@V5"
+"1525","M-&:HI#%#)8V9*V;,7#%CYHH9%0 & !@ 8   0 & !@ 8   0 & !@ 8 
+M 0 &_P 8 &  @ $ !@ 8 &  @ $ !@ 8 &  @ $ !@ 8 &  @ $ !@ 8 &
+M@ $ !@ 8 &  @ $ !@ 8 &  @ $ !@ 8 &  @ $ !@ 8 &  @ $ !@ 8 &
+M@ $ &   0 8 ( ! !@ @ $ &   0 8 ( ! !@ @ $ &   0 8 ( ! !@"
+"1526","M@ $ &   0 8 ( ! !@ @ $ &   0 8 ( ! !@ @ $ &   0 8 ( ! !@
+M@ $ &   0 8 ( ! !@ @ $ &   0 8 ( ! !@ @ $ &   0 8 ( ! !@"
+"1527","M@ $ &   0 8 ( ! !@ @ $ &   0 8 ( ! !@ @ $ &/\ @ $ &   0 8
+M ( ! !@ @ $ &   0 8 ( ! !@ @ $ &   0 8 ( ! !@ @ $ &   0 8"
+"1528","M ( ! !@ @ $ &   0 8 ( ! !@ @ $ &   0 8 ( ! !@ @ $ &   0 8
+M ( ! !@ @ $ &   0 8 ( ! !@ @ $ &   0 8 ( ! !@ @ $ &   0 8"
+"1529","M ( ! !@ @ $ &   0 8 ( ! !@ @ $ &   0 8 ( NJ# C#2K2,(.*-,R@"
+"1530","M(@TSKC##CO,,.,*,]*@PHPTJ# C#2K2,(.*-,PP(PTSTC C#3/2,,-,](P"
+"1531","M(PTSTC C#3/2,,-,](P(PTSTC#_(PTSTC C#3/2P   08 8( ! !A@   &"
+"1532","M&   08 8( ! !A@   &&   08 8( ! !A@   &&   08 8( ! !A@   &
+M&   08 8( ! !A@   &&   08 8( ! !A@   &&   08 8( ! !A@   &"
+"1533","M&   08 8( ! !A@   &&   08 8( ! !A@   &&   08 8( ! !A@   &
+M&   08 8( ! !A@   &&   08 8( ! !A@   &&   08 8( ! !A@   &"
+"1534","M&   08 8( ! !A@ $  &#  P( !  8, #!@ ( ! P ,& !@P    P8 &#
+MP( !  8,_P P8   0, #!@ 8,    ,& !@P ,  0 &#  P8   0, #!@"
+"1535","M8,    ,& !@P ,  0 &#  P8   0, #!@ 8,    ,& !@P ,  0 &#  P
+M8   0, #!@ 8,    ,& !@P ,  0 &#  P8   0, #!@ 8,    ,& !@P"
+"1536","M ,  0 &#  P8   0, #!@ 8,    ,& !@P ,  0 &#  P8   0, #!@"
+"1537","M8,    ,& !@P ,  0 &#  P8   0, #!@ 8,   %W,I#&3QDP:,VG,I#&3"
+"1538","MQDP:,VG,I#&3QDP:,VG,I#&3QDP:,VG,1(D2)4J4*%&BB***/^BB*****("
+"1539","M(HHHHH@BBBBBB*****((HHHHH@BBBBBV&  0 88   !A@ @ $& &  0 8
+M8   !A@ @ $& &  0 88   !A@ @ $& &  0 88   !A@ @ $& &  0 8"
+"1540","M8   !A@ @ $& &  0 88   !A@ @ $& &  0 88   !A@ @ $& &  0 8
+M8   !A@ @ $& &  0 88   !A@ @ $& &  0 88   !A@ @ $& &  0 8"
+"1541","M8   !A@ @ $& &  0 88   !A@ @ $& &  0 88   !A@ @ $& &  0 8
+M8   !A@ @ $& &  0 88   !A@ @ '_!@!@@ $ &&    88 ( !!@!@@ $"
+"1542","M&&    88 ( !!@!@@ $ &&    88 ( !!@!@@ $ &&    88 ( !!@!@@ $"
+"1543","M&&    88 ( !!@!@@ $ &&    88 ( !!@!@@ $ &&    88 ( !!@!@@ $"
+"1544","M&&    88 ( !!@!@@ $ &&    88 ( !!@!@@ $ &&    88 ( !!@!@@ $"
+"1545","M&&    88 ( !!@!@@ $ &&    88 ( !!@!@@ $ &&    88 ( !!@!@@ $"
+"1546","M&&    88 ( !!@!@@ $ &&    88 ( !!@!@@ $ &&    88 ( !!@!@@ $"
+"1547","M&&    8X(8HH***((HHHHH@BBBBBB*****((HHHHH@BBBBBB*****((HHH"
+"1548","'HH@B2D  .P$!"
+"1549","end"
+"1550","</TEXT>"
+"1551","</DOCUMENT>"
+"1552","</SEC-DOCUMENT>"

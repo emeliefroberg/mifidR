@@ -1,0 +1,922 @@
+"","V1"
+"1","<SEC-DOCUMENT>0001387131-19-000184.txt : 20190114"
+"2","<SEC-HEADER>0001387131-19-000184.hdr.sgml : 20190114"
+"3","<ACCEPTANCE-DATETIME>20190114150708"
+"4","ACCESSION NUMBER:		0001387131-19-000184"
+"5","CONFORMED SUBMISSION TYPE:	N-CEN"
+"6","PUBLIC DOCUMENT COUNT:		4"
+"7","CONFORMED PERIOD OF REPORT:	20181031"
+"8","FILED AS OF DATE:		20190114"
+"9","DATE AS OF CHANGE:		20190114"
+"10","EFFECTIVENESS DATE:		20190114"
+"11","FILER:"
+"12","	COMPANY DATA:	"
+"13","		COMPANY CONFORMED NAME:			360 Funds"
+"14","		CENTRAL INDEX KEY:			0001319067"
+"15","		IRS NUMBER:				000000000"
+"16","	FILING VALUES:"
+"17","		FORM TYPE:		N-CEN"
+"18","		SEC ACT:		1940 Act"
+"19","		SEC FILE NUMBER:	811-21726"
+"20","		FILM NUMBER:		19524903"
+"21","	BUSINESS ADDRESS:	"
+"22","		STREET 1:		4300 SHAWNEE MISSION PARKWAY, SUITE 100"
+"23","		CITY:			FAIRWAY"
+"24","		STATE:			KS"
+"25","		ZIP:			66205"
+"26","		BUSINESS PHONE:		888-263-5593"
+"27","	MAIL ADDRESS:	"
+"28","		STREET 1:		4300 SHAWNEE MISSION PARKWAY, SUITE 100"
+"29","		CITY:			FAIRWAY"
+"30","		STATE:			KS"
+"31","		ZIP:			66205"
+"32","	FORMER COMPANY:	"
+"33","		FORMER CONFORMED NAME:	Parr Family of Funds"
+"34","		DATE OF NAME CHANGE:	20070905"
+"35","	FORMER COMPANY:	"
+"36","		FORMER CONFORMED NAME:	PARR FINANCIAL GROUP, LLC"
+"37","		DATE OF NAME CHANGE:	20070829"
+"38","	FORMER COMPANY:	"
+"39","		FORMER CONFORMED NAME:	POPE FAMILY OF FUNDS"
+"40","		DATE OF NAME CHANGE:	20050225"
+"41","<SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"42","<EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"43","<SERIES>"
+"44","<OWNER-CIK>0001319067"
+"45","<SERIES-ID>S000059851"
+"46","<SERIES-NAME>Powell Alternative Income Strategies Fund"
+"47","<CLASS-CONTRACT>"
+"48","<CLASS-CONTRACT-ID>C000195805"
+"49","<CLASS-CONTRACT-NAME>Investor Class Shares"
+"50","<CLASS-CONTRACT-TICKER-SYMBOL>PAISX"
+"51","</CLASS-CONTRACT>"
+"52","</SERIES>"
+"53","</EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"54","</SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"55","</SEC-HEADER>"
+"56","<DOCUMENT>"
+"57","<TYPE>N-CEN"
+"58","<SEQUENCE>1"
+"59","<FILENAME>primary_doc.xml"
+"60","<TEXT>"
+"61","<XML>"
+"62","<?xml version=1.0 encoding=UTF-8?>"
+"63","<edgarSubmission xmlns=http://www.sec.gov/edgar/ncen xmlns:com=http://www.sec.gov/edgar/common xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance>"
+"64","  <schemaVersion>X0101</schemaVersion>"
+"65","  <headerData>"
+"66","    <submissionType>N-CEN</submissionType>"
+"67","    <filerInfo>"
+"68","      <liveTestFlag>LIVE</liveTestFlag>"
+"69","      <filer>"
+"70","        <issuerCredentials>"
+"71","          <cik>0001319067</cik>"
+"72","          <ccc>XXXXXXXX</ccc>"
+"73","        </issuerCredentials>"
+"74","      </filer>"
+"75","      <flags>"
+"76","        <returnCopyFlag>false</returnCopyFlag>"
+"77","        <overrideInternetFlag>false</overrideInternetFlag>"
+"78","        <confirmingCopyFlag>false</confirmingCopyFlag>"
+"79","      </flags>"
+"80","      <investmentCompanyType>N-1A</investmentCompanyType>"
+"81","    </filerInfo>"
+"82","    <seriesClass>"
+"83","      <reportSeriesClass>"
+"84","        <rptSeriesClassInfo>"
+"85","          <seriesId>S000059851</seriesId>"
+"86","          <classInfo>"
+"87","            <classId>C000195805</classId>"
+"88","          </classInfo>"
+"89","        </rptSeriesClassInfo>"
+"90","      </reportSeriesClass>"
+"91","    </seriesClass>"
+"92","  </headerData>"
+"93","  <formData>"
+"94","    <generalInfo isReportPeriodLt12=Y reportEndingPeriod=2018-10-31/>"
+"95","    <registrantInfo>"
+"96","      <registrantFullName>360 Funds</registrantFullName>"
+"97","      <investmentCompFileNo>811-21726</investmentCompFileNo>"
+"98","      <registrantCik>0001319067</registrantCik>"
+"99","      <registrantLei>549300VZWK4R225PCM36</registrantLei>"
+"100","      <registrantstreet1>4300 Shawnee Mission Parkway</registrantstreet1>"
+"101","      <registrantstreet2>Suite 100</registrantstreet2>"
+"102","      <registrantcity>Fairway</registrantcity>"
+"103","      <registrantzipCode>66205</registrantzipCode>"
+"104","      <registrantstate>US-KS</registrantstate>"
+"105","      <registrantcountry>US</registrantcountry>"
+"106","      <registrantphoneNumber>(877) 244-6235</registrantphoneNumber>"
+"107","      <websites>"
+"108","        <website webpage=www.powellcapitalllc.com/>"
+"109","      </websites>"
+"110","      <locationBooksRecords>"
+"111","        <locationBooksRecord>"
+"112","          <officeName>M3Sixty Administration, LLC</officeName>"
+"113","          <officeAddress1>4300 Shawnee Mission Parkway</officeAddress1>"
+"114","          <officeAddress2>Suite 100</officeAddress2>"
+"115","          <officeCity>Fairway</officeCity>"
+"116","          <officeStateCountry officeState=US-KS officeCountry=US/>"
+"117","          <officeRecordsZipCode>66205</officeRecordsZipCode>"
+"118","          <officePhone>(877) 244-6235</officePhone>"
+"119","          <booksRecordsDesc>Fund Accounting and Administration books and records</booksRecordsDesc>"
+"120","        </locationBooksRecord>"
+"121","      </locationBooksRecords>"
+"122","      <isRegistrantFirstFiling>N</isRegistrantFirstFiling>"
+"123","      <isRegistrantLastFiling>N</isRegistrantLastFiling>"
+"124","      <isRegistrantFamilyInvComp>N</isRegistrantFamilyInvComp>"
+"125","      <registrantClassificationType>N-1A</registrantClassificationType>"
+"126","      <totalSeries>12</totalSeries>"
+"127","      <isSecuritiesActRegistration>Y</isSecuritiesActRegistration>"
+"128","      <directors>"
+"129","        <director>"
+"130","          <directorName>Arthur Q. Falk</directorName>"
+"131","          <crdNumber>N/A</crdNumber>"
+"132","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"133","          <fileNumbers>"
+"134","            <fileNumberInfo fileNumber=N/A/>"
+"135","          </fileNumbers>"
+"136","        </director>"
+"137","        <director>"
+"138","          <directorName>Tom M. Wirtshafter</directorName>"
+"139","          <crdNumber>N/A</crdNumber>"
+"140","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"141","          <fileNumbers>"
+"142","            <fileNumberInfo fileNumber=N/A/>"
+"143","          </fileNumbers>"
+"144","        </director>"
+"145","        <director>"
+"146","          <directorName>Gary W. DiCenzo</directorName>"
+"147","          <crdNumber>N/A</crdNumber>"
+"148","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"149","          <fileNumbers>"
+"150","            <fileNumberInfo fileNumber=N/A/>"
+"151","          </fileNumbers>"
+"152","        </director>"
+"153","        <director>"
+"154","          <directorName>Steven D. Poppen</directorName>"
+"155","          <crdNumber>N/A</crdNumber>"
+"156","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"157","          <fileNumbers>"
+"158","            <fileNumberInfo fileNumber=811-23089/>"
+"159","          </fileNumbers>"
+"160","        </director>"
+"161","        <director>"
+"162","          <directorName>Thomas J. Schmidt</directorName>"
+"163","          <crdNumber>N/A</crdNumber>"
+"164","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"165","          <fileNumbers>"
+"166","            <fileNumberInfo fileNumber=N/A/>"
+"167","          </fileNumbers>"
+"168","        </director>"
+"169","        <director>"
+"170","          <directorName>Randall K. Linscott</directorName>"
+"171","          <crdNumber>N/A</crdNumber>"
+"172","          <isDirectorInterestedPerson>Y</isDirectorInterestedPerson>"
+"173","          <fileNumbers>"
+"174","            <fileNumberInfo fileNumber=811-23089/>"
+"175","          </fileNumbers>"
+"176","        </director>"
+"177","      </directors>"
+"178","      <chiefComplianceOfficers>"
+"179","        <chiefComplianceOfficer>"
+"180","          <ccoName>Andras P. Teleki</ccoName>"
+"181","          <crdNumber>N/A</crdNumber>"
+"182","          <ccoStreet1>4300 Shawnee Mission Parkway</ccoStreet1>"
+"183","          <ccoStreet2>Suite 100</ccoStreet2>"
+"184","          <ccoCity>Fairway</ccoCity>"
+"185","          <ccoStateCountry ccoState=US-KS ccoCountry=US/>"
+"186","          <ccoZipCode>66205</ccoZipCode>"
+"187","          <ccoPhone>XXXXXX</ccoPhone>"
+"188","          <isCcoChangedSinceLastFiling>N</isCcoChangedSinceLastFiling>"
+"189","          <ccoEmployers>"
+"190","            <ccoEmployer ccoEmployerName=M3Sixty Holdings LLC ccoEmployerId=26-4176360/>"
+"191","          </ccoEmployers>"
+"192","        </chiefComplianceOfficer>"
+"193","      </chiefComplianceOfficers>"
+"194","      <securityMatterSeriesInfo isRegistrantSubmittedMatter=Y/>"
+"195","      <isPreviousLegalProceeding>N</isPreviousLegalProceeding>"
+"196","      <isPreviousProceedingTerminated>N</isPreviousProceedingTerminated>"
+"197","      <isClaimFiled>N</isClaimFiled>"
+"198","      <coveredByInsurancePolicy isCoveredByInsurancePolicy=Y isClaimFiledDuringPeriod=N/>"
+"199","      <isFinancialSupportDuringPeriod>N</isFinancialSupportDuringPeriod>"
+"200","      <isExemptionFromAct>N</isExemptionFromAct>"
+"201","      <principalUnderwriters>"
+"202","        <principalUnderwriter>"
+"203","          <principalUnderwriterName>Matrix 360 Distributors, LLC</principalUnderwriterName>"
+"204","          <principalUnderwriterFileNumber>008-69013</principalUnderwriterFileNumber>"
+"205","          <principalUnderwriterCrdNumber>000159715</principalUnderwriterCrdNumber>"
+"206","          <principalUnderwriterLei>N/A</principalUnderwriterLei>"
+"207","          <principalUnderWriterStateCountry principalUnderWriterState=US-KS principalUnderWriterCountry=US/>"
+"208","          <isPrincipalUnderwriterAffiliatedWithRegistrant>Y</isPrincipalUnderwriterAffiliatedWithRegistrant>"
+"209","        </principalUnderwriter>"
+"210","      </principalUnderwriters>"
+"211","      <isUnderwriterHiredOrTerminated>N</isUnderwriterHiredOrTerminated>"
+"212","      <publicAccountants>"
+"213","        <publicAccountant>"
+"214","          <publicAccountantName>BBD, LLP</publicAccountantName>"
+"215","          <pcaobNumber>552</pcaobNumber>"
+"216","          <publicAccountantLei>N/A</publicAccountantLei>"
+"217","          <publicAccountantStateCountry publicAccountantState=US-PA publicAccountantCountry=US/>"
+"218","        </publicAccountant>"
+"219","      </publicAccountants>"
+"220","      <isPublicAccountantChanged>N</isPublicAccountantChanged>"
+"221","      <isMaterialWeakness>N</isMaterialWeakness>"
+"222","      <isOpinionOffered>N</isOpinionOffered>"
+"223","      <isMaterialChange>N</isMaterialChange>"
+"224","      <isAccountingPrincipleChange>N</isAccountingPrincipleChange>"
+"225","      <isPaymentErrorInNetAssetValue>N</isPaymentErrorInNetAssetValue>"
+"226","      <isPaymentDividend>N</isPaymentDividend>"
+"227","    </registrantInfo>"
+"228","    <managementInvestmentQuestionSeriesInfo>"
+"229","      <managementInvestmentQuestion>"
+"230","        <mgmtInvFundName>Powell Alternative Income Strategies Fund</mgmtInvFundName>"
+"231","        <mgmtInvSeriesId>S000059851</mgmtInvSeriesId>"
+"232","        <mgmtInvLei>549300AI47X6JQ11HC65</mgmtInvLei>"
+"233","        <isFirstFilingByFund>Y</isFirstFilingByFund>"
+"234","        <numAuthorizedClass>1</numAuthorizedClass>"
+"235","        <numAddedClass>1</numAddedClass>"
+"236","        <numTerminatedClass>0</numTerminatedClass>"
+"237","        <sharesOutstandings>"
+"238","          <sharesOutstanding sharesOutstandingClassName=Investor Class Shares sharesOutstandingClassId=C000195805 sharesOutstandingTickerSymbol=PAISX/>"
+"239","        </sharesOutstandings>"
+"240","        <fundType>N/A</fundType>"
+"241","        <isNonDiversifiedCompany>Y</isNonDiversifiedCompany>"
+"242","        <isForeignSubsidiary>N</isForeignSubsidiary>"
+"243","        <isFundSecuritiesLending>Y</isFundSecuritiesLending>"
+"244","        <didFundLendSecurities>N</didFundLendSecurities>"
+"245","        <paymentToAgentManagerType>N/A</paymentToAgentManagerType>"
+"246","        <avgPortfolioSecuritiesValue>N/A</avgPortfolioSecuritiesValue>"
+"247","        <netIncomeSecuritiesLending>N/A</netIncomeSecuritiesLending>"
+"248","        <relyOnRuleTypes>"
+"249","          <relyOnRuleType>Rule 12d1-1 (17 CFR 270.12d1-1)</relyOnRuleType>"
+"250","          <relyOnRuleType>Rule 32a-4 (17 CFR 270.32a-4)</relyOnRuleType>"
+"251","        </relyOnRuleTypes>"
+"252","        <isExpenseLimitationInPlace>Y</isExpenseLimitationInPlace>"
+"253","        <isExpenseReducedOrWaived>Y</isExpenseReducedOrWaived>"
+"254","        <isFeesWaivedRecoupable>Y</isFeesWaivedRecoupable>"
+"255","        <isExpenseWaivedRecoupable>N</isExpenseWaivedRecoupable>"
+"256","        <investmentAdvisers>"
+"257","          <investmentAdviser>"
+"258","            <investmentAdviserName>Powell Capital, LLC</investmentAdviserName>"
+"259","            <investmentAdviserFileNo>801-111100</investmentAdviserFileNo>"
+"260","            <investmentAdviserCrdNo>000288994</investmentAdviserCrdNo>"
+"261","            <investmentAdviserLei>N/A</investmentAdviserLei>"
+"262","            <investmentAdviserStateCountry investmentAdviserState=US-WA investmentAdviserCountry=US/>"
+"263","            <investmentAdviserHired isInvestmentAdviserHired=Y>"
+"264","              <investmentAdviserStartDate>2018-04-18</investmentAdviserStartDate>"
+"265","            </investmentAdviserHired>"
+"266","          </investmentAdviser>"
+"267","        </investmentAdvisers>"
+"268","        <transferAgents>"
+"269","          <transferAgent>"
+"270","            <transferAgentName>M3Sixty Administration, LLC</transferAgentName>"
+"271","            <transferAgentFileNo>84-06409</transferAgentFileNo>"
+"272","            <transferAgentLei>N/A</transferAgentLei>"
+"273","            <transferAgentStateCountry transferAgentState=US-KS transferAgentCountry=US/>"
+"274","            <isTransferAgentAffiliated>N</isTransferAgentAffiliated>"
+"275","            <isTransferAgentSubAgent>N</isTransferAgentSubAgent>"
+"276","          </transferAgent>"
+"277","        </transferAgents>"
+"278","        <isTransferAgentHiredOrTerminated>Y</isTransferAgentHiredOrTerminated>"
+"279","        <pricingServices>"
+"280","          <pricingService>"
+"281","            <pricingServiceName>Interactive Data Corp.</pricingServiceName>"
+"282","            <pricingServiceLei>N/A</pricingServiceLei>"
+"283","            <pricingServiceStateCountry pricingServiceState=US-NY pricingServiceCountry=US/>"
+"284","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"285","          </pricingService>"
+"286","        </pricingServices>"
+"287","        <isPricingServiceHiredOrTerminated>Y</isPricingServiceHiredOrTerminated>"
+"288","        <custodians>"
+"289","          <custodian>"
+"290","            <custodianName>Fifth Third Bank</custodianName>"
+"291","            <custodianLei>N/A</custodianLei>"
+"292","            <custodianStateCountry custodianState=US-OH custodianCountry=US/>"
+"293","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"294","            <isSubCustodian>N</isSubCustodian>"
+"295","            <custodyType>Bank - section 17(f)(1) (15 U.S.C. 80a-17(f)(1))</custodyType>"
+"296","          </custodian>"
+"297","        </custodians>"
+"298","        <isCustodianHiredOrTerminated>Y</isCustodianHiredOrTerminated>"
+"299","        <shareholderServicingAgents>"
+"300","          <shareholderServicingAgent>"
+"301","            <shareholderServiceAgentName>M3Sixty Administration, LLC</shareholderServiceAgentName>"
+"302","            <shareholderServiceAgentLei>84-06409</shareholderServiceAgentLei>"
+"303","            <shareholderServiceIdNumberDesc>SEC File No.</shareholderServiceIdNumberDesc>"
+"304","            <shareholderServiceAgentStateCountry shareholderServiceAgentState=US-KS shareholderServiceAgentCountry=US/>"
+"305","            <isShareholderServiceAgentAffiliated>N</isShareholderServiceAgentAffiliated>"
+"306","            <isShareholderServiceAgentSubshare>N</isShareholderServiceAgentSubshare>"
+"307","          </shareholderServicingAgent>"
+"308","        </shareholderServicingAgents>"
+"309","        <isShareholderServiceHiredTerminated>Y</isShareholderServiceHiredTerminated>"
+"310","        <admins>"
+"311","          <admin>"
+"312","            <adminName>M3Sixty Administration, LLC</adminName>"
+"313","            <adminLei>84-06409</adminLei>"
+"314","            <idNumberDesc>SEC File No.</idNumberDesc>"
+"315","            <adminStateCountry adminState=US-KS adminCountry=US/>"
+"316","            <isAdminAffiliated>N</isAdminAffiliated>"
+"317","            <isAdminSubAdmin>N</isAdminSubAdmin>"
+"318","          </admin>"
+"319","        </admins>"
+"320","        <isAdminHiredOrTerminated>Y</isAdminHiredOrTerminated>"
+"321","        <brokers>"
+"322","          <broker>"
+"323","            <brokerName>Goldman Sachs &amp; Co</brokerName>"
+"324","            <brokerFileNo>008-00129</brokerFileNo>"
+"325","            <brokerCrdNo>000000361</brokerCrdNo>"
+"326","            <brokerLei>N/A</brokerLei>"
+"327","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"328","            <grossCommission>37191</grossCommission>"
+"329","          </broker>"
+"330","        </brokers>"
+"331","        <aggregateCommission>37191</aggregateCommission>"
+"332","        <principalTransactions>"
+"333","          <principalTransaction>"
+"334","            <principalName>Goldman Sachs &amp; Co</principalName>"
+"335","            <principalFileNo>008-00129</principalFileNo>"
+"336","            <principalCrdNo>000000361</principalCrdNo>"
+"337","            <principalLei>N/A</principalLei>"
+"338","            <principalStateCountry principalState=US-NY principalCountry=US/>"
+"339","            <principalTotalPurchaseSale>12482900</principalTotalPurchaseSale>"
+"340","          </principalTransaction>"
+"341","        </principalTransactions>"
+"342","        <principalAggregatePurchase>12482900</principalAggregatePurchase>"
+"343","        <isBrokerageResearchPayment>Y</isBrokerageResearchPayment>"
+"344","        <mnthlyAvgNetAssets>6257763.69</mnthlyAvgNetAssets>"
+"345","        <hasLineOfCredit>N</hasLineOfCredit>"
+"346","        <isInterfundLending>N</isInterfundLending>"
+"347","        <isInterfundBorrowing>N</isInterfundBorrowing>"
+"348","        <isSwingPricing>N</isSwingPricing>"
+"349","      </managementInvestmentQuestion>"
+"350","    </managementInvestmentQuestionSeriesInfo>"
+"351","    <attachmentsTab>"
+"352","      <isLegalProceedings>false</isLegalProceedings>"
+"353","      <isProvisionFinancialSupport>false</isProvisionFinancialSupport>"
+"354","      <isIPAReportInternalControl>true</isIPAReportInternalControl>"
+"355","      <isChangeAccPrinciples>false</isChangeAccPrinciples>"
+"356","      <isInfoRequiredEO>false</isInfoRequiredEO>"
+"357","      <isOtherInfoRequired>false</isOtherInfoRequired>"
+"358","    </attachmentsTab>"
+"359","    <signature registrantSignedName=360 Funds signedDate=2019-01-14 signature=/s/ Larry Beaver title=Assistant Treasurer/>"
+"360","  </formData>"
+"361","</edgarSubmission>"
+"362","</XML>"
+"363","</TEXT>"
+"364","</DOCUMENT>"
+"365","<DOCUMENT>"
+"366","<TYPE>INTERNAL CONTROL RPT"
+"367","<SEQUENCE>2"
+"368","<FILENAME>itemg1aiii_report.htm"
+"369","<DESCRIPTION>INTERNAL CONTROL REPORT"
+"370","<TEXT>"
+"371","<HTML>"
+"372","<HEAD>"
+"373","     <TITLE></TITLE>"
+"374","</HEAD>"
+"375","<BODY STYLE=font: 10pt Times New Roman, Times, Serif>"
+"376","<P STYLE=margin: 0></P>"
+"377","<!-- Field: Rule-Page --><DIV ALIGN=LEFT STYLE=margin: 0><DIV STYLE=font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid; width: 100%>&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->"
+"378","<P STYLE=margin: 0>&nbsp;</P>"
+"379","<P STYLE=margin: 0></P>"
+"380","<P STYLE=font: 11pt Calibri, Helvetica, Sans-Serif; margin: 0 0 8pt></P>"
+"381","<P STYLE=font: 11pt Calibri, Helvetica, Sans-Serif; margin: 0 0 8pt>&nbsp;<IMG SRC=bbd_img001.jpg ALT=></P>"
+"382","<P STYLE=font: 11pt Calibri, Helvetica, Sans-Serif; margin: 0 0 8pt>&nbsp;</P>"
+"383","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: center><B>REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING"
+"384","FIRM</B></P>"
+"385","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: center><B>&nbsp;</B></P>"
+"386","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: center><B>&nbsp;</B></P>"
+"387","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0><B>To the Board of Trustees of 360 Funds</B></P>"
+"388","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0><B>and the Shareholders of Powell Alternative Income Strategies Fund</B></P>"
+"389","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0>&nbsp;</P>"
+"390","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0>&nbsp;</P>"
+"391","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: justify>In planning and performing our audit of the"
+"392","financial statements of Powell Alternative Income Strategies Fund, a series of shares of beneficial interest in 360 Funds (the"
+"393","<B><I>&ldquo;Fund&rdquo;</I></B>), as of October 31, 2018, and for the period then ended, in accordance with the standards of the"
+"394","Public Company Accounting Oversight Board (United States) (<B><I>&ldquo;PCAOB&rdquo;</I></B>), we considered the Fund&rsquo;s internal"
+"395","control over financial reporting, including controls over safeguarding securities, as a basis for designing our auditing procedures"
+"396","for the purpose of expressing our opinion on the financial statements and to comply with the requirements of Form N-CEN, but not"
+"397","for the purpose of expressing an opinion on the effectiveness of the Fund&rsquo;s internal control over financial reporting. Accordingly,"
+"398","we express no such opinion.</P>"
+"399","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: justify>&nbsp;</P>"
+"400","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: justify>The management of the Fund is responsible for"
+"401","establishing and maintaining effective internal control over financial reporting. In fulfilling this responsibility, estimates"
+"402","and judgments by management are required to assess the expected benefits and related costs of controls. A company&rsquo;s internal"
+"403","control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting"
+"404","and the preparation of financial statements for external purposes in accordance with accounting principles generally accepted in"
+"405","the United States of America (<B><I>&ldquo;GAAP&rdquo;</I></B>). A company&rsquo;s internal control over financial reporting includes"
+"406","those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly"
+"407","reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are"
+"408","recorded as necessary to permit preparation of the financial statements in accordance with GAAP, and that receipts and expenditures"
+"409","of the company are being made only in accordance with authorizations of management and trustees of the company; and (3) provide"
+"410","reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of a company&rsquo;s"
+"411","assets that could have a material effect on the financial statements.</P>"
+"412","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: justify>&nbsp;</P>"
+"413","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: justify>Because of inherent limitations, internal control"
+"414","over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future"
+"415","periods are subject to the risk that controls may become inadequate because of changes in conditions or that the degree of compliance"
+"416","with the policies or procedures may deteriorate.</P>"
+"417","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: justify>&nbsp;</P>"
+"418","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: justify>A deficiency in internal control over financial"
+"419","reporting exists when the design or operation of a control does not allow management or employees, in the normal course of performing"
+"420","their assigned functions, to prevent or detect misstatements on a timely basis. A material weakness is a deficiency, or combination"
+"421","of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement"
+"422","of the Fund's annual or interim financial statements will not be prevented or detected on a timely basis.&nbsp;</P>"
+"423","<P STYLE=font: 11pt Calibri, Helvetica, Sans-Serif; margin: 0 0 8pt>&nbsp;</P>"
+"424","<!-- Field: Page; Sequence: 1 -->"
+"425","    <DIV STYLE=margin-bottom: 6pt; border-bottom: Black 1pt solid><TABLE CELLPADDING=0 CELLSPACING=0 STYLE=border-collapse: collapse; width: 100%; font-size: 10pt><TR STYLE=vertical-align: top; text-align: left><TD STYLE=width: 33%>&nbsp;</TD><TD STYLE=width: 34%>&nbsp;</TD><TD STYLE=width: 33%>&nbsp;</TD></TR></TABLE></DIV>"
+"426","    <DIV STYLE=page-break-before: always; margin-top: 6pt><TABLE CELLPADDING=0 CELLSPACING=0 STYLE=width: 100%><TR><TD STYLE=text-align: center; width: 100%>&nbsp;</TD></TR></TABLE></DIV>"
+"427","    <!-- Field: /Page -->"
+"428","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: justify>&nbsp;</P>"
+"429","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: justify>Our consideration of the Fund&rsquo;s internal"
+"430","control over financial reporting was for the limited purpose described in the first paragraph and would not necessarily disclose"
+"431","all deficiencies in internal control that might be material weaknesses under standards established by the PCAOB. However, we noted"
+"432","no deficiencies in the Fund&rsquo;s internal control over financial reporting and its operation, including controls over safeguarding"
+"433","securities that we consider to be a material weakness, as defined above, as of October 31, 2018.</P>"
+"434","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: justify>&nbsp;</P>"
+"435","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: justify>This report is intended solely for the information"
+"436","and use of management, the shareholders of Powell Alternative Income Strategies Fund, the Board of Trustees of 360 Funds and the"
+"437","Securities and Exchange Commission and is not intended to be and should not be used by anyone other than these specified parties.</P>"
+"438","<P STYLE=font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify></P>"
+"439","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0><B>&nbsp;</B></P>"
+"440","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0><B>&nbsp;</B></P>"
+"441","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0><B><IMG SRC=bbd_img002.jpg ALT=>&nbsp;</B></P>"
+"442","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0><B>&nbsp;</B></P>"
+"443","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0><B>BBD, LLP</B></P>"
+"444","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0><B>&nbsp;</B></P>"
+"445","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0><B>&nbsp;</B></P>"
+"446","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0><B>Philadelphia, Pennsylvania</B></P>"
+"447","<P STYLE=font: 10pt Arial, Helvetica, Sans-Serif; margin: 0><B>December 28, 2018</B></P>"
+"448","<P STYLE=font: 11pt Calibri, Helvetica, Sans-Serif; margin: 0 0 8pt>&nbsp;</P>"
+"449","<P STYLE=margin: 0></P>"
+"450","<!-- Field: Page; Sequence: 2; Options: Last -->"
+"451","    <DIV STYLE=margin-bottom: 6pt; border-bottom: Black 1pt solid><TABLE CELLPADDING=0 CELLSPACING=0 STYLE=border-collapse: collapse; width: 100%; font-size: 10pt><TR STYLE=vertical-align: top; text-align: left><TD STYLE=width: 33%>&nbsp;</TD><TD STYLE=width: 34%>&nbsp;</TD><TD STYLE=width: 33%>&nbsp;</TD></TR></TABLE></DIV>"
+"452","    <!-- Field: /Page -->"
+"453","<P STYLE=margin: 0>&nbsp;</P>"
+"454","</BODY>"
+"455","</HTML>"
+"456","</TEXT>"
+"457","</DOCUMENT>"
+"458","<DOCUMENT>"
+"459","<TYPE>GRAPHIC"
+"460","<SEQUENCE>3"
+"461","<FILENAME>bbd_img001.jpg"
+"462","<DESCRIPTION>GRAPHIC"
+"463","<TEXT>"
+"464","begin 644 bbd_img001.jpg"
+"465","M_]C_X  02D9)1@ ! 0$ 8 !@  #_X1#^17AI9@  34T *@    @ ! $[  ("
+"466","M   1   (2H=I  0    !   (7)R=  $    B   0U.H<  <   @,    /@"
+"467","M   <Z@    @"
+"468","M"
+"469","M"
+"470","M"
+"471","M"
+"472","M"
+"473","M"
+"474","M"
+"475","M"
+"476","M"
+"477","M"
+"478","M"
+"479","M"
+"480","M"
+"481","M"
+"482","M"
+"483","M"
+"484","M"
+"485","M"
+"486","M"
+"487","M"
+"488","M"
+"489","M"
+"490","M"
+"491","M"
+"492","M"
+"493","M"
+"494","M"
+"495","M"
+"496","M"
+"497","M"
+"498","M"
+"499","M"
+"500","M"
+"501","M"
+"502","M"
+"503","M"
+"504","M"
+"505","M"
+"506","M"
+"507","M"
+"508","M"
+"509","M"
+"510","M"
+"511","M"
+"512","M                                                 $-U<W1O;65R"
+"513","M(%-E<G9I8V4    %D ,  @   !0  !JD 0  @   !0  !^DI$  @    ,U"
+"514","M-P  DI(  @    ,U-P  ZAP !P   P   B>     !SJ    "
+"515","M"
+"516","M"
+"517","M"
+"518","M"
+"519","M"
+"520","M"
+"521","M"
+"522","M"
+"523","M"
+"524","M"
+"525","M"
+"526","M"
+"527","M"
+"528","M"
+"529","M"
+"530","M"
+"531","M"
+"532","M"
+"533","M"
+"534","M"
+"535","M"
+"536","M"
+"537","M"
+"538","M"
+"539","M"
+"540","M"
+"541","M"
+"542","M"
+"543","M"
+"544","M"
+"545","M"
+"546","M"
+"547","M"
+"548","M"
+"549","M"
+"550","M"
+"551","M"
+"552","M"
+"553","M"
+"554","M"
+"555","M"
+"556","M"
+"557","M"
+"558","M"
+"559","M"
+"560","M                            ,C Q.3HP,3HQ,2 Q-#HT-SHU-P R,#$Y"
+"561","M.C Q.C$Q(#$T.C0W.C4W    0P!U ', = !O &T 90!R   4P!E '( =@!I
+M &, 90   /_AR-H='1P.B\O;G,N861O8F4N8V]M+WAA<\Q+C O #P_>'!A
+M8VME=!B96=I;CTG[[N_)R!I9#TG5S5-,$UP0V5H:4AZ<F53>DY48WIK8SED"
+"562","M)S\^#0H\>#IX;7!M971A('AM;&YS.G@](F%D;V)E.FYS.FUE=&$O(CX\<F1F"
+"563","M.E)$1B!X;6QN<SIR9&8](FAT=' Z+R]W=W<N=S,N;W)G+S$Y.3DO,#(O,C(M"
+"564","M<F1F+7-Y;G1A>UN<R,B/CQR9&8Z1&5S8W)I<'1I;VX@<F1F.F%B;W5T/2)U
+M=6ED.F9A9C5B9&0U+6)A,V0M,3%D82UA9#,Q+60S,V0W-3$X,F8Q8B(@>&UL
+M;G,Z9&,](FAT=' Z+R]P=7)L+F]R9R]D8R]E;&5M96YT<R\Q+C$O(B\^/')D
+M9CI$97-C<FEP=&EO;B!R9&8Z86)O=70](G5U:60Z9F%F-6)D9#4M8F$S9TQ"
+"565","M,61A+6%D,S$M9#,S9#<U,3@R9C%B(B!X;6QN<SIX;7 ](FAT=' Z+R]N<RYA"
+"566","M9&]B92YC;VTO>&%P+S$N,\B/CQX;7 Z0W)E871E1&%T93XR,#$Y+3 Q+3$Q
+M5#$T.C0W.C4W+C4V-3PO>&UP.D-R96%T941A=&4^/]R9&8Z1&5S8W)I<'1I"
+"567","M;VX^/')D9CI$97-C<FEP=&EO;B!R9&8Z86)O=70](G5U:60Z9F%F-6)D9#4M"
+"568","M8F$S9TQ,61A+6%D,S$M9#,S9#<U,3@R9C%B(B!X;6QN<SID8STB:'1T<#HO
+M+W!U<FPN;W)G+V1C+V5L96UE;G1S+S$N,2\B/CQD8SIC<F5A=&]R/CQR9&8Z
+M4V5Q('AM;&YS.G)D9CTB:'1T<#HO+W=W=RYW,RYO<F<O,3DY.2\P,B\R,BUR
+M9&8M<WEN=&%X+6YS(R(^/')D9CIL:3Y#=7-T;VUE<B!397)V:6-E/]R9&8Z"
+"569","M;&D^/]R9&8Z4V5Q/@T*0D)/]D8SIC<F5A=&]R/CPO<F1F.D1E<V-R:7!T
+M:6]N/CPO<F1F.E)$1CX\+W@Z>&UP;65T83X-B @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"570","M( @( @( @( @( @( @( @( @( @( @( @( @( *( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"571","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( H@( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"572","M( @( @( @( @( @B @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"573","M( @( @( @( @( @( @( @( @( *( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"574","M( @( @( @( @( @( @( @( @( @( @( @( @( H@( @( @"
+"575","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"576","M( @B @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"577","M( @( @( @( @( *( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"578","M( @( @( @( @( @( @( @( @( H@( @( @( @( @( @( @"
+"579","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @B @( @( @"
+"580","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"581","M( *( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"582","M( @( @( @( @( H@( @( @( @( @( @( @( @( @( @( @"
+"583","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @B @( @( @( @( @( @( @"
+"584","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( *( @( @( @"
+"585","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"586","M( H@( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"587","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @B @( @( @( @( @( @( @( @( @( @( @"
+"588","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( *( @( @( @( @( @( @( @"
+"589","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( H@( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"590","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+MB @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"591","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( *( @( @( @( @( @( @( @( @( @( @( @"
+"592","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( H@( @( @( @( @( @( @( @
+M( @( @/#]X<&%C:V5T(&5N9#TG=R<_/O_; $, !P4%!@4$!P8%!@@'!P@*
+M$0L*0D*%0\0#!$8%1H9&!48%QL>)R$;'24=%Q@B+B(E*DK+L:(\S+RHR
+M)RHK*O_; $,!!P@(@D*% L+%H<&!PJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ
+M*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*O_  !$( %X O0,!(@ $0$#"
+"593","M$0'_Q  ?   !!0$! 0$! 0           0(#! 4&!P@)@O_Q U$   0,#
+M @0#!04$!    7T! @, !!$%$B$Q008346$'(G$4,H&1H0@C0K'!%5+1\0S"
+"594","M8G*0H6%Q@9&B4F)R@I*C0U-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H"
+"595","M:6IS='5V=WAY>H.$A8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZ"
+"596","MPL/$Q<;'R,G*TM/4U=;7V-G:X>+CY.7FY^CIZO'R\_3U]O?X^?K_Q  ? 0 #"
+"597","M 0$! 0$! 0$!         0(#! 4&!P@)@O_Q U$0  0($! ,$!P4$!  !
+M G<  0(#$00%(3$&$D%1!V%Q$R(R@0@40I&AL<$)(S-2\!5B<M$*%B0TX27Q
+M%Q@9&B8G*DJ-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U=G=X"
+"598","M>7J@X2%AH>(B8J2DY25EI>8F9JBHZ2EIJ>HJ:JRL[2UMK>XN;KP\3%QL?("
+"599","MR<K2T]35UM?8V=KBX^3EYN?HZ>KR\_3U]O?X^?K_V@ , P$  A$#$0 _ /I&"
+"600","MH+N^M=/MS/?7$5MIP9)G*/Q-3UXE^T3+((]!A#L(V,[,F>1L /ZG\ZUHT
+M_:34#&O5]E3<SU7_ (2[PW_T']+_ / R/_&C_A+O#?\ T']+_P# R/\ QKX[
+MHKT?[/C_ #'E_P!I2_E/L3_A+O#?_0?TO_P,C_QH_P$N\-_]!_2_P#P,C_Q"
+"601","MKX[HH_L^/\P?VE+^4^Q/^$N\-_\ 0?TO_P #(_\ &I;?Q-H5W<)!::SI\\SG"
+"602","MQQ72,S'V /-?&U*CM'(KQL5=3E6!P01WH>7K^8%F4K_  GVW14%D[26,#N<
+MLT2DGU.*GKR3V5J@HHHH&%%%% !1110 4444 %%%% !1110 4444 %>'_M%?
+M>\/_ $N/_:=>X5X?^T5][P_]+C_VG75@_P,CCQO\1XG7HWA;X+ZSXET&#5
+M?MUK9Q7 W1)(&9F7U..F:\YKZW^'?_).=!_Z\H_Y5Z>+JRI13B>3@J,*TVIG
+MDW_#/.K_ /0;LO\ OV]'_#/.K_\ 0;LO^_;U[]17G?7*W<]3ZC0['QYXK\+7
+M_@_7GTO4S&T@02))&25D0YPPSSV(_L6O4?C]_R4&U_[!L?_ *,DKRZO8HS<"
+"603","MZ:DSPZT%JXKH?:FG_\ (-MO^N*?R%6:K:?_ ,@VV_ZXI_(59KYQ[GU*VBC"
+"604","M-%(84444 %%&:* BBB@ HHHH **** BC.:* O#_VBOO>'_I<?^TZ]PKP_
+M]HK[WA_Z7'_M.NK!_P 9''C?X$CQ.OK?X=_\DXT'_KRC_E7R17T-\/\ XI>%
+MK/P3IUAJNH?8KJSA$+QR1N<XX# @$8(KT,=4H+E5SS<OG&$WS.VAZM17'?\"
+"605","M+9\$?]!Z'_OU)_\ $U);?%#P=>7<-M;:W%)-,XCC012#<Q. /N^IKR?95/Y7"
+"606","M]Q[/MJ?\R^\\@^/W_)0;3_L&Q_\ HR2O+J^H/&OA/P=KNN1W7B:69;M8%C41"
+"607","MR,HV!F(Z#U)KGO\ A7/PS_Y[W7_?Y_\ NNGFF%I05.<M5Z'!5RO%59NI.C"
+"608","M]3U73_\ D&VW_7%/YL+Q=KUQI,<,%D0LLP),A&=H'I[UT5NJI;QI']Q4 7Z
+M8XKA_B!_Q_6?_7-OYU\_F=65/#2G!V>GYGT674HU,1&,U=?\ O\ @6^NKQ+W
+M[7/)-M92-[9QG.?Y5UM<%X*UUT^UOY;R98DRF,GK][H.]:S>/-,$NT1W++_"
+"609","M 'P@Q_.N? XNE3PL/:SU\_4Z,9A:D\3/V4-/+T.GI#56PU2SU.'S;*82 =1T"
+"610","M*_45:->O&49KFB[H\N47%VDK,\Z\1>)[^;4)[6VF:W@AD*?NSAF(.,D]:[G1"
+"611","MI7GT6SEE8N[P(68]S@<UY9JW_(9O?^OA_P#T(UW=KXCT[2=!L4N9MTOV=/W<"
+"612","M8W,/E'7T_&OF\OQ3>(JRK3T\_4]_'89*A3C1CKY>ATM%<U;^.M*EDRB> '^
+M)T!'Z$UT4,T=Q$LD#K(C#*LIR#7OTL12K?PY)GB5:%6E_$BT/HHJCJ6LV.E1
+MAKV8(3]U!RS?A6DYQA'FD[(SC&4WRQ5V7JYGQ=KUQI,<,%F0LLP),A&=H'I[
+MTB>/-+:7:T=RB_WR@Q_/-8?C6]M[^>RFM)5EC,;<J?>O)QN.IO#2=>OEZGJ"
+"613","M8/!S6(BJT-//T-;P+?75XE[]KN))MK*1O;.,YS_*NMKB_A[]V_\ JG_LU=I7"
+"614","M1EDG+0;??\ ,PS&*CBII>7Y(*\/_:*^]X?^EQ_[3KWN4\=> +#QW8V\5[/"
+"615","M+;36K%H9HP#C.,@@]0<#\J]C#S5.HI2V/(Q-.52DXQW/DZBO>/\ AG>P_P@
+M_<_^ Z_XT?\ #.]A_P!!^Y_\!U_QKU_KE'N>)]1K]CP>M7PK_P CCHW_ %_P
+M?^C%KV/_ (9WL/\ H/W/_@.O^-6=,^ EEINK6=\FN7$C6LZ3!# H#%6!QU]J
+MF6,HN+5RHX*NI)M&MX[_ .1@C_Z]U_\ 0FKFJ]*UOPHFM7ZW+W31%8PFT+GH
+M2?ZUG?\ O8?^?\ D_[]C_&OS;%Y9B:N(E4C'1ONC](PN88>G0C3U2['66_
+M_'M%_N#^5<1\0?\ C^L_^N;?SKNHT\N-5Z[0!7_$'_C^L_^N;?SKU\UTP37"
+"616","MI^:/+RS_ 'N/S_(YBRLKC4+D06D1DD;L.P]3Z5MW/@G4[>T:8-#*5&3&C'/X"
+"617","M9'-:?P]12M\^!NR@S[<UVA%>;@<KHU\.JD[W?X'H8W,JU&NZ<-E^)Y%I.I2Z"
+"618","M3J$=S3@'#K_ 'E[BO6HY%FA62,Y1U# ^H->3:Q MMK5Y@PJS-M'H,UZ/X:"
+"619","ME,WAJS8\D1[?R./Z5>35)0J3H/I_PQ.;0C*$*ZZ_\.>:ZK_R&KW_ *^'_P#0"
+"620","MC5K2?#M]K +VZ*D0.#+(<+^'K575O^0U>_\ 7P__ *$:]/T!%3P_8A0 # A_"
+"621","M$C)K@P.#ABL1-3V7^9VXS%3PV'@X;O\ R//-8\.7VC(LD^R2%CCS(SD ^A]*"
+"622","MT?!6KO;:B+1R89_N@G[K?\ UZ[+7[=;G0+R-AG]TS#Z@9'ZBO+M.E,.IVLH
+MZI*I_45KB**R_%PE2>C_ *9E0JO'X6<:FZ_I'K&HWB:?ILUU)TB7=CU/8?G7
+MD]S<W.J7[2S%I9YFP .?H!7?>.)2GAS:#CS)E4_J?Z5RO@^%9O$L!<9V*S@>
+M^/\ Z]=&:2E7Q4,,GII^)AEL8T<-/$-:_P187P-JAMA)O@#XSY98Y^F<8K"
+"623","MN;::SN&@NHVCD4\JU>R 5P?Q 11J%HX W-&P)]<'_PO4YAEE&A0]I3OH5@,
+MQJUJWLZG4L_#S[M_]4_]FKM*XOX>?=O_ *I_[-7:5Z^5_PYP^?YL\O,O][G"
+"624","M\OR04445Z1YX4444 %%%% !1110 5P?Q!_X_K/\ ZYM_.N\K@_B!_P ?UG_U"
+"625","MS;^=>5F_^YR^7YGI97_O<?G^1-\/I4'VZ,GYSL8#U'-=L3BO&K:YGLYUGM9&"
+"626","MCD7HRULS^,]7GM3 7B7<,&1$PQ_7%>7@<TI4*IS3NOQ/2QN6U:U=U(-69G:
+MU.MSKEY+&<JTK8([C.*]'\,Q&'PU9JPP3'N_,Y_K7G>BZ3-J^H)!&(P<ROV"
+"627","M5?\ &O5TC6*-8T&%4!5 [M<FIRE4GB)+?\ X<SS:I&,(4(]#R+5O^0S>_\
+M7P__ *$:].\/RI+X?L2C @0*I^H&#^M>8ZM_R&KW_KX?_P!-3:9KE_I#'[)"
+"628","M+A#R8W&5/X5YVQD<)B)N:T?^9WXO2Q6'@H/5?Y'I6NSK;Z#>2.<?NF ]R1"
+"629","M@?J:\MTZ(S:G;1+U>55_45;U7Q%?ZP@CNG58E.?+C& 3ZUL>M%DFO!J,Z8A
+MBSY61]YNF?H*WKUEF.+A&DM%_3,:-)X#SE4>K_I&YXWA,GALL/^6<JL?Y?U"
+"630","MKD?=RMMXEMBYPKY3/N1Q^N*](UT2_T^:UE^[*A4GT]Z\FO+2XTV]>WN%*2"
+"631","MQGJ._H16^:QE1Q,,2EII^!AEDHUL//#MZ_YGL7:N\?R*VH6B Y98R2/3)_^
+MM5%/&FKI;+S(V(&!(R?-_A^E8D\\UU,T]P[22.>78Y)J,PS2EB*'LZ:>I>!"
+"632","MRVK0K>TJ-:'9?#W[M_\ 5/\ V:NTKB_AY]V_^J?^S5VE>QE?^YP^?YL\K,O]"
+"633","M[G\OR04445Z1YX4444 %%%% !1110 52U#2+/5$1;Z 2A#E3D@C\15VBIE,
+MURR5T5&4HOFB[,S(O#VF0V;VJ6<?E.<L&R23ZY/-9Y\#Z1YN[;-MS]SS./\
+M&NCHK6$H2MS06GD;1Q-:+;4WKYE>SLK>Q@$-ID2#LHZU8HHKH45%61@VV[
+MLR;KPSI-Y=-<3VBF1SEB&89/T!I;[PYINH1JL]LJE%JT?RD =N*U:*Q>'HN"
+"634","M]X+7?0U5>JK>\]/,P+;P9I%O(',3S$=!*^1^0K=1%C0*BA548  P!3J*JG1I"
+"635","MTE:G%(52M4JN\Y-A5+4-(LM4CWLR8^ZW0CZ$5=HJY0C-<LE=$1E*+O%V9S"
+"636","ML?@?2$DW,LKC^ZTG'Z5H7/A_3+NWC@FM(_+B^X%RNW\JTJ*PCA:$4U&U\C6
+L6)K2:;F]/,J:?IEII<)BLH5B5CDX)))^IJW116\8Q@N6*LC&4G)WD[L__]D!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>bbd_img002.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 bbd_img002.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_X1#^17AI9@  34T *@    @ ! $[  (
+M   1   (2H=I  0    !   (7)R=  $    B   0U.H<  <   @,    /@
+M   <Z@    @
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M                                                 $-U<W1O;65R
+M(%-E<G9I8V4    %D ,  @   !0  !JD 0  @   !0  !^DI$  @    ,T
+M,0  DI(  @    ,T,0  ZAP !P   P   B>     !SJ    
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M                            ,C Q.3HP,3HQ,2 Q-#HT.3HS-@ R,#$Y
+M.C Q.C$Q(#$T.C0Y.C,V    0P!U ', = !O &T 90!R   4P!E '( =@!I"
+"637","M &, 90   /_AR-H='1P.B\O;G,N861O8F4N8V]M+WAA<\Q+C O #P_>'!A"
+"638","M8VME=!B96=I;CTG[[N_)R!I9#TG5S5-,$UP0V5H:4AZ<F53>DY48WIK8SED
+M)S\^#0H\>#IX;7!M971A('AM;&YS.G@](F%D;V)E.FYS.FUE=&$O(CX\<F1F
+M.E)$1B!X;6QN<SIR9&8](FAT=' Z+R]W=W<N=S,N;W)G+S$Y.3DO,#(O,C(M
+M<F1F+7-Y;G1A>UN<R,B/CQR9&8Z1&5S8W)I<'1I;VX@<F1F.F%B;W5T/2)U"
+"639","M=6ED.F9A9C5B9&0U+6)A,V0M,3%D82UA9#,Q+60S,V0W-3$X,F8Q8B(@>&UL"
+"640","M;G,Z9&,](FAT=' Z+R]P=7)L+F]R9R]D8R]E;&5M96YT<R\Q+C$O(B\^/')D"
+"641","M9CI$97-C<FEP=&EO;B!R9&8Z86)O=70](G5U:60Z9F%F-6)D9#4M8F$S9TQ
+M,61A+6%D,S$M9#,S9#<U,3@R9C%B(B!X;6QN<SIX;7 ](FAT=' Z+R]N<RYA
+M9&]B92YC;VTO>&%P+S$N,\B/CQX;7 Z0W)E871E1&%T93XR,#$Y+3 Q+3$Q"
+"642","M5#$T.C0Y.C,V+C0P.3PO>&UP.D-R96%T941A=&4^/]R9&8Z1&5S8W)I<'1I
+M;VX^/')D9CI$97-C<FEP=&EO;B!R9&8Z86)O=70](G5U:60Z9F%F-6)D9#4M
+M8F$S9TQ,61A+6%D,S$M9#,S9#<U,3@R9C%B(B!X;6QN<SID8STB:'1T<#HO"
+"643","M+W!U<FPN;W)G+V1C+V5L96UE;G1S+S$N,2\B/CQD8SIC<F5A=&]R/CQR9&8Z"
+"644","M4V5Q('AM;&YS.G)D9CTB:'1T<#HO+W=W=RYW,RYO<F<O,3DY.2\P,B\R,BUR"
+"645","M9&8M<WEN=&%X+6YS(R(^/')D9CIL:3Y#=7-T;VUE<B!397)V:6-E/]R9&8Z
+M;&D^/]R9&8Z4V5Q/@T*0D)/]D8SIC<F5A=&]R/CPO<F1F.D1E<V-R:7!T"
+"646","M:6]N/CPO<F1F.E)$1CX\+W@Z>&UP;65T83X-B @( @( @( @( @( @"
+"647","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( *( @( @"
+"648","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"649","M( @( H@( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"650","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @B @( @( @( @( @( @( @( @( @( @"
+"651","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( *( @( @( @( @( @( @"
+"652","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( H@( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"653","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @B @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"654","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( *( @( @( @( @( @( @( @( @( @( @"
+"655","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( H@( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"656","M( @( @( @( @( @( @( @( @( @( @( @( @B @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"657","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( *( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"658","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( H@( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"659","M( @( @( @( @( @( @( @( @B @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"660","M( @( @( @( @( @( @( @( @( @( @( @( *( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"661","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( H@( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"662","M( @( @( @( @B @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"663","M( @( @( @( @( @( @( @( *( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"664","M( @( @( @( @( @( @( @( @( @( @( @( H@( @( @( @"
+"665","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"666","MB @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"667","M( @( @( @( *( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"668","M( @( @( @( @( @( @( @( H@( @( @( @( @( @( @( @"
+"669","M( @( @/#]X<&%C:V5T(&5N9#TG=R<_/O_; $, !P4%!@4$!P8%!@@'!P@*"
+"670","M$0L*0D*%0\0#!$8%1H9&!48%QL>)R$;'24=%Q@B+B(E*DK+L:(\S+RHR"
+"671","M)RHK*O_; $,!!P@(@D*% L+%H<&!PJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ"
+"672","M*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*O_  !$( #  G0,!(@ $0$#
+M$0'_Q  ?   !!0$! 0$! 0           0(#! 4&!P@)@O_Q U$   0,#"
+"673","M @0#!04$!    7T! @, !!$%$B$Q008346$'(G$4,H&1H0@C0K'!%5+1\0S
+M8G*""0H6%Q@9&B4F)R@I*C0U-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H
+M:6IS='5V=WAY>H.$A8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZ
+MPL/$Q<;'R,G*TM/4U=;7V-G:X>+CY.7FY^CIZO'R\_3U]O?X^?K_Q  ? 0 #
+M 0$! 0$! 0$!         0(#! 4&!P@)@O_Q U$0  0($! ,$!P4$!  !"
+"674","M G<  0(#$00%(3$&$D%1!V%Q$R(R@0@40I&AL<$)(S-2\!5B<M$*%B0TX27Q"
+"675","M%Q@9&B8G*DJ-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U=G=X
+M>7J@X2%AH>(B8J2DY25EI>8F9JBHZ2EIJ>HJ:JRL[2UMK>XN;KP\3%QL?(
+MR<K2T]35UM?8V=KBX^3EYN?HZ>KR\_3U]O?X^?K_V@ , P$  A$#$0 _ /I&
+MBBB@ HJAK&K1:/8O<2HS[1D*O>LG3Y_$VI:7%,_V:RDF)<^8A8HA^Z /7'<T
+M =+17+V4^KP^+8[%]1^WP R7.8541'HH!'<\\5T-S>06@7SWESA5');Z@"
+"676","M>BL>ZN]9?S/L-G;Q1KTENI2,^^ .!^-.\.ZQ)K6G-<2Q(A25HM\;;DDV_Q*
+M>X_PH UJ*BN;F*TMWGN'1H,DFLZVUIY=0A@FLY(([E6:1V&6QCJ.W!S0!K
+M4444 %%!(4$DX J&VN8[N'S8#E2 ?7'>@:BBF[COQCC'6@!U%%9%W?SW=\
+MVG:2RK+& 9YR,B$>@'=C^E &O17,:U83Z1H]QJ5OJMZUQ;CS ))<I(<_=*].
+M>G%=)YDA1V&R@D>G% #ZCN+B*UMWFN)%CB099V. !2S31V\+2SNL<:#+,Q
+MP *YG#>)KW[1>XBT.!@T*/\ +]I8?Q-G^#T'>@#^U(;Z^2_UD^39@_Z!:%2"
+"677","M7G_Z:%>_L*UO.U/5E*01OIMN>LL@_>M_NK_#]33=1U+3KF%K:WA&I38PL4 S"
+"678","MCZMT7\ZL:7#<Z5X?1;UFN)HE+%4.X@=0H)ZXZ9H&.<V'AW3&<XC1>>N6D;^9"
+"679","M8UD0ZE+9S2W6J6UQ/>2 ,D44)*VZ=EW=,]R:AM[FWN+R/4O$4T7VF/FVLHCY"
+"680","MGDCUP,Y?^5:P:\UM7CDMWLK%UP2_$L@^G\(_6@!%LKK655]298[1AG[+&V=X"
+"681","M_P!IN_T%:R1Q6L 2-5BBC7 4# 4EBB2%(HEVH@J!V%<WXBNI+W4$T5F-I
+M9RIFZNG&T,I_Y9JW3)[^@H$&EW4OB37)+X8.DVC&.V!'$T@X,GT'(%7-4=7\
+M3:/N3(#+(<'HH7'/YU.NH:5I=C'!!/$(XDI%$=S8'8 <U6TNTN+S69=9OX
+MVAS'Y-K W5$SDL?<GM0,W:*:KJ^=C X.#CL:Q?%&K3Z;91):QRF2Y?R_.CB+
+MB$=V('Z>] A+VX;6=0;2[-O]&BP;R9>G_7,>Y[^@K;CC2*-8XU(HP% P *Y"
+"682","MBQU:WT?3XK;3M%U2>/[S.+?EB>K'/4FK\.LWE_I][+::3<P2PH3 MTH3S6QT"
+"683","MQVYH&.UB^FDE_LK2I-E],F3*%R+=?[Y]_05I6L'V:UCB,C2,J@,[=6/<GZUR"
+"684","M>AZM)IT+B\T75C>3,9)YC;YWOZ#!Z#H*Z47<USI#W-K;R1S-&3'%.NUMW8$="
+"685","MJ *&O^(4TV%X+8-+>/A(U5P!/<X]!S4&G:E;V-LEM86%[<,3EY/(*[V[L2?
+M4U'X2TR^2,W^KQO#<N!SYQDY9CCN3^0Q73T 88L+_5KM9-7$<-G&0T=JOS
+M%R.A<^WH*W***!%+5-*MM8M!;7N\P[@S(K%=V.Q]J@;PYI<G^NMA+_OL3_6M
+M2B@*V@M8PEO$D2CC+BI<9HHH BCMH(FW1PQJ?4*!4M%% !3)88YXS',BN"
+"686","MAZJPR#3Z* *EKI5C9.6M+2*)CU*H,T:FUXNG2_V:BO<D8C#' !/?\.M6Z* *"
+"687","HVGVGV*QC@W%V4?,[')9NY_.K-%% !1110 4444 %%%% !1110!__V0$!"
+"688","end"
+"689","</TEXT>"
+"690","</DOCUMENT>"
+"691","</SEC-DOCUMENT>"

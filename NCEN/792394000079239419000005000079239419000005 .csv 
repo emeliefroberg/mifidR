@@ -1,0 +1,2333 @@
+"","V1"
+"1","<SEC-DOCUMENT>0000792394-19-000005.txt : 20190227"
+"2","<SEC-HEADER>0000792394-19-000005.hdr.sgml : 20190227"
+"3","<ACCEPTANCE-DATETIME>20190227132746"
+"4","ACCESSION NUMBER:		0000792394-19-000005"
+"5","CONFORMED SUBMISSION TYPE:	N-CEN"
+"6","PUBLIC DOCUMENT COUNT:		4"
+"7","CONFORMED PERIOD OF REPORT:	20181231"
+"8","FILED AS OF DATE:		20190227"
+"9","DATE AS OF CHANGE:		20190227"
+"10","EFFECTIVENESS DATE:		20190227"
+"11","FILER:"
+"12","	COMPANY DATA:	"
+"13","		COMPANY CONFORMED NAME:			VOLUMETRIC FUND INC"
+"14","		CENTRAL INDEX KEY:			0000792394"
+"15","		IRS NUMBER:				133373223"
+"16","		STATE OF INCORPORATION:			NY"
+"17","		FISCAL YEAR END:			1231"
+"18","	FILING VALUES:"
+"19","		FORM TYPE:		N-CEN"
+"20","		SEC ACT:		1940 Act"
+"21","		SEC FILE NUMBER:	811-04643"
+"22","		FILM NUMBER:		19636826"
+"23","	BUSINESS ADDRESS:	"
+"24","		STREET 1:		87 VIOLET DR"
+"25","		CITY:			PEARL RIVER"
+"26","		STATE:			NY"
+"27","		ZIP:			10965"
+"28","		BUSINESS PHONE:		8456237637"
+"29","	MAIL ADDRESS:	"
+"30","		STREET 1:		87 VIOLET DR"
+"31","		CITY:			PEARL RIVER"
+"32","		STATE:			NY"
+"33","		ZIP:			10965"
+"34","<SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"35","<EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"36","<SERIES>"
+"37","<OWNER-CIK>0000792394"
+"38","<SERIES-ID>S000012023"
+"39","<SERIES-NAME>Volumetric Fund"
+"40","<CLASS-CONTRACT>"
+"41","<CLASS-CONTRACT-ID>C000032757"
+"42","<CLASS-CONTRACT-NAME>Volumetric Fund"
+"43","<CLASS-CONTRACT-TICKER-SYMBOL>VOLMX"
+"44","</CLASS-CONTRACT>"
+"45","</SERIES>"
+"46","</EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"47","</SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"48","</SEC-HEADER>"
+"49","<DOCUMENT>"
+"50","<TYPE>N-CEN"
+"51","<SEQUENCE>1"
+"52","<FILENAME>primary_doc.xml"
+"53","<TEXT>"
+"54","<XML>"
+"55","<?xml version=1.0 encoding=UTF-8?>"
+"56","<edgarSubmission xmlns=http://www.sec.gov/edgar/ncen xmlns:com=http://www.sec.gov/edgar/common>"
+"57","  <schemaVersion>X0101</schemaVersion>"
+"58","  <headerData>"
+"59","    <submissionType>N-CEN</submissionType>"
+"60","    <filerInfo>"
+"61","      <liveTestFlag>LIVE</liveTestFlag>"
+"62","      <filer>"
+"63","        <issuerCredentials>"
+"64","          <cik>0000792394</cik>"
+"65","          <ccc>XXXXXXXX</ccc>"
+"66","        </issuerCredentials>"
+"67","      </filer>"
+"68","      <flags>"
+"69","        <returnCopyFlag>false</returnCopyFlag>"
+"70","        <overrideInternetFlag>false</overrideInternetFlag>"
+"71","        <confirmingCopyFlag>false</confirmingCopyFlag>"
+"72","      </flags>"
+"73","      <investmentCompanyType>N-1A</investmentCompanyType>"
+"74","    </filerInfo>"
+"75","    <seriesClass>"
+"76","      <reportSeriesClass>"
+"77","        <rptSeriesClassInfo>"
+"78","          <seriesId>S000012023</seriesId>"
+"79","          <classInfo>"
+"80","            <classId>C000032757</classId>"
+"81","          </classInfo>"
+"82","        </rptSeriesClassInfo>"
+"83","      </reportSeriesClass>"
+"84","    </seriesClass>"
+"85","  </headerData>"
+"86","  <formData>"
+"87","    <generalInfo isReportPeriodLt12=N reportEndingPeriod=2018-12-31/>"
+"88","    <registrantInfo>"
+"89","      <registrantFullName>VOLUMETRIC FUND INC</registrantFullName>"
+"90","      <investmentCompFileNo>811-04643</investmentCompFileNo>"
+"91","      <registrantCik>0000792394</registrantCik>"
+"92","      <registrantLei>2549009XFREG50MTK133</registrantLei>"
+"93","      <registrantstreet1>87 VIOLET DRIVE</registrantstreet1>"
+"94","      <registrantcity>PEARL RIVER</registrantcity>"
+"95","      <registrantzipCode>10965</registrantzipCode>"
+"96","      <registrantstate>US-NY</registrantstate>"
+"97","      <registrantcountry>US</registrantcountry>"
+"98","      <registrantphoneNumber>845-623-7637</registrantphoneNumber>"
+"99","      <websites>"
+"100","        <website webpage=volumetric.com/>"
+"101","      </websites>"
+"102","      <locationBooksRecords>"
+"103","        <locationBooksRecord>"
+"104","          <officeName>Jeffrey Gibs</officeName>"
+"105","          <officeAddress1>87 VIOLET DRIVE</officeAddress1>"
+"106","          <officeCity>Pearl River</officeCity>"
+"107","          <officeStateCountry officeState=US-NY officeCountry=US/>"
+"108","          <officeRecordsZipCode>10965</officeRecordsZipCode>"
+"109","          <officePhone>845-623-7637</officePhone>"
+"110","          <booksRecordsDesc>The books and records including the shareholder data and their transactions are held here.</booksRecordsDesc>"
+"111","        </locationBooksRecord>"
+"112","      </locationBooksRecords>"
+"113","      <isRegistrantFirstFiling>Y</isRegistrantFirstFiling>"
+"114","      <isRegistrantLastFiling>N</isRegistrantLastFiling>"
+"115","      <isRegistrantFamilyInvComp>N</isRegistrantFamilyInvComp>"
+"116","      <registrantClassificationType>N-1A</registrantClassificationType>"
+"117","      <totalSeries>1</totalSeries>"
+"118","      <isSecuritiesActRegistration>Y</isSecuritiesActRegistration>"
+"119","      <directors>"
+"120","        <director>"
+"121","          <directorName>Jeffrey Gibs</directorName>"
+"122","          <crdNumber>N/A</crdNumber>"
+"123","          <isDirectorInterestedPerson>Y</isDirectorInterestedPerson>"
+"124","          <fileNumbers>"
+"125","            <fileNumberInfo fileNumber=N/A/>"
+"126","          </fileNumbers>"
+"127","        </director>"
+"128","        <director>"
+"129","          <directorName>Irene Zawitkowski</directorName>"
+"130","          <crdNumber>N/A</crdNumber>"
+"131","          <isDirectorInterestedPerson>Y</isDirectorInterestedPerson>"
+"132","          <fileNumbers>"
+"133","            <fileNumberInfo fileNumber=N/A/>"
+"134","          </fileNumbers>"
+"135","        </director>"
+"136","        <director>"
+"137","          <directorName>Josef Haupl</directorName>"
+"138","          <crdNumber>N/A</crdNumber>"
+"139","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"140","          <fileNumbers>"
+"141","            <fileNumberInfo fileNumber=N/A/>"
+"142","          </fileNumbers>"
+"143","        </director>"
+"144","        <director>"
+"145","          <directorName>Alexandre Olbrecht</directorName>"
+"146","          <crdNumber>N/A</crdNumber>"
+"147","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"148","          <fileNumbers>"
+"149","            <fileNumberInfo fileNumber=N/A/>"
+"150","          </fileNumbers>"
+"151","        </director>"
+"152","        <director>"
+"153","          <directorName>Cornelius O'Sullivan</directorName>"
+"154","          <crdNumber>N/A</crdNumber>"
+"155","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"156","          <fileNumbers>"
+"157","            <fileNumberInfo fileNumber=N/A/>"
+"158","          </fileNumbers>"
+"159","        </director>"
+"160","        <director>"
+"161","          <directorName>Stephen Samitt</directorName>"
+"162","          <crdNumber>N/A</crdNumber>"
+"163","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"164","          <fileNumbers>"
+"165","            <fileNumberInfo fileNumber=N/A/>"
+"166","          </fileNumbers>"
+"167","        </director>"
+"168","        <director>"
+"169","          <directorName>Allan Samuels</directorName>"
+"170","          <crdNumber>N/A</crdNumber>"
+"171","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"172","          <fileNumbers>"
+"173","            <fileNumberInfo fileNumber=N/A/>"
+"174","          </fileNumbers>"
+"175","        </director>"
+"176","        <director>"
+"177","          <directorName>David Seidenberg</directorName>"
+"178","          <crdNumber>N/A</crdNumber>"
+"179","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"180","          <fileNumbers>"
+"181","            <fileNumberInfo fileNumber=N/A/>"
+"182","          </fileNumbers>"
+"183","        </director>"
+"184","        <director>"
+"185","          <directorName>Raymond Sheridan</directorName>"
+"186","          <crdNumber>N/A</crdNumber>"
+"187","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"188","          <fileNumbers>"
+"189","            <fileNumberInfo fileNumber=N/A/>"
+"190","          </fileNumbers>"
+"191","        </director>"
+"192","      </directors>"
+"193","      <chiefComplianceOfficers>"
+"194","        <chiefComplianceOfficer>"
+"195","          <ccoName>Jeffrey Gibs</ccoName>"
+"196","          <crdNumber>N/A</crdNumber>"
+"197","          <ccoStreet1>87 Violet Drive</ccoStreet1>"
+"198","          <ccoStreet2>N/A</ccoStreet2>"
+"199","          <ccoCity>Pearl River</ccoCity>"
+"200","          <ccoStateCountry ccoCountry=US ccoState=US-NY/>"
+"201","          <ccoZipCode>10965</ccoZipCode>"
+"202","          <ccoPhone>XXXXXX</ccoPhone>"
+"203","          <isCcoChangedSinceLastFiling>N</isCcoChangedSinceLastFiling>"
+"204","          <ccoEmployers>"
+"205","            <ccoEmployer ccoEmployerId=N/A ccoEmployerName=N/A/>"
+"206","          </ccoEmployers>"
+"207","        </chiefComplianceOfficer>"
+"208","      </chiefComplianceOfficers>"
+"209","      <isRegistrantSubmittedMatter>N</isRegistrantSubmittedMatter>"
+"210","      <isPreviousLegalProceeding>N</isPreviousLegalProceeding>"
+"211","      <isPreviousProceedingTerminated>N</isPreviousProceedingTerminated>"
+"212","      <isClaimFiled>N</isClaimFiled>"
+"213","      <coveredByInsurancePolicy isCoveredByInsurancePolicy=Y isClaimFiledDuringPeriod=N/>"
+"214","      <isFinancialSupportDuringPeriod>N</isFinancialSupportDuringPeriod>"
+"215","      <isExemptionFromAct>N</isExemptionFromAct>"
+"216","      <principalUnderwriters>"
+"217","        <principalUnderwriter>"
+"218","          <principalUnderwriterName>Volumetric Advisers Inc.</principalUnderwriterName>"
+"219","          <principalUnderwriterFileNumber>008-0123767</principalUnderwriterFileNumber>"
+"220","          <principalUnderwriterCrdNumber>000107351</principalUnderwriterCrdNumber>"
+"221","          <principalUnderwriterLei>N/A</principalUnderwriterLei>"
+"222","          <principalUnderWriterStateCountry principalUnderWriterState=US-NY principalUnderWriterCountry=US/>"
+"223","          <isPrincipalUnderwriterAffiliatedWithRegistrant>Y</isPrincipalUnderwriterAffiliatedWithRegistrant>"
+"224","        </principalUnderwriter>"
+"225","      </principalUnderwriters>"
+"226","      <isUnderwriterHiredOrTerminated>N</isUnderwriterHiredOrTerminated>"
+"227","      <publicAccountants>"
+"228","        <publicAccountant>"
+"229","          <publicAccountantName>BBD, LLP</publicAccountantName>"
+"230","          <pcaobNumber>552</pcaobNumber>"
+"231","          <publicAccountantLei>N/A</publicAccountantLei>"
+"232","          <publicAccountantStateCountry publicAccountantState=US-PA publicAccountantCountry=US/>"
+"233","        </publicAccountant>"
+"234","      </publicAccountants>"
+"235","      <isPublicAccountantChanged>N</isPublicAccountantChanged>"
+"236","      <isMaterialWeakness>N</isMaterialWeakness>"
+"237","      <isOpinionOffered>N</isOpinionOffered>"
+"238","      <isMaterialChange>N</isMaterialChange>"
+"239","      <isAccountingPrincipleChange>N</isAccountingPrincipleChange>"
+"240","      <isPaymentErrorInNetAssetValue>N</isPaymentErrorInNetAssetValue>"
+"241","      <paymentDividendSeries isPaymentDividend=Y/>"
+"242","    </registrantInfo>"
+"243","    <attachmentsTab>"
+"244","      <isLegalProceedings>false</isLegalProceedings>"
+"245","      <isProvisionFinancialSupport>false</isProvisionFinancialSupport>"
+"246","      <isIPAReportInternalControl>true</isIPAReportInternalControl>"
+"247","      <isChangeAccPrinciples>false</isChangeAccPrinciples>"
+"248","      <isInfoRequiredEO>false</isInfoRequiredEO>"
+"249","      <isOtherInfoRequired>false</isOtherInfoRequired>"
+"250","    </attachmentsTab>"
+"251","    <signature registrantSignedName=VOLUMETRIC FUND INC signature=Jeffrey Gibs title=President signedDate=2019-02-27/>"
+"252","  </formData>"
+"253","</edgarSubmission>"
+"254","</XML>"
+"255","</TEXT>"
+"256","</DOCUMENT>"
+"257","<DOCUMENT>"
+"258","<TYPE>INTERNAL CONTROL RPT"
+"259","<SEQUENCE>2"
+"260","<FILENAME>volumetric123118ncen.htm"
+"261","<DESCRIPTION>LETTER"
+"262","<TEXT>"
+"263","<!doctype html public -//IETF//DTD HTML//EN>"
+"264","<HTML>"
+"265","<HEAD>"
+"266","<TITLE>Converted by EDGARwiz</TITLE>"
+"267","<META NAME=author CONTENT=Heather E. Allard>"
+"268","<META NAME=date CONTENT=2019-02-26T15:57:00Z>"
+"269","</HEAD>"
+"270","<BODY style=margin-top:0;font-family:'Times New Roman'; font-size:10pt; color:#000000>"
+"271","<DIV style=width:624px><P style=margin-top:0px; margin-bottom:9.8px><img src=volumetric123118ncen001.jpg alt=[volumetric123118ncen001.jpg] align=middle></P>"
+"272","<P style=margin-top:0px; margin-bottom:9.8px><BR></P>"
+"273","<P style=margin-top:0px; margin-bottom:9.8px><BR></P>"
+"274","<P style=margin:0px; font-family:'Arial' align=center><B>REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM</B></P>"
+"275","<P style=margin:0px; font-family:'Arial' align=center><B>&#160;</B></P>"
+"276","<P style=margin:0px; font-family:'Arial' align=center><B>&#160;</B></P>"
+"277","<P style=margin:0px; font-family:'Arial' align=justify><B>To the Board of Directors and the Shareholders of </B></P>"
+"278","<P style=margin:0px; font-family:'Arial' align=justify><B>Volumetric Fund, Inc.</B></P>"
+"279","<P style=margin:0px; font-family:'Arial'>&#160;</P>"
+"280","<P style=margin:0px; font-family:'Arial'>&#160;</P>"
+"281","<P style=margin:0px; font-family:'Arial' align=justify>In planning and performing our audit of the financial statements of Volumetric Fund, Inc. (the <B><I><font style=font-family:'Arial Unicode MS,Arial'>&#8220;</font>Fund<font style=font-family:'Arial Unicode MS,Arial'>&#8221;</font></I></B>), as of December 31, 2018, and for the year then ended, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (<B><I><font style=font-family:'Arial Unicode MS,Arial'>&#8220;</font>PCAOB<font style=font-family:'Arial Unicode MS,Arial'>&#8221;</font></I></B>), we considered the Fund<font style=font-family:'Arial Unicode MS,Arial'>&#8217;</font>s internal control over financial reporting, including controls over safeguarding securities, as a basis for designing our auditing procedures for the purpose of expressing our opinion on the financial statements and to comply with the requirements of Form N-CEN, but not for the purpose of expressing an opinion on the effectiveness of the Fund<font style=font-family:'Arial Unicode MS,Arial'>&#8217;</font>s internal control over financial reporting. &nbsp;Accordingly, we express no such opinion.</P>"
+"282","<P style=margin:0px; font-family:'Arial' align=justify>&#160;</P>"
+"283","<P style=margin:0px; font-family:'Arial' align=justify>The management of the Fund is responsible for establishing and maintaining effective internal control over financial reporting. &nbsp;In fulfilling this responsibility, estimates and judgments by management are required to assess the expected benefits and related costs of controls. &nbsp;A company<font style=font-family:'Arial Unicode MS,Arial'>&#8217;</font>s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with accounting principles generally accepted in the United States of America (<B><I><font style=font-family:'Arial Unicode MS,Arial'>&#8220;</font>GAAP<font style=font-family:'Arial Unicode MS,Arial'>&#8221;</font></I></B>). &nbsp;A company<font style=font-family:'Arial Unicode MS,Arial'>&#8217;</font>s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of the financial statements in accordance with GAAP, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of a company<font style=font-family:'Arial Unicode MS,Arial'>&#8217;</font>s assets that could have a material effect on the financial statements. </P>"
+"284","<P style=margin:0px; font-family:'Arial' align=justify>&#160;</P>"
+"285","<P style=margin:0px; font-family:'Arial' align=justify>Because of inherent limitations, internal control over financial reporting may not prevent or detect misstatements. &nbsp;Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions or that the degree of compliance with the policies or procedures may deteriorate.</P>"
+"286","<P style=margin:0px; font-family:'Arial' align=justify>&#160;</P>"
+"287","<P style=margin:0px; font-family:'Arial' align=justify>A deficiency in internal control over financial reporting exists when the design or operation of a control does not allow management or employees, in the normal course of performing their assigned functions, to prevent or detect misstatements on a timely basis. &nbsp;A material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the Fund's annual or interim financial statements will not be prevented or detected on a timely basis.</P>"
+"288","<P style=margin-top:0px; margin-bottom:9.8px><BR></P>"
+"289","<P style=margin-top:0px; margin-bottom:9.8px><BR></P>"
+"290","<P style=margin-top:0px; margin-bottom:9.8px><BR></P>"
+"291","<P style=margin:0px align=justify><BR>"
+"292","<BR></P>"
+"293","<P style=margin:0px; font-family:'Arial'; page-break-before:always align=justify>Our consideration of the Fund<font style=font-family:'Arial Unicode MS,Arial'>&#8217;</font>s internal control over financial reporting was for the limited purpose described in the first paragraph and would not necessarily disclose all deficiencies in internal control that might be material weaknesses under standards established by the PCAOB. &nbsp;However, we noted no deficiencies in the Fund<font style=font-family:'Arial Unicode MS,Arial'>&#8217;</font>s internal control over financial reporting and its operation, including controls over safeguarding securities that we consider to be a material weakness, as defined above, as of December 31, 2018. </P>"
+"294","<P style=margin:0px; font-family:'Arial' align=justify>&#160;</P>"
+"295","<P style=margin:0px; font-family:'Arial' align=justify>This report is intended solely for the information and use of management, the shareholders of Volumetric Fund, Inc., the Board of Directors of Volumetric Fund, Inc. and the Securities and Exchange Commission and is not intended to be and should not be used by anyone other than these specified parties.</P>"
+"296","<P style=margin:0px align=justify><BR></P>"
+"297","<P style=margin:0px align=justify><img src=volumetric123118ncen003.gif alt=[volumetric123118ncen003.gif] align=middle></P>"
+"298","<P style=margin:0px align=justify><BR></P>"
+"299","<P style=margin:0px; font-family:'Arial'><B>BBD, LLP</B></P>"
+"300","<P style=margin:0px; font-family:'Arial'><B>&#160;</B></P>"
+"301","<P style=margin:0px; font-family:'Arial'><B>&#160;</B></P>"
+"302","<P style=margin:0px; font-family:'Arial'><B>Philadelphia, Pennsylvania</B></P>"
+"303","<P style=margin:0px; font-family:'Arial'><B>February 20, 2019</B></P>"
+"304","<P style=margin-top:0px; margin-bottom:9.8px><BR></P>"
+"305","<P style=margin-top:0px; margin-bottom:9.8px><BR>"
+"306","<BR></P>"
+"307","</DIV></BODY>"
+"308","<!-- EDGAR Validation Code: E509E9EF -->"
+"309","</HTML>"
+"310","</TEXT>"
+"311","</DOCUMENT>"
+"312","<DOCUMENT>"
+"313","<TYPE>GRAPHIC"
+"314","<SEQUENCE>3"
+"315","<FILENAME>volumetric123118ncen001.jpg"
+"316","<TEXT>"
+"317","begin 644 volumetric123118ncen001.jpg"
+"318","M_]C_X  02D9)1@ ! 0$ W #<  #_VP!#  (! 0$! 0(! 0$ @( @0# @(
+M @4$! ,$!@4&!@8%!@8&!PD(!@<)!P8& L(0H*@H*!@@+# L*# D*@K_
+MVP!# 0( @( @4# P4*!P8'@H*@H*@H*@H*@H*@H*@H*@H*@H*"
+"319","M@H*@H*@H*@H*@H*@H*@H*@K_P  1 #! 6P# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $ P0%!@<(0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $ P0%!@<(0H+_\0 M1$  @$! 0#! <%! 0  0)W  $
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!2,S4O 58G+1A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#]_**** B"
+"320","MBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ***
+M* BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ ILTT
+M5O$UQ<2JD:*6=W; 4#DDD]!3J\A_X* :QJ?A_P#8=^+FL:->R6]U!\.]7:&>
+M)L,A^R2#(/8\]:UHT_;5HT^[2^]F5>K[A*I:_*F_N5SXY_:._X.7?V5O@_\"
+"321","M2+_X?_KX5:]X_@TRX>WNM>M-0BLK.613AO(+J[RJ""-Y50<97<""> _XBJ_
+MA?\ ]&<Z_P#^%=!_\CU^+U%?L-/@W(802E!M]W)Z_<TC\-J\=\1SJ.4:BBGT
+M48Z?>F_Q/VA_XBJ_A?\ ]&<Z_P#^%=!_\CT?\15?PO\ ^C.=?_\ N@_^1Z_"
+"322","M%ZBK_P!3^'_^?3_\E_F9_Z\<2_\_E_X#'_(_:'_ (BJ_A?_ -&<Z_\ ^%=!
+M_P#(]'_$57\+_P#HSG7_ /PKH/\ Y'K\7J*/]3^'_P#GT_\ P*7^8?Z\<2_\
+M_E_X#'_(_:'_ (BJ_A?_ -&<Z_\ ^%=!_P#(]'_$57\+_P#HSG7_ /PKH/\
+MY'K\7J*/]3^'_P#GT_\ P*7^8?Z\<2_\_E_X#'_(_:'_ (BJ_A?_ -&<Z_\
+M^%=!_P#(]'_$57\+_P#HSG7_ /PKH/\ Y'K\7J*/]3^'_P#GT_\ P*7^8?Z\
+M<2_\_E_X#'_(_:'_ (BJ_A?_ -&<Z_\ ^%=!_P#(]'_$57\+_P#HSG7_ /PK
+MH/\ Y'K\7J*/]3^'_P#GT_\ P*7^8?Z\<2_\_E_X#'_(_HA_8)_X+P_LP?MN
+M_$NW^M]X4U;P)XKU$D:+9:S<QSVVI.!GRHIT Q+@$A'5=W12QXK[CK^2_\"
+"323","M9PUC4_#_ .T+X$UW1KV2WN[3QCIDUM/$V&C=;J,@@_6OZT!R,U\%Q9DN%RC$"
+"324","MT_J]U&:>CULU;K\S](X,S[&9WA:GUFSE!K5*UT[[K:ZMTBBBODS[,**** "
+"325","MBBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **
+M** BBB@ KQC_@HQ_P F%?&'_LG.K?\ I+)7L]>,?\%&/^3OC#_ -DYU;_T
+MEDKJP/\ OM+_ !1_-')C_P#<:O\ AE^3/Y8J***_H8_F(***U?!?@3QM\1]?
+MB\*_#[PAJ>N:G.8=/TBQDN9G ZD)&Q ]<4G)15V]!QC*3LE=F517K'_#!W
+M[;/_ $:3\1__  C+W_XW1_PP=^VS_P!&D_$?_P (R]_^-UA];PG_ #\C]Z.G
+MZCC?^?4O_ 7_ )'D]%>L?\,'?ML_]&D_$?\ \(R]_P#C='_#!W[;/_1I/Q'_
+M /,O?\ XW1];PG_ #\C]Z#ZCC?^?4O_  %_Y'D]%>K3?L*?MJ6\33S?LF?$"
+"326","M941268^#;W '_?NO,-2TW4=&U;2=8T^>TNK:5H[BVN8C')$X.K*P!4@\$&"
+"327","MM*=:C5^2?H[F52A7H_Q(M>J:(****T,CJO@3_R6_P &_P#8UZ=_Z4QU_6TO
+M0?2OY)?@3_R6_P &_P#8UZ=_Z4QU_6TO0?2OS/Q _BX?TE^A^L^&G\#$^L?R
+MD%%%%?G9^GA1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1
+M110 4444 %%%% !1110 4444 %>,?\%&/^3OC#_ -DYU;_TEDKV>O&/^C'
+M_)A7QA_[)SJW_I+)75@?]]I?XH_FCDQ_^XU?\,OR9_+%1117]#'\Q!7]$?\
+MP0#_ &9OAM\&OV O#'Q7T+0K8^)?B!%-J.O:P8AY\B>2.&#=U$:(@(7IN9C"
+"328","MU-?SN5_33_P1H_Y1A_![_L67_P#2J>OB>.ZE2&50C%V3FK^>C?YGW_AU2ISS"
+"329","MFI*2NXP=O+5+\CZ;HHHK\E/VD**** OR+_X.A?V9OAKI?@?P/\ M7:%H5M9
+M>);SQ)_PC^M7-M%;487MIIXGEQ]YH_L[*&/.V3'0#'ZZ5^:/_!T=_R9)X%_"
+"330","M[*K;_P#IMUO?X7J5*>>T>5VN[/S33/FN+Z5.KP[7YU>RNO)IK4_FBBBOW$"
+"331","M_GPZKX$_\EO\&_\ 8UZ=_PE,=?UM+T'TK^27X$_\EO\&_\ 8UZ=_PE,=?U"
+"332","MM+T'TK\S\0/XN'])?H?K/AI_ Q/K'\I!1117YV?IX4444 %%%% !1110 444"
+"333","M4 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !7C'_"
+"334","M  48_P3OC#_P!DYU;_ -)9*]GKQC_@HQ_R85\8?^R<ZM_Z2R5U8'_?:7^*"
+"335","M/YHY,?\ [C5_PR_)G\L5%%%?T,?S$%?TT_\ !&C_ )1A_![_ +%E_P#TJGK^"
+"336","M9:OZ:?\ @C1_RC#^#W_8LO\ ^E4]?#<>_P#(LI?X_P#VUGZ'X<?\C:K_ (/_"
+"337","M &Z)]-T445^4'[*%%%% !7YH_P#!T=_R9)X%_PRJV__ *;=0K]+J_-'_@Z.
+M_P3)/ O_95;?_TVZA7N<-?\CVA_B_1GSW%?_).XG_#^J/PIHHHK]T/YX.J^"
+"338","M!/\ R6_P;_V->G?^E,=?UM+T'TK^27X$_P#);_!O_8UZ=_Z4QU_6TO0?2OS/"
+"339","MQ _BX?TE^A^L^&G\#$^L?RD%%%5M8U?3= TFYUS6+M+>TL[=YKF>0X6.-069"
+"340","MC] #7YS*481<I.R1^H1C*<E&*NV6:AAUPN;B2TM[Z&26+_6Q)*R?4#D5\)"
+"341","M_'[]OSXD?$&]N_#WPVN7T#0][1QSP<7=RG3<S_\ +,'KA<$=R:XG]DSQ5X@T"
+"342","M?]I#PO=6.K3J]_J\=O>DR$^?'(=KJW][@YY[@&OQ_$^,>3//*6!P5%U82FHN"
+"343","M=^5:NUXJS<EZ\M^G<_5\/X39LLFJXW&553G&+DH6YGHKVD[I)^G-;\#]****"
+"344","M*_8C\GBBB@ HHHH ***^1/VI_V^O$6D>)+_ .''P5>W6RD:WO=>=!([2*<"
+"345","M,(0?E !R-Q!SC(QP:^=XEXHRGA3 ?6L=)I-VC%*\I/LE^;;275['O</<-YIQ"
+"346","M-C?JVBKI7DWI&*[M_DDFWV/K5]0L([M;2]A6=QE(3* [#U ZFIJ_*3QUX
+MRF\4IXWG\3WTNKQWSIJ$MRS2B0'(.XG/:OU6T6ZEOM'M+V;&^:VC=\>I4$U"
+"347","M\_P+Q[2XUGB8QH.E[+EM>7-=2O;HK/W=5KZGN\:<$5.#X8>4JRJ>UYK^[:SC"
+"348","M:_5W6NCT]S1117Z$?!1110 4444 %%%% !1110 445C?$#QUX>^&?@W4/'"
+"349","M/BFZ\FQTZW,LS#EF[*JCNS$@ >IK.M6I8>C*K5DHQBFVWLDM6WZ&E&E5KU8T"
+"350","MJ:O*3226[;T27J;/3K4-IJ%A?AC8WL,VQMK^5(&VGT..AK\]_CE^V]\7?B_)"
+"351","M<:1I5^V@:([%5L-/<K)*G;S9?O-QU POL:T?^>'B76]._:*M=$M=1E6TU.P
+MN5O8-YVR;(S(I(]0RCGW/K7Y)0\7\IQ_$=#+<'1E.G4DH>T;Y=9.R:C9MJ_=
+MQ?D?J-?PJS/ \/ULPQ=:,9TXN7(E?1*[3E>R=NR:\S[]HHHK]?/RH*\8_P""
+MC'_)A7QA_PR<ZM_Z2R5[/7C'_!1C_DPKXP_]DYU;_TEDKJP/^^TO\4?S1R8"
+"352","M_P#W&K_AE^3/Y8J***_H8_F(*_II_P-'_*,/X/?]BR_P#Z53U_,M7])_\"
+"353","MP0X\?>%_'7_!,;X9P^'-3CN)=#LKG3-4B1@6M[F.ZE)1AV.UT89[.#WKX?CV"
+"354","M+>5TVNDU^3/T+PXE%9O53>\'_PE1/K6BBBOR<_9@HHHH *_-'_@Z._Y,D\"
+"355","M_P#95;?_ --NH5^EU>'?MZ_L#?+_@H;\+=)^$OQD\0:]IVG:/X@35[:;P_<
+MQ13-,L$T(5C+'(NV=C@ '('->GDV*HX'-*5>K\,7=GD9]@Z^8916P]'XI*R"
+"356","MOIU1_+917[Q_\0P?[7_ $5+XF_^#:Q_^1*/^(8/]A+_ **E\3?_  ;6/_R)
+M7ZA_KKD?\TO_  $_(_\ 4'B'^6/_ ($?B-\?^2W^#?^QKT[_P!*8Z_K:7H/"
+"357","MI7YW>$_^#:;]A_P=XJTSQ=IOQ-^)#W&E:A#>6Z3:K9%&>)PZA@+4'&5&<$5^"
+"358","MB(X&*^+XLSG!9Q4I/#M^ZG>ZMO;_ /O>#,BS#(Z=:.*27,XVL[[7_SO+OV"
+"359","MT[JXM/V8/%LMM*R,;.%RG^%KB)6'X@D?C7J->5?MN?\FN>+/^O>W_\ 2J&O
+MS+BIN/#&.:_Y\U?_ $B1^H\-)/B/!)_\_:?_ *7$_.N\_9?_P3B/!G_8Q6
+MW_H8K@Z[S]E__DXCP9_V,5M_Z&*_B;(?^1YA?^OD/_2D?V%G7_(FQ/\ U[G_
+M .DL_3BBBH[F\M+-/,N[J.)?[TCA1^M?WLVDKL_B-)MV1)13(+JVND$EM<)(
+MIZ,C@@_E3Z$TU= TT[,****8BIK\TEOH5[<1-ADM)&4CL0I-?DQ++)-*TTKE
+MG=BS,3R2>IK]9?$W_(N:A_UXR_\ H!K\F*_G7QX;]KEZ\JO_ +C/WSP32]EC
+MGYT__;PK]9_#/_(N:?\ ]>,7_H K\F*_6?PS_P BYI__ %XQ?^@EX#_ ,?,"
+"360","M/2E^<Q^-G\' ^M3_ -L+M%-EFB@0R32JBCJS-@H[;4+\&;.]AE Z^7*&_E"
+"361","M7]%.44[7U/P-1DU>Q-1113$%%%% !1110 44=.M02:IID,H@EU&!9&Z(TR@G"
+"362","M\,TG*,=V-1E+9$]> ?\ !22ZN+?]GB&*&4JL_B*V24 _>7RYFP?Q4'\*]_!!"
+"363","M&0<CVKY\_PE7_)OEI_V,UM_PB9Z^2X];7!F.M_P ^Y'U/!3XNP5_^?D3"
+"364","MX.KVG_@G]_R<_HW_ %YWG_I.]>+5[3_P3^_Y.?T;_KSO/_2=Z_D?@O\ Y*["
+"365","M?]?J?_I2/ZDXN_Y);'?]>JG_ *2S]Z***_N8_C$*\8_X*,?\F%?&'_LG.K?
+M^DLE>SUXQ_P48_Y,*^,/_9.=6_\ 262NK _[[2_Q1_-')C_]QJ_X9?DS^6*B
+MBBOZ&/YBO8OV1OV]_VJ/V'==O-:_9S^)\^D1:EM_M/2KB!+FROOW6D@D!4
+ML 2 XPP!(!KQVBLJU&CB*;IU8J47NFKHUH5Z^&JJK1DXR6S3L_O1]X?\1'/_
+M  4R_PAK\(?^$E%_P#%4?\ $1S_ ,%,O^AK\(?^$E%_\57P?17G?V#DO_0/"
+"366","M#_P%'J_ZQY]_T$S_ / F?>'_ !$<_P#!3+_H:_'_A)1?_%4?\1'/_!3+_H:
+M_'_ (247_Q5?!]%']@Y+_T#P_\  4'^L>??]!,__ F?LY_P1M_X+ _MG_MK"
+"367","M_MF0_!+XYZ[X?N-?PQ?WS1Z;H6TOG1>7L.]23CYCQWK] /VWOC9X\^!GPZ"
+"368","MTKQ)\/[RWANKO6UMIFN;9908S#*^ #T.5'-?BY_P;<?\I*+;_L1]5_\ :-?K"
+"369","MM_P4^_Y(YH/_ &,Z?^D\U?@/C6WDN3XNI@/W4HTTTXZ-/FW5NI_0_@E*6=YA"
+"370","MA8X_]ZI59)J7O77+L[]#Q'_AX=^TM_T'-+_\%,='_#P[]I;_ *#FE_\ @ICK"
+"371","MPZBOX@_UWXP_Z#ZO_@<O\S^T_P#4[A3_ * J7_@$?\CW_P +_M__ +1VJ^)="
+"372","M.TR\UO3#%<WT,4H&E1@E6< \_0U]ZU^4'@;_ )';1_\ L*V__HQ:_5^OW?P:"
+"373","MSK-\XP^,>.KRJN+A;FDW:ZE>U^]C\3\6\HRO*:^$6HQIJ2G?E25[.-KV[7"
+"374","MO*OVW/\ DUSQ9_U[V_\ Z50UZK7E7[;G_)KGBS_KWM__ $JAK]-XK_Y)?'?]"
+"375","M>:O_ *1(_.^&?^2DP7_7ZG_Z7$_.NJ^!OBK1O _QA\->+_$,[16.FZQ!<7<
+MB(6*HK D@#D_2N5HK^&L)B:F#Q5/$0^*$E)7VNG=7/[-Q.'AB\-.A/::<7;>
+MS5F?1_QO_P""BGQ#\87,VC_6!O#VF9*K>.%:\F'KGE8OHN2/[U?/VO>)O$?"
+"376","MBJ];4O$VOWNHW#'+3WMR\KD_5B35&M&S\(^*]1LSJ&G^&-1GMQUGALI&0?\"
+"377","M @,5[&;\0\0<2XAU,95E4>_+KRKTBM%]WJ>5E619'P[04,)2C37?[3]9/5_?"
+"378","MZ$>A^)?$7ABZ6^\-Z]>:?,IRLME<O$P/U4BO>_@;_P %OB5X'O8-(^*;OXB
+MTDL%DN7P+R!?[P;@2?1N3_>%?/$D<D3F*5K*<,K#!!I*SR;B/.^'L0JN!KR"
+"379","M@UTO[K\G%Z/YHTS;(<GSV@Z6-HQFGUM[R\U+=?)GZO\ @GQMX7^(OAFU\7^#"
+"380","MM6CO=/O(]T,T9_-2.JL#P0>0:U:_/_\ 88_:$O/A/\28?!6N7[#P_P(+A89
+MDD;Y+:Y.%CF']W)PK>Q!/W17Z 5_7W _%M#C#)EB4N6I%\LX]I=U_=ENOFM;
+M'\J<9<+5N%,W>';YJ<O>A+NNS\UL_D^I2\3?\BYJ'_7C+_Z :_)BOUG\3?\
+M(N:A_P!>,O\ Z :_)BOR;QX_C9?Z5?\ W&?J'@G_  <=ZT__ &\*^J_BY_P4
+M9O[?2;?PG\#]-$7DVD<<^N:A#EMP4 ^5$>!C^\W_ 'SWKY4HK\=R;B;.>'\/
+M7I8I[/VW+S27Q6C>R3Z7OJUKV:/UC-N'<ISRO1JXZGS^RYN5/X;RM>ZZ[:)"
+"381","MZ=TS;\8_$GQ_\0KQK[QOXQU'5)&;/^F7;.J_[JDX4>P %95C?WVEWW>FWLU
+MO*OW98)C#Z$<U/I7AOQ%KP9M#T]O0OWC:6KR8^NT&J]Y97FG7!M=0M)8)5
+M^]'-&58?@:\JM4QM6?UBJY-O[3NVWZL].E#4H^PI**2^RK*WR1Z_P#!_P#;"
+"382","MC^-_PNNX;?5==E\1:6I DL-7E+N%_P!B4Y=3Z9R/:OM[X)?'/P+\>?:^*/!
+MEX0\97UA/@36LF/NL!V]&'!'X@?E[7;?L__ !JU[X$?$BS\9Z5+(UJ76+5;"
+"383","M-6^6YMR?F4C^\!RI[$OTS@;Q,S7(L9##X^HZN&DTGS.\H><6];+K':VUF?G
+M7&?AWEF=X2=? TU3Q5URJRGY26UWTEO?>Z/T^HJKH6MZ9XDT6T\0:-=+/:7"
+"384","MMND]M,O1T8!@?R-6J_K2$XU(J47=/5,_EZ490DXR5FMPKQO]IC]L;P7\ HV\"
+"385","M/:? NK^)'C#)IR28CMP>C3,/N^H4<GV!S6W^U/\ '6W^ GPKN/$MN4?5;Q_L"
+"386","MNC0/SNF8$[R/[J %C[X'>OS=UC6=5\0ZM<Z[KFH2W5Y=S-+<W,S[GD=CDL2?"
+"387","M>OR'Q-\1*O#267Y>U]8DKN6_)%[:;<SZ7T2UMJC]5\.N J7$+>/QZ?L(NRCM"
+"388","MSM;Z[\JZVW>E]&=S\2_VI_CG\5+J1_$/CR\@M7)VZ=ILIMX%'IM0C=]6)->?"
+"389","M2.\LAEE<LS'+,QR2:3I5_2__B;7(S+HOAV_O%7JUK:/(!_WR#7\Q8K&YGF^
+M(=3$5)U9OJVY/]3^C,-@\ORN@J=$:<%T244=/\ #;]HKXS?>Z2;P;X[OHX
+M$()L+F4S6SCT,;Y ^HP?>O3/C_\ MD:5^T%\!+?P?K6@/IWB&VUNXE6#YK>"
+"390","M>-8Y59U)Y4Y8?*<]>><> W5I=6,[6U[;20R*<-'*A5A]0:CKT\)Q5G^!R^M
+ME\:S=&I%Q<):I7[7^%^EO.YYV*X:R3&XZECI4DJM-J2E'1NW>WQ+UOY6O:?"
+"391","M^?W_)S^C?\ 7G>?^D[UXM7M/_!/[_DY_1O^O.\_])WK3@O_ )*[ ?\ 7ZG_
+M .E(SXN_Y);'?]>JG_I+/T+HHHK^YC^,0KQG_@HJCR?L&?&%8T+'_A7.K\ 9
+M_P762O9JH^*/#6A^-/#6H^#_$^G1WFFZK8RV>H6DHRLT$J%'0^Q5B/QK;#U"
+"392","M%1KPJ/HT_N9CB:3KX>=-?:37WJQ_(317ZC_M'_\ !L5^T7IOQ(O[C]E_XF>&"
+"393","M-5\*7-PTFFP>)KZ6UO+.,G(BD*1.DNWIO&-V,E17 ?\ $-%_P46_ZWPZ_\
+MFG_ /D:OVZGQ)D=2DJ\5?OH_N/Y]J\*\04JC@\/)V[*Z^31^>]%?H1_P 0
+MT7_!1;_H+?#K_P *:?\ ^1J/^(:+_@HM_P!!;X=?^%-/_P#(U:?ZPY)_T$1^
+M\S_U9X@_Z!I_<?GO17Z$?\0T7_!1;_H+?#K_ ,*:?_Y&H_XAHO\ @HM_T%OA
+MU_X4T_\ \C4?ZPY)_P!!$?O#_5GB#_H&G]Q^>]%?H1_Q#1?\%%O^@M\.O_F"
+"394","MG_\ D:C_ (AHO^BW_06^'7_ (4T_P#\C4?ZPY)_T$1^\/\ 5GB#_H&G]Q0_
+MX-N/^4E%M_V(^J_^T:_7;_@I]_R1S0?^QG3_ -)YJ^//^/_ /P1E_:]_8;_"
+"395","M &PX?CI\:;_PA)HD?AJ^L&71=:EGG\V;R]GRM@Q\IR<U][?MH_ KQM\??A]
+MI?ACP-+9+<V>M+=2F^G,:[!%(G!GG+BOP/QH3SW*,73R_\ >RE322CK=\VR"
+"396","M/Z%\%(RR+'X:>8?NE&I)OFTLN6US\[:*^@/^';?[0W_/WX=_\&3_ /QNC_AV"
+"397","MW^T-_P _?AW_ ,&3_P#QNOXE_P!0N,_^@&I_X?V=_KMPE_T&T__  (\4\#?
+M\CMH_P#V%;?_ -&+7ZOU\,>&O^=?Q_TGQ'I^JW5WX?\JUO8I9-FHN3M5P3C"
+"398","M]WUP*^YZ_=?!S(LXR3#XQ8^A*DY.%N96O92O;TN?BWBSG659Q7PCP5:-114["
+"399","M\KO:[C:_W!7E7[;G_)KGBS_KWM__ $JAKU6O*OVW/^37/%G_ %[V_P#Z50U^"
+"400","ME<5_\DOCO^O-7_TB1^>\,_\ )28+_K]3_P#2XGYP4^WMY[NX2TM86DEE<)'&"
+"401","MBY9F)P !W)-,KO/V7[*UU#]H;P=:WD(DC.O0,48<$JVX?J!7\.Y?A?KV/I8:"
+"402","M]N>48W[<S2O^)_96.Q/U+!5<1:_)&4K=[)O]#ZN_9H_8-\%^ =-MO%GQ8TZ'"
+"403","M6=>D19!93C?;61/.W;TD<=RV1GH.Y^AX+>UA6WM8$CC081(U CT '2GT5_"
+"404","M=&1\/Y3P[@EAL#24(K=_:D^\GNW_ $K(_C#.<\S3/\6\1C:CDWLND5VBMDOZ"
+"405","M>IY%^T]^RGX+^.'A2[OM,T>WL_$UO7T_48$&9P,^5+C[ZMTR>5X([@_G;>"
+"406","MV=UIUY+I]] T4T$K1S1.,%&4X(/N*_6^OSB_;9\'P>#?VD_$5M9PA(+Z2.^
+MB4#',L:L_P#X_OK\2\:^&L'1H4<XP\%&3ER3LK<UTW&3\U9IO=W78_8O!_B'
+M%UJU7*J\W**CSPOK:S2DEY:II=+/N>4 LK!D8@@Y!!Y!K]/_ -G7X@R?%#X*
+M>'?&EU-YES<Z>J7K>L\>8Y#^+*3^-?F!7W9_P34UZ34?@7>Z++)N.G:]*J#^
+MZCHCX_[Z+'\:^=\$\QGAN)JF$O[M6F]/[T6FG]SE]Y[WC#@(8CAVGBK>]2FM
+M?*2L_P >7[CWOQ-_R+FH?]>,O_H!K\F*_6?Q-_R+FH?]>,O_ * :_)BO=\>/
+MXV7^E7_W&>+X)_P<=ZT__;PKZM_8_P#V&]&\7:#9_%;XPP/-:7:B72]#W%1+
+M'_#+,1@X/4(,9')R#BOE*OUH\/65KIN@6.G64(CA@LXHXHU'JJ  ?D*^>\'"
+"407","M^&,LS[-*^(QL%.-!1M%[.4G*S:ZI<KT>FNNQ[OBMQ'F.1Y;1H8.3A*LY7DMT"
+"408","MHI72?1OF6JUT%T70M$\-Z?'I/A_2+:QM8EQ';VDQHH]E4 5S7Q@^!GPZ^-O
+MAR;0?&F@PR2LA^RZC'&%N+9\<,C]?^ G@]Q7845_4.)P.Q>$>%K4U*FU9Q:"
+"409","M5K=K'\WX?&XOXI8FC4<:B=U)-WOZGY5_%/X=:W\)_B!JGP^\0K_ *3IMR8_
+M, P)4(#)(/9E(;\:Y^OI_P#X*>>$(-/^('A_QK;Q!3J6FR6]P0/O/X()]]L"
+"410","M@'_ :^8*_B'BW)H\/\28G 0^&$O=_P +2E'\&KG]D<+YM+/>'\/CI?%./O?X"
+"411","MEI+\4S[W_P=7Q#F\7_  +;PQ?3[[CP[J#VR G)\AP)(_U+K]%%>^U\7_\"
+"412","M!+S7WM_''BCPRS_)=Z7#<!<_Q1R%?Y2_I7VA7]6^&>8SS/@K3F[RBG!_P#;
+MC<5_Y*D?S'XB8&7<88F$%:,FIK_ +>2;_\ )FSX*_X*+?$>?Q;\;QX-@N-U"
+"413","MGX<LUA \>?(!)(?K@HO_ :\ KJ/C;KTOBCXQ>*=?E<M]JU^[=3Z+YK!1]
+M!^%<O7\F\4YE4S?B+%8N;OS3E;T3M%?**2/Z?X;R^&59!AL+%6Y81OZM7D_F
+MVV?0O[O[+VD?&+5[GX@>/K$SZ%I,XB@LV)WES@-AL=44$$CN2!TR*^Y],T
+MK2]$LH],T;3H+2VB4+%!;0A$0#L%4 O-_V-/MOX2_9L\+VD4062[LVO)VQ
+MRSS.SY/T4J/H!7J%?UIX><.8/(.&J#A!>UJ1C.<K:MR5[7[1O9+;KNV?R_QY
+MQ!B\\XAKJ<W[.G)QA'HE%VO;O*UV]^FR1R/Q2^!GPN^,FE/IGCSPI;7+E2(K
+MU$V7$)]4D'S#Z'(/<&O@C]J#]FK7?V<_%D-C)>&^T?40[Z5J!3#,%(S&X' <
+M9'3@@Y'<#]):^?/^E-A:7/P M;V:$&6V\16YA?'*[HY0?P(_D/2O%\4>$\I"
+"414","MS+AZOF/LU&O2CS*:5FTMU+NK;7U3VZW]?PWXHS3+L]HX#G<J-5\KBW=)O9Q["
+"415","M:[VW6_2WP=7M/_!/[_DY_1O^O.\_])WKQ:O:?^?W_)S^C?]>=Y_Z3O7\V\%
+M_P#)78#_ *_4_P#TI']!<7?\DMCO^O53_P!)9^A=%%%?W,?QB%%%% !1110
+M4444 %%%% !1110 4444 %%%% !1110 5Y5^VY_R:YXL_PO>W_]*H:]5KRK"
+"416","M]MS_ )-<\6?]>]O_ .E4->!Q7_R2^._Z\U?_ $B1[G#/_)28+_K]3_\ 2XGY"
+"417","MP5Z#^RE_R<=X-_[#D7]:\^KT']E+_DX[P;_V'(OZU_%/#W_(_P )_P!?:?\"
+"418","MZ6C^O\]_Y$F*_PO<_\ TEGZ9T445_>I_$@5\(_\%++5(/CY93* #-X;@9O<
+MB69?Z5]W5\$?\%(-5BU#]H9;.-P38Z#;0N!V):23^3BORCQFE!<&-/=U(6_'
+M]+GZ=X21D^+DUTISO^'ZV/ J^S?^7$[MX.\6VQ/RIJ=LP^IC<?^RBOC*OM7"
+"419","M_@E]ILD/PZ\2ZJRX6XUF.-3Z[(L_^SU^*^$49/CF@UTC4O\ ^ /]3]?\4Y17"
+"420","M!E=/JX6_\#1])>)O^1<U#_KQE_\ 0#7Y,5^L_B;_ )%S4/\ KQE_] -?DQ7V"
+"421","MWCQ_&R_TJ_\ N,^/\$_X..]:?_MX5^MNE_\ (-M_^N?^@BOR2K];=+_ .0;
+M;_\ 7!/_ $$57@-\>8>E+_W(1XV?!@/^XO\ [C)Z***_HD_!3Y9_X*C6J-X,
+M\*7N/F35+A ?9HU/_LM?&-?8W_!4C58ET'PCH8<;WO+J<K[*J+G_ ,>KXYK^
+M//%J4)<=8GEZ*G?UY(G]7^%T9QX+P]^KG;TYY'T)_P $U9G3X_WD(Z2>&[C/
+MX2PU]WO]P_2OAG_@F9ILEQ\;M5U(+\MMX=D#''0M-%C^5?<Y (P:_;O!R,EP
+M5&_6<[?>OUN?CGBS*+XOE;I%_Q_0_)GQ0SOXFU%I/O&^F+9]=YJC6Y\3M,D"
+"422","MT7XD^(='E7#6NMW41'IMF8?TK#K^4,75/%5(2W4FOQ/Z=PLXU,-4=FD_P/"
+"423","MU'^ 8C'P/\(,<?\(W9=/^N5UM>=_LF:Y%XB_9Q\(:C$X;;I*P-@_Q1,T1'"
+"424","MYH:]$K^\,CJPK9)A:D=I4X-?.*/XHSJG*CG&)IRW52:?RDPKP+_@I%_R;LG_"
+"425","M &,-K_Z!+7OM>!?\%(O^3=D_[&&U_P#0):\;CS_DC<?_ ->Y?D>MP5_R5N_
+MZ^1_,^*]I_X)_?\G/Z-_P!>=Y_Z3O7BU>T_\$_O^3G]&_Z\[S_TG>OY&X+_"
+"426","M .2NP'_7ZG_Z4C^IN+O^26QW_7JI_PDL_0NBBBO[F/XQBBB@ HHHH ****"
+"427","M BBB@ HHHH **** BBB@ HHHH *\J_;<_Y-<\6?]>]O_Z50UZK7E7[;G_)"
+"428","MKGBS_KWM_P#TJAKP.*_^27QW_7FK_PD2/<X9_Y*3!?]?J?_ *7$_.M?P%X"
+"429","MNOO 'C;2?&VFH&GTK4(KJ-<!RCAMI]B!C\:R**_A:C5J8>K&K3=I1::?9K5
+M,_MK2IUJ4J<U>,DTUW3T9^JOPS^)O@_XM>$K;QEX*U5+JUN$&]01O@?',;K"
+"430","M_P[C^E;]?EA\,OB]\1/@]K?]O\ P]\33V$S8$T:D-%.!V=&RK#ZC([8KW_1
+M/^H?C>VT]8/$'PNTV[N57!N+:^>%6/J4*O^AK^H>'O&;(<7A$LUO1JI:M1<"
+"431","MHR\U:[5^S6G=G\X9[X1YWAL4WEC56F]DVHR7D[V3]4]>R/L?6-7TW0-*N=<U"
+"432","MF]CM[2T@::YGE;QHHR23]!7Y?\ QR^(K_%GXM:[\0&$>H7Q-JK]5A4!(P?"
+"433","M?8JUUOQV_;&^+/QVL6\/:I/!I6C,P9]+TT,%FP<CS')+/CKCA<\XKR>OS/Q-"
+"434","MX_PW%DJ6$P*?L*;YKM6<I6LG;HDKVOJ[O1'Z'X=<#8CA>-3%8UKVTURV6JC'"
+"435","M=J_5MVO;166KOT1_8/\%2^#?V<-)DNH=DVKS2ZBX(Y*R$!#^*(A_&OAOX'_
+M  GU?XU?$O3? .E1N$N9@U].HXM[=2#)(?H.GJ2!WK]/])TNPT/2[;1M+MEA
+MMK2!(;>)!PB* % ^@ KZ+P/R.K/&U\VFO=BO9Q\VVG*WHDE_V\>#XR9S3A@Z
+M&5P?O2?/+R2NHW]6V_\ MTB\3?\ (N:A_P!>,O\ Z :_)BOUG\3?\BYJ'_7C
+M+_Z :_)BMO'C^-E_I5_]QF7@G_!QWK3_ /;PK](_V4?CYX=^-OPRL#'J4?\
+M;FG6D<&L6+-B174!?, [JV,Y'<D=17YN5H>%O%GB7P1K</B3PCKESIU];MF*
+MYM92C#VXZ@]P>#WK\VX$XSK\&9G*MR<]*HDIQV>CT:\UKOHTVM-U^@\:<(T>
+M+LNC2Y^2I!MPENM=T_)Z;:II/79_K)1TZU\0^O^FGQ/T;3ULO&?@S3=:D1
+M<[BE:UD?W8*&4GZ!:POB[_P4%^+_P 2=&F\.>'[*U\.6=PA2X:QD9[AU/5?"
+"436","M-;&T'_9 /O7[_6\8^#(8)UJ<YRG;2'(U*_9M^[\^9_,_#:/A-Q;/&*E.,8PO"
+"437","M\?,FK=TE[WX+Y%']O+XMV'Q0^-TMAH=V)].\/V_V&5&RLDH8M*P]MQVY[[,
+MUXI022<DU:T/1-5\2ZU:>'M#LGN;R^N$@M8(QEI)&(  _$U_+V;YGB^(,XJX
+MVHKSJRO9:[[17HK)'](Y5E^&R/*J6$IOW*4;7?ENWZN[9]??\$OO!4MKX<\3
+M?$&XAPMY=PV-LQ':)2[X]LR)_P!\U]65R/P+^%]G\'/A7I'P_MBK26=MF\E4
+M?ZV=CND;_OHG'L!775_9_!N32X?X8PV!FK2C&\O\4FY27R;:^1_(O%V;QSWB
+M/$8R'PRE:/\ ABE&/WI7/SC_ &VO!LO@W]I'QABVQ:G,NH0''#50S'_OO>
+M/PKR>OM?_@I+\'+GQ)X.T_XN:)9F2?1;?4PB\FU<Y5S[(_'TD)[5\45_*/B"
+"438","M)DM3(^+<33:M<G4CYQF[Z>CO'Y'].<!9Q3SGA;#U$[R@E7DXJVOJK/YGV7"
+"439","M_P $T_C!87?AF_\ @QJMXJW=G</>:4CM_K(7QYB+ZE6^;'HY]#7U37Y+^'_$"
+"440","M.N>%-:MO$?AK59K*^LY1);75NY5XV'<'^G0C@U]&^#O^G'Q)TC34LO&/@73
+M=8F10#>0SM;._NR@,N?H /:OT_P^\5,IR[)H9=F[<'2TC-)R3CT3M=IK9:6M
+M;J?G/'7AIFF89O/,,K2DJFLHMJ+4NK3=DT]WK>]S[;KX_P#^D/QT\/:W:6'"
+"441","MP6\,ZE'=36E]]LUF2%LKZJRI2/XOG9B.V%K@/BS_P4!^-/Q'L)-%\/_9_#"
+"442","M5E*L@TUF-PZGL9CRO\ P$*:\+=WD<R2.69CEF8Y)/K7%X@>*NSC+9Y9E,6"
+"443","MX3TE.2M=7O:*WUZMVTNK:W.O@7PRQ>59A#,<SDE*&L8)WL]KR>VG1*^MG?H)"
+"444","M7M/_  3^_P3G]&_Z\[S_P!)WKQ:O:?^?W_ <_HW_7G>?^D[U^6<%_\E=@
+M/^OU/_TI'Z5Q=_R2V._Z]5/_ $EGZ%T445_<Q_&(4444 %%%% !1110 4444
+M %%%% !1110 4444 %%%% !7FG[8FC:EKW[-/BW3M)M'GG^P)*(T&25CFCD<
+MX]E5C^%>ETCHDBE'4,K#!!&017#F>CF66UL')V52$H7[<R:O\KG9EV,EEV8"
+"445","M4<5%7=.496[\K3M^!^1E:_@7P/XD^)'BRS\%>$;'[3J%_(4MXMVT$@$DDG@"
+"446","M ')/ K]=>_8I_9I\1:I-K%[\-88IIW+2BTO)H4+'J0B.%7\ *Z'X9?L]_!W
+MX/7$E]\/O!%M974J[9+MG>64K_=#R$D#V&!7\YX+P.SKZ_%8K$4_8WU<7+F<
+M?).*2;7=V7F?OV+\9<G^I2>&H3]K;124>5/S:E=I>2U\C\S_ !3X3\3>-:F"
+"447","M\.^+M#N=.OH&Q+;7<11A[\]0>Q'![5G5^J/Q%^$?PW^+.FC2OB#X2M-2C4'R"
+"448","MI)4Q)%_N.N&7\#7A_B+_ ()D?'4+MKCP]XTUW3D8Y,#M%.J^RDJ&Q]2:Y<Z
+M\%<_PM=O+9QK4^EWRR7K?W7ZIZ]D=.3^+^1XFBEF$)4I];+FB_2WO+T:T[L^
+M'JV_A_\ #GQK\4?$</A7P+X?GU\F8?+$ORQK_?=NB*/4DOM'PK_P $U?@=
+MHUPEUXAUS7=7*GF6Y2&)OJ(T#?^/5[=X'^'7@;X:Z0-#\>%[/2[4=8[6(
+MN?5FZL?<DFMLC\$\YQ%=2S2K&E3ZJ+YIOR7V5ZW?H99SXPY1AZ+CEM.52?1R
+M7+%>OVGZ67J<)^RS^S)H?[._A1UFDCO-?U!5.J:@HX '2*//1!^;'D]@/5:*
+M*_H_*\LP.38&#PD.6G!62_5]VWJWU9_/^99CC,VQL\7BI\U2;NW^B[);)=$"
+"449","M5M:MI+S1KNSA&7EMI$0>I*DOR:U'3[W2-0GTK4K9X;BUF:*>&1<,CJ2&4CU
+M!%?K=7GGQ!_95^ OQ/UQ_$OB_P'\$M_+_KKJWGDA:4^K>6P#'W(S[U^?^)/"
+"450","M F-XRI8>>$J1C.ES:2NDU+EZI-IKE[:W/N?#WC7!\)5*\<53E*%3EUC:Z<;]"
+"451","M&TFG?OI8_-&WMY[NXCM+6%I)971QH,LS$X  [DFNB^)GPB^(?P@UH:'X_\
+M#4]C(XW02LN8IU]4<<-[CJ.^*_0GP)^R9^S_ /#G7(O$GA?X>6Z7T#!K>YN9
+MY)S$W9E$C$*?<#/O7:>*O'A;QQI$F@>+] M-2LY1\]O>0AU^HST/N.:^ P?"
+"452","M@;BY9?4^M8J,:]UR<J;A;6_-=1>NFVUNM]/N<7XSX6..I_5L-)T;/FYK*5]+"
+"453","M<MFUIKOO?I;7\G:*^[O&7_!-GX&^(+IKWPUJVLZ&S'/V>WN%FA'T$BEO_'JH"
+"454","MZ%_P3&^$-E<+-KWC;7[Y5.?*B:*%6]C\C''T(KY6?@YQK&OR*$&OYN=6_&TO"
+"455","MP/I8>+'$J/.YS3_ )>1W_\?Q/BC1]%U?Q#J<.BZ#I=Q>WEPX2UM8B\DC'
+ML%')K[@_8T_8V/PD\OXE?$JWCD\12QD65D&73D88))'!D(.1PH.!SFO7?A
+ME\OA1\'[<P_#_P9:V4C+MDNR#)/(/>1R6Q[9Q[5UU?JW!'A/A>'L3''9C-5"
+"456","M:T=8I?!%]]=9-=&TDM[7LU^9<9>)^)SW#RP6 @Z5&6DF_CDNVFD4^J3;?>UT"
+"457","M%%%%?L1^3D&J:9I^M:;/H^K6<=Q:W4+17$$JY61&&I'H0:^ /VJ_P!CSQ1\
+M$]8N/$_A*PGU#PK-(7BN(U+O89/^KEQR .@?H>,\U^@U-FABN(F@GB5T=2'1
+MUR&![$'K7QW&/!>6\8X%4J[Y*D;\DTM8WW376+ZK3R:/K.$^+\PX3QCJ45S4
+MY?%![/S3Z271_>F?D;17Z)?$7]A7]GGXAW4FH_\ -SZ+=2DEY]#G$()]?+9"
+"458","M63\E%<$?^7GPX^T[U^)FN'/,9@AW8_WL8_2OY\QO@UQAAZSC14*D>ZDE]Z"
+"459","ME9_F?NV$\6N$Z])2K.=.79Q;^YQO^A\55ULOP.^*%M\,Y?B[?>%+FWT*.>.)"
+"460","M;JX0H9-^0'53R4S@;NF6&:^[/AC^Q+\ /AA<1ZC:>&)-7O8REYKDHG*GU
+M +&#[[<UZEJFCZ3K>ES:)J^FP7-G<1&.>UGB#1NAZJ5/!%?2Y1X'XNIAISS+
+M$*,VGRQAJE*VCDW:Z3W26O\ ,?/9KXRX6&(A'+Z#E!-<TI:-KJHI7LVMF_\
+MP$_)2O<_^>&CZCJ/[2-EJ5G:N\&GZ==27<@'$:M&8UR?=F KZEN_P!A?]F
+M[N7N3\-Q&7;)2+4KA5'T&_CZ5W'PV^$/PX^$.F2:1\._EOIL4S!IVCW,\I'"
+"461","M0L[$LWXGBM^%_![.\JS^AC<77I\E*2G[KDVW%W2UBDDWOJ8<1^*^3YED=?8
+M6C/GJ1<?>44DI*S>DFW9;:'24445_1!^A1110 4444 %%%% !1110 4444"
+"462","M%%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4"
+"463","M444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !11"
+"464","M10 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%%"
+"465","@ !1110 4444 %%%% !1110 4444 %%%% !1110!__]D!"
+"466","end"
+"467","</TEXT>"
+"468","</DOCUMENT>"
+"469","<DOCUMENT>"
+"470","<TYPE>GRAPHIC"
+"471","<SEQUENCE>4"
+"472","<FILENAME>volumetric123118ncen003.gif"
+"473","<TEXT>"
+"474","begin 644 volumetric123118ncen003.gif"
+"475","M1TE&.#EAA@#3 ?<         ,P  9@  F0  S   _P S   S,P S9@ SF0 S"
+"476","MS  S_P!F  !F,P!F9@!FF0!FS !F_P9  9,P99@9F09S 9_P#,  #,"
+"477","M,P#,9@#,F0#,S #,_P#_  #_,P#_9@#_F0#_S #__S,  #, ,S, 9C, F3,"
+"478","MS#, _S,S #,S,S,S9C,SF3,SS#,S_S-F #-F,S-F9C-FF3-FS#-F_S.9 #.9"
+"479","M,S.99C.9F3.9S#.9_S/, #/,,S/,9C/,F3/,S#/,_S/_ #/_,S/_9C/_F3/_"
+"480","MS#/__V8  &8 ,V8 9F8 F68 S&8 _V8S &8S,V8S9F8SF68SS&8S_V9F &9F"
+"481","M,V9F9F9FF69FS&9F_V:9 &:9,V:99F:9F6:9S&:9_V;, &;,,V;,9F;,F6;,"
+"482","MS&;,_V;_ &;_,V;_9F;_F6;_S&;__YD  )D ,YD 9ID F9D S)D _YDS )DS"
+"483","M,YDS9IDSF9DSS)DS_YEF )EF,YEF9IEFF9EFS)EF_YF9 )F9,YF99IF9F9F9"
+"484","MS)F9_YG, )G,,YG,9IG,F9G,S)G,_YG_ )G_,YG_9IG_F9G_S)G__\P  ,P"
+"485","M,\P 9LP F<P S,P _\PS ,PS,\PS9LPSF<PSS,PS_\QF ,QF,\QF9LQFF<QF"
+"486","MS,QF_\R9 ,R9,\R99LR9F<R9S,R9_\S, ,S,,\S,9LS,F<S,S,S,_\S_ ,S_"
+"487","M,\S_9LS_F<S_S,S___\  /\ ,_\ 9O\ F?\ S/\ __\S /\S,_\S9O\SF?\S"
+"488","MS/\S__]F /]F,_]F9O]FF?]FS/]F__^9 /^9,_^99O^9F?^9S/^9___, /_,"
+"489","M,__,9O_,F?_,S/_,____ /__,___9O__F?__S/___P   ! 0$ @(# P,$!
+M0%!04&!@8'!P<( @)0D*@H+PL,# P-#0T.#@X/#P\/___P
+M
+M                     P     A@#3 0 (_P#1H4.'#ATZ=.C0H4.'#ATZ"
+"490","M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ"
+"491","M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ"
+"492","M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ"
+"493","M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ"
+"494","M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ"
+"495","M=.C0H4.'#ATZ=.C0H?]#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX="
+"496","M.G3HH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"497","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"498","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#_"
+"499","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"500","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"501","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@_X,..NB@@PXZZ*##CKH"
+"502","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"503","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CH 08<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.
+M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<."
+"504","M'3ITZ-A0X<.'3ITZ-A0_^'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'"
+"505","M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'"
+"506","M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'"
+"507","M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'"
+"508","M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H8,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"509","M#CK_Z*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"510","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"511","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ_^B@@PXZZ*##CKH"
+"512","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"513","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"514","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..O_HH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"515","MZ  $'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A
+M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A"
+"516","M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A
+M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A"
+"517","M0X<.'3K_=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0"
+"518","MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0"
+"519","MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"520","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#_PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"521","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"522","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"523","MH(,..NB@@PXZZ*##CKHH(,..NB@@_\..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"524","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"525","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"526","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ* #$'3HT*%#APX=.G3H"
+"527","MT*%#APX=.G3_Z-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT"
+"528","MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT
+MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT"
+"529","MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT
+MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT"
+"530","MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A_T.'#ATZ
+M=.C0H4.'#ATZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"531","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"532","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"533","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ/^@@PXZZ*##CKHH(,..NB@@PXZ"
+"534","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"535","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"536","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NC_H(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"537","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"538","M.NB@@PXZZ*##CKHH(,..NB@@PY T*%#APX=.G3HT*%#APX=.G3HT*%#APX=
+M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=
+M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#_X<.
+M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<."
+"539","M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.
+M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<."
+"540","M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"541","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##O\ZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"542","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"543","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"544","MZ*##CKHH(,..NB@@P[_.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"545","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"546","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"547","M_SKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..@!!APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#
+MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#
+MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#
+MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#
+MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.O]TZ-A0X<.'3ITZ-A
+M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A"
+"548","M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A@PXZZ*##CKHH(,..NB@@PXZ"
+"549","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"550","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*#_@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"551","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"552","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"553","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@_X,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"554","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"555","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..N@ !!TZ=.C0
+MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=/_HT*%#APX=.G3H
+MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H
+MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H
+MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H
+MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H
+MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H
+MT*%#APX=.G3HT*%#APXZZ*##CK_Z*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"556","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"557","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"558","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZ_^B@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"559","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"560","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"561","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..O_HH(,..NB@"
+"562","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"563","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH ,0=.C0H4.'#ATZ=.C0H4.'#ATZ"
+"564","M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ"
+"565","M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ"
+"566","M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4/_APX=.G3HT*%#APX=.G3HT*%#APX="
+"567","M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX="
+"568","M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX="
+"569","M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX="
+"570","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"571","M.NB@@PXZZ*#_PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"572","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"573","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"574","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@_\..NB@"
+"575","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"576","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"577","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(/_#CKHH(,..NB@@PXZZ*##CKH"
+"578","MH(,..NB@@PXZZ*##D#0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=.C0H4.'#ATZ_W3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#
+MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HH(,..NB@@PXZZ*#"
+"579","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"580","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ/^@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"581","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"582","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"583","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NC_H(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"584","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"585","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CH
+M08<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A"
+"586","M0X<.'3ITZ-A0X<.'3IT_^C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0
+MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0
+MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0
+MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0
+MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0
+MH4.'#ATZ=.C0H4.'#ATZ=.C0H8,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#O\ZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"587","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"588","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"589","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@P[_.NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"590","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"591","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"592","MH(,..NB@@PXZZ*##CKHH(,._SKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"593","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ  $'3ITZ-A0X<.'3IT"
+"594","MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT
+MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT"
+"595","MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT
+MZ-A0_^'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ"
+"596","M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ"
+"597","M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ"
+"598","M=.C0H4.'#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"599","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#_@PXZZ*##CKH"
+"600","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"601","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"602","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@_X,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"603","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"604","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"605","MZ*##CKHH/^##CKHH(,..NB@ Q!TZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<."
+"606","M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.
+M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<."
+"607","M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.
+M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<."
+"608","M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3K_=.C0H4.'"
+"609","M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"610","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"611","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ_^B@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"612","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"613","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"614","MZ*##CKHH(,..O_HH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"615","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"616","M.NB@@PY T*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#"
+"617","MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3_Z-A
+M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A"
+"618","M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A
+M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A"
+"619","M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A
+M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#_PXZZ*##CKHH(,..NB@@PXZ"
+"620","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"621","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"622","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@_\..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"623","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"624","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"625","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(/_
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"626","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..@!!APX=.G3H"
+"627","MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H"
+"628","MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H"
+"629","MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H"
+"630","MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#_X<.'3ITZ-A0X<.'3IT
+MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT"
+"631","MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT
+MZ-A0X<.'3ITZ-A@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"632","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ/^@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"633","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"634","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"635","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NC_H(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"636","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"637","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"638","M#CKHH(,..NB@@PXZZ*##CKHH(,..N@ !!TZ=.C0H4.'_PX=.G3HT*%#APX=
+M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=
+M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=
+M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=
+M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=
+M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=
+M.G3HT*%#APX=.G3HT*%#APX=.O]TZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<."
+"639","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"640","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"641","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@P[_.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"642","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"643","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"644","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,._SKHH(,..NB@"
+"645","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"646","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH ,0=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'"
+"647","M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'"
+"648","M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=/_HT*%#APX=.G3HT*%#APX=.G3HT*%#"
+"649","MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#"
+"650","MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#"
+"651","MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#"
+"652","MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"653","M.NB@@PXZZ*#_@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"654","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"655","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@_X,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"656","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"657","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"658","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH/^##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##D#0"
+"659","MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0"
+"660","MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0"
+"661","MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0"
+"662","MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0"
+"663","MH4.'#ATZ=.C0H4/_APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H"
+"664","MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H"
+"665","MT*%#APX=.G3HT*%#APX=.G3HH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"666","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"667","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ_^B@"
+"668","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"669","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"670","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..O_HH(,..NB@@PXZZ*##CKH"
+"671","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"672","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"673","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CH 08<.'3ITZ-A0X<.'3IT
+MZ-A0X<.'3ITZ-A0X?_#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ
+M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ
+M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ
+M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ
+M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ
+M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ
+M_W3HT*&##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"674","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"675","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@_\..NB@@PXZZ*##CKH"
+"676","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"677","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"678","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(/_#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"679","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ  $'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.
+M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<."
+"680","M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.
+M'3IT_^C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"681","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ/^@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"682","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"683","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"684","MH(,..NB@@PXZZ*##CKHH(,..NC_H(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"685","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"686","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"687","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKH_Z##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@ Q!TZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A"
+"688","M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A
+M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A"
+"689","M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A
+M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0_^'#ATZ=.C0
+MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0
+MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"690","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"691","MH(,..NB@@PXZZ*##CKHH(,..NB@@P[_.NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"692","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"693","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"694","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,._SKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"695","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(....*(@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"696","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PY T*%#APX=.G3H
+MT*%#APX=.G3HT*%#APX=.FS8L*%#APX=.G3HT*%#APX=.G3HT*%#A_\.'3IT
+MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT"
+"697","MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT
+MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.&S9LZ-A0X<.'3IT"
+"698","MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT
+MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT"
+"699","MZ-A0X<.'3ITZ*##CKHH(,..NB@@PXZZ*#_@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,.-MA@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"700","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZVJ##CKHH(,..NB@@PXZ"
+"701","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..N%@@PTV
+MVFB##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@_X,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"702","M.NB@@PXZZ*##CKHH(,..NB@@PTZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH ,.-MA@@PTVZ*##CKHH(,."
+"703","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"704","M.NB@@PXZV*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH/^#
+M#CKHH(,..NB@@PXZZ*##CK@8(,--MA@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"705","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..@!!APX=.G3HT*%#APX=.G3HL(E#APX="
+"706","M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#ATX;"
+"707","M-FS8L&'#A@X=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX="
+"708","M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3_Z-A0X<.'3ITZ-A0X<."
+"709","M'3ITZ-A0X<.'3ILY-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.
+M'3ITZ-A0X<.'3ITZ-AXX8-&S9LV+A0X<.'3ITZ-A0X<.'3ITZ-A0X<."
+"710","M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZV)##CKHH(,..NB@@PXZ"
+"711","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..MQ@@PTV
+MV&##3KHH(,..NB@@PXZ_^B@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"712","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@TTXZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"713","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH,,--MA@@PTVV'B##CKHH(,."
+"714","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"715","M.O_HH(,..MB @PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CK<8(,--MA@@PTWZ*##CKHH(,..NB@@PXZZ*#"
+"716","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PTXZ*#"
+"717","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH,,--MA@@PTVV'##CKHH(,..NB@@PXZZ*##CK_Z*##CKHH(,..NB@"
+"718","M@PXZZ*##CKH  0=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#
+MAPX=.G3HT*%#APX=.G3HT*%#APX=.G38P*%#APX=.G3HT*%#APX=.G3HT*%#
+MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#QPT;-VW8L&';1@X=.G3HT*%#
+MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#
+MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=-G#HT*%#
+MAPX=.G3HT*%#APX=.G3HT*%#_X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-!Q
+MPX8.'#9LV+!Q0X<.'3ITZ-A0X<.'3ITZ-A0X<..NB@@PXZZ*##CKHH(,."
+"719","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PTXZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"720","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH,,--NB @PTVV&###3KHH(,."
+"721","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@_\..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"722","M#CKHH(,..MAT@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CK<<(...>1X@PTVV:##CKHH(,..NB@@PXZZ*#"
+"723","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PTWZ*#"
+"724","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(/_#CKHH(,..NB@"
+"725","M@PXZZ*##33?HH(,..-A@@PTZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"726","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..MAP@PXZZ*##CKHH(,..NB@"
+"727","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CK<= ,0=.C0
+M@<.&#1LZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0
+MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'_PX=.G3HT*%#APX=.G3HT*%#APX=.G3H
+MT*%#APX=.FS;T*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H
+MT*%#APX=.G3HT*'C]@T=.G3AN&'#=@X=.G3HT*%#APX=.G3HT*%#APX=.G3H
+MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H
+MT*%#APX=.G3HT*%#APX=.G3HT*%#APX;-G3HT*%#APX=.G3HT*%#APX=.G3H
+MT*%#APX=.G3HT*%#APX=.NB@@PXZZ*##CKHH,.-..B@@PXZZ&##3GHH(,.
+M.NB@@PXZZ/^@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"728","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..MA@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"729","M#CKHH(,..NB@@PXZZ*##CK<C(,..NB@@PXVV)##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"730","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NC_H(,--NB@"
+"731","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##C3CHH(,..NA@@PTYZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHA(,--MAL"
+"732","M PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..MU@ PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CK>C(,..NB@"
+"733","M@PXXV&##CKHH(,..NB@@PXZZ*##CKH_Z##CKHH(,..NB@@PXZZ*##CKH"
+"734","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CG=8(,--^.@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH ,.-N*@@PXZZ*##D#0H4.'#ATZ=.C0H4.'#ATZ
+M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4,'3APZ=.C0H2.'#1LZ=.C0H4.'#ATZ
+M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#AVZ
+M<^3*E1/'#1NV;>#,H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ETX;.+0H4.'#ATZ
+M=.C0H4.'#ATZ=/_HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT($;APX=
+M.G3HRF'#9@X=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=
+M.G3HT*%#APX=.G3HT*%#AXX<-FS8L&'#A@T;MF[HT*%#APX=.G3HT*%#APX=
+M.G3HH(,..N1@TPTZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"735","M#CKHH(,..NB@@PXZZ*##CK@B(,..NB@@PXZV&#3#3KHH(,..NB@@PXZZ*#"
+"736","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@P[_.NB@"
+"737","M@PXYV&##3;88(,--MAT@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH$,.-MV@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"738","M@PXZZ)P#SCCHH(,..NB@@PTVW:##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"739","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ)##3;88(,--MA@
+M@TTWZ*##CKHH(,..NB@@PXZZ*##CKHH(,..N1@TPTZZ*##CKHH(,..NB@"
+"740","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,._SKHH(,..NB@@PXZX(B##CKH"
+"741","MH(,..MA@TPTZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@TXXV&##3;88(,--MAH PXZZ*##CKH"
+"742","MH(-...04PXZZ*##CKHH&,.-MJ4@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"743","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ* #SCCHH(,..NB@@PTVW:##CKH"
+"744","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ(##?\V ,&&#1LV;-BP8>.&#ATZ=.C0H4/7C=LX<NC0H4.'"
+"745","M#ATZ=-BPD4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'"
+"746","M#ATZ=.C0H0,G#ATZ=.C0H<.&K1LZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'"
+"747","M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATX;-BP8<.&#1LV;-BVG4.'"
+"748","M#AVZ<^;,<=L&3APZ=.C0H4.'#ATV;./0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'"
+"749","M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C A4.'#ATZ=.BP8>-V#ATZ=.C0H4/_"
+"750","MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*&##CKHH(,..NB@"
+"751","M@PXXV&##3;88(,--MA@@\TXZ*##CK@8(,--MA@@PTZZ*##CKHH(,.-]AP
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"752","M@PXZZ* #3C?HH(,..NB@@PXVV)##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"753","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ(##3;88(,--MA@
+M@PTVV(B##CKHH ,.-MA@@PTVV*##CKHH(,..NAP_X,--^B@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZX'2##CKH
+MH(,..NA@@PTYZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"754","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXXV&##3;88(,--MA@@\TXZ*##CK@
+M8(,--MA@@PTZZ*##CKHH(,.-]AP@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"755","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ* #3C?HH(,..NB@@PXVV)##CKH"
+"756","MH(,..NB@@PXZZ*##CKHH/^##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"757","MZ*##CKHH(,..NB @PTVV&#S3;;:(,--MAP4PXZZ'BS#3;88(,--MB,@PXZ"
+"758","MZ*##CKH>(---NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZXG2##CKHH(,..NAT@TTXZ*##CKHH(,..NB@@PXZ
+MZ  $'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IPV+!A
+MPX:-6S=NV+!APT8.'3ILV+!APX8-&S9PZ-A0X<.'3IPV+A0X<.'3ITZ-A"
+"759","M0X?_#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0D>N&#ATZ=.C0"
+"760","MH0.'#1PZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0"
+"761","MH4.'#ATZ=.C0H4.'#APV;-BP8>/6C1LV;-BPD4.'#ALV;-BP8<.&#1PZ=.C0"
+"762","MH4.'#APV;.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0"
+"763","MH4.'#ATZ=.2ZH4.'#ATZ=.C 80.'#CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ_^B @PTVV&2333?>
+M=(,--MA@PPTZZ&##3;88(,--MAP@PXZZ*##CKH@(,--MB@@PXZZ*##CKH"
+"764","MH(,..NB@@PXZZ*##CKBH(,..NB@@PXZZ*##CKHH(,..NB@@PXZY'2##CKH"
+"765","MH(,..NB @PTWZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXXV&##3GHH(,..MA@@PTVX*##C;8"
+"766","M8(,--MA@@PTWZ*##CKHH(,..MA@@PTZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH#,..NB@@PXZZ*##CKHH(,..O_HH(,..NB@0TXWZ*##CKHH(,..MAP@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"767","MZ*##CKHH(,..NB @PTVV)##CKHH(,--MA@ PXZZ&##3;88(,--MAP@PXZ
+MZ*##CKHH(,--MB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKBH(,..NB@@PXZ"
+"768","MZ*##CKHH(,..NB@@PXZY'2##CKHH(,..NB@@PTWZ*##CKHH(,..NB@@PXZ"
+"769","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@XXX
+MV'@3CCG_Z*##CKA>(,--MZ@@PXVV&##3;88(.--N6@@PXZZ*##CK>8(,-"
+"770","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ(S3#3KHH(,..NB@ Q!TZ-A0X<.'3IT"
+"771","MZ-A(]<-'3ITZ-A0X=NFS9TZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT
+MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ELY-A0X<.'3ITXK!AXX8.'39L
+MV+!APX8-&S9QZ-A0X<.'3IQV+A0X<.'3ITZ-A0X<.'3ITZ-A0P<.&SIT
+MZ-A0X<.'3ITZ-A0X<.'3ITZ,AU0X<.'3ITZ-AZX8-'3IT_^C0H4.'#ATZ"
+"772","M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4-'#ALY"
+"773","M=.C0H4.'#MTX;-BXH4.'#1LV;-BP8<.&;1PZ=.C0H4.';APV;.C0H4.'#ATZ"
+"774","M=.C0H4.'#ATZZ*##CC8H(,..NB@@PXZZ*##CKHH(,..NB@@PXZY'2##CKH"
+"775","MH(,..NB@TPTVZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXYV)##CKHH(,..NB(DPTVW*##C;8"
+"776","M8(,--ME@@PTVXJ##CKHH(,..N)@@_\-.NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"777","MZ(##3KHH(,..NB@@\XYYZ##CKHH(,..NB@0TXWZ*##CKHH(,..MY@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"778","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NA@PPTZZ&##3;8B$,..MA@@PTZ
+MZ*##CKHH#,.-MB @PXZZ*##CKHH(,..NB@@PXZZ*##CC8H(,..NB@@PXZ"
+"779","MZ(S##3KHH(,..NB@@PXZY'2##CKHH(,..NB@(PXVXJ##CKHH(,..NB@@PXZ
+MZ*##CKHH(/_#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"780","M.NB@@PXZZ*##CKHH(,.-MR@@PXVV&#S3CDH(,--MB@@PXZZ*##CKB8(,-
+M..B@@PXZZ*##CKHH(,..NB@@PXZZ(##3KHH(,..NB@@XXXW*##CKHH(,."
+"781","M.NB@0TXWZ*##CKHH(,..N-@,PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"782","M.NALPPTZZ&###3C@E&,..MA@@PU T*%#APX=.G3EN&'CA@X=.G3H_]A0X<.
+M'3ITZ-A0X?.&S9TZ-A0X<.'3IPW-A0X<.'3ITZ-1ZX8.'3ITZ-A0U<."
+"783","M&SATZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.
+M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ+IQ0X<.&SATZ-A0]<-&S9TZ-A0X<.
+M'3IPV+A0X<.'3ITZ-A0X<.'3ITZ-AXX8-'3ITZ-A0X>N&S=TZ-A0X<."
+"784","M'3ITY+JA0X<.'3ITZ-AP]8-'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<."
+"785","M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0_^'#ATZ=.C0H4.'#AVZ;MR@@PXV
+MX*##CKHH-,--MB@@PXZZ*##CKH@(,--NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"786","MZ'##3KHH(,..NB@@TXWW*##CKHH(,..NB@0TXWZ*##CKHH(,..NA@TPTZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"787","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NATPPTZZ& ##CKHH(,..MU@@PTZ"
+"788","MZ*##CKHH(,..-A@@PXZZ*##CKHH(,..NB@@PXZZ*##C?8H(,..NB@@PXZ
+MZ'3##3KHH(,..NC_H(,..N1T@PXZZ*##CKHH(,.-MV@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"789","M.NB@@PXZZ*##CKHH(...-R@@XXVZ*##CKHH(,.-MB0@PXZZ*##CKHD(,-
+M-MV@@PXZZ*##CKHH(,..NB@@PXZZ'##3KHH(,..NB@@PXVW*##CKHH(,."
+"790","M.NB@0PXVZ*##CKHH(,..NAPTPTZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH_Z#
+M#CKHC,,-.NAH@PXZZ*##CKH8(,-.>B@@PXZZ*##CG88-,-.NB@@PXZZ*#"
+"791","M#CKHH(,..NB@@PXWV*##CKHH(,..NA@PPTZZ*##CKHH(,..N1@@PXZZ*#
+M#CKHH(,.-]V@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"792","M#CKHH(,..@!!APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT(GCA@Z=-G3HT*%#"
+"793","MAPX=-FSDT*%#APX=.G3DL&'KA@X=.G3HT*%#APX=.G3HT*%#QPT;.G3HT*%#"
+"794","MAPX=-F[HT*%#APX=.G3HR&%#APX=.G3HT*%#Q_^M&SITZ-A0X<.'3ITZ-A"
+"795","M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A
+M0X<.'3ITV+BA0Q<.'3ITZ-A0\<-&SETZ-A0X<.G3ELV+JA0X<.'3ITZ-A"
+"796","M0X<.'3ITZ-!QPX8.'3ITZ-A0X?-&SITZ-A0X<.'3IRV-A0X<.'3ITZ-!Q
+MZX8.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NATPPTZZ*##CKHH(,..NB @PTY"
+"797","MZ*##CKHH(,..MY@TPW_.NB@@PXZZ*##CKHH(,..NB@@PXWV*##CKHH(,.
+M.NA@ PXZZ*##CKHH(,..N1T@PXZZ*##CKHH(,.-]V@@PXZZ*##CKHH(,."
+"798","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(-.-]R@@PXZZ*##CKHH',..-B0@PXZZ*##CKHH-,-"
+"799","M-MV@@PXZZ*##CKHH(,..NB@@PXZZ'##3KHH(,..NB@@PXVX*##CKHH(,.
+M.NB@0TXWZ*##CKHH(,..NAPTPTZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"800","M_SKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKH8,,-.NB@@PXZZ*##CKHD(,-..B@@PXZZ*##CKG8(,-.>B@@PXZZ*#"
+"801","M#CKHH(,..NB@@PXWW:##CKHH(,..NA@ PXZZ*##CKHH(,..N1@@PXZZ*#
+M#CKHH(,..-V@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"802","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.-MR@@PXZZ*#
+M#CKHH(,..=B @PXZZ*##CKHH(,.-MB0@PXZZ*##O\ZZ*##CKHH(,..NAP"
+"803","MTPTZZ*##CKHH(,.-N@@PXZZ*##CKHH$,.-NB@@PXZZ*##CKH  1<-W3H"
+"804","MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H"
+"805","MT*%#APX=.G3HT*%#APX=.G3HL'%#APX=.G3HT*%#AXX<-G#HT*%#APX=.G3H"
+"806","ML&$CAPX=.G3HT*%#APX=.G3HT*'CU@T=.G3HT*%#APX;.'3HT*%#APX=.G3D"
+"807","ML*%#APX=.G3HT*$#UPT=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H"
+"808","MT*%#APX=.G3HT*%#APX=.G3_Z-A0X<.'3ITZ-A0X<.'3ILW-A0X<.'3IT
+MZ-A(X<-'#ITZ-A0S?.'#IMV,2A0X<.'3ITZ-A0X<.'3ITZ+AM0X<.'3IT"
+"809","MZ-APP8.'3ITZ-A0X<..N)@@PXZZ*##CKHH(..-]V@@PXZZ*##CKHH(,."
+"810","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,.-MR@@PXZZ*##CKHH(,..=B @PXZZ*##CK=D(,."
+"811","M-]B @PXZZ*##CKHH(,..NB@@PXZZ'##3KHH(,..NB@@PXVX*##CKHH(,.
+M.NB@_P,.-NB@@PXZZ*##CKH<-,-.NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"812","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKH8,,-.NB@@PXZZ*##CKHD(,-..B@@PXZZ*#3#3GH<(,-..B@@PXZZ*#
+M#CKHH(,..NB@@PXWV*##CKHH(,..NA@ PXZZ*##CKHH(,..N!@@PXZZ*#"
+"813","M#CKHH(,.-]V@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH/\3#C;?H(,..NB@
+M@PXZZ*#SCG8@(,..NB@@PXZV8#SC?89(,..NB@@PXZZ*##CKHH(,..NAP"
+"814","MTPTZZ*##CKHH(,.-N@@PXZZ*##CKHH,,--NB@@PXZZ*##CKH<-,-.NB@"
+"815","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CK@8 ,..NB@@PXZZ*##CKHH(,-..B@"
+"816","M@PXZZ*##3CH@(,--NB@@PXZZ*##CKHH ,0=.C0H4/'K1LZ=.C0H4.'#ATV"
+"817","M<.C0H4.'#ATZ=.BX84.'#ATZ=.C_T*%#QZT;.G3HT*%#APX=.G3HT*%#APX="
+"818","M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX="
+"819","M.G#8P*%#APX=.G3HT*%#APX;.'3HT*%#APX;.'3@L&%#APX=.G3HT*%#APX="
+"820","M.G3HT''KA@X=.G3HT*%#APT<.G3HT*%#APX=.F[8T*%#APX=.G3HT''KA@X="
+"821","M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX="
+"822","M.G3HT*%#APX=.G3HT*%#A\X;MG#HT*%#APX=.G3HT*'#!@X=.G3HT)G#!@[="
+"823","M.-A@@PXZ_^B@@PXZZ*##CKHH(,..NAPTPTZZ*##CKHH&,.-N&@@PXZZ*#
+M#CKHH-,--NB@@PXZZ*##CKF:.,-.NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"824","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CK<8$,..NB@@PXZZ*##CKHH(,-..B@@PXZZ)##3CHH(,--NB@@PXZZ*#"
+"825","M#CKHH(,..NB@@PXWW:##CKHH(,..N1@0PXZZ*##CKHH(,..N!@@PXZZ*#
+M#CKHH#,.-MV@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..O_HH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*###3;DH(,..NB@
+M@PXZZ*##CK8@(,..NB@@PXYV(##CK88(,..NB@@PXZZ*##CKHH(,..NAP"
+"826","MTPTZZ*##CKHH$,.-N2@@PXZZ*##CKHH ,.-NB@@PXZZ*##CKB8-,-.NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"827","M@PXZZ*##CKHH(,..NB@@PXZZ*##CK<8$,..NB@@PXZZ*##CKHH(,-..B@
+M@PXZZ)##3CHH(,--NB@@PXZZ*##CK_Z*##CKHH(,.-]V@@PXZZ*##CKD
+M8$,..NB@@PXZZ*##CK@8(,..NB@@PXZZ* S#C;=H(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"828","MH(,..NB @PXZZ*##4PD4.'#ATX;.C0H4.'#ATV<.C0H4.'CAPV<.C0@<.&"
+"829","M#ATZ=.C0H4.'#ATZ=.C0H>/6#1TZ=.C0H4-'#ALY=.C0H4.'#ATZ=.XH4.'
+M#ATZ=.C08<,&#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=.C0H4.'_PX=.G3HT*%#APX=.G3HR*%#APX=-FSDT*%#1PX;.G3HT*%#
+MAPT<.G3HT*$CAPT<.G3CL*%#APX=.G3HT*%#APX=.G3HN'5#APX=.G3HT)'#
+M1@X=.G3HT*%#APX=N&[HT*%#APX=.G38L(U#APX=.G3HT*%#APX=.G3HT*%#
+MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HH(,..NB@,XXXZ*#"
+"830","M3CG88%,..NB@(PXVYZ##CKHF(,-..B@@PXZZ(B##3CHH$,.-NB@@PXZZ*#"
+"831","M#CKHH(,..NB@@PXWW:##CKHH(,..N1@0PXZZ*##CKHH(,..MYP@_\..NB@"
+"832","M@PXZZ)2##3;DH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"833","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..MB @PXZZ'2##3;HH(,..N!@"
+"834","M0PXZZ*##CG8@(,..NB@@PXXV(##CKH8(,..NB@@PXZZ*##CKHH(,..NAP
+MTPTZZ*##CKHH$,.-N2@@PXZZ*##CKHH,,--NB@@PXZZ*##CC88(,..NB@"
+"835","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PTXZ*#3C?88(/_#CKHH ,.-N2@@PXZZ)##3CH"
+"836","MH(,..NB @PTXZ*##C;HH(,..NB@@PXZZ*##CKHH(,.-]V@@PXZZ*##CKD
+M8$,..NB@@PXZZ*##CK<8(,..NB@@PXZZ(##3;HH(,..NB@@PXZZ*##CKH"
+"837","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..MB @PXZZ'2##3;HH(,..N!@0PXZZ*##CG8@(,..NB@@PXXV(##CKH
+M8(,..NB@@PXZZ*##CKHH(,..NAPTPTZZ*##CKHH$,.-N2@@PXZZ*##CKH"
+"838","MH,,--NB@@PXZZ*#_PXXV&##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+M $&'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.BP@4.'#ETV;-S0
+MH4.'#ARV<^C0H4-'#ALX=.C0H4,W#ALX=.C082N'#ATZ=.C0H4.'#ATZ=.C0
+M<>N&#ATZ=.C0H2.'C1PZ=.C0H4.'#AVZ;]C0H4.'#ATZ=-JP;4.'#ATZ=.C0
+MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0
+MH4.'#ATZ;.#0H4.'#5LW=.C0H0.'#1TZ=.C0D<,&#ATZ=.C0D<,&#ATZ=/_8
+MR*%#APX=.G3HT*%#APX=.G3<NJ%#APX=.G3HR&$CAPX=.G3HT*%#APX<-G3H
+MT*%#APX=-FS<T*%#APX=.G3HT*&##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"839","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..MB @PXZYV##3CHH(,..N!@
+M@PXZZ*#CCC8A(,..NB@@PXYV(##CKH8#,..NB@@PXZZ*##CKHH(,..NAL"
+"840","MTPTZZ*##CKHH$,.-N2@@PXZZ*##CKHH/,--NB@@PXZZ*!##C;8>(,..NB@"
+"841","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NC_H(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,-..B@0PXVV*##CKHH ,.-NB@@PXZZ'##3GH"
+"842","MH(,..NB0@PTXZ*##C;@H(,..NB@@PXZZ*##CKHH(,.-MV@@PXZZ*##CKD
+M8$,..NB@@PXZZ*##CK<8(,..NB@@PXZV&##3GHH(,..NB@@PXZZ*##CKH"
+"843","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..MB @PXZY&##3KHH(,..N!@@PXZZ*##C?8D(,..NB@@PXYV(##CKH"
+"844","M8 ,..NB@@PXZZ*##CKH_Z##CKH8-,-.NB@@PXZZ*!##C;DH(,..NB@@PXZ"
+"845","MZ*###3;HH(,..NB@@PTVV)##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"846","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,-..B@0PXV
+MV*##CKHH ,.-NB@@PXZZ'##3GHH(,..NB0@PTXZ*##C;@H(,..NB@@PXZ"
+"847","MZ*##CKHH(,.-MV@@PXZZ*##CKD8$,..NB@@PXZZ  $'3ITW+A0X<.'3IT
+MV+!A(X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT
+MZ/_0H4.'#ATZ=.C0H4.'#ATZ=-C H4/G#=LV=.C0H4/7C1LZ=.C0H<N&[1PZ
+M=.C0H3N'#1PZ=.BP=4.'#ATZ=.C0H4.'#ATZ=.BPA4.'#ATZ=.C0A<-&#ATZ
+M=.C0H4.'#ATW;.C0H4.'3APV;-S.H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ
+M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATV<.C0<</&#1TZ
+M=.C0<>N&#ATZ=.BP84.'#ATZ=.C080.'#ATZ;-S0H4.'#ATZ=.C0H4.'#ATZ
+M;.+0H4.'#CKHH ,.-N2@@PXZZ*##CKHH,,--NB@@P[_.NB @PTVW:##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"848","MH(,..NB@@PXZZ*##CKHH(,-..B@PPTVW*##CKHH,---^B@@PXZZ&##3KH
+MH(,..NB@@PTXZ*##C;<H(,..NB@@PXZZ*##CKHH(,.-N.@@PXZZ*##CK@"
+"849","M8$,..NB@@PXZZ*##CK<8(,..NB@@PXXV&#3#3KHH(,..NB@@PXZZ*##CKH"
+"850","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..MB$@PXZV&C#3KHH(,._SK<=(,..NB@(PXVV*##CKHH(,..MB @PXZ
+MZ&##3KHH(,..NB@@PXZZ*##CKH8,..NB@@PXZZ* 3#C;DH(,..NB@@PXZ"
+"851","MZ*###3;HH(,.-MA@@TTVWZ##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"852","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,-.>B@@PTV
+MY*##CKHH,---^B@@PXZXV##3KHH(,..NB@@PTXZ*##C;8H(,..NB@@PXZ"
+"853","MZ*##CKHH(,.-N.@@PXZZ*##CKD8$,..NB@@PXZZ*##CK<8(,..NA@@PTV
+MV'##O\ZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CK8D(,..MA@0\XYZ*##CK<=(,."
+"854","M.NB@(PXVV*##CKHH(,..MB  Q!TZ-!APX8.'3ITZ-A0X<.'3ITZ-!A$X<."
+"855","M'3ITZ-A(X>-'#ITZ-A0X<.'3INV-A0X<-&S9LW-A0X<.'3ITZ-A0X<.
+M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<."
+"856","M'3ILY-AP\;M'#ITZ-AXY8-'3ITZ+YAXX8.'3ITZ-APP;_#ATZ=-RPD4.'
+M#ATZ=.C0H4.'#ATZ=-C&H4.'#ATZ=.C83N'#ATZ=.2Z=>O6+1NV;MVZ8<.&"
+"857","M#5LX=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'"
+"858","M#ATZ=.C0H4.'#ATZ=.C0H4.'#ALY=.BP=4.'#ATZ=.BX84.'#ATZWF#3#3KH"
+"859","MH(,..NB@@PTXZ*#3C?8B(,..NB@@PXZZ*##CKHH(,.-N*@@PXZZ*##CK@
+M8(,..NB@@\XXV&##3;88(,--MA@@PTVV)##CKHH(,..NB@@PXZZ*##CKH"
+"860","MH(,..NB@@PXZZ*##CKHH(,..NB@_X,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"861","MZ*##CK8D(,..MAT@PXZZ*##CK<8(,..NB@TPTVW:##CKHH(,..MB @PXZ
+MZ'2#S3CHH(,..NB@@PXZZ*##CKH8#,..NB@@PXZZ* ##C;HH(,..NB(@PTV"
+"862","MV&##3;88(,--MA@@PTYZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,-.>B<@XTW"
+"863","MZ*##CKHH,---NB@@PXZW&#C#3KHH(,..NB@@PTXZ*#CC?8B(,..NB@@PXZ"
+"864","MZ*##CKHH/^##C;BH(,..NB@@PXZX&##CKHH(...-A@@PTVV&##3;88(,-
+M-MF0@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"865","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CK8D(,..=B,@PXZZ*##CK<=(,.
+M.NB@@PTVXZ##CKHH(,..MB @PXZZ(B#S3CHH(,..NB@@PXZZ*##CKH8#,.
+M.NB@@PXZZ* ##C;HH(,..NAT@PTVV&##3;88(,--MA@PPTZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#_@PXZZ*#"
+"866","M#CKHH(,.0-A0X<.'3ITV,BA(X=-'#ITZ-A0\>M&SITZ-!APR8.'3ITZ-A
+M0X<-'#ITZ,9A$X<.'3ITZ-A0X<.'3ITZ+)0X<.'3ITZ-!PX8.'3ITZ+IA"
+"867","MPX8-&S9LV+!APX8-&S=TZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A"
+"868","M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'39RZ+YA,X<.'3ITZ-!Q
+MZX8.'3ITV+90X<.'3ITZ-!A X<.'3ISVKBA0X<.'3ITZ-A0X<.'3ELX]A"
+"869","M0X<.'3ITX+A0X<.';INV+!APX8-&S9L_]BP8>LV#ATZ=.C0H4.'#ATZ=.C0
+MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.B@@PXZZ*##CKHH(,..NB@@PXZ"
+"870","MZ*##CK8D(,.-]B@@PXZZ*##CK<=(,..NB@@PTVZ*##CKHH(,..MB @PXZ
+MZ*###3;HH(,..NB@@PXZZ*##CKC8,..NB@@PXZZ* ##C;HH(,..NAT@PTV
+MV&##3;88(,--MB @PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"871","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,-.>AP@PTZ
+MZ*##CKHH,---__HH(,..MA@@PXZZ*##CKHH(,-..B@@PXZW&##CKHH(,."
+"872","M.NB@@PXZZ* C#C;CH(,..NB@@PXZX&##CKHH(-.-]A@@PTVV&##3;88(,-"
+"873","M..B@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CK8D(/.-MB@@PXZZ*##CK<=(,."
+"874","M.NB@@PTVZ*##CKHH(,..MA\@PXZZ*###3;GH(,..NB@@PXZZ*##CKC8,.
+M.NB@@PXZZ* ##C;HH(,..NAX@PTVV&##3;99*.--MJ$@PXZZ*##CK_Z*#"
+"875","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##3GH8(,-.NB@@PXZZ*##33?HH(,..MAP@PXZZ*#
+M#CKHH(,--^B@@PXZW&!##CKHH(,..NB@@PXZZ* C#C;CH(,..NB@@PXZX&#"
+"876","M#CKHH(/..-A@@PTVV&#3#3CHH(,..NB@@PXZZ*##CKHH(,..@!!APX=.G3H
+MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.FSD
+MT&'#A@X=.G3HT*'CU@T=.G3HL'%#APX=.G3H_]AP\8-'3ITZ+AA(X<.'3IT"
+"877","MZ-A0X<.';IQV,2A0X<.'3ITZ,!A0X<.'3ITXK!APX8-&[9NX-A0X<.'3IT"
+"878","MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT
+MZ-A0X<.'3ITZ-A0X<.&SETV+A0X<.'3ITZ+AU0X<.'3ILW-A0X<.'3IT
+MZ+!Q0X<.'3INV,BA0X<.'3ITZ-A0X=.'+9QZ-A0X<.'3IPV-A0X<.W3AL"
+"879","MV+!APX:M&SATZ-A@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@_\..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##3GA8(,-"
+"880","M.NB@@PXZZ*##33?HH(-..-B @PXZZ*##CKHH(.--^B@@PXZWF!##CKHH(,.
+M.NB@@PXZZ* S#C;BH(,..NB@@PXZX&##CKHH(-..=V$$TXXW6!##CGHH(,."
+"881","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CK8D,.-MB@@PXZZ*##CK<=(,.
+M.NB(@PTYZ*##CKHH(,..MB @PXZZ* ##C;DH(,..NB@@PXZZ*##CKB8#/_
+M#CKHH(,..NB@ PXVZ*##CKHH ,..NB@ PXVZ*##CKHH(,..NB@@PXZZ*#"
+"882","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##3GB8(,-.NB@@PXZZ*##33?HH(...-B0@PXZZ*#
+M#CKHH(,-..B@@PXZX& S#CKHH(,..NB@@PXZZ* S#C;BH(,..NB@@PXZX&#"
+"883","M#CKHH(,..N@@PXZX&##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"884","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#_PXZZ*##CKHH(,..NB@
+M@PXZV)##3;CH(,..NB@@PXZW'2##CKD8(,-.NB@@PXZZ*##CK8@(,..NB@
+M0PXVX*##CKHH(,..NB@@PXZXF S#CKH  0=.G3HT('#A@X=.G3HT*%#APX="
+"885","M.&SHT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX="
+"886","M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=-G+8L(E#APX=.G3HT''KA@X="
+"887","M.6S8T*%#APX=.G3HT&$#APX=.G3DL(%#APX=.G3HT*%#AP[=.&SBT*%#APX="
+"888","M.G3@L*%#APX=.G3HT*%#!_\.&SITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.
+M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X>-"
+"889","M'#9LX]A0X<.'3ITW+JA0T<.&S9TZ-A0X<.'3ITV,A0X<.'3ELX-A0X<."
+"890","M.NB@@PXZZ* C#C;CH(,..NB@@PXZX&##CKHH(,..NB@@PXZX&##CKHH(,."
+"891","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CK8=(,--N6@@PXZZ*##CK<=(,."
+"892","M.N+_8(,-.NB@@PXZZ*##CK8@(,..NB@8PXVW:##CKHH(,..NB@@PXZX& C"
+"893","M#CKHH(,..NB@XPTVZ*##CKHH(,..NB@ PXVZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"894","M#CKHH(,..NB@@PXZZ*##3;88(,..NB@@PXZZ*##33?HH ,.-MB@@PXZZ*#"
+"895","M#CKHH(,-..B@@PXZZ&###3KHH(,..NB@@PXZZ*#3#3;CH(,..NB@@PXZW&#
+M#CKHH(,..NB@@PXZX&##CKHH(,..NB@@PXZZ*##CKH_Z##CKHH(,..NB@"
+"896","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZV&##3;HH(,..NB@@PXZW'2##CK@8(,-.NB@@PXZZ*##CK8@(,..NB@
+M@PXVW*##CKHH(,..NB@@PXZW6 S#CKHH(,..NB@PPTVZ*##CKHH(,..NB@
+M PXVZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"897","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##3;8<(,..NB@
+M@PXZZ*##33?H= ,0;-BXH4.'#O\=.G3HT*'#!@X=.G3HT&'CA@X=.G3HT*%#
+MAPX=NG'8T*%#APX=.G3HN&%#APX=.G3HT*%#APX<-G3HT*%#APX=.G3HT*%#
+MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#
+MAPX=.G3HT*%#APX;-FS<T*%#APX=.G3HN'5#UPT;-F[HT*%#APX=.G3HL(%#
+MAPX=.G38N*%#APX=.G3HT*%#ATX<-G3HT*%#APX=.F[8T*%#APX=.G3HT*$#
+MAPT=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#
+MAPX=.G3_Z-A0X<.'3ITZ-A0X<.'3ITZ-APX8-&S?HH(,..NB@@PXZW'2#"
+"898","M3C?88,,-.NB@@PXZZ*##CK8@(,..NB@@PXVW*##CKHH(,..NB@@PXZXV#
+M#CKHH(,..NB@PPTVZ*##CKHH(,..NB@ PXVZ*##CKHH(,..NB@@PXZZ*#"
+"899","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##3;8B(,..NB@@PXZZ*##33?H;(,--N@@PXZZ*#"
+"900","M#CKHH(,-..B@@PXZZ&RC#3KHH(,..NB@@PXZZ* C#C;HH(,._SKHH(,..MQL"
+"901","M@PXZZ*##CKHH(,..N!@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"902","M@PXZV&##3KHH(,..NB@@PXZW'2##C;88$,..NB@@PXZZ*##CK8@(,..NB@"
+"903","M@TXWV*##CKHH(,..NB@@PXZXV##CKHH(,..NB@PTTWZ*##CKHH(,..NB@
+M PXVZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"904","M@PXZZ*##CKHH(,..NB@@PXZZ*##O\ZZ*##CKHH(,..NB@@PTVV*##CKH"
+"905","MH(,..NB@PTTWZ&##3;DH(,..NB@@PXZZ*##3CHH(,..NAT@PTZZ*##CKH
+MH(,..NB@(PXVZ*##CKHH(,..MQT@PXZZ*##CKHH(,..N!@@PXZZ*##CKH"
+"906","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##D#0
+MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATV;-C0H4.'#ATZ=.C0<>M&#ALV;.30
+MH4.'#ATZ=.C080.'#ATZ=.BP84.'#ATZ=.C0H4.'#MTX;.C0H4.'#ATZ=-RZ
+MH4.'#ATZ=.C_T*%#!PX;.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H
+MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APV;.'3H
+MT*%#APX=.G3@NI'#AFT<.G3HT*%#APX=.G38P*%#APX=NG'8T*%#APX=.G3H
+MT*%#)PX;.G3HT*%#APX=MV[HT*%#APX=.G3HT('#A@X=.G3HT*%#APX=.G3H
+MT*%#APX=.G3HT*%#APX=.G3HH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##3;CH(,..NB@@PXZZ* #3C?D8(.-..B@_X,..NB@"
+"907","M@PXZZ*##3CHH(,..NB(@PTZZ*##CKHH(,..NB@,PXVZ*##CKHH(,..MQT
+M@PXZZ*##CKHH(,..N!@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"908","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXYV&13#CKHH(,..NB@@PXZWFPC#C;:E(,..NB@@PXZZ*##CK8@(,..NB@"
+"909","M@TXYV)2##CKHH(,..NB@@PXZX&##CKHH(,..NB@PTTWZ*##CKHH(,..NB@"
+"910","M PXVZ*##CKHH(,..NB@@PXZZ*##CKHH/^##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB @PTWZ*##CKH"
+"911","MH(,..NB@PPTVX&###3KHH(,..NB@@PXZZ*##3CHH(,..NB@@\TXZ*##CKH"
+"912","MH(,..NB@TPTVZ*##CKHH(,..MQT@PXZZ*##CKHH(,..N!@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"913","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXXV'##CKHH(,..NB@@PXZW& ##C;<"
+"914","MH(,..NB@@PXZZ*#_@PXZV(##CKHH(,..MB(@PXZZ*##CKHH(,..MY@@PXZ"
+"915","MZ*##CKHH,---^B@@PXZZ*##CKHH ,.-NB@@PXZ $&'#ATZ=.C0H4.'#ATZ"
+"916","M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ"
+"917","M=.C0H4,'#ALW=.C0H4.'#ATZ=.BX80.'C1LZ=.C0H4.'#ATZ=.BP@4.'#ATZ"
+"918","M=.BPC4.'#ATZ=.C0H4.'KALV=.C0H4.'#ATZ;MW0H4.'#ATZ=.C0H0.'#1TZ"
+"919","M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'_PX="
+"920","M.G3HT*%#APX=.G3HT*%#APX=.G3HT('#Q@T=.G3HT*%#APX=NF_8LF$;APX="
+"921","M.G3HT*%#APX=.FS@T*%#APX=.FSBT*%#APX=.G3HT*'KM@T=.G3HT*%#AXY;"
+"922","M-W3HT*&##CKHH(,..N!@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"923","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXXV'##CKHH(,..NB@@PXZX&##3;DH(,..NB@@PXZZ*##CK8@(,..NB@"
+"924","M@PXZV(R##CKHH(,..NB@@PXZW7##CKHH(,..O_HH,---^B@@PXZZ*##CKH"
+"925","MH ,.-NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NAX@PTWZ*##CKH"
+"926","MH(,..NB@ PXVV&!3#CKHH(,..NB@@PXZZ*##3CHH(,..NB@@XTXZ*##CKH"
+"927","MH(,..NB@XXTVZ*##CKHH(,..MMT@PXZZ*##CKHH(,..N!@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"928","MH(,..NB@@PXZZ*##CK_Z*##CKHH(,.-]AP@PXZZ*##CKHH(,..N!@@PTV
+MZ*##CKHH(,..NB@@PXZV(##CKHH(,..MB,@PXZZ*##CKHH(,..MU@@PXZ"
+"929","MZ*##CKHH(---^B@@PXZZ*##CKHH ,.-NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"930","MZ*##CKHH(,..NAP@PTWZ*##CKHH(,..NB@ PXVV&##CKHH(,..NB@@PXZ
+MZ*##3CHH(,..NB@@XTXZ  $'3ITZ-A0X<.73=LZ-A0X<.'3ITV+JA0X<."
+"931","M_QTZ=.C0H4,'#ALZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'"
+"932","M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H>.&C1LZ=.C0H4.'"
+"933","M#ATZ=.P8<.&#ATZ=.C0H4.'#ATZ=-C H4.'#ATZ=-C&H4.'#ATZ=.C0H4/7
+M#1LZ=.C0H4.'#AVV;NC0H4.'#ATZ=.C0@<.&#ATZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=.BX8<NF31LV=.C0H4.'#ATX;-BPA=/6C1PZ=/_HT*%#APXZV(##CKH"
+"934","MH(,..MAX@PXZZ*##CKHH(,..MYL@PXZZ*##CKHH(---^B@@PXZZ*##CKH
+MH ,.-NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"935","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NAP@PTVV&##3KH
+MH(,..NB@ PXVV& ##C;9D(,..NB@@PXZZ*##3CHH(,..NB@@TTWZ*##CKH
+MH(,..NB@TPTWZ*##CKHH(,..MAT@PXZZ*##CKHH(,..N!@@PXZZ*##CKH"
+"936","MH(,..NB@@PXZZ*##CKHH(/_#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"937","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,.-]A@@PTVV*##CKHH(,..N!@@PTV
+MX&3#3GHH(,..NB@@PXZV(##CKHH(,..MAT@PXZZ*##CKHH(,..MUP@PXZ"
+"938","MZ*##CKHH(---^B@@PXZZ*##CKHH ,.-NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"939","MZ*##CKHH(,..NAT@PTVV&##3?HH(,..NB@ PXVV&##3;88,..NB@@PXZ"
+"940","MZ*#_PTXZ*##CKHH(.--NB@@PXZZ*##CKHH-,--^B@@PXZZ*##CK9=(,."
+"941","M.NB@@PXZZ*##CKA8(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"942","M.-A@ Q!LV+!U0X<.'3ITZ,!APX8-&S9LV,2A0X<.'3ITZ+!0X<.'3ITZ+)"
+"943","M0X<.'3ITZ-A0X>N&S=TZ-A0X<.'3INW=A0X<.'3ITZ-A(X<-'3ITZ-A
+M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ/_0H4.'#ATZ=.C0"
+"944","MH4.'#ATZ=.C0H4.'#ATZ=.C0@<.&#1LV;-W0H4.'#ATZ<-BP8<.&#1NV<>C0"
+"945","MH4.'#ATZ;.#0H4.'#ATZ;./0H4.'#ATZ=.C0H>O&#1TZ=.C0H4.'CELW=.C0"
+"946","MH4.'#ATZ=.C(84.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0"
+"947","MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZZ*##CKHH(,..NB @PTVV&#33;>"
+"948","MH(,..NB@ PXVV&##3;88*--..B@@PXZZ)##3CHH(,..NB@@XTXZ*##CKH
+MH(,..NB@TPTWZ*##CKHH(,..MG_=(,..NB@@PXZZ*##CKD8(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"949","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..-A@@PTVV&###3KHH(,..N!@@PTV"
+"950","MV&##3;8@(,..NB@@PXYV(##CKHH(,..MB,@PXZZ*##CKHH(,..MUP@PXZ
+MZ*##CKHH(---^B@@PXZZ*##CKHH$,.-NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"951","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKH_Z##CKH@(,--MA@@PTVW*##CKHH ,.-MA@@PTVV&##3CHH(,.
+M.NB0@PTXZ*##CKHH(.-..B@@PXZZ*##CKHH-,--^B@@PXZZ*##CK8=(,."
+"952","M.NB@@PXZZ*##CKD8(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(-."
+"953","M.-A@@PTVV&S33GHH(,..N!@@PTVV&##3;8>&,..NB@@PXYV(##CKHH(,.
+M.MB,@PXZZ*##CKHH(,..MUP@PXZZ*##CKHH(---^B@@PXZZ/^@@PXZZ*!#
+M#C;HH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.0-A0X<.'3IT"
+"954","MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A(X<-&S9LV+!AZX8.'3IT"
+"955","MX+!APX8-&S9LV+)0X<.'3IRV,A0X<.'3ITV,2A0X<.'3ITZ-A0]>-&SIT
+MZ-A0X<.';9NZ-A0X<.'3ITZ-1PX8.'3ITZ-A0X<.'3ITZ-A0X<.'3IT"
+"956","MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT
+MZ,AAPX8-&S9LV+JA0X<.'3ALV+!APX;_#1LV;./0H4.'CAPV<.C0H4.'#AVV
+M<>C0H4.'#ATZ=.C0=>.&#ATZ=.C0H4.'K1LZ=.C0H4.'#ATZ=.2PH4.'#ATZ
+M=.C0H4.'#ATZ=.B@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..=B$ PXVV&#33;HH(,..N!@$PXW"
+"957","MVX##3;88*,-.NB@@\XYV(##CKHH(,..MB(@PXZZ*##CKHH(,..MUP@PXZ
+MZ*##CKHH(---^B@@PXZZ*##CKHH$,.-NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"958","MZ*##CKHH(,._SKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHD(,-.>-@@PTVV&##CKHH ,.-N1TP\TXV&##3;8H(,."
+"959","M.NB@@PTXZ*##CKHH(/-..B@@PXZZ*##CKHH-,--^B@@PXZZ*##CK8=(,.
+M.NB@@PXZZ*##CKD8(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"960","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.=B0(PXVV&##3;HH(,..N!@0TXWW(B##3;88(,-.NB@@PXZV(##O\ZZ*#"
+"961","M#CK8B(,..NB@@PXZZ*##CK=<(,..NB@@PXZZ*#33?HH(,..NB@@PXZZ*!#"
+"962","M#C;HH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHE(,-.>1P@PTVV&!C
+M#CKHH ,.-N6 \PTYW&R##3;8E(,..NB<@PTXZ*##CKHF(/-..B@@PXZZ*#
+M#CKHH-/--NB@@PXZZ*##CK8?(,..@!!APX=.G3HT*$CAPT=.G3HT*%#APX="
+"963","M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#AP[_'3ITZ-A0X<.'3ITZ-A0X<."
+"964","M'3ITZ-A0X<.'3ITZ-APT8.'3INV+!A X<.'3IPV-A0X<.'3ELV+!Q0X<.
+M'3ELX-A0X<.W3ALXMA0X<.'3ITZ-AZX8-'3ITZ-A0X<.VSATZ-A0X<."
+"965","M'3ITZ,AA0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<."
+"966","M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ+10X>.&S9LV,A0X<.
+M'#9TZ-A0T<.&S9LW-A0T<.&SATZ-A0R<.VSATZ-A0X<.'3ITZ+IA@PXZ
+MZ*##CKHH(.-..B@_X,..NB@@PXZZ*!##C;HH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"967","M.NB@@PXZZ*##CKHE(,-.>B@@PTVV&#3#3KHH+,--NB@@PXZZ(R##3;89$,.
+M.NB0@PTXZ*##CKHC(.-..B@@PXZZ*##CKHH),--NB@@PXZZ*##CK8;(,."
+"968","M.NB@@PXZZ*##CKD8(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH/^#"
+"969","M#CG8D(,..NB@@PTVW*##CKD8(,..NB@@PXZZ&##3;CH(,..=B @PXZZ*#
+MCCC8H(,..NB@@PXZZ*##CKB8(,..NB@@PXZZ*#33?HH(,..NB@@PXZZ*!#
+M#C;HH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"970","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHD(,-.>B@@PXZV&##"
+"971","M#3KHH$,.-NB@@PXZZ*##C;88#,..NB0@PTXZ*##CKHC(,-.NB@@PXZZ*#
+M#CKHH#,.-NB@@PXZZ*##CK8=(,..NB@@PXZZ*#_@PXZY&##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"972","M@PXZZ*##CKHH(,..NB@@PXZZ*#3CG8D(,..NB@DPTVVZ##CKD8',..NB@
+M@PXZZ&B##3;@  0=.G+8PJ%#APX=.G'8T*%#APX=.G3HT*%#)PX;.G3HT*%#
+M9PX=MF[HT*%#APX=.G3HT)'#A@X=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#
+MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT&$C
+MAPX=.G3@L&%#APX=.6SD_]A0X<.'3IRV+!A0X>.'#9RZ-A0X>N&S9TZ-A"
+"973","M0X<.'3ITZ--PX8.'3ITZ-!M0X>M&SITZ-A0X<.'3ITY+A0X<.'3ITZ-A"
+"974","M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A
+M0X<.'3ITZ-A0X<.'3ITV,BA0X<.'3ALV-A0T<.-N2@@PXZZ*##CG88(,-"
+"975","M.NB0@PTYZ*##CKH=(,-.NB@@PXZZ*##CKHH,.-NB@@PXZZ*C#3K8=(,."
+"976","M.NB@@PXZZ*##CKD8(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.O_HH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"977","M#CK8D(,..NB@ PXVV*##CKD8$,..NB@@PXZZ)##3;8H(,..=B0@PXZZ*#
+M3C?8H(,..NB@@PXZZ*##CKC8(,..NB@@PXZVZ#33?HH(,..NB@@PXZZ*!#
+M#C;HH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"978","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,-.>B@@PXZY7#
+M33CHH$,.-N2@@PXZZ*#CCG<8(--.>B0@TTXZ*##CK_Z&BC#3KHH(,..NB@
+M@PXZZ* C#C;EH(,..N1THPTZV&B##CKHH(,..NB@@PXZY&##CKHH(,..NB@"
+"979","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CK8D(,..NB@@TXWV'2##CKD8$,..NB@
+M@PXZZ*#3#3;8D(,..=B @PXZZ*##C;<H(,..NB@@PXZZ*##CKC8,..NB@"
+"980","M,PXVV*##3;HH(,..NB@@PXZZ*!##C;HH(,..NB@@PXZZ*##CKHH(,..NB@"
+"981","M@PXZZ*##CKHH(,..NB@@PXZ_^B@@PXZZ*##CKHH(,..NB@@PXZZ* #$'3H"
+"982","MT*%#APX=.G3HT*'#-@X=.G3HT'G#Q@T=.G+8R*%#APX=.G3HOF'#-@X=.6S@"
+"983","MT*%#A^X<-F[HT*%#APX=.G3HT*$;ARW<N7/EPF'#=@X;MG/HT*%#APX=.G3H"
+"984","MR&%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H"
+"985","MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HL(%#APX=.G3CL&%#AXX<-G+H"
+"986","MT*%#APX=.G38L'%#1PX;.73HT*$CAPT<.G3HT*%#APX=.G3HQ&'#!FX<-FS8"
+"987","ML(G#AO^-'#ITZ-A0X<.'3IRV-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT"
+"988","MZ-A0X<.'3ITZ-A0X<.'3KHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"989","M#CK8@(,..NB@<\XXV&##CKD8$,..NB@@PXZZ*##C;8<(,..=B0@PXZZ*!#"
+"990","M#C;@H(,..NB@@PXZZ*##CKC8(,-..)@@PTVV(R##3;DH(,..NB@@PXZZ*!#
+M#C;HH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"991","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(/_#3CHH(,..NB,"
+"992","M@PTVZ*!##C;DH(,..NB@@PXZZ&##3?HD(,-.>B@@PXZY& ##CKHH(,..NB@
+M@PXZZ* C#C;8@#,.-MA@@\TXV&!##CKHH(,..NB@@PXZY&##CKHH(,..NB@"
+"993","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CK8@(,..NB@@XXYVF##CKD8$,..NB@"
+"994","M@PXZZ*#SC?8:(,..=B0@PXZZ* 3#C;@H(,..NB@@PXZZ*##CKF8(/--MQ@"
+"995","M@PTVV(RC#3;<>%-..>B@@PXZZ*!#_PXVZ*##CKHH(,..NB@@PXZZ*##CKH"
+"996","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##3CHH(,..NB@PPTVZ*!##C;DH(,..NB@@PXZZ)##3;H
+MD(,-.>B@@PXZX& ##CKHH(,..NB@@PXZZ*##C;88(,--MA@@XTXW&##3;B
+MD(,..NB@@PXZY&##CKHH(,..NB@@PXZZ*##D#0H4.'#ATZ=.C0H4.'#ATZ
+M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C080.'#ATZ
+M=.C0<<.&#O\=.6SDT*%#APX=.G3HR&'#AHX<-G+HT*%#!PX;.'3HT*%#APX=
+M.G3HT*'#A@T;-FS8L&$;QPT;-FSCR*%#APX=.G3DL*%#APX=.G3HT*%#APX=
+M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=
+M.G3HT*%#APX=.G38P*%#APX=.G3<L(U#1PX;.73HT*%#APX=.G+8L(DCAXT<
+M.G3HT&'#!@X=.G3HT*%#APX=.G3HL&'#A@T;-FS8Q''#A@T;-FS8L&U#APX=
+M.6SHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NC_H(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##3CHH(,..NB@"
+"997","M PXVY*!##C;DH(,..NB@@PXZZ*#3#3;CD(,-.>B@@PXZV&!##CKHH(,..NB@"
+"998","M@PXZZ*##C;88(,--MA@@\TXW&##3;88(,--MR@@PXZY&##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"999","M@PXZZ*##CKHH(,..NB@@PXZZ*##CK8@(,..NB@@PXZX&!##CKD8$,..NB@"
+"1000","M@PXZZ*##CK=8,..=B0@PXZZ*##3;D_Z##CKHH(,..NB@@PXZZ&##3;8
+M8(,--MB(PPTVV&##3;88,,-.NB@0PXVZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1001","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##3CHH(,..NB@(PXVY*!##C;AH(,..NB@@PXZZ* ##C;C"
+"1002","MD(,-.>B@@PXYV&!C#CKHH(,..N*@@PXZZ*#CC;88(,--MA@@XTYWF##3;8"
+"1003","M8(,--MI\4PXZY&##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ/^@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MV(##CKHH(,..N1@0PXZY& ##CKHH(,..NB@@PXZXV S#CG8D(,..NB,@PTV"
+"1004","MZ*##CKHH-,-.NB@@PXZ $''#1LV;-BP8<.&#APV;-BP8<.&#1LV<NC(84.'
+M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.BP@4.'#ATZ=.C(82.'CAPV<.C0H4.'
+M#ATZ=.C$81-'#ALY=.C0C<.&#1TZ=.C0H>N&#ATZ=.C0<<.&#1LV;-C_L*$#
+MAPT;-FS8L&'#AHT<.G+8T*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#
+MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.FS@T*%#
+MAPX=.G+8R*$CAPT<.G3HT*%#APX=NG'8QI'#1@X=.G3BL&&##CKHH(,..MV@
+M@PXZZ*##C?88(,--MAD@PTZX&##3;88(,--MA@,PXZY&##CKHH(,..NB@"
+"1005","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CK8@(,._SKHH(,..N1@0PXZZ& ##CKH
+MH(,..NB@@PXZZ&#3#3G8@(,..NAT@TTWZ*##CKHD(,-.NB@@PXZZ(##3;8
+M8-,-.NB@0PXVV&##3;88(,--N@0PXVZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1006","MH(,..NB@@PXZZ*##3CHH(,..NB@0PXVY*##C;@H(,..NB@@PXZZ*##C;=
+MD(,-..B@@XXWV'2##CKHH(,..=B@@PXZZ*##CC88(,--MV@@PXZY&##3;8
+M8(,--MA@ PXZY&##O\ZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1007","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MV(##CKHH(,..N1@0PXZYF ##CKHH(,..NB@@PXZZ&#3#3G8@(,..NAH@PTX"
+"1008","MZ*##CKHD(.-.>B@@PXZZ) ##C;>@#,..NB@8\XVV&##3;88(,--N@0PXV
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1009","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##3CHH(,..NB@0P[_
+M-N0 !!TY;.#0H4.'#ATZ=.C0H</6C1PV<.C0H<.&31PZ=.C0H2.'C1PZ=.C0
+MH4.'#ILX=.C0H4.'KALV;-BP8<.&#1LX=.2PH4.'#ATZ=.C0H4.'#ATZ=.C0
+MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0
+MH4.'#ATZ=-C H4.'#ATZ=.2PD4-'#ALX=.C0H4.'#ATZ=.BP=2.'#1PZ=.BP
+M81N'#ATZ=.C(82.'#ATZ=.C0H<,V#ATZ=.C0H>N&#1LV;-BP8<,&#ATY;.C0
+MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'_PX=.G3HT*%#APX=.G3H
+MT*%#APX=.G3HT*%#APX=.G3HT*%#APXZV(##CKHH(,..N1@0PXZY& ##CKH"
+"1010","MH(,..NB@@PXZZ&#3#3G8@(,..NA@@XTXZ*##CKHD(,-.>B@@PXZZ*##C;B"
+"1011","MH(,..NB@@TXWV&##3;88(,--N@0PXVZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1012","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##3?HH(,..NB@0PXVY*##C;@H(,..NB@@PXZZ*##C?="
+"1013","MD(,-..B@@PXVW*##CKHH/^##CC8D(,..NB@@PXZZ*##CKHH(,..NB@@PXV"
+"1014","MV&###3;88 ,..N1@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1015","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MV'##CKHH(,..N1@0PXZZ& ##CKHH(,..NB@@PXZZ'#3#3G8@(,..NA@PPTZ"
+"1016","MZ*##CKH@(,-.>B@@PXZZ*##CKHH(,..NB@@PXZZ&##3;<8(,--N@0PXV"
+"1017","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*#_@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PTWZ*##CKHH,.
+M-N2@@PXVX*##CKHH(,..NB@@XXVWI##3CHH(,.-MJ@@PXZZ*##CC8D(,."
+"1018","M.NB@@PXZZ*##CKHH(,..NB@@PXVV&C#3;88 ,..N1@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@ Q!TZ-A0X<.'3IT"
+"1019","MZ-A0X<.'3ITZ-A0X<.'3ITZ+IQ0X<.'3ITZ,!A(X<.'39PZ-A0X<.'3IT
+MZ-!AZT8.&SATZ-!A X<.'3ITZ-!PT8.'3ITZ-A0X<._QTZ=.C0H4.'#ATZ
+M=.C0H2.'#1PZ<MC0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ
+M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#AVZ;MS0H4.'#ATZ
+M<-C(H4.'#1PZ=.C0H4.'#ATZ=-BZD<,&#ATZ=-C H4.'#ATZ=.PD4.'#ATZ"
+"1020","M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C(80.'CAPV=.C0H4.'#ATZ=.C0H4.'#ATZ"
+"1021","M=.C0H4.'#ATZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*#3#3?HH(,..O_HH ,.-N2@@PXVX*##CKHH(,..NB@@PXV"
+"1022","MW9##3CHH(,.-N@@PXZZ*##CC8D(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1023","MZ*##CKD8 ,..N1@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1024","MW7##CKHH(,..MQ@@PXZY& ##CKHH(,..NB@@PXZZ&#3#3G8@(,..N-@0PXZ
+MZ*##CKH@(,-.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(-.-^2@0PXV"
+"1025","MZ*##CK_Z*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1026","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@TPTWZ*##CKHH,,-
+M-NB@0PXVX*##CKHH(,..NB@@PXVW9##3CHH,.-N2@@PXZZ*##CC8H(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH=$,..N1@@PXZZ*##CKHH(,."
+"1027","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZW7##CKHH(,..MQ@@PXZ_^1@ PXZZ*#"
+"1028","M#CKHH(,..NA@TPTYV(##CKC8$,..NB@@PXZYX##3KHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*#3C?DH$,.0+A0X<.'3ITZ-A0X<.'3ITZ-A0X<.
+M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<."
+"1029","M'3ITW;BA0X<.'3ITW+A0V<.&SATZ-A0X<.'3ITY+!U(X<-'#ITWK50X<.
+M'3ITZ,1A,X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A$U<.'3ELZ-A0X<.
+M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ/_0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=.C0H4.'#ATZ=.C0H4.'#ETW;NC0H4.'#ATW;.C0H<,&#ATZ=.C0H4.'
+M#ETW;-[(80.'#ATV;.C0H4.'#ATZ<MC(H4.'#ATZ=.C0H4.'#ATZ=.B@@PXZ
+MZ*##CKHH(,..N1@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1030","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MW7##CKHH(,..MQ@@PXZZ& ##CKHH(,..NB@@PXZW6#3#3G8@(,..MA@@PXZ"
+"1031","MZ*##CKHD(/_#3GHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH$,.
+M-NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1032","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@TPTWZ*##CKHH(--
+M-^B@@PXVX*##CKHH(,..NB@@PTVXI##3CH@(,--NB@@PXZZ*##CG8D(,."
+"1033","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..N1@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#_PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..MUP@PXZZ*##CK8=(,..NA@ PXZZ*#"
+"1034","M#CKHH(,..MA@,PXYV(##CC88(,..NB@@PXZZ)##3GHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH$,.-NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1035","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@TPTWZ*##CKHH(---^B@@PXVX*##CKHH(,..NB@@PTVXI#"
+"1036","M#3CH@(,--@!!APX=.G3HT)'#1@X=.G3HT/^A0X<.'3ITZ-A0X<.'3ITZ-A"
+"1037","M0X<.'3IRV-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A
+M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.';INW-A0X<.G3ELW=A"
+"1038","M0X<-'#ITZ-A0X<.G3ELV,J1PP;.7#=LV-A0X<.'3ITY+10X<.'3ITZ-A"
+"1039","M0X<.'3ITZ-A0X<.'3ITZ-A0X>.'#9TZ-A0X<.'3ITZ-A0X<.'3ITZ-A
+M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A"
+"1040","M0X>N&S=TZ-A0R?_#ILW=.C080.'#ATZ=.C0H8,..=A@@PXYV( C#C;8@(,.
+M.NB@@PXZZ)##3GHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH$,."
+"1041","M-NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@TPTWZ*##CKHC(--"
+"1042","M-^B@@PXVX*##CKHH(,..NB0@PTVZ)##3CC8(,-..B@@PXZZ*##CG8D(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..N1@@PXZZ*##CKH_Z#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1043","M#CKHH(,..NB@@PXZZ*##CKHH(,..MUD@PXZZ*##C;89(,..NA@PPTZZ*#
+M#CKHH(..-MA@@\XXV( C#C;8?(,..NB@@PXZZ(##3GHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH$,.-NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1044","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@TPTVZ*##CKH8(.-..B@@PXVW/^@@PXZZ*##CKH8(,--^B@
+M@PTXXV#3#3KHH(,..NB@@PXXV)##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKD8(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1045","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH  0=.G3=
+ML*%#APX=.FS8QJ%#APX;-W3HT*%#APX=.FS8N*%#APW<.&S=T*%#APX=.G3H
+MP&$CAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.6SHT*%#APX=.G3H
+MT*%#APX=.G3HT*%#AP[_'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT"
+"1046","MZ-A0X<.'3ITZ-A0X<.7;=LZ-A0W<.&S9RZ-AP]8-'3ITZ-A0U<.&[9N
+MY\IA^_8-6S=TZ-A0X<.'3IPV,BA0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT"
+"1047","MZ-A0T<.&SITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT
+MZ-A0X<.'3ITZ-A0X<..NB@@PXZZ*##CKHH(,..NB@TPTWZ*##CKD8(,-
+M.NB@@PXVX*##CKHH(,..MU@@PTXY(##3?88-,-.NB@@PXZZ*##CC8D(,."
+"1048","M_SKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKD8(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1049","M#CKHH(,..NB@@PXZZ*##CKHH(,..MUP@PXZZ*!##C;8H(,..NA@ PXZZ*#"
+"1050","M#CKHH-,--MB 0PXXV'##3;=H(,..NB@@PXZZ(##3GHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH$,.-NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1051","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##O\ZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH-,--^B@@PXZY&##3KHH(,.-N@@PXZZ*##CK=8(,-..2
+M@PTWV&#3#3KHH(,..NB@@PXXV)##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKD8(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1052","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHE/,-.MUP
+M@PXZZ*#3#3;>H(,..NA@ PXZZ*##CKHD),--MB8 PXXV'#S3;FH(,..NB@
+M@PXZZ(##3GHH(,..NB@@P[_.NB@@PXZZ*##CKHH(,..NB@@PXZZ*!##CCH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ* #$'3HT*%#APX=.G3HT*%#APX="
+"1053","M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#1ZX;NF[<T*%#AXX;-G#HT*%#APT<"
+"1054","M.G3HT*%#1PX;-FSHP('#Q@T;-W3HT*%#APX=.G3@L)%#APX=.G3HT*%#APX="
+"1055","M.G3HT*%#APX=.G3HT*%#AXZ<.'3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX="
+"1056","M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT(GKA@Y<"
+"1057","M-W3H_]9VX8M'#ITZ-!A X<.'3ITZ-%PX9-&SIOW[!MP]8-'3ITZ-A0X<.
+M73ALY-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A*T<.'3ITZ-A0X<."
+"1058","M'3KHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKH<-,-.NB @PXZZ(B##3;DH(,..NA@ PXZZ*#
+M#CKH8(,--MV@@PTWV&##3CHH(,..NB@@PXZZ)##3GHH(,..NB@@PXZZ*#"
+"1059","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH/^##CKHH(,..NB@"
+"1060","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##C?=H(,...B@@\XXV&!##CKHH(,.-N@@PXZZ*##C;88-,-.MAP"
+"1061","M@PTVV(##CKHH(,..NB@@PXYV)##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1062","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH<-,-.NB
+M@PXZZ(B##3;DH(,..NA@ PXZZ*#_@PXZZ&##3;=H(,--]A@@PTXZ*##CKH
+MH(,..NB0@PTYZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1063","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#3C;=H(...>B@4\XVV&!S#CKH
+MH(,.-N@@PXZZ*###3;8;%,..MAD@PTVW)B##CKHH(,..NB@@PXYV)##CKH
+MH(,..NB@@PXZZ*##D#0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'"
+"1064","M#ATZ=.C0_Z%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#"
+"1065","MAPX=.G3HT*'#U@T=.G3HT)'#A@T;.G3HT*'#!@X=.G3HT&'#AHT;.G38L&'#"
+"1066","MU@T=.G3HT*%#APX=.G+8R*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#"
+"1067","MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#"
+"1068","MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3GL'5#APX=.G3BL&'#A@X=.G3HL'U#"
+"1069","MAPX=.G+8L&'3A@X=-FS8L'5#APX=.G3HT*%#AXX<-G+HH(,..O_HH(,..NB@"
+"1070","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1071","M@PXZZ* C#C;HH(,..NB@PPTVV(R##CKHH(,.-MR@@PXZZ&##3;8D(,..MA@
+M@PTVZ*##CKHH(,..NB@@PXYV)##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1072","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CK_Z*##CKHH(,..NB@@PXZXV##CKH
+MH(,..MQ@@XTXZ*##CKH8,,-.NB@@PXVV&##3GHH(,--MA@@PXZZ*##CKH"
+"1073","MH(,..NB0@PTYZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1074","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ* C#C;HH(,..NB@PPTVV(R##CKH
+MH(,.-MR@@PXZZ&##3;8D(,..MA@@PTVZ*##CKHH(,..NB@@PXYV)##CKH"
+"1075","MH(,..NB@@PXZ_^B@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1076","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZWVR##CKHH(,..MA@LXTYZ*##CKH8/,-.NB@PPTV
+M ,&&;=PY=.BP8<,&#ATZ=.C0H4.'#ATZ=.2PD4.'#ATZ=.C0H4.'#ATZ=.C0
+MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0
+MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.BZ<4.'#O\=.G3H
+ML&'CA@X=.G3HT&$#APX=.FS8L&%#APX=.FS8L)%#APX=.G3HT*%#APX=.6SD
+MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H
+MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H
+MT*%#APX=NF[<T*%#APX=.FS8N*&##CKHH(,.-N@@PXZV&##3;HH(,..MA@
+M@PTYZ*##CKHH(,..NB@@PXYV)##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1077","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(/_#CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZW6QC#CKH
+MH'-..=A@TPTZZ*##CKH8!,..NB4@PTVV&2##CKHH(---MN0@PXZZ*##CKH
+MH(,..NB0@\TXZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1078","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#C#3;=H(,..N)@@PTVY*##CKH
+MH(,.-N2@@PXVV&#_PTXZ*##CK8<(,..NB@@PXZZ*##CKHH(,..=B @PXZ"
+"1079","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1080","MZ*##CKHH(,..NB@@PXZW6#3#3KHH#,.-MA@0PXZZ*##CKH8$,..NA@@PTV"
+"1081","MV(##CKHH(,--^B@@PXZZ*##CKHH(,..NB0@PTXZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@_\."
+"1082","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..N@ !!TZ=.C0H4.'#ATZ"
+"1083","M=.C0=<.FK9NW;MRP8?MF#ATZ=./(H?MFSELW;-BP<2N'#ATZ=.+(H4.'#ATZ"
+"1084","M=.C0H4.'#ATZ<MC H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ"
+"1085","M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ"
+"1086","M=.C0H4.'#ATZ=.C0H4.'#ATZ=-VP8<.&#1LV;-C$H4.'#ATX<>C&H<.&#1LV"
+"1087","M;-W0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'CAPV<.C_T*%#APX=.G3HT*%#APX="
+"1088","M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX="
+"1089","M.G3HT*%#APXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZW6##3;8
+M8(,--MB,@PXZZ* #SCCHC(,.-MA@@PTVW:##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB0@PTXZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1090","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKH_Z##CKHH(,..NB@XPTVV&##3;88(/-..B@@\XY"
+"1091","MWXASCCCF8(,--MAHXPTZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..=B @PXZ"
+"1092","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1093","MZ*##CKHH(,..NB@@PXZXF##3;88(,--MB@@PXZZ'2#33?D=(,--MA@@PTY"
+"1094","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB0@PTYZ*##CKHH(,..NB@@PXZ
+MZ/^@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1095","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@,PXVV&##3;88(,-.NB@@TXWV'1#3C?88(,--MB0@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..=B0@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1096","M.NB@@PXZZ*##CKHH(,..NB@ Q!TZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<."
+"1097","M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ,#_8<.&#1LV;-BPH4.'
+M#ATV;-RR8<.&#1LV;.+0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATY;.'0H4.'
+M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=-RP8<.&#1NV<>C0H4.'#1LV;-BP8<.&#1PZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=.C0H4-'#ALX=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZZ*##CKH"
+"1098","MH(,..NB@@PXZZ*##CKHH(,._SKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1099","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXWV&##3;88,..NB@@PXV"
+"1100","MV&##3;88(,--N@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..=B @PXZ"
+"1101","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1102","MZ*##CKHH(,..NB@@PXZZ'23#3;88(---N.@@PXZYV##3;88(,--MAD$PXZ"
+"1103","MZ*##O\ZZ*##CKHH(,..NB@@PXZZ*##CKHD(,-..B@@PXZZ*##CKHH(,."
+"1104","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1105","M.NB@@PXZXG##3;8H(,..NB@0PXVV&##3;88(,-.NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..=B0@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1106","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@P[_.NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@,PXWV&#"
+"1107","M#3KHH(,..N1@@PTVV&##3;8H(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHD(,-0,BA0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A
+M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A"
+"1108","M0X<.'3ITZ-A0X<.'3ITZ-)XX8-&[9SZ-A0T<.&S9LV+!APX8-'3ITZ-A"
+"1109","M0X<.'3ITZ-A0X<.'3ITZ-A0X>._QPV<NC0H4.'#ATZ=.C0H4.'#ATZ=.C0"
+"1110","MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0"
+"1111","MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.7&A0L7#ATZ=.C0"
+"1112","MD<.&#1LV;-KA4.'#ATZ=.C0H4.'#ATZ=.B@@PXZZ*##CKHH(,..=B0@PXZ"
+"1113","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1114","MZ*##CKHH/^##CKHH(,..NB@@PXZZ*##CKHH(,..N1@@PTVV&###3KHH(,."
+"1115","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHD(,-.>B@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1116","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@0PXVV&##3;<H(,..NB@@PXZZ*##CKHH(,."
+"1117","M.NB@@PXZZ*##CKHH(,..=B0@PXZZ*##CKHH(,..NB@@PXZZ*#_@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1118","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..N1@@PTVW*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1119","M#CKHD(,-.>B@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1120","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@_X,..NB@@PXZZ*##CH 08>.'#9L"
+"1121","MV+BA0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ELY-A0X<.'3IT"
+"1122","MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT
+MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT"
+"1123","MZ-A0X<.'3ITZ-A(X<-&S9NZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT
+MZ-A0T<.&SETZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT"
+"1124","MZ-A0X<.'3ITZ/_0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ
+M=.C0H4.'#ATZ=.C0H8,..NB@@PXZZ*##CKHH(,..N9@ PXXXJ##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHD(,-.>B@@PXZZ*##CKHH(,."
+"1125","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1126","M.NB@@PXZZ*##CKHH(,..NB@@PXVZ*##CKHH(,..NB@@PXZZ*##CK_Z*#"
+"1127","M#CKHH(,..NB@@PXZZ*##CG8D(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1128","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NA@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1129","M#CKHD(,-.>B@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ_^B@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1130","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CG8D(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1131","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKH  0=.G3HT*%#APX=.G3HT*%#APX="
+"1132","M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX="
+"1133","M.G3HT*%#APX=.G3HT/^A0X>.'#9RZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.
+M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<."
+"1134","M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.
+M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A(X>-'#ITZ-A0X<."
+"1135","M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(/_"
+"1136","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CG8D(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1137","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1138","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHD(,-.>B@@PXZZ*##CKHH(,..NB@@PXZZ*#_PXZZ*##CKHH(,..NB@"
+"1139","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1140","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CG8D(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1141","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@_\..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1142","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ)##3GHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ* #$'3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#
+MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#
+MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#
+M1PX;.73HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#
+MAP[_'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A"
+"1143","M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A
+M0X<.'3ITZ-A0X<.'3ITZ-1PT8.'3ITZ-A0X<.'3KHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1144","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH_Z##CKHH(,..NB@"
+"1145","M@PXZZ(B##3GHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1146","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1147","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CC8D(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1148","M@PXZZ*##CKHH(,..NB@@PXZZ/^@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1149","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ(##3GHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1150","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##D#0"
+"1151","MH4.'#AW_.G3HT*%#APX<-G+HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H"
+"1152","MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H"
+"1153","MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H"
+"1154","MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*$#APT<.G3HT*%#APX=.G3H"
+"1155","MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H"
+"1156","MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H_]A0X<.'3IT
+MZ-A0X<.'3ITZ-A0X<.'3ITZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ(##3CHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1157","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1158","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#CC?8@(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##O\ZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1159","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ'##3CHH(,..NB@@PXZZ*##CKH"
+"1160","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1161","MH(,..NB@@P[_.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1162","MZ*##CKHH(,..NB@@PXWV(##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1163","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ $&'#ATZ=.C0H4.'#ATZ"
+"1164","M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4/'#1LX"
+"1165","M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0_Z%#APX="
+"1166","M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX="
+"1167","M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX="
+"1168","M.G3HT*%#APX=.G3HT'W#-@X=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX="
+"1169","M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX="
+"1170","M.G3HT*&##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1171","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH/^##CKHH(,..NB@@PXXV)##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1172","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1173","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ(##3GHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1174","MH(,..NB@@PXZZ*#_@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1175","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@XXXV)2##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1176","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@_X,."
+"1177","M.NB@@PTZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..N@ !!TZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'"
+"1178","M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'"
+"1179","M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#1TZ=.C0H4.'#ATZ=.C0H4.'"
+"1180","M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'"
+"1181","M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#O\=.G3HT*%#APX=.G3HT*%#"
+"1182","MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT)5#"
+"1183","MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1184","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1185","MH(,..NB@@PXZZ*##CK_Z*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1186","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1187","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1188","M_^B@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1189","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1190","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@ Q!TZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'?\Z=.C0H4.'#ATZ=.C0"
+"1191","MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0"
+"1192","MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0"
+"1193","MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0"
+"1194","MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0"
+"1195","MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0"
+"1196","MH4.'#ATZ=.C0H4.'#ATZ=.C_T*%#APX=.NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1197","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1198","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1199","MZ*#_PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1200","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1201","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1202","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@_\..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1203","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.0-A0X<.'3IT"
+"1204","MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT
+MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT"
+"1205","MZ-A0X<.'3ITZ-A0X<.'3ITZ-#_H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ"
+"1206","M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ"
+"1207","M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ"
+"1208","M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ"
+"1209","M=.C0H4.'#ATZ=.B@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1210","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKH_Z##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1211","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1212","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ/^@@PXZZ*#"
+"1213","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1214","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1215","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NC_H(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CH 08<.'3ITZ-A0X<.'3ITZ-A0X<.
+M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<."
+"1216","M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.
+M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<."
+"1217","M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.
+M'3ITZ-A0X<._QTZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'"
+"1218","M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H8,."
+"1219","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1220","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##O\ZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1221","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1222","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1223","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@P[_.NB@@PXZZ*##CKHH(,..NB@"
+"1224","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1225","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1226","M@PXZZ*##CKH  0=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#
+MAPX=.G3HT*%#APX=_SITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A
+M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A"
+"1227","M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A
+M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A"
+"1228","M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A
+M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<..NB@@PXZZ*##CKHH/^#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1229","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1230","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1231","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#_@PXZZ*##CKHH(,..NB@"
+"1232","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1233","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1234","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@_X,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1235","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ* #$'3H
+MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H
+MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H
+MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H
+MT/^A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT
+MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT"
+"1236","MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT
+MZ-A0X<.'3ITZ-A0X<.'3KHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1237","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CK_Z*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1238","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1239","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1240","M@PXZZ*##CKHH(,..NB@@PXZ_^B@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1241","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1242","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1243","MH(,..O_HH(,..NB@@PXZZ*##CKHH(,..NB@@PY T*%#APX=.G3HT*%#APX=
+M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=
+M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=
+M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=
+M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=
+M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#AP[_'3ITZ-A0X<."
+"1244","M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.
+M'3ITZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1245","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1246","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*#_PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1247","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1248","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1249","MH(,..NB@@_\..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1250","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1251","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZ $&'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'"
+"1252","M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#AW_.G3HT*%#"
+"1253","MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#"
+"1254","MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#"
+"1255","MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#"
+"1256","MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#"
+"1257","MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*&##CKHH(,..NB@"
+"1258","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKH_Z##CKHH(,..NB@@PXZZ*##CKH"
+"1259","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1260","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1261","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ/^@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1262","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1263","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NC_H(,."
+"1264","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1265","M.N@ !!TZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0"
+"1266","MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0"
+"1267","MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0"
+"1268","MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0_Z%#APX=.G3HT*%#APX=.G3H"
+"1269","MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H"
+"1270","MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H"
+"1271","MT*%#APX=.G3HT*%#APX=.G3HT*%#APXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1272","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1273","MH(,..NB@@PXZZ*##O\ZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1274","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1275","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@P[_"
+"1276","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1277","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1278","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,._SKHH ,0=.C0H4.'#ATZ
+M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ
+M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ
+M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ
+M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ
+M=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ
+M=.C0H4.'#ATZ=.C0H4.'#O\=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=
+M.G3HT*%#APX=.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1279","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1280","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*#_@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1281","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1282","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1283","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@_X,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1284","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1285","M#CKHH(,..NB@@PXZZ*##CKHH(,.0-A0X<.'3ITZ-A0X<.'3ITZ-A0X<."
+"1286","M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.
+M'3ITZ-A0X<.'3ITZ-A0X<.'?\Z=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.B@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1287","MZ*##CK_Z*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1288","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1289","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1290","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ_^B@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1291","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1292","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1293","M#CKHH(,..NB@@PXZZ*##CKHH(,..O_HH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1294","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CH 08<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A"
+"1295","M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A
+M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A"
+"1296","M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A
+M0X<.'3ITZ-#_H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0
+MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0
+MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H8,..NB@@PXZZ*##CKHH(,."
+"1297","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,.
+M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,."
+"1298","M.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#_PXZZ*#"
+"1299","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1300","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1301","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@_\..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1302","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1303","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH  0=.G3H"
+"1304","MT*%#APX=.G3HT*'_0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT
+MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT"
+"1305","MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT
+MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT"
+"1306","MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3IT
+MZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<._QTZ"
+"1307","M=.C0H4.'#ATZ=.C0H4.'#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1308","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1309","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#
+M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1310","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ/^@@PXZZ*##CKHH(,..NB@"
+"1311","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1312","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1313","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NC_H(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1314","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1315","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ* #$'3HT*%#APX=.G3HT*%#APX=
+M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=
+M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=
+M_SITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<."
+"1316","M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.
+M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<."
+"1317","M'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.
+M'3KHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*#"
+"1318","M#CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##O\ZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1319","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1320","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1321","M@PXZZ*##CKHH(,..NB@@P[_.NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1322","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1323","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1324","MH(,._SKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1325","MZ*##CKHH(,..NB@@PY T*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#
+MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#
+MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#
+MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#
+MAPX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT/^A0X<.'3ITZ-A"
+"1326","M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A
+M0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ-A0X<.'3ITZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1327","M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@
+M@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@"
+"1328","M@PXZZ*##CKHH(,..NB@@PXZZ*#_@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1329","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1330","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1331","MH(,..NB@_X,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1332","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1333","MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ
+MZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZ"
+"1334","M $&'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H?]#APX=.G3H"
+"1335","MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H"
+"1336","MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H"
+"1337","MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H"
+"1338","MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H"
+"1339","MT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3H"
+"1340","MT*%#APX=.G3HT*%#APX=.G3HT*&##CKSZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1341","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1342","MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH
+MH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKH"
+"1343","LH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ*##CKHH(,..NB@@PXZZ 0$ #L!"
+"1344","end"
+"1345","</TEXT>"
+"1346","</DOCUMENT>"
+"1347","</SEC-DOCUMENT>"

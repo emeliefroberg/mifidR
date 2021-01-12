@@ -1,0 +1,862 @@
+"","V1"
+"1","<SEC-DOCUMENT>0000910671-14-000012.txt : 20140226"
+"2","<SEC-HEADER>0000910671-14-000012.hdr.sgml : 20140226"
+"3","<ACCEPTANCE-DATETIME>20140226134853"
+"4","ACCESSION NUMBER:		0000910671-14-000012"
+"5","CONFORMED SUBMISSION TYPE:	NSAR-B"
+"6","PUBLIC DOCUMENT COUNT:		6"
+"7","CONFORMED PERIOD OF REPORT:	20131231"
+"8","FILED AS OF DATE:		20140226"
+"9","DATE AS OF CHANGE:		20140226"
+"10","EFFECTIVENESS DATE:		20140226"
+"11","FILER:"
+"12","	COMPANY DATA:	"
+"13","		COMPANY CONFORMED NAME:			T. Rowe Price New Horizons Fund, Inc."
+"14","		CENTRAL INDEX KEY:			0000080248"
+"15","		IRS NUMBER:				520791372"
+"16","		STATE OF INCORPORATION:			MD"
+"17","		FISCAL YEAR END:			1231"
+"18","	FILING VALUES:"
+"19","		FORM TYPE:		NSAR-B"
+"20","		SEC ACT:		1940 Act"
+"21","		SEC FILE NUMBER:	811-00958"
+"22","		FILM NUMBER:		14643866"
+"23","	BUSINESS ADDRESS:	"
+"24","		STREET 1:		100 EAST PRATT STREET"
+"25","		CITY:			BALTIMORE"
+"26","		STATE:			MD"
+"27","		ZIP:			21202"
+"28","		BUSINESS PHONE:		410-345-2000"
+"29","	MAIL ADDRESS:	"
+"30","		STREET 1:		100 EAST PRATT STREET"
+"31","		CITY:			BALTIMORE"
+"32","		STATE:			MD"
+"33","		ZIP:			21202"
+"34","	FORMER COMPANY:	"
+"35","		FORMER CONFORMED NAME:	PRICE T ROWE NEW HORIZONS FUND INC"
+"36","		DATE OF NAME CHANGE:	19920703"
+"37","<SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"38","<EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"39","<SERIES>"
+"40","<OWNER-CIK>0000080248"
+"41","<SERIES-ID>S000002106"
+"42","<SERIES-NAME>T. Rowe Price New Horizons Fund, Inc."
+"43","<CLASS-CONTRACT>"
+"44","<CLASS-CONTRACT-ID>C000005478"
+"45","<CLASS-CONTRACT-NAME>T. Rowe Price New Horizons Fund, Inc."
+"46","<CLASS-CONTRACT-TICKER-SYMBOL>PRNHX"
+"47","</CLASS-CONTRACT>"
+"48","</SERIES>"
+"49","</EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"50","</SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"51","</SEC-HEADER>"
+"52","<DOCUMENT>"
+"53","<TYPE>NSAR-B"
+"54","<SEQUENCE>1"
+"55","<FILENAME>ans_nhf.fil"
+"56","<DESCRIPTION>ANSWER FILE~ NEW HORIZONS FUND"
+"57","<TEXT>"
+"58","<PAGE>      PAGE  1"
+"59","000 B000000 12/31/2013"
+"60","000 C000000 0000080248"
+"61","000 D000000 N"
+"62","000 E000000 NF"
+"63","000 F000000 Y"
+"64","000 G000000 N"
+"65","000 H000000 N"
+"66","000 I000000 6.1"
+"67","000 J000000 A"
+"68","001 A000000 T. ROWE PRICE NEW HORIZONS FUND, INC."
+"69","001 B000000 811-958"
+"70","001 C000000 4103452000"
+"71","002 A000000 100 EAST PRATT STREET"
+"72","002 B000000 BALTIMORE"
+"73","002 C000000 MD"
+"74","002 D010000 21202"
+"75","003  000000 N"
+"76","004  000000 N"
+"77","005  000000 N"
+"78","006  000000 N"
+"79","007 A000000 N"
+"80","007 B000000  0"
+"81","007 C010100  1"
+"82","008 A000001 T. ROWE PRICE ASSOCIATES, INC."
+"83","008 B000001 A"
+"84","008 C000001 801-856"
+"85","008 D010001 BALTIMORE"
+"86","008 D020001 MD"
+"87","008 D030001 21202"
+"88","011 A000001 T. ROWE PRICE INVESTMENT SERVICES, INC."
+"89","011 B000001 8-25130"
+"90","011 C010001 BALTIMORE"
+"91","011 C020001 MD"
+"92","011 C030001 21202"
+"93","012 A000001 T. ROWE PRICE SERVICES, INC."
+"94","012 B000001 84-1079"
+"95","012 C010001 BALTIMORE"
+"96","012 C020001 MD"
+"97","012 C030001 21202"
+"98","012 A000002 T. ROWE PRICE RETIREMENT PLAN SERVICES, INC."
+"99","012 B000002 84-1917"
+"100","012 C010002 BALTIMORE"
+"101","012 C020002 MD"
+"102","012 C030002 21202"
+"103","013 A000001 PRICEWATERHOUSECOOPERS LLP"
+"104","013 B010001 BALTIMORE"
+"105","013 B020001 MD"
+"106","013 B030001 21201"
+"107","014 A000001 T. ROWE PRICE INVESTMENT SERVICES, INC."
+"108","014 B000001 8-25130"
+"109","015 A000001 STATE STREET BANK AND TRUST COMPANY"
+"110","<PAGE>      PAGE  2"
+"111","015 B000001 C"
+"112","015 C010001 BOSTON"
+"113","015 C020001 MA"
+"114","015 C030001 02110"
+"115","015 E010001 X"
+"116","015 A000002 JPMORGAN  CHASE BANK"
+"117","015 B000002 C"
+"118","015 C010002 LONDON"
+"119","015 D010002 ENGLAND"
+"120","015 D020002 EC2P 2HD"
+"121","015 E040002 X"
+"122","018  000000 Y"
+"123","019 A000000 Y"
+"124","019 B000000  157"
+"125","019 C000000 TROWEPRICE"
+"126","020 A000001 DAIN RAUSCHER INC"
+"127","020 B000001 41-1416330"
+"128","020 C000001    921"
+"129","020 A000002 MORGAN STANLEY & CO INC."
+"130","020 B000002 13-2655998"
+"131","020 C000002    667"
+"132","020 A000003 ALLEN & CO."
+"133","020 B000003 13-6176976"
+"134","020 C000003    606"
+"135","020 A000004 GOLDMAN SACHS"
+"136","020 B000004 13-5108880"
+"137","020 C000004    539"
+"138","020 A000005 BANK OF AMERICA MERRILL LYNCH"
+"139","020 B000005 13-5674085"
+"140","020 C000005    531"
+"141","020 A000006 JPMORGAN CHASE"
+"142","020 B000006 13-4994650"
+"143","020 C000006    528"
+"144","020 A000007 DEUTSCHE BANK SECURITIES"
+"145","020 B000007 13-2730828"
+"146","020 C000007    404"
+"147","020 A000008 CS FIRST BOSTON CORP."
+"148","020 B000008 13-5659485"
+"149","020 C000008    373"
+"150","020 A000009 BAIRD, ROBERT W."
+"151","020 B000009 39-6037917"
+"152","020 C000009    318"
+"153","020 A000010 STIFEL NICOLAUS"
+"154","020 B000010 43-0538770"
+"155","020 C000010    225"
+"156","021  000000     7672"
+"157","022 A000001 MORGAN STANLEY & CO INC."
+"158","022 B000001 13-2655998"
+"159","022 C000001     91276"
+"160","022 D000001         0"
+"161","022 A000002 GOLDMAN SACHS"
+"162","<PAGE>      PAGE  3"
+"163","022 B000002 13-5108880"
+"164","022 C000002     89784"
+"165","022 D000002         0"
+"166","022 A000003 BANK OF AMERICA MERRILL LYNCH"
+"167","022 B000003 13-5674085"
+"168","022 C000003     79600"
+"169","022 D000003         0"
+"170","022 A000004 CS FIRST BOSTON CORP."
+"171","022 B000004 13-5659485"
+"172","022 C000004     66851"
+"173","022 D000004         0"
+"174","022 A000005 JPMORGAN CHASE"
+"175","022 B000005 13-4994650"
+"176","022 C000005     66433"
+"177","022 D000005         0"
+"178","022 A000006 BARCLAYS CAPITAL"
+"179","022 B000006 13-3551367"
+"180","022 C000006     55369"
+"181","022 D000006         0"
+"182","022 A000007 CITIGROUP GLOBAL MARKETS, INC."
+"183","022 B000007 11-2418191"
+"184","022 C000007     50558"
+"185","022 D000007         0"
+"186","022 A000008 DEUTSCHE BANK SECURITIES"
+"187","022 B000008 13-2730828"
+"188","022 C000008     36439"
+"189","022 D000008         0"
+"190","022 A000009 JEFFRIES & COMPANY"
+"191","022 B000009 95-2622900"
+"192","022 C000009     26038"
+"193","022 D000009         0"
+"194","022 A000010 WELLS FARGO VAN KASPER"
+"195","022 B000010 94-2498482"
+"196","022 C000010     19889"
+"197","022 D000010         0"
+"198","023 C000000     752934"
+"199","023 D000000          0"
+"200","024  000000 N"
+"201","026 A000000 N"
+"202","026 B000000 Y"
+"203","026 C000000 N"
+"204","026 D000000 Y"
+"205","026 E000000 Y"
+"206","026 F000000 N"
+"207","026 G010000 N"
+"208","026 G020000 Y"
+"209","026 H000000 Y"
+"210","027  000000 Y"
+"211","028 A010000    349227"
+"212","028 A020000         0"
+"213","028 A030000         0"
+"214","<PAGE>      PAGE  4"
+"215","028 A040000    246225"
+"216","028 B010000    437294"
+"217","028 B020000         0"
+"218","028 B030000         0"
+"219","028 B040000    306497"
+"220","028 C010000    292333"
+"221","028 C020000         0"
+"222","028 C030000         0"
+"223","028 C040000    166747"
+"224","028 D010000    409936"
+"225","028 D020000         0"
+"226","028 D030000         0"
+"227","028 D040000    205250"
+"228","028 E010000    317271"
+"229","028 E020000         0"
+"230","028 E030000         0"
+"231","028 E040000    138393"
+"232","028 F010000    412656"
+"233","028 F020000    924458"
+"234","028 F030000         0"
+"235","028 F040000    503627"
+"236","028 G010000   2218717"
+"237","028 G020000    924458"
+"238","028 G030000         0"
+"239","028 G040000   1566739"
+"240","028 H000000         0"
+"241","029  000000 N"
+"242","030 A000000      0"
+"243","030 B000000  0.00"
+"244","030 C000000  0.00"
+"245","031 A000000      0"
+"246","031 B000000      0"
+"247","032  000000      0"
+"248","033  000000      0"
+"249","034  000000 N"
+"250","035  000000      0"
+"251","036 B000000      0"
+"252","037  000000 N"
+"253","038  000000      0"
+"254","039  000000 Y"
+"255","040  000000 N"
+"256","042 A000000   0"
+"257","042 B000000   0"
+"258","042 C000000   0"
+"259","042 D000000   0"
+"260","042 E000000   0"
+"261","042 F000000   0"
+"262","042 G000000   0"
+"263","042 H000000   0"
+"264","043  000000      0"
+"265","044  000000      0"
+"266","<PAGE>      PAGE  5"
+"267","045  000000 Y"
+"268","046  000000 N"
+"269","047  000000 N"
+"270","048  000000  0.000"
+"271","048 A010000        0"
+"272","048 A020000 0.000"
+"273","048 B010000        0"
+"274","048 B020000 0.000"
+"275","048 C010000        0"
+"276","048 C020000 0.000"
+"277","048 D010000        0"
+"278","048 D020000 0.000"
+"279","048 E010000        0"
+"280","048 E020000 0.000"
+"281","048 F010000        0"
+"282","048 F020000 0.000"
+"283","048 G010000        0"
+"284","048 G020000 0.000"
+"285","048 H010000        0"
+"286","048 H020000 0.000"
+"287","048 I010000        0"
+"288","048 I020000 0.000"
+"289","048 J010000        0"
+"290","048 J020000 0.000"
+"291","048 K010000        0"
+"292","048 K020000 0.000"
+"293","049  000000 N"
+"294","050  000000 N"
+"295","051  000000 N"
+"296","052  000000 Y"
+"297","053 A000000 N"
+"298","054 A000000 N"
+"299","054 B000000 N"
+"300","054 C000000 N"
+"301","054 D000000 N"
+"302","054 E000000 N"
+"303","054 F000000 N"
+"304","054 G000000 N"
+"305","054 H000000 N"
+"306","054 I000000 N"
+"307","054 J000000 N"
+"308","054 K000000 N"
+"309","054 L000000 N"
+"310","054 M000000 N"
+"311","054 N000000 N"
+"312","054 O000000 N"
+"313","055 A000000 N"
+"314","055 B000000 N"
+"315","056  000000 Y"
+"316","057  000000 N"
+"317","058 A000000 N"
+"318","<PAGE>      PAGE  6"
+"319","059  000000 Y"
+"320","060 A000000 Y"
+"321","060 B000000 Y"
+"322","061  000000     1000"
+"323","062 A000000 N"
+"324","062 B000000   0.0"
+"325","062 C000000   0.0"
+"326","062 D000000   0.0"
+"327","062 E000000   0.0"
+"328","062 F000000   0.0"
+"329","062 G000000   0.0"
+"330","062 H000000   0.0"
+"331","062 I000000   0.0"
+"332","062 J000000   0.0"
+"333","062 K000000   0.0"
+"334","062 L000000   0.0"
+"335","062 M000000   0.0"
+"336","062 N000000   0.0"
+"337","062 O000000   0.0"
+"338","062 P000000   0.0"
+"339","062 Q000000   0.0"
+"340","062 R000000   0.0"
+"341","063 A000000   0"
+"342","063 B000000  0.0"
+"343","066 A000000 Y"
+"344","066 B000000 N"
+"345","066 C000000 Y"
+"346","066 D000000 N"
+"347","066 E000000 N"
+"348","066 F000000 N"
+"349","066 G000000 N"
+"350","067  000000 N"
+"351","068 A000000 N"
+"352","068 B000000 N"
+"353","069  000000 N"
+"354","070 A010000 Y"
+"355","070 A020000 N"
+"356","070 B010000 Y"
+"357","070 B020000 N"
+"358","070 C010000 Y"
+"359","070 C020000 N"
+"360","070 D010000 Y"
+"361","070 D020000 N"
+"362","070 E010000 N"
+"363","070 E020000 N"
+"364","070 F010000 Y"
+"365","070 F020000 Y"
+"366","070 G010000 Y"
+"367","070 G020000 N"
+"368","070 H010000 Y"
+"369","070 H020000 N"
+"370","<PAGE>      PAGE  7"
+"371","070 I010000 Y"
+"372","070 I020000 N"
+"373","070 J010000 Y"
+"374","070 J020000 Y"
+"375","070 K010000 Y"
+"376","070 K020000 Y"
+"377","070 L010000 Y"
+"378","070 L020000 Y"
+"379","070 M010000 Y"
+"380","070 M020000 Y"
+"381","070 N010000 Y"
+"382","070 N020000 Y"
+"383","070 O010000 Y"
+"384","070 O020000 N"
+"385","070 P010000 Y"
+"386","070 P020000 Y"
+"387","070 Q010000 N"
+"388","070 Q020000 N"
+"389","070 R010000 N"
+"390","070 R020000 N"
+"391","071 A000000   4943383"
+"392","071 B000000   4265872"
+"393","071 C000000  12101511"
+"394","071 D000000   35"
+"395","072 A000000 12"
+"396","072 B000000     3682"
+"397","072 C000000    44830"
+"398","072 D000000        0"
+"399","072 E000000      449"
+"400","072 F000000    82332"
+"401","072 G000000        0"
+"402","072 H000000        0"
+"403","072 I000000    17436"
+"404","072 J000000      251"
+"405","072 K000000      140"
+"406","072 L000000      200"
+"407","072 M000000       61"
+"408","072 N000000      369"
+"409","072 O000000        0"
+"410","072 P000000        0"
+"411","072 Q000000      139"
+"412","072 R000000       36"
+"413","072 S000000       83"
+"414","072 T000000        0"
+"415","072 U000000        0"
+"416","072 V000000      245"
+"417","072 W000000      278"
+"418","072 X000000   101570"
+"419","072 Y000000        1"
+"420","072 Z000000   -52608"
+"421","072AA000000  1366169"
+"422","<PAGE>      PAGE  8"
+"423","072BB000000        0"
+"424","072CC010000  3700564"
+"425","072CC020000        0"
+"426","072DD010000        0"
+"427","072DD020000        0"
+"428","072EE000000   977188"
+"429","073 A010000   0.0000"
+"430","073 A020000   0.0000"
+"431","073 B000000   3.0600"
+"432","073 C000000   0.0000"
+"433","074 A000000        0"
+"434","074 B000000        0"
+"435","074 C000000   693764"
+"436","074 D000000    67755"
+"437","074 E000000   188982"
+"438","074 F000000 14883076"
+"439","074 G000000        0"
+"440","074 H000000        0"
+"441","074 I000000        0"
+"442","074 J000000   143206"
+"443","074 K000000        0"
+"444","074 L000000    78692"
+"445","074 M000000      288"
+"446","074 N000000 16055763"
+"447","074 O000000   120880"
+"448","074 P000000     9166"
+"449","074 Q000000        0"
+"450","074 R010000        0"
+"451","074 R020000        0"
+"452","074 R030000        0"
+"453","074 R040000    82046"
+"454","074 S000000        0"
+"455","074 T000000 15843671"
+"456","074 U010000   342400"
+"457","074 U020000        0"
+"458","074 V010000    46.27"
+"459","074 V020000     0.00"
+"460","074 W000000   0.0000"
+"461","074 X000000   136244"
+"462","074 Y000000    18750"
+"463","075 A000000        0"
+"464","075 B000000 12770468"
+"465","076  000000     0.00"
+"466","077 A000000 Y"
+"467","077 B000000 Y"
+"468","077 D000000 Y"
+"469","077 Q010000 Y"
+"470","077 Q020000 N"
+"471","077 Q030000 N"
+"472","078  000000 N"
+"473","080 A000000 ICI Mutual Insurance Company"
+"474","<PAGE>      PAGE  9"
+"475","080 C000000   130000"
+"476","081 A000000 Y"
+"477","081 B000000 374"
+"478","082 A000000 N"
+"479","082 B000000        0"
+"480","083 A000000 N"
+"481","083 B000000        0"
+"482","084 A000000 N"
+"483","084 B000000        0"
+"484","085 A000000 Y"
+"485","085 B000000 N"
+"486","086 A010000      0"
+"487","086 A020000      0"
+"488","086 B010000      0"
+"489","086 B020000      0"
+"490","086 C010000      0"
+"491","086 C020000      0"
+"492","086 D010000      0"
+"493","086 D020000      0"
+"494","086 E010000      0"
+"495","086 E020000      0"
+"496","086 F010000      0"
+"497","086 F020000      0"
+"498","SIGNATURE   GREGORY K. HINKLE"
+"499","TITLE       TREASURER"
+"500","</TEXT>"
+"501","</DOCUMENT>"
+"502","<DOCUMENT>"
+"503","<TYPE>EX-99.77B ACCT LTTR"
+"504","<SEQUENCE>2"
+"505","<FILENAME>newhorizonsfund123113.htm"
+"506","<DESCRIPTION>ACCOUNTING LETTER~ NEW HORIZONS FUND"
+"507","<TEXT>"
+"508","<HTML>"
+"509","<HEAD>"
+"510","   <TITLE>newhorizonsfund123113.htm - Generated by SEC Publisher for SEC Filing</TITLE>"
+"511","</HEAD>"
+"512","<BODY bgcolor=#ffffff>"
+"513","<!--$$/page=-->"
+"514","<A name=page_1></A><BR>"
+"515","<a name=_bclPageBorder1></a><DIV STYLE=WIDTH: 100%; PADDING-RIGHT: 0%; PADDING-LEFT: 0%>"
+"516","<IMG src=newhorizonsfund123113x1x1.jpg border=0>"
+"517","<BR>"
+"518","<P style=text-align: center;>"
+"519","<B><FONT size=2 face=Georgia-Bold,Times New Roman,Times,serif>Report of Independent Registered Public Accounting Firm</FONT></B></P>"
+"520","<P style=text-align: left;>"
+"521","<FONT size=2 face=Georgia,Times New Roman,Times,serif>To the Board of Directors and Shareholders of T. Rowe Price New Horizons Fund, Inc.</FONT></P>"
+"522","<P style=text-align: left;>"
+"523","<FONT size=2 face=Georgia,Times New Roman,Times,serif>In planning and performing our audit of the financial statements of T. Rowe Price New Horizons Fund, Inc. (the Company) as of and for the year ended December 31, 2013, in accordance with the standards of the Public Company Accounting Oversight Board (United States), we considered the Company&#146;s internal control over financial reporting, including controls over safeguarding securities, as a basis for designing our auditing procedures for the purpose of expressing our opinion on the financial statements and to comply with the requirements of Form N-SAR, but not for the purpose of expressing an opinion on the effectiveness of the Company&#146;s internal control over financial reporting. Accordingly, we do not express an opinion on the effectiveness of the Company's internal control over financial reporting.</FONT></P>"
+"524","<P style=text-align: left;>"
+"525","<FONT size=2 face=Georgia,Times New Roman,Times,serif>The management of the Company is responsible for establishing and maintaining effective internal control over financial reporting. In fulfilling this responsibility, estimates and judgments by management are required to assess the expected benefits and related costs of controls. A company&#146;s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of a company&#146;s assets that could have a material effect on the financial statements.</FONT></P>"
+"526","<P style=text-align: left;>"
+"527","<FONT size=2 face=Georgia,Times New Roman,Times,serif>Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.</FONT></P>"
+"528","<P style=text-align: left;>"
+"529","<FONT size=2 face=Georgia,Times New Roman,Times,serif>A deficiency in internal control over financial reporting exists when the design or operation of a control does not allow management or employees, in the normal course of performing their assigned functions, to prevent or detect misstatements on a timely basis. A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the Company's annual or interim financial statements will not be prevented or detected on a timely basis.</FONT></P>"
+"530","<P style=text-align: center;>"
+"531","<I><FONT size=2 face=Georgia-Italic,Times New Roman,Times,serif>PricewaterhouseCoopers LLP, 100 East Pratt Street, Suite 1900, Baltimore, MD 21202-1096</FONT></I></P>"
+"532","<TABLE border=0 cellspacing=0>"
+"533","<TR>"
+"534","	<TD nowrap valign=top width=2%>"
+"535","<I><FONT size=2 face=Georgia-Italic,Times New Roman,Times,serif>T:</FONT></I>&nbsp; &nbsp; &nbsp; 	</TD>"
+"536","	<TD width=98%>"
+"537","<I><FONT size=2 face=Georgia-Italic,Times New Roman,Times,serif>(410) 783 7600, F: (410) 783 7680, www.pwc.com/us</FONT></I>	</TD>"
+"538","</TR>"
+"539","</TABLE>"
+"540","</DIV>"
+"541","<HR noshade align=center width=100% size=2><DIV STYLE=page-break-before: always>&nbsp;</div>"
+"542","<!--$$/page=-->"
+"543","<A name=page_2></A><BR>"
+"544","<a name=_bclPageBorder2></a><DIV STYLE=WIDTH: 100%; PADDING-RIGHT: 0%; PADDING-LEFT: 0%>"
+"545","<IMG src=newhorizonsfund123113x2x1.jpg border=0>"
+"546","<BR>"
+"547","<P style=text-align: left;>"
+"548","<FONT size=2 face=Georgia,Times New Roman,Times,serif>Our consideration of the Company&#146;s internal control over financial reporting was for the limited purpose described in the first paragraph and would not necessarily disclose all deficiencies in internal control over financial reporting that might be material weaknesses under standards established by the Public Company Accounting Oversight Board (United States). However, we noted no deficiencies in the Company&#146;s internal control over financial reporting and its operation, including controls over safeguarding securities, that we consider to be material weaknesses as defined above as of December 31, 2013.</FONT></P>"
+"549","<P style=text-align: left;>"
+"550","<FONT size=2 face=Georgia,Times New Roman,Times,serif>This report is intended solely for the information and use of management and the Board of Directors of T. Rowe Price New Horizons Fund, Inc. and the Securities and Exchange Commission and is not intended to be and should not be used by anyone other than these specified parties.</FONT></P>"
+"551","<IMG src=newhorizonsfund123113x2x2.jpg border=0>"
+"552","<BR>"
+"553","<P style=text-align: left;>"
+"554","<FONT size=2 face=ArialMT,Arial,Helvetica,sans-serif>Page 2 of 2</FONT></P>"
+"555","</DIV>"
+"556","</BODY>"
+"557","</HTML>"
+"558","</TEXT>"
+"559","</DOCUMENT>"
+"560","<DOCUMENT>"
+"561","<TYPE>GRAPHIC"
+"562","<SEQUENCE>3"
+"563","<FILENAME>newhorizonsfund123113x1x1.jpg"
+"564","<DESCRIPTION>GRAPHIC"
+"565","<TEXT>"
+"566","begin 644 newhorizonsfund123113x1x1.jpg"
+"567","M_]C_X``02D9)1@`!`0'_____``#_[@`.061O8F4`9``````!_]L`0P`0PP.
+M#`H0#@T.$A$0$Q@H&A@6%A@Q(R4=*#HS/3PY,S@W0$A<3D!$5T4W.%!M45=?
+M8F=H9SY-<7EP9'A<96=C_]L`0P$1$A(8%1@O&AHO8T(X0F-C8V-C8V-C8V-C
+M8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C_\``$0@`
+M?P3`P$B``(1`0,1`?_$`!\```$%`0$!`0$!```````````!`@,$!08'`D*
+M__$`+40``(!`P,!`,%!00$```!?0$`P`$$042(3%!!A-180<B<10R@9&A"
+"568","M-L<$54M'P)#-B<H()A87&!D:)28G*DJ-#4V-S@Y.D-$149'2$E*4U15
+M5E=865IC9&5F9VAI:G-T=79W>'EZ@X2%AH>(B8J2DY25EI>8F9JBHZ2EIJ>H
+MJ:JRL[2UMK>XN;KP\3%QL?(R<K2T]35UM?8V=KAXN/DY>;GZ.GJ\?+S]/7V"
+"569","M]_CY^O_$`!\!``,!`0$!`0$!`0$````````!`@,$!08'`D*__$`+41``(!"
+"570","M`@0$`P0'!00$``$=P`!`@,1!`4A,08205$'87$3(C*!!1D:&QP0DC,U+P
+M%6)RT0H6)#3A)?$7&!D:)B<H*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E
+M9F=H:6IS='5V=WAY>H*#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6V
+MM[BYNL+#Q,7&Q\C)RM+3U-76U]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_:``P#
+M`0`$0,1`#\`]`HHHH`****`BBB@`HHHH`****`BBB@`HHHH`****`BBB
+M@`HHHH`****`BBB@`HHHH`****`BBB@`HJKJ%RUI;>:H7.X#YJS/[=D](O
+MU_QK&I7A3=I&L*,IJZ-VBL)=<D+`8BY]C_C6U'*DJ[D.1G'2G3JQJ?*=.4-"
+"571","MQ]%%%:F84444`%%%%`!1110`4444`%%%%`!1110`4444`97B)MNEL>OSBN3\"
+"572","M_P#V?UKJO$YVZ0Q/]]:XSS5]#7FXM>^O0]3!)>S?J6TGQ(IV]QWKI++462$@"
+"573","M1C[WK7*IRRGW%;MI_JC]:X_:SIZQ9K7A&2U-ZSNC<EP5[<=*M5FZ5]Z3ZM"
+"574","M*O6PTY3I*4MSR:B49-(****Z`HHHH`****`BBB@`HHHH`****`BL3Q%<:
+MM`;?^RXW<-N\S;'NQTQ_6L7^T/%7_/7_OP/\*S=1)VL;PH.<>9-&SXP)&@R"
+"575","M$'!WK_.O/_,?^\?SKKK(:OJMRMIK,$GV-@2V8]G(Z<CWK3_X1/2/^>#_`/?P"
+"576","MUE.#J.Z.JE5CAUR2U]#A4ED^7YV_.M&ZG'$K]?6NK'A;2A_P`L7_[^&I!X"
+"577","M<TU1@1/_`-]FL7A9/L;/&TGT9SUE>W*E]L\@Z?Q5V<))@C).25&?RJ@F@V9
+MVHXS_MFM%5J%'0#`KKI0Y(*)PXBKHTXH=1116AS!1110`4444`%%%>?>-]
+M2\0Z9<+_`*='%:SLPA6WX8`8^\2,YY'0T`>@T5YU8Q>+M5\.V\]GJ^5AL#S"
+"578","M2)I/F/5B/P'/3%5_7BO4(]42QUX>>.=O+5I3EHW/`YZXSP:`/3:*\O\4:M"
+"579","MXFTJ_6WN]34%T$B_9AM`&2/0'M73Z[X@?2?EI*'+7MUHC8\G.T9;\,_F10"
+"580","M!U-%<7\.M2O=1COS>W4LY0Q[=[9QG=G^58NA:YJA\43//>SR6</FR3JS$JJ*"
+"581","M#V[=L8H`].HKS2#6]9\5Z^+2SO9+&U8E@(S@J@[DCDG\>]0R:UJNB^*FLH;Z"
+"582","MYNH4G6/RYWWEP<<<]^>U`'J-%%%`!1110`4444`%%%%`!1110`5P'Q3_`-7I"
+"583","MGUE_]EKOZX#XI_ZO3/K+_PRT`;O@9UC\'6;NP55$A))P`-[5Y[I$#ZGXPB-
+MLI*M=^;D#[J!MQ/Y5T?A[PM_;/AJU>;5+U(7W?Z.K?(,.1P/PS76Z'H%AH4+
+M)9HQ9_OR.<LU`'?$[_D/V__`%ZK_PA-3X;6;5M#O\`6KQ(;>S%O:(W;:`"
+"584","MP_7\SZ5U7B'PE;Z_>QW4US+$R1B/`$$9)[_6M*?2()-#;28RT4!B\H$<D#"
+"585","MU^M`'F_A+6CI5A?Q6Z&6^NFCCMXQZX;D^PR*ZS_A'&TSP9?VR8FO9HF>611R"
+"586","M[=<#N?\`/K5KP_X0LMNGN4D>>8C:K2`?(.^/K714`>1>`[ZP\2(URZQI+&"
+"587","MT>YC@`G!&?RQ^->IW,ME;XN;EX(\#B1R`?P)KG=6\!:=J-W)<Q32VKR'<RH`"
+"588","M5SZX[5'9?#O38)5>YN)[G:<A<A5/UQS^M`'84444`%%%%`!1110`4444`%%%"
+"589","M%`!7-ZWX137+KSKK4;K:#\D0V[4]<<>U=)10!C:#H)T-3''J%Q/;[2%ADQM4"
+"590","MDYR/U_.MFBB@`HHHH`****`BBB@`HHHH`****`BBB@`HHHH`****`BBB@
+C`HHHH`****`BBB@`HHHH`****`BBB@`HHHH`****`/_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>newhorizonsfund123113x2x1.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 newhorizonsfund123113x2x1.jpg
+M_]C_X``02D9)1@`!`0'_____``#_[@`.061O8F4`9``````!_]L`0P`0PP."
+"591","M#`H0#@T.$A$0$Q@H&A@6%A@Q(R4=*#HS/3PY,S@W0$A<3D!$5T4W.%!M45=?"
+"592","M8F=H9SY-<7EP9'A<96=C_]L`0P$1$A(8%1@O&AHO8T(X0F-C8V-C8V-C8V-C"
+"593","M8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C_\``$0@`"
+"594","M?P3`P$B``(1`0,1`?_$`!\```$%`0$!`0$!```````````!`@,$!08'`D*"
+"595","M__$`+40``(!`P,!`,%!00$```!?0$`P`$$042(3%!!A-180<B<10R@9&A
+M""-L<$54M'P)#-B<H()A87&!D:)28G*DJ-#4V-S@Y.D-$149'2$E*4U15"
+"596","M5E=865IC9&5F9VAI:G-T=79W>'EZ@X2%AH>(B8J2DY25EI>8F9JBHZ2EIJ>H"
+"597","MJ:JRL[2UMK>XN;KP\3%QL?(R<K2T]35UM?8V=KAXN/DY>;GZ.GJ\?+S]/7V
+M]_CY^O_$`!\!``,!`0$!`0$!`0$````````!`@,$!08'`D*__$`+41``(!
+M`@0$`P0'!00$``$=P`!`@,1!`4A,08205$'87$3(C*!!1D:&QP0DC,U+P"
+"598","M%6)RT0H6)#3A)?$7&!D:)B<H*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E"
+"599","M9F=H:6IS='5V=WAY>H*#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6V"
+"600","MM[BYNL+#Q,7&Q\C)RM+3U-76U]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_:``P#"
+"601","M`0`$0,1`#\`]`HHHH`****`BBB@`HHHH`****`BBB@`HHHH`****`BBB"
+"602","M@`HHHH`****`BBB@`HHHH`****`BBB@`HJKJ%RUI;>:H7.X#YJS/[=D](O"
+"603","MU_QK&I7A3=I&L*,IJZ-VBL)=<D+`8BY]C_C6U'*DJ[D.1G'2G3JQJ?*=.4-
+MQ]%%%:F84444`%%%%`!1110`4444`%%%%`!1110`4444`97B)MNEL>OSBN3\
+M_P#V?UKJO$YVZ0Q/]]:XSS5]#7FXM>^O0]3!)>S?J6TGQ(IV]QWKI++462$@
+M1C[WK7*IRRGW%;MI_JC]:X_:SIZQ9K7A&2U-ZSNC<EP5[<=*M5FZ5]Z3ZM
+M*O6PTY3I*4MSR:B49-(****Z`HHHH`****`BBB@`HHHH`****`BL3Q%<:"
+"604","MM`;?^RXW<-N\S;'NQTQ_6L7^T/%7_/7_OP/\*S=1)VL;PH.<>9-&SXP)&@R
+M$'!WK_.O/_,?^\?SKKK(:OJMRMIK,$GV-@2V8]G(Z<CWK3_X1/2/^>#_`/?P
+MUE.#J.Z.JE5CAUR2U]#A4ED^7YV_.M&ZG'$K]?6NK'A;2A_P`L7_[^&I!X
+M<TU1@1/_`-]FL7A9/L;/&TGT9SUE>W*E]L\@Z?Q5V<))@C).25&?RJ@F@V9"
+"605","MVHXS_MFM%5J%'0#`KKI0Y(*)PXBKHTXH=1116AS!1110`4444`%%%>?>-]"
+"606","M2\0Z9<+_`*='%:SLPA6WX8`8^\2,YY'0T`>@T5YU8Q>+M5\.V\]GJ^5AL#S
+M2)I/F/5B/P'/3%5_7BO4(]42QUX>>.=O+5I3EHW/`YZXSP:`/3:*\O\4:M
+MXFTJ_6WN]34%T$B_9AM`&2/0'M73Z[X@?2?EI*'+7MUHC8\G.T9;\,_F10
+M!U-%<7\.M2O=1COS>W4LY0Q[=[9QG=G^58NA:YJA\43//>SR6</FR3JS$JJ*
+M#V[=L8H`].HKS2#6]9\5Z^+2SO9+&U8E@(S@J@[DCDG\>]0R:UJNB^*FLH;Z
+MYNH4G6/RYWWEP<<<]^>U`'J-%%%`!1110`4444`%%%%`!1110`5P'Q3_`-7I
+MGUE_]EKOZX#XI_ZO3/K+_PRT`;O@9UC\'6;NP55$A))P`-[5Y[I$#ZGXPB-"
+"607","MLI*M=^;D#[J!MQ/Y5T?A[PM_;/AJU>;5+U(7W?Z.K?(,.1P/PS76Z'H%AH4+"
+"608","M)9HQ9_OR.<LU`'?$[_D/V__`%ZK_PA-3X;6;5M#O\`6KQ(;>S%O:(W;:`
+MP_7\SZ5U7B'PE;Z_>QW4US+$R1B/`$$9)[_6M*?2()-#;28RT4!B\H$<D#
+MU^M`'F_A+6CI5A?Q6Z&6^NFCCMXQZX;D^PR*ZS_A'&TSP9?VR8FO9HF>611R
+M[=<#N?\`/K5KP_X0LMNGN4D>>8C:K2`?(.^/K714`>1>`[ZP\2(URZQI+&
+MT>YC@`G!&?RQ^->IW,ME;XN;EX(\#B1R`?P)KG=6\!:=J-W)<Q32VKR'<RH`
+M5SZX[5'9?#O38)5>YN)[G:<A<A5/UQS^M`'84444`%%%%`!1110`4444`%%%
+M%`!7-ZWX137+KSKK4;K:#\D0V[4]<<>U=)10!C:#H)T-3''J%Q/;[2%ADQM4
+MDYR/U_.MFBB@`HHHH`****`BBB@`HHHH`****`BBB@`HHHH`****`BBB@"
+"609","C`HHHH`****`BBB@`HHHH`****`BBB@`HHHH`****`/_]D_"
+"610","`"
+"611","end"
+"612","</TEXT>"
+"613","</DOCUMENT>"
+"614","<DOCUMENT>"
+"615","<TYPE>GRAPHIC"
+"616","<SEQUENCE>5"
+"617","<FILENAME>newhorizonsfund123113x2x2.jpg"
+"618","<DESCRIPTION>GRAPHIC"
+"619","<TEXT>"
+"620","begin 644 newhorizonsfund123113x2x2.jpg"
+"621","M_]C_X``02D9)1@`!`0'_____``#_[@`.061O8F4`9``````!_]L`0P`0PP.
+M#`H0#@T.$A$0$Q@H&A@6%A@Q(R4=*#HS/3PY,S@W0$A<3D!$5T4W.%!M45=?
+M8F=H9SY-<7EP9'A<96=C_]L`0P$1$A(8%1@O&AHO8T(X0F-C8V-C8V-C8V-C
+M8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C_\``$0@`
+M6`%#`P$B``(1`0,1`?_$`!\```$%`0$!`0$!```````````!`@,$!08'`D*"
+"622","M__$`+40``(!`P,!`,%!00$```!?0$`P`$$042(3%!!A-180<B<10R@9&A
+M""-L<$54M'P)#-B<H()A87&!D:)28G*DJ-#4V-S@Y.D-$149'2$E*4U15"
+"623","M5E=865IC9&5F9VAI:G-T=79W>'EZ@X2%AH>(B8J2DY25EI>8F9JBHZ2EIJ>H"
+"624","MJ:JRL[2UMK>XN;KP\3%QL?(R<K2T]35UM?8V=KAXN/DY>;GZ.GJ\?+S]/7V
+M]_CY^O_$`!\!``,!`0$!`0$!`0$````````!`@,$!08'`D*__$`+41``(!
+M`@0$`P0'!00$``$=P`!`@,1!`4A,08205$'87$3(C*!!1D:&QP0DC,U+P"
+"625","M%6)RT0H6)#3A)?$7&!D:)B<H*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E"
+"626","M9F=H:6IS='5V=WAY>H*#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6V"
+"627","MM[BYNL+#Q,7&Q\C)RM+3U-76U]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_:``P#"
+"628","M`0`$0,1`#\`]`HHHH`***@N+VUM1_I-S##C_GI(%_G0!/162/$VB&0(-4ML
+MGU?`_/I5^VN[:[4M:W$,ZCO&X8?I0!/115._U.VTY[<73,@N)/+5]N5#'ID]
+MJ`+E%%%`!1110`4444`%%%%`!1110`4444`%%%%`!1110`4444`%%%%`!111
+M0`4444`%%%%`!1110`4444`%%%%`!1110`5EWNM)#*UO8V\E_=J<-%$>$_WV
+MZ+_/VJQJD5W/9F&RD\J21@K2YP43/S$<'G'2GV-C;:=;+;VD2QQKS@=2?4GN
+M?>@#.CTW4KV(G5=0>+<0?(LCY:J/0O\`>/X$5/:>'M(L^8-.MPP_C==[?FV3
+M6G6:FK(_B%])6(EH[?SFESP.<;<?CF@\T,3+M:-.FHKF]3M(K+Q/I#:7$"
+"629","MD%Q.[BX6(!0\74E@/?OZUK:KK,&G%(54W%Y*<16T?WW/]![FH=$TNX@EEU'4"
+"630","MY%EU&X&UMI^6).H1?;N?>@#8IK*KC#*&'H1FG44`%%%%`!1110`45F>(]0FT"
+"631","MK1+B\MT#RQE-JGOEP/ZUIT`%%%8GB34+FR;3([*3;+<7J1LNT-NCYW=>W3F@"
+"632","M#;HHHH`****`BBB@`HIKLJ(SNP55&22<`LN/Q+H\VH)8Q7J27#L4HI(S]
+M<8_6@#6HHHH`****`BBB@`HHHH`****`BBB@`HHHH`**A6ZMWG,3Q-*.3"
+"633","M&'!8?A4U`!1110`4444`175PEK:RW$IPD2%V/L!FN8T;14UG2IKW5ED$VH3
+MXPKLI11D(/H`3^!JQXSN&:UL]+C(#ZC<+$V?[F1N_I5S4M3>TU;2M,M50-<N
+M=X*_=C523CT_^M0!/#8Z5H=M)<1P0VR(I,DI&6Q[L>35'3=<O+G58K>[L!;0
+M7432VQWY?`QG<.V00?;WIL\ZZ]K`L(E$FGV;![F3JKR`_+'[X/)Z^E5;75+4
+M>*M7N=2N8H/L<:PPJ[8PG5B`>I)QT]J`.H,L8F$)D02D;@FX;B/7'I2^8GF>
+M7O7?C.W/./7%<78ZCYUW?^*KG>+=%-M8Q=#,,]N.I/I[^E9VD0W,\6J^*YIF
+M:]A\T)`IX0[<?-WP`>![=:`/10ZLS*K`E>H!Z4ZO/-(U'3=)*WL,X>8:>9+N
+M1I?-G?:RQ_48;I[Y[U<_P$Q^R>';<6S'4-06%6F;:Q2/(S\Y_3\*`.JU*_
+M_L](&\B28S3I%3L6[G/:KA(!`)`SP/>N&US7[?5I-'LH+Z.!F=9[B>-N(%
+MSC/3N?I@5'_PE&+R$R2R7L=C.)'N_+$:&-P8SA1Z;@0>_/3B@#<UB-=7\0V&
+MFCYHK,B\N.>_1%^I.?PK?\V,RF+>OF`;BF><>N*Y?2KF'2M)O?$6H-MDU!S*
+MJGKMY\M!QZ5@V6MZM`FH:^=)>26X`Q-)\L4<0X``X+<X_+ZT`>DUS<DB:EXR
+M`9E\G28LDG_GK)C'/T'^>TEAKMO:>'H[C4=3M[FY6+S)-CKDD\[0!]0*XF33
+M)Y?#]SJ^ISR`WDVZWC(_>2-T+?S`]*`/5J*X6WU_5]22V6UN(X?M#_9H%,>"
+"634","M]Y0!\\Y/&`.N/P[4S3?%\>F:+>-<7CW]PMRXMUD;YF3CDD9P,Y_D*`.]J);F"
+"635","M!YFA2:-I5^\@8%A]17*VWC.S'AY);^^C&H21L=D*DX.3M'&<<8ZU0T+5=`A\"
+"636","M.-<*EO%JEM$[;I@/,>3:>58\G)[9H`[M98W=T216=,;E!R5STSZ5E:KK+V]V"
+"637","MFG:?!]JU0;MG1(E_O.>P_6L3X>6H$-W?J)2EP(U\R4Y9W`)D/TW''X?6M/P
+MPL+WFLSD+]L-ZZ2\\A1P@^F._?GTH`=;>&DE<SZW</J4['(23B*/O\J?IDUN
+M1QI$@2-%11T51@G5@V>HW^L?:;BP\N&TA9D@WKS<LN>I_A3..V?<4`;U%<Y"
+"638","M8^))XI/LFMV,EO?;?,V6Z-,F2-WRYQ@C]1^&Y#>6T]N;B*>-H5SN<-PN.N?
+M3'O0!/17+ZWXJDMTD?2(H;N*W4//<,_[M<]%7'WF/7CVJUJ?BNQTR*W\]7:Y
+MG56^SIRR`X^]Z=?QH`WJ*K'4+,7?V0W4/VC!/E;QN``STJL=?TH7T=D+Z)[B
+M1MBI'E^?0XSC\:`-*BF12QS('B=70YPRG(]*?0`5F:]JC:79H8466ZGE6*("
+"639","M_P`;$_RQGFM(D`9/`KF]-=?$&M_VO\PL[$M#:'H)&/#/SVZ`4`=(,XYZU&+F"
+"640","M$W1MA*IG;S'GD+G&:2ZN8K.VDN)W11KN9CV%8OAJWEN9KG7KD%9-0^5&>
+ML<0^Z/Q&#0!T%8.NRO?WD.A6Y<>>OF74B-@QP@]/JQXK:N)/)MY9<@;$+<].
+M!7(^'K?6=7LYM2EODL_MY^8QP_O-JC:`I)PHZGH>N>]`$FK66G6>JZ-9Z1;P
+MPWZW*NWDJ-PB`^?>>N#WZX-==6?I.C6>D1L+96:23F2:1MTDA]2:T*`BBB
+M@`HHHH`@FL[:>XAN)H$>:#/ENPR4SUQ^55M5T:SU80_:E?=24>-RK+GJ,CU"
+"641","MK0HH`K6%C;:=:):VD8CAC^ZH.?U-5]2T+3-4D66]M(Y9%&`_(./PZ_C6C10!"
+"642","MSNE^$+2PF@EFN+B[-L2;=96^6+)SD`=ZDO\`PEIUY=2W27-I+,<R&VEV;SU
+MR1@BMZB@#G['P7HEC<9;4RL.@F;>H_`\5IC2;`:?)8I:1):R+M>-!M#?ESG"
+"643","MWZU=HH`R9?#6CRVV+6,8MU?>%4E3N]<@YK(U'PE,G]ISZ;<;3=1-+8*%7`"
+"644","M`7!/H!GCCG'I76T4`<W:>#-.C,+7,EU<I&`5MYY=T2'V&*Z:&>!H)HD>)A"
+"645","MM9&&01Z8J2B@#!;P9X?8L3IR_-UQ(X_KQ5T:%I:VR6PLHO)CD\U4QP&]:T:*"
+"646","M`,71O^GZ+=/<6S3NY!51*^1&I.2%XZ?7-+!X5T6TFMH[%?*GXDR[$D9!`S"
+"647","MG.,@?E6S10!2BTC3HK8V\=A;$C!3R@0?KZU%-X?T>=%633+7]-L07'Y5I4"
+"648","M4`<[#X0MK1\V&HZE9KG<(HI_D!^A!S^-*GAJ83/>'5)$U-C@W4,00.O&`Z<J"
+"649","MWUX[>E=#10!B?9/$2,`FJ6<J=S):D'\@U9UEX<UK2Q''I^KQ?9U)<P20D(&/"
+"650","M4#!SCVS7644`<G-IFOV^MQ:QBTOYA$8&A0F(*O4$$Y[]?\X@UF&2/3I;WQ+("
+"651","M@1G_`'5A:942.1@;FZL<#\`/PKLZYNTT^\U;7?[3U6'R[:V)%E;OU!R/G/OQ"
+"652","MQGV]*`.=TSP?KPAM5EDLXK>)S+Y$F6RQQRR@88\`<GM6Q_PAD]W>3SZIJTDO"
+"653","MG.LC!!&=R@A>3G@9X%==10!RQ\`Z*UX9W%PRGK$9>>Y)^][]:BE\`:?/>/"
+"654","M(TC10*`L,4`[<#DLQR6.>]==10!QVE:9XITJT33K4Z:MO&QQ.VXL06)SCI^
+ME=59Q306R1W%P;F49+2%0N3GT'05/10!#=VXN[.>V9F19HVC+*>0,9'O7-+"
+"655","MX!TI+0Q++<F8<QS-)S&WJ`,#K75T4`<QJFAZWJ.@'3YM0MII6E4L[(4#1CG!"
+"656","MQG)S@]NE.N-#UZ>T*_\`0&.08V)#`(T7IQD<FNEHH`P/$?]HSV,.E6D;237
+M@\N>Y82-/XB>PSSQ6U;6\=K;16\*[8XE*/0`5+10`4444`%%%%`!1618Z\
+M+](9(M-OA#*YC$I5%()!R`Y(&0><5/K.H2:99BY2W690ZJX,FP@$@9'!SR1"
+"657","MQQ0!H4444`%%%%`!1110`4444`%%%%`!1110`4444`%%%%`!1110`4444`%%"
+"658","M%%`!1110`4444`%%%%`!1110`4444`%%%%`!1110`4444`%%%%`'+^';*==!"
+"659","MG:`75O?GS0@N#(J*2Q*D(WR]QR!_6LD:;<C2KC;!<%WBB66!+)XP7$BDL26."
+"660","M]L9^8#&***-F&Y)=V(;SWBTVX73VO8'AA%L^1C_6,$`RH(]AFI]7T>&S^UI:"
+"661","M:9(]O/I_EQ.%I#YH8D9ZD'D8)],444/;^NP+?\`KN-U'[3+-;2QZ;)&T!MV
+M29+-S*ZY&_+`94#D;>I^E21>'['5'UA9K&2.9IG:WDDA=``5'(R`#\P/^311
+M0^OS#:WR-;PS`'M#J,MM'!/<JH(1<850%'3Z$_0CTK/TVYFLDU8P6U[NDN`T
+M+3V\S?*0J[N06;'/'7BBBA[@EH1Z%J,.FQZS*ZWLZQW09F,+;RJ@D[@,>I'"
+"662","M8=JU_$V[K:FXMKB[57)$*1-)&W&,R`*W`SQQUHHH>R!;OYF,EBL2Z8MS!=7
+MNFQ+*'C:VD.V0G*YC(W%0,@<5&T%U!INF>=!?EH[[S%B5)'\N`-D!@N1D#'!
+MY]***-G_`%ZAO_7R)/$%XTM_9R3+=)'#?1.,6\F&&>6)VX)/8#/YGCL.M%%"
+"663","MV_KR$]Q:***!A1110`4444`%%%%`!1110`4444`%%%%`!1110`4444`%%%%
+4`!1110`4444`%%%%`!1110!__]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.77D POLICIES
+<SEQUENCE>6
+<FILENAME>cip_nhf.htm
+<DESCRIPTION>POLICIES~ NEW HORIZONS FUND
+<TEXT>
+
+<HTML>
+<HEAD>
+   <TITLE>cip_nhf.htm - Generated by SEC Publisher for SEC Filing</TITLE>
+</HEAD>
+
+<BODY bgcolor=#ffffff>
+<a name=page_1></a><a name=_bclPageBorder1></a><DIV STYLE=WIDTH: 100%; PADDING-RIGHT: 0%; PADDING-LEFT: 0%>
+
+<a name=_bclHeader1></a><DIV>
+
+
+<p style=line-height:115%;margin-bottom:10.0pt;margin-left:0in;margin-right:0in;margin-top:0in;><font face=Calibri,sans-serif lang=EN-US style=font-size:11.0pt;>&nbsp;</font></p>
+
+
+</DIV>
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>T.
+Rowe Price New Horizons Fund, Inc.</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>T. Rowe Price New
+Horizons Fund</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>The fundamental
+policy relating to the purchase and sale of commodities has been revised to the
+following:</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>The funds may not
+purchase or sell commodities except to the extent permitted by applicable law.</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>To clarify the
+intent of the new policy, the following note was added to the SAI to be read in
+connection with the policy:</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>With respect to
+this investment restriction, the funds may not directly purchase or sell
+commodities that require physical storage unless acquired as a result of
+ownership of securities or other instruments but the funds may invest in any
+derivatives and other financial instruments that involve commodities or
+represent interests in commodities to the extent permitted by the Investment
+Company Act of 1940 or other applicable law.</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>This new policy
+does not apply to the Dividend Growth Fund, Diversified Small-Cap Growth Fund,
+Emerging Markets Local Multi-Sector Account Portfolio, Institutional High Yield
+Fund, Institutional Large-Cap Growth Fund, Institutional Large-Cap Value Fund,
+Institutional Mid-Cap Equity Growth Fund, Institutional Small-Cap Stock Fund,
+or New America Growth Fund since these funds did not obtain the necessary
+shareholder votes to approve the revised policy.&#160; These funds will continue to
+operate under their current policy, which is that they may not purchase or sell
+physical commodities, except that they may enter into futures contracts and
+options thereon.</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>We did not seek
+shareholder approval to apply the new policy to the Short-Government Reserve
+Fund, Short-Term Reserve Fund, or any of the T. Rowe Price money market funds
+since they are not permitted to use derivatives.</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+
+
+</div>
+</BODY>
+
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+"

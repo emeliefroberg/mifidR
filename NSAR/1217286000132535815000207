@@ -1,0 +1,2019 @@
+"","V1"
+"1","<SEC-DOCUMENT>0001325358-15-000207.txt : 20150227"
+"2","<SEC-HEADER>0001325358-15-000207.hdr.sgml : 20150227"
+"3","<ACCEPTANCE-DATETIME>20150227145102"
+"4","ACCESSION NUMBER:		0001325358-15-000207"
+"5","CONFORMED SUBMISSION TYPE:	NSAR-B"
+"6","PUBLIC DOCUMENT COUNT:		5"
+"7","CONFORMED PERIOD OF REPORT:	20141231"
+"8","FILED AS OF DATE:		20150227"
+"9","DATE AS OF CHANGE:		20150227"
+"10","EFFECTIVENESS DATE:		20150227"
+"11","FILER:"
+"12","	COMPANY DATA:	"
+"13","		COMPANY CONFORMED NAME:			JPMorgan Trust I"
+"14","		CENTRAL INDEX KEY:			0001217286"
+"15","		IRS NUMBER:				331043149"
+"16","		STATE OF INCORPORATION:			DE"
+"17","		FISCAL YEAR END:			1231"
+"18","	FILING VALUES:"
+"19","		FORM TYPE:		NSAR-B"
+"20","		SEC ACT:		1940 Act"
+"21","		SEC FILE NUMBER:	811-21295"
+"22","		FILM NUMBER:		15657515"
+"23","	BUSINESS ADDRESS:	"
+"24","		STREET 1:		C/O JPMORGAN DISTRIBUTION SERVICES, INC."
+"25","		STREET 2:		270 PARK AVENUE"
+"26","		CITY:			NEW YORK"
+"27","		STATE:			NY"
+"28","		ZIP:			10017"
+"29","		BUSINESS PHONE:		800-480-4111"
+"30","	MAIL ADDRESS:	"
+"31","		STREET 1:		C/O JPMORGAN DISTRIBUTION SERVICES, INC."
+"32","		STREET 2:		270 PARK AVENUE"
+"33","		CITY:			NEW YORK"
+"34","		STATE:			NY"
+"35","		ZIP:			10017"
+"36","	FORMER COMPANY:	"
+"37","		FORMER CONFORMED NAME:	JP MORGAN MUTUAL FUND SERIES"
+"38","		DATE OF NAME CHANGE:	20030204"
+"39","<SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"40","<EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"41","<SERIES>"
+"42","<OWNER-CIK>0001217286"
+"43","<SERIES-ID>S000033562"
+"44","<SERIES-NAME>Security Capital U.S. Core Real Estate Securities Fund"
+"45","<CLASS-CONTRACT>"
+"46","<CLASS-CONTRACT-ID>C000103045"
+"47","<CLASS-CONTRACT-NAME>Class A"
+"48","<CLASS-CONTRACT-TICKER-SYMBOL>CEEAX"
+"49","</CLASS-CONTRACT>"
+"50","<CLASS-CONTRACT>"
+"51","<CLASS-CONTRACT-ID>C000103046"
+"52","<CLASS-CONTRACT-NAME>Class C"
+"53","<CLASS-CONTRACT-TICKER-SYMBOL>CEECX"
+"54","</CLASS-CONTRACT>"
+"55","<CLASS-CONTRACT>"
+"56","<CLASS-CONTRACT-ID>C000103047"
+"57","<CLASS-CONTRACT-NAME>Select Class"
+"58","<CLASS-CONTRACT-TICKER-SYMBOL>CEESX"
+"59","</CLASS-CONTRACT>"
+"60","<CLASS-CONTRACT>"
+"61","<CLASS-CONTRACT-ID>C000103049"
+"62","<CLASS-CONTRACT-NAME>Class R5"
+"63","<CLASS-CONTRACT-TICKER-SYMBOL>CEEFX"
+"64","</CLASS-CONTRACT>"
+"65","<CLASS-CONTRACT>"
+"66","<CLASS-CONTRACT-ID>C000103050"
+"67","<CLASS-CONTRACT-NAME>Class R6"
+"68","<CLASS-CONTRACT-TICKER-SYMBOL>CEERX"
+"69","</CLASS-CONTRACT>"
+"70","</SERIES>"
+"71","</EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"72","</SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"73","</SEC-HEADER>"
+"74","<DOCUMENT>"
+"75","<TYPE>NSAR-B"
+"76","<SEQUENCE>1"
+"77","<FILENAME>answer.fil"
+"78","<DESCRIPTION>MAIN DOCUMENT"
+"79","<TEXT>"
+"80","000 B000000 12/31/2014"
+"81","000 C000000 0001217286"
+"82","000 D000000 N"
+"83","000 E000000 NF"
+"84","000 F000000 Y"
+"85","000 G000000 N"
+"86","000 H000000 N"
+"87","000 I000000 6.1"
+"88","000 J000000 B"
+"89","001 A000000 JPMORGAN TRUST I"
+"90","001 B000000 811-21295"
+"91","001 C000000 8004804111"
+"92","002 A000000 270 Park Avenue"
+"93","002 B000000 NEW YORK"
+"94","002 C000000 NY"
+"95","002 D010000 10017"
+"96","003  000000 N"
+"97","004  000000 N"
+"98","005  000000 N"
+"99","006  000000 N"
+"100","007 A000000 Y"
+"101","007 B000000 107"
+"102","007 C010100  1"
+"103","007 C010200  2"
+"104","007 C010300  3"
+"105","007 C010400  4"
+"106","007 C010500  5"
+"107","007 C010600  6"
+"108","007 C020600 SECURITY CAPITAL U.S. CORE REAL ESTATE SECURITIES FUND"
+"109","007 C030600 N"
+"110","007 C010700  7"
+"111","007 C010800  8"
+"112","007 C010900  9"
+"113","007 C011000 10"
+"114","007 C011100 11"
+"115","007 C011200 12"
+"116","007 C011300 13"
+"117","007 C011400 14"
+"118","007 C011500 15"
+"119","007 C011600 16"
+"120","007 C011700 17"
+"121","007 C011800 18"
+"122","007 C011900 19"
+"123","007 C012000 20"
+"124","007 C012100 21"
+"125","007 C012200 22"
+"126","007 C012300 23"
+"127","007 C012400 24"
+"128","007 C012500 25"
+"129","007 C012600 26"
+"130","007 C012700 27"
+"131","007 C012800 28"
+"132","007 C012900 29"
+"133","007 C013000 30"
+"134","007 C013100 31"
+"135","007 C013200 32"
+"136","007 C013300 33"
+"137","007 C013400 34"
+"138","007 C013500 35"
+"139","007 C013600 36"
+"140","007 C013700 37"
+"141","007 C013800 38"
+"142","007 C013900 39"
+"143","007 C014000 40"
+"144","007 C014100 41"
+"145","007 C014200 42"
+"146","007 C014300 43"
+"147","007 C014400 44"
+"148","007 C014500 45"
+"149","007 C014600 46"
+"150","007 C014700 47"
+"151","007 C014800 48"
+"152","007 C014900 49"
+"153","007 C015000 50"
+"154","007 C015100 51"
+"155","007 C015200 52"
+"156","007 C015300 53"
+"157","007 C015400 54"
+"158","007 C015500 55"
+"159","007 C015600 56"
+"160","007 C015700 57"
+"161","007 C015800 58"
+"162","007 C015900 59"
+"163","007 C016000 60"
+"164","007 C016100 61"
+"165","007 C016200 62"
+"166","007 C016300 63"
+"167","007 C016400 64"
+"168","007 C016500 65"
+"169","007 C016600 66"
+"170","007 C016700 67"
+"171","007 C016800 68"
+"172","007 C016900 69"
+"173","007 C017000 70"
+"174","007 C017100 71"
+"175","007 C017200 72"
+"176","007 C017300 73"
+"177","007 C017400 74"
+"178","007 C017500 75"
+"179","007 C017600 76"
+"180","007 C017700 77"
+"181","007 C017800 78"
+"182","007 C017900 79"
+"183","007 C018000 80"
+"184","007 C018100 81"
+"185","007 C018200 82"
+"186","007 C018300 83"
+"187","007 C018400 84"
+"188","007 C018500 85"
+"189","007 C018600 86"
+"190","007 C018700 87"
+"191","007 C018800 88"
+"192","007 C018900 89"
+"193","007 C019000 90"
+"194","007 C019100 91"
+"195","007 C019200 92"
+"196","007 C019300 93"
+"197","007 C019400 94"
+"198","007 C019500 95"
+"199","007 C019600 96"
+"200","007 C019700 97"
+"201","007 C019800 98"
+"202","007 C019900 99"
+"203","007 C0110000 100"
+"204","007 C0110100 101"
+"205","007 C0110200 102"
+"206","007 C0110300 103"
+"207","007 C0110400 104"
+"208","007 C0110500 105"
+"209","007 C0110600 106"
+"210","007 C0110700 107"
+"211","007 C0110800 108"
+"212","007 C0110900 109"
+"213","007 C0111000 110"
+"214","007 C0111100 111"
+"215","007 C0111200 112"
+"216","007 C0111300 113"
+"217","007 C0111400 114"
+"218","007 C0111500 115"
+"219","007 C0111600 116"
+"220","007 C0111700 117"
+"221","007 C0111800 118"
+"222","007 C0111900 119"
+"223","007 C0112000 120"
+"224","007 C0112100 121"
+"225","007 C0112200 122"
+"226","007 C0112300 123"
+"227","007 C0112400 124"
+"228","007 C0112500 125"
+"229","007 C0112600 126"
+"230","007 C0112700 127"
+"231","007 C0112800 128"
+"232","007 C0112900 129"
+"233","007 C0113000 130"
+"234","007 C0113100 131"
+"235","007 C0113200 132"
+"236","007 C0113300 133"
+"237","007 C0113400 134"
+"238","007 C0113500 135"
+"239","007 C0113600 136"
+"240","007 C0113700 137"
+"241","007 C0113800 138"
+"242","007 C0113900 139"
+"243","008 A00AA01 J.P.  MORGAN INVESTMENT MANAGEMENT INC."
+"244","008 B00AA01 A"
+"245","008 C00AA01 801-21011"
+"246","008 D01AA01 NEW YORK"
+"247","008 D02AA01 NY"
+"248","008 D03AA01 10017"
+"249","008 A00AA02 SECURITY CAPITAL RESEARCH & MANAGEMENT INC"
+"250","008 B00AA02 S"
+"251","008 C00AA02 801-00000"
+"252","008 D01AA02 CHICAGO"
+"253","008 D02AA02 IL"
+"254","008 D03AA02 60603"
+"255","010 A00AA01 JPMORGAN FUNDS MANAGEMENT, INC."
+"256","010 B00AA01 801-00000"
+"257","010 C01AA01 WESTERVILLE"
+"258","010 C02AA01 OH"
+"259","010 C03AA01 43082"
+"260","011 A00AA01 JPMORGAN DISTRIBUTION SERVICES, INC."
+"261","011 B00AA01 8-0100000"
+"262","011 C01AA01 WESTERVILLE"
+"263","011 C02AA01 OH"
+"264","011 C03AA01 43082"
+"265","012 A00AA01 BOSTON FINANCIAL DATA SERVICES, INC."
+"266","012 B00AA01 84-00896"
+"267","012 C01AA01 QUINCY"
+"268","012 C02AA01 MA"
+"269","012 C03AA01 02169"
+"270","013 A00AA01 PRICEWATERHOUSECOOPERS LLP"
+"271","013 B01AA01 NEW YORK"
+"272","013 B02AA01 NY"
+"273","013 B03AA01 10017"
+"274","014 A00AA01 BANC ONE SECURITIES GROUP"
+"275","014 B00AA01 8-00000"
+"276","014 A00AA02 CHASE INVESTMENT SERVICES CORP."
+"277","014 B00AA02 8-41840"
+"278","014 A00AA03 INVESTORS BROKERAGE SERVICES, INC."
+"279","014 B00AA03 8-00000"
+"280","014 A00AA04 J.P. MORGAN INSTITUTIONAL INVESTMENTS, INC."
+"281","014 B00AA04 8-00000"
+"282","014 A00AA05 J.P. MORGAN INVEST LLC"
+"283","014 B00AA05 8-00000"
+"284","014 A00AA06 J.P. MORGAN SECURITIES, INC."
+"285","014 B00AA06 8-36950"
+"286","014 A00AA07 JP MORGAN DISTRIBUTION SERVICES, INC."
+"287","014 B00AA07 8-52700"
+"288","014 A00AA08 JPMORGAN CHASE BANK"
+"289","014 B00AA08 8-00000"
+"290","014 A00AA09 NEOVEST TRADING, INC."
+"291","014 B00AA09 8-00000"
+"292","014 A00AA10 PMG SECURITIES CORP."
+"293","014 B00AA10 8-00000"
+"294","015 A00AA01 JP MORGAN CHASE BANK, N.A."
+"295","015 B00AA01 C"
+"296","015 C01AA01 NEW YORK"
+"297","015 C02AA01 NY"
+"298","015 C03AA01 10017"
+"299","015 E01AA01 X"
+"300","020 A00AA01 BANK OF NEW YORK MELLON CORP."
+"301","020 B00AA01 13-5160382"
+"302","020 C00AA01      6"
+"303","020 A00AA02 GREEN STREET ADVISORS"
+"304","020 B00AA02 33-0275837"
+"305","020 C00AA02      5"
+"306","020 A00AA03 BTIG, LLC"
+"307","020 B00AA03 04-3695739"
+"308","020 C00AA03      5"
+"309","020 A00AA04 BANK OF MONTREAL"
+"310","020 B00AA04 00-0000000"
+"311","020 C00AA04      4"
+"312","020 A00AA05 CANTOR FITZGERALD & CO."
+"313","020 B00AA05 13-3680184"
+"314","020 C00AA05      4"
+"315","020 A00AA06 JONESTRADING INSTITUTIONAL SERVICES LLC"
+"316","020 B00AA06 51-0484896"
+"317","020 C00AA06      4"
+"318","020 A00AA07 DEUTSCHE BANK AG"
+"319","020 B00AA07 13-2730828"
+"320","020 C00AA07      3"
+"321","020 A00AA08 STIFEL, NICOLAUS & CO., INC."
+"322","020 B00AA08 43-0538770"
+"323","020 C00AA08      3"
+"324","020 A00AA09 JEFFERIES LLC"
+"325","020 B00AA09 95-2622900"
+"326","020 C00AA09      2"
+"327","020 A00AA10 UBS AG"
+"328","020 B00AA10 13-3873456"
+"329","020 C00AA10      2"
+"330","021  00AA00       49"
+"331","022 A00AA01 WELLS FARGO & CO."
+"332","022 B00AA01 41-0449260"
+"333","022 C00AA01     19941"
+"334","022 D00AA01       782"
+"335","022 A00AA02 DIRECT ACCESS PARTNERS LLC"
+"336","022 B00AA02 82-0543776"
+"337","022 C00AA02      3473"
+"338","022 D00AA02      1019"
+"339","022 A00AA03 GOLDMAN SACHS & CO."
+"340","022 B00AA03 13-5108880"
+"341","022 C00AA03       895"
+"342","022 D00AA03       309"
+"343","022 A00AA04 STIFEL, NICOLAUS & CO., INC."
+"344","022 B00AA04 43-0538770"
+"345","022 C00AA04       834"
+"346","022 D00AA04         0"
+"347","022 A00AA05 RBC CAPITAL MARKETS, LLC"
+"348","022 B00AA05 13-5357855"
+"349","022 C00AA05       652"
+"350","022 D00AA05         0"
+"351","022 A00AA06 BANK OF MONTREAL"
+"352","022 B00AA06 00-0000000"
+"353","022 C00AA06       634"
+"354","022 D00AA06         0"
+"355","022 A00AA07 RAYMOND JAMES FINANCIAL, INC."
+"356","022 B00AA07 00-0000000"
+"357","022 C00AA07       289"
+"358","022 D00AA07         0"
+"359","022 A00AA08 BANK OF AMERICA CORP."
+"360","022 B00AA08 56-2058405"
+"361","022 C00AA08       172"
+"362","022 D00AA08         0"
+"363","022 A00AA09 JEFFERIES & CO., INC."
+"364","022 B00AA09 95-2622900"
+"365","022 C00AA09        38"
+"366","022 D00AA09        25"
+"367","023 C00AA00      86545"
+"368","023 D00AA00      55117"
+"369","026 A00AA00 N"
+"370","026 B00AA00 Y"
+"371","026 C00AA00 N"
+"372","026 D00AA00 Y"
+"373","026 E00AA00 N"
+"374","026 F00AA00 N"
+"375","026 G01AA00 N"
+"376","026 G02AA00 N"
+"377","026 H00AA00 N"
+"378","027  00AA00 Y"
+"379","054 A00AA00 Y"
+"380","054 B00AA00 Y"
+"381","054 C00AA00 N"
+"382","054 D00AA00 N"
+"383","054 E00AA00 N"
+"384","054 F00AA00 N"
+"385","054 G00AA00 Y"
+"386","054 H00AA00 N"
+"387","054 I00AA00 N"
+"388","054 J00AA00 Y"
+"389","054 K00AA00 N"
+"390","054 L00AA00 N"
+"391","054 M00AA00 Y"
+"392","054 N00AA00 N"
+"393","054 O00AA00 N"
+"394","077 A000000 Y"
+"395","077 B000000 Y"
+"396","077 C000000 N"
+"397","077 D000000 N"
+"398","077 E000000 N"
+"399","077 F000000 N"
+"400","077 G000000 N"
+"401","077 H000000 N"
+"402","077 I000000 N"
+"403","077 J000000 N"
+"404","077 K000000 N"
+"405","077 L000000 N"
+"406","077 M000000 N"
+"407","077 N000000 N"
+"408","077 O000000 Y"
+"409","077 P000000 N"
+"410","077 Q010000 Y"
+"411","077 Q020000 N"
+"412","077 Q030000 N"
+"413","078  000000 N"
+"414","019 A000600 Y"
+"415","019 B000600  156"
+"416","019 C000600 JPMORGAN F"
+"417","024  000600 N"
+"418","028 A010600      3634"
+"419","028 A020600         0"
+"420","028 A030600         0"
+"421","028 A040600      1447"
+"422","028 B010600      1966"
+"423","028 B020600         0"
+"424","028 B030600         0"
+"425","028 B040600       141"
+"426","028 C010600      1229"
+"427","028 C020600         0"
+"428","028 C030600         0"
+"429","028 C040600       226"
+"430","028 D010600      1595"
+"431","028 D020600       526"
+"432","028 D030600         0"
+"433","028 D040600       547"
+"434","028 E010600      1004"
+"435","028 E020600         0"
+"436","028 E030600         0"
+"437","028 E040600       250"
+"438","028 F010600      1610"
+"439","028 F020600      2276"
+"440","028 F030600         0"
+"441","028 F040600      3827"
+"442","028 G010600     11038"
+"443","028 G020600      2802"
+"444","028 G030600         0"
+"445","028 G040600      6438"
+"446","028 H000600       466"
+"447","029  000600 Y"
+"448","030 A000600      4"
+"449","030 B000600  5.25"
+"450","030 C000600  0.00"
+"451","031 A000600      1"
+"452","031 B000600      0"
+"453","032  000600      3"
+"454","033  000600      0"
+"455","034  000600 N"
+"456","035  000600      0"
+"457","036 B000600      0"
+"458","037  000600 N"
+"459","038  000600      0"
+"460","039  000600 N"
+"461","040  000600 Y"
+"462","041  000600 Y"
+"463","042 A000600   0"
+"464","042 B000600   0"
+"465","042 C000600   0"
+"466","042 D000600   0"
+"467","042 E000600   0"
+"468","042 F000600   0"
+"469","042 G000600   0"
+"470","042 H000600   0"
+"471","043  000600     15"
+"472","044  000600      0"
+"473","045  000600 Y"
+"474","046  000600 N"
+"475","047  000600 Y"
+"476","048  000600   0.60"
+"477","048 A010600        0"
+"478","048 A020600 0.000"
+"479","048 B010600        0"
+"480","048 B020600 0.000"
+"481","048 C010600        0"
+"482","048 C020600 0.000"
+"483","048 D010600        0"
+"484","048 D020600 0.000"
+"485","048 E010600        0"
+"486","048 E020600 0.000"
+"487","048 F010600        0"
+"488","048 F020600 0.000"
+"489","048 G010600        0"
+"490","048 G020600 0.000"
+"491","048 H010600        0"
+"492","048 H020600 0.000"
+"493","048 I010600        0"
+"494","048 I020600 0.000"
+"495","048 J010600        0"
+"496","048 J020600 0.000"
+"497","048 K010600        0"
+"498","048 K020600 0.000"
+"499","049  000600 N"
+"500","050  000600 N"
+"501","051  000600 N"
+"502","052  000600 N"
+"503","053 A000600 Y"
+"504","053 B000600 Y"
+"505","053 C000600 N"
+"506","055 A000600 N"
+"507","055 B000600 N"
+"508","056  000600 Y"
+"509","057  000600 N"
+"510","058 A000600 N"
+"511","059  000600 Y"
+"512","060 A000600 N"
+"513","060 B000600 N"
+"514","061  000600        0"
+"515","062 A000600 N"
+"516","062 B000600   0.0"
+"517","062 C000600   0.0"
+"518","062 D000600   0.0"
+"519","062 E000600   0.0"
+"520","062 F000600   0.0"
+"521","062 G000600   0.0"
+"522","062 H000600   0.0"
+"523","062 I000600   0.0"
+"524","062 J000600   0.0"
+"525","062 K000600   0.0"
+"526","062 L000600   0.0"
+"527","062 M000600   0.0"
+"528","062 N000600   0.0"
+"529","062 O000600   0.0"
+"530","062 P000600   0.0"
+"531","062 Q000600   0.0"
+"532","062 R000600   0.0"
+"533","066 A000600 Y"
+"534","066 B000600 N"
+"535","066 C000600 N"
+"536","066 D000600 N"
+"537","066 E000600 N"
+"538","066 F000600 N"
+"539","066 G000600 Y"
+"540","067  000600 N"
+"541","068 A000600 N"
+"542","068 B000600 N"
+"543","069  000600 N"
+"544","070 A010600 Y"
+"545","070 A020600 N"
+"546","070 B010600 Y"
+"547","070 B020600 N"
+"548","070 C010600 Y"
+"549","070 C020600 N"
+"550","070 D010600 Y"
+"551","070 D020600 N"
+"552","070 E010600 Y"
+"553","070 E020600 N"
+"554","070 F010600 Y"
+"555","070 F020600 N"
+"556","070 G010600 Y"
+"557","070 G020600 N"
+"558","070 H010600 Y"
+"559","070 H020600 N"
+"560","070 I010600 Y"
+"561","070 I020600 N"
+"562","070 J010600 Y"
+"563","070 J020600 N"
+"564","070 K010600 Y"
+"565","070 K020600 Y"
+"566","070 L010600 Y"
+"567","070 L020600 N"
+"568","070 M010600 Y"
+"569","070 M020600 N"
+"570","070 N010600 Y"
+"571","070 N020600 N"
+"572","070 O010600 Y"
+"573","070 O020600 N"
+"574","070 P010600 Y"
+"575","070 P020600 N"
+"576","070 Q010600 N"
+"577","070 Q020600 N"
+"578","070 R010600 Y"
+"579","070 R020600 N"
+"580","071 A000600     71386"
+"581","071 B000600     55678"
+"582","071 C000600     73009"
+"583","071 D000600   76"
+"584","072 A000600 12"
+"585","072 B000600      205"
+"586","072 C000600     2206"
+"587","072 D000600        0"
+"588","072 E000600        0"
+"589","072 F000600      497"
+"590","072 G000600       69"
+"591","072 H000600        0"
+"592","072 I000600       72"
+"593","072 J000600       36"
+"594","072 K000600        0"
+"595","072 L000600       26"
+"596","072 M000600        1"
+"597","072 N000600       66"
+"598","072 O000600        0"
+"599","072 P000600        0"
+"600","072 Q000600        0"
+"601","072 R000600       64"
+"602","072 S000600        2"
+"603","072 T000600       15"
+"604","072 U000600        0"
+"605","072 V000600        0"
+"606","072 W000600       26"
+"607","072 X000600      874"
+"608","072 Y000600      158"
+"609","072 Z000600     1695"
+"610","072AA000600     3584"
+"611","072BB000600        0"
+"612","072CC010600    10524"
+"613","072CC020600        0"
+"614","072DD010600     1084"
+"615","072DD020600      551"
+"616","072EE000600     2270"
+"617","073 A010600   0.0000"
+"618","073 A020600   0.0000"
+"619","073 B000600   0.3869"
+"620","073 C000600   0.0000"
+"621","074 A000600        0"
+"622","074 B000600        0"
+"623","074 C000600        0"
+"624","074 D000600    16440"
+"625","074 E000600    22211"
+"626","074 F000600    45030"
+"627","074 G000600        0"
+"628","074 H000600        0"
+"629","074 I000600    11142"
+"630","074 J000600        0"
+"631","074 K000600        0"
+"632","074 L000600      747"
+"633","074 M000600        0"
+"634","074 N000600    95570"
+"635","074 O000600      246"
+"636","074 P000600       90"
+"637","074 Q000600        0"
+"638","074 R010600        0"
+"639","074 R020600        0"
+"640","074 R030600        0"
+"641","074 R040600       60"
+"642","074 S000600        0"
+"643","074 T000600    95174"
+"644","074 U010600     3434"
+"645","074 U020600     1749"
+"646","074 V010600     0.00"
+"647","074 V020600     0.00"
+"648","074 W000600   0.0000"
+"649","074 X000600       90"
+"650","074 Y000600        0"
+"651","075 A000600        0"
+"652","075 B000600    82844"
+"653","076  000600     0.00"
+"654","080 A000600 St. Paul Fire and Marine Insurance Company"
+"655","080 C000600    18475"
+"656","081 A000600 Y"
+"657","081 B000600 156"
+"658","082 A000600 Y"
+"659","082 B000600        0"
+"660","083 A000600 N"
+"661","083 B000600        0"
+"662","084 A000600 N"
+"663","084 B000600        0"
+"664","085 A000600 Y"
+"665","085 B000600 N"
+"666","SIGNATURE   Laura M. Del Prato"
+"667","TITLE        Treasurer and Principal Financial Officer"
+"668","</TEXT>"
+"669","</DOCUMENT>"
+"670","<DOCUMENT>"
+"671","<TYPE>EX-99.77B ACCT LTTR"
+"672","<SEQUENCE>2"
+"673","<FILENAME>trustiannualsecuritycapital-.htm"
+"674","<DESCRIPTION>EX-99.77B ACCT LTTR"
+"675","<TEXT>"
+"676","<HTML>"
+"677","<HEAD></HEAD>"
+"678","<BODY>"
+"679","<PRE>"
+"680","Report of Independent Registered Public Accounting Firm"
+"681","To the Board of Trustees and Shareholders of JPMorgan Trust I"
+"682","In planning and performing our audit of the financial statements of the Security Capital U.S."
+"683","Core Real Estate Securities Fund of JPMorgan Trust I (hereafter referred to as the &#147;Trust&#148;) as"
+"684","of and for the year ended December 31, 2014, in accordance with the standards of the Public"
+"685","Company Accounting Oversight Board (United States), we considered the Trust&#146;s internal control"
+"686","over financial reporting, including controls over safeguarding securities, as a basis for designing"
+"687","our auditing procedures for the purpose of expressing our opinion on the financial statements and to"
+"688","comply with the requirements of Form N-SAR, but not for the purpose of expressing an opinion on the"
+"689","effectiveness of the Trust&#146;s internal control over financial reporting.  Accordingly, we do not"
+"690","express an opinion on the effectiveness of the Trust&#146;s internal control over financial reporting."
+"691","The management of the Trust is responsible for establishing and maintaining effective internal"
+"692","control over financial reporting.  In fulfilling this responsibility, estimates and judgments"
+"693","by management are required to assess the expected benefits and related costs of controls.  A"
+"694","fund&#146;s internal control over financial reporting is a process designed to provide reasonable"
+"695","assurance regarding the reliability of financial reporting and the preparation of financial"
+"696","statements for external purposes in accordance with generally accepted accounting principles."
+"697","A fund&#146;s internal control over financial reporting includes those policies and procedures that"
+"698","(1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect"
+"699","the transactions and dispositions of the assets of the fund; (2) provide reasonable assurance that"
+"700","transactions are recorded as necessary to permit preparation of financial statements in accordance"
+"701","with generally accepted accounting principles, and that receipts and expenditures of the fund are"
+"702","being made only in accordance with authorizations of management and trustees of the fund; and (3)"
+"703","provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition,"
+"704","use or disposition of a fund&#146;s assets that could have a material effect on the financial statements."
+"705","Because of its inherent limitations, internal control over financial reporting may not prevent or"
+"706","detect misstatements.  Also, projections of any evaluation of effectiveness to future periods are"
+"707","subject to the risk that controls may become inadequate because of changes in conditions, or that"
+"708","the degree of compliance with the policies or procedures may deteriorate."
+"709","A deficiency in internal control over financial reporting exists when the design or operation of a"
+"710","control does not allow management or employees, in the normal course of performing their assigned"
+"711","functions, to prevent or detect misstatements on a timely basis.  A material weakness is a deficiency,"
+"712","or a combination of deficiencies, in internal control over financial reporting, such that there is a"
+"713","reasonable possibility that a material misstatement of the Trust&#146;s annual or interim financial statements"
+"714","will not be prevented or detected on a timely basis."
+"715","Our consideration of the Trust&#146;s internal control over financial reporting was for the limited purpose"
+"716","described in the first paragraph and would not necessarily disclose all deficiencies in internal control"
+"717","over financial reporting that might be material weaknesses under standards established by the Public"
+"718","Company Accounting Oversight Board (United States).  However, we noted no deficiencies in the Trust&#146;s"
+"719","internal control over financial reporting and its operation, including controls over safeguarding securities,"
+"720","that we consider to be material weaknesses as defined above as of December 31, 2014."
+"721","This report is intended solely for the information and use of management and the Board of Trustees of"
+"722","JPMorgan Trust I and the Securities and Exchange Commission and is not intended to be and should not"
+"723","be used by anyone other than these specified parties."
+"724","PricewaterhouseCoopers LLP"
+"725","New York, New York"
+"726","February 20, 2015"
+"727","</PRE>"
+"728","</BODY>"
+"729","</HTML>"
+"730","</TEXT>"
+"731","</DOCUMENT>"
+"732","<DOCUMENT>"
+"733","<TYPE>EX-99.77Q1 OTHR EXHB"
+"734","<SEQUENCE>3"
+"735","<FILENAME>trustiboth-77q1a.htm"
+"736","<DESCRIPTION>EX-99.77Q1 OTHR EXHB"
+"737","<TEXT>"
+"738","<HTML>"
+"739","<HEAD></HEAD>"
+"740","<BODY>"
+"741","<PRE>"
+"742","77Q1(a)"
+"743","Amended Schedule B, dated November 21, 2014, to the Declaration of Trust dated November 5, 2004 (as amended February 15, 2005 and May 14, 2014). Incorporated herein by reference to the Registrant&#146;s Registration Statement as filed with the Securities and Exchange Commission on November 21, 2014 (Accession No. 0001193125-14-421485)."
+"744","</PRE>"
+"745","</BODY>"
+"746","</HTML>"
+"747","</TEXT>"
+"748","</DOCUMENT>"
+"749","<DOCUMENT>"
+"750","<TYPE>EX-99.77Q1 OTHR EXHB"
+"751","<SEQUENCE>4"
+"752","<FILENAME>trustiboth-77q1e.htm"
+"753","<DESCRIPTION>EX-99.77Q1 OTHR EXHB"
+"754","<TEXT>"
+"755","<HTML>"
+"756","<HEAD></HEAD>"
+"757","<BODY>"
+"758","<PRE>"
+"759","77Q1(e)"
+"760","Amended Schedule A to the Investment Advisory Agreement (amended as of November 19, 2014). Incorporated herein by reference to the Registrant&#146;s Registration Statement as filed with the Securities and Exchange Commission on December 30, 2015 (Accession No. 0001193125-15-027150)."
+"761","</PRE>"
+"762","</BODY>"
+"763","</HTML>"
+"764","</TEXT>"
+"765","</DOCUMENT>"
+"766","<DOCUMENT>"
+"767","<TYPE>EX-99.77O RULE 10F-3"
+"768","<SEQUENCE>5"
+"769","<FILENAME>trustiboth10f-377o.htm"
+"770","<DESCRIPTION>EX-99.77O RULE 10F-3"
+"771","<TEXT>"
+"772","<HTML>"
+"773","<HEAD></HEAD>"
+"774","<BODY>"
+"775","<PRE>"
+"776","JPMorgan Funds - JPMorgan Trust I"
+"777","Rule 10f-3 Transactions"
+"778","For the period from July 1, 2014 to December 31, 2014"
+"779","The following securities were purchased pursuant to Rule 10f-3 and all requirements of the Rule 10f-3 Procedures of the Funds:"
+"780","Fund	JPMorgan Diversified Fund"
+"781","Trade Date	7/17/2014"
+"782","Issuer	TreeHouse Foods, Inc. (THS) Secondary"
+"783","Cusip	89469A10"
+"784","Shares	300"
+"785","Offering Price	$75.500"
+"786","Spread	$3.020"
+"787","Cost	$22,650"
+"788","Dealer Executing Trade	Wells Fargo Securities"
+"789","% of Offering  purchased by firm	2.74%"
+"790","Syndicate Members	J.P. Morgan / Wells Fargo Securities / BofA Merrill Lynch / BMO Capital Markets / SunTrust Robinson Humphrey / Barclays / BB&T Capital Markets / William Blair / Stephens Inc."
+"791","Fund	JPMorgan Value Advantage Fund"
+"792","Trade Date	7/17/2014"
+"793","Issuer	TreeHouse Foods, Inc. (THS) Secondary"
+"794","Cusip	89469A10"
+"795","Shares	53,200"
+"796","Offering Price	$75.500"
+"797","Spread	$3.020"
+"798","Cost	$4,016,600"
+"799","Dealer Executing Trade	Wells Fargo Securities"
+"800","% of Offering  purchased by firm	2.74%"
+"801","Syndicate Members	J.P. Morgan / Wells Fargo Securities / BofA Merrill Lynch / BMO Capital Markets / SunTrust Robinson Humphrey / Barclays / BB&T Capital Markets / William Blair / Stephens Inc."
+"802","Fund	JPMorgan Diversified Fund"
+"803","Trade Date	7/18/2014"
+"804","Issuer	Sage Therapeutics, Inc. (SAGE) IPO"
+"805","Cusip	78667J10"
+"806","Shares	300"
+"807","Offering Price	$18.000"
+"808","Spread	$1.260"
+"809","Cost	$5,400"
+"810","Dealer Executing Trade	Goldman, Sachs & Co."
+"811","% of Offering  purchased by firm	3.32%"
+"812","Syndicate Members	J.P. Morgan / Goldman, Sachs & Co. / Leerink Partners / Canaccord Genuity"
+"813","Fund	JPMorgan Dynamic Small Cap Growth Fund"
+"814","Trade Date	7/18/2014"
+"815","Issuer	Sage Therapeutics, Inc. (SAGE) IPO"
+"816","Cusip	78667J10"
+"817","Shares	23,200"
+"818","Offering Price	$18.000"
+"819","Spread	$1.260"
+"820","Cost	$417,600"
+"821","Dealer Executing Trade	Goldman, Sachs & Co."
+"822","% of Offering  purchased by firm	3.32%"
+"823","Syndicate Members	J.P. Morgan / Goldman, Sachs & Co. / Leerink Partners / Canaccord Genuity"
+"824","Fund	JPMorgan Small Cap Core Fund"
+"825","Trade Date	7/18/2014"
+"826","Issuer	Sage Therapeutics, Inc. (SAGE) IPO"
+"827","Cusip	78667J10"
+"828","Shares	6,700"
+"829","Offering Price	$18.000"
+"830","Spread	$1.260"
+"831","Cost	$120,600"
+"832","Dealer Executing Trade	Goldman, Sachs & Co."
+"833","% of Offering  purchased by firm	3.32%"
+"834","Syndicate Members	J.P. Morgan / Goldman, Sachs & Co. / Leerink Partners / Canaccord Genuity"
+"835","Fund	JPMorgan US Small Company Fund"
+"836","Trade Date	7/18/2014"
+"837","Issuer	Sage Therapeutics, Inc. (SAGE) IPO"
+"838","Cusip	78667J10"
+"839","Shares	5,400"
+"840","Offering Price	$18.000"
+"841","Spread	$1.260"
+"842","Cost	$97,200"
+"843","Dealer Executing Trade	Goldman, Sachs & Co."
+"844","% of Offering  purchased by firm	3.32%"
+"845","Syndicate Members	J.P. Morgan / Goldman, Sachs & Co. / Leerink Partners / Canaccord Genuity"
+"846","Fund	JPMorgan Diversified Fund"
+"847","Trade Date	7/18/2014"
+"848","Issuer	TerraForm Power, Inc. (TERP) IPO"
+"849","Cusip	88104R10"
+"850","Shares	400"
+"851","Offering Price	$25.000"
+"852","Spread	$1.740"
+"853","Cost	$10,000"
+"854","Dealer Executing Trade	Goldman, Sachs & Co."
+"855","% of Offering  purchased by firm	0.47%"
+"856","Syndicate Members	Goldman, Sachs & Co. / Barclays / Citigroup / J.P. Morgan / Macquarie Capital / Santander / FBR"
+"857","Fund	JPMorgan Small Cap Core Fund"
+"858","Trade Date	7/18/2014"
+"859","Issuer	TerraForm Power, Inc. (TERP) IPO"
+"860","Cusip	88104R10"
+"861","Shares	12,400"
+"862","Offering Price	$25.000"
+"863","Spread	$1.740"
+"864","Cost	$310,000"
+"865","Dealer Executing Trade	Goldman, Sachs & Co."
+"866","% of Offering  purchased by firm	0.47%"
+"867","Syndicate Members	Goldman, Sachs & Co. / Barclays / Citigroup / J.P. Morgan / Macquarie Capital / Santander / FBR"
+"868","Fund	JPMorgan US Small Company Fund"
+"869","Trade Date	7/18/2014"
+"870","Issuer	TerraForm Power, Inc. (TERP) IPO"
+"871","Cusip	88104R10"
+"872","Shares	7,200"
+"873","Offering Price	$25.000"
+"874","Spread	$1.740"
+"875","Cost	$180,000"
+"876","Dealer Executing Trade	Goldman, Sachs & Co."
+"877","% of Offering  purchased by firm	0.47%"
+"878","Syndicate Members	Goldman, Sachs & Co. / Barclays / Citigroup / J.P. Morgan / Macquarie Capital / Santander / FBR"
+"879","Fund	JPMorgan Diversified Fund"
+"880","Trade Date	7/18/2014"
+"881","Issuer	Globant S.A. (GLOB) IPO"
+"882","Cusip	L4438510"
+"883","Shares	900"
+"884","Offering Price	$10.000"
+"885","Spread	$0.700"
+"886","Cost	$9,000"
+"887","Dealer Executing Trade	Citigroup"
+"888","% of Offering  purchased by firm	2.42%"
+"889","Syndicate Members	J.P. Morgan / Citigroup / Credit Suisse / William Blair / Cowen and Company / LOYAL3 Securities"
+"890","Fund	JPMorgan Small Cap Core Fund"
+"891","Trade Date	7/18/2014"
+"892","Issuer	Globant S.A. (GLOB) IPO"
+"893","Cusip	L4438510"
+"894","Shares	17,300"
+"895","Offering Price	$10.000"
+"896","Spread	$0.700"
+"897","Cost	$173,000"
+"898","Dealer Executing Trade	Citigroup"
+"899","% of Offering  purchased by firm	2.42%"
+"900","Syndicate Members	J.P. Morgan / Citigroup / Credit Suisse / William Blair / Cowen and Company / LOYAL3 Securities"
+"901","Fund	JPMorgan US Small Company Fund"
+"902","Trade Date	7/18/2014"
+"903","Issuer	Globant S.A. (GLOB) IPO"
+"904","Cusip	L4438510"
+"905","Shares	13,700"
+"906","Offering Price	$10.000"
+"907","Spread	$0.700"
+"908","Cost	$137,000"
+"909","Dealer Executing Trade	Citigroup"
+"910","% of Offering  purchased by firm	2.42%"
+"911","Syndicate Members	J.P. Morgan / Citigroup / Credit Suisse / William Blair / Cowen and Company / LOYAL3 Securities"
+"912","Fund	JPMorgan Diversified Fund"
+"913","Trade Date	7/24/2014"
+"914","Issuer	Intersect ENT, Inc. (XENT) IPO"
+"915","Cusip	46071F10"
+"916","Shares	400"
+"917","Offering Price	$11.000"
+"918","Spread	$0.770"
+"919","Cost	$4,400"
+"920","Dealer Executing Trade	Piper Jaffray"
+"921","% of Offering  purchased by firm	1.42%"
+"922","Syndicate Members	J.P. Morgan / Piper Jaffray / Leerink Partners / Wedbush PacGrow Life Sciences"
+"923","Fund	JPMorgan Small Cap Core Fund"
+"924","Trade Date	7/24/2014"
+"925","Issuer	Intersect ENT, Inc. (XENT) IPO"
+"926","Cusip	46071F10"
+"927","Shares	8,700"
+"928","Offering Price	$11.000"
+"929","Spread	$0.770"
+"930","Cost	$95,700"
+"931","Dealer Executing Trade	Piper Jaffray"
+"932","% of Offering  purchased by firm	1.42%"
+"933","Syndicate Members	J.P. Morgan / Piper Jaffray / Leerink Partners / Wedbush PacGrow Life Sciences"
+"934","Fund	JPMorgan US Small Company Fund"
+"935","Trade Date	7/24/2014"
+"936","Issuer	Intersect ENT, Inc. (XENT) IPO"
+"937","Cusip	46071F10"
+"938","Shares	6,900"
+"939","Offering Price	$11.000"
+"940","Spread	$0.770"
+"941","Cost	$75,900"
+"942","Dealer Executing Trade	Piper Jaffray"
+"943","% of Offering  purchased by firm	1.42%"
+"944","Syndicate Members	J.P. Morgan / Piper Jaffray / Leerink Partners / Wedbush PacGrow Life Sciences"
+"945","Fund	JPMorgan Diversified Fund"
+"946","Trade Date	7/30/2014"
+"947","Issuer	Catalent, Inc. (CTLT) IPO"
+"948","Cusip	14880610"
+"949","Shares	2,500"
+"950","Offering Price	$20.500"
+"951","Spread	$1.030"
+"952","Cost	$51,250"
+"953","Dealer Executing Trade	Morgan Stanley"
+"954","% of Offering  purchased by firm	5.62%"
+"955","Syndicate Members	Morgan Stanley / J.P. Morgan / BofA Merrill Lynch / Goldman, Sachs & Co. / Jefferies / Deutsche Bank Securities / Blackstone Capital Markets / Piper Jaffray / Raymond James / Wells Fargo Securities / William Blair / Evercore"
+"956","Fund	JPMorgan Small Cap Core Fund"
+"957","Trade Date	7/30/2014"
+"958","Issuer	Catalent, Inc. (CTLT) IPO"
+"959","Cusip	14880610"
+"960","Shares	51,000"
+"961","Offering Price	$20.500"
+"962","Spread	$1.030"
+"963","Cost	$1,045,500"
+"964","Dealer Executing Trade	Morgan Stanley"
+"965","% of Offering  purchased by firm	5.62%"
+"966","Syndicate Members	Morgan Stanley / J.P. Morgan / BofA Merrill Lynch / Goldman, Sachs & Co. / Jefferies / Deutsche Bank Securities / Blackstone Capital Markets / Piper Jaffray / Raymond James / Wells Fargo Securities / William Blair / Evercore"
+"967","Fund	JPMorgan Small Cap Equity Fund"
+"968","Trade Date	7/30/2014"
+"969","Issuer	Catalent, Inc. (CTLT) IPO"
+"970","Cusip	14880610"
+"971","Shares	1,773,100"
+"972","Offering Price	$20.500"
+"973","Spread	$1.030"
+"974","Cost	$36,348,550"
+"975","Dealer Executing Trade	Morgan Stanley"
+"976","% of Offering  purchased by firm	5.62%"
+"977","Syndicate Members	Morgan Stanley / J.P. Morgan / BofA Merrill Lynch / Goldman, Sachs & Co. / Jefferies / Deutsche Bank Securities / Blackstone Capital Markets / Piper Jaffray / Raymond James / Wells Fargo Securities / William Blair / Evercore"
+"978","Fund	JPMorgan US Small Company Fund"
+"979","Trade Date	7/30/2014"
+"980","Issuer	Catalent, Inc. (CTLT) IPO"
+"981","Cusip	14880610"
+"982","Shares	40,600"
+"983","Offering Price	$20.500"
+"984","Spread	$1.030"
+"985","Cost	$832,300"
+"986","Dealer Executing Trade	Morgan Stanley"
+"987","% of Offering  purchased by firm	5.62%"
+"988","Syndicate Members	Morgan Stanley / J.P. Morgan / BofA Merrill Lynch / Goldman, Sachs & Co. / Jefferies / Deutsche Bank Securities / Blackstone Capital Markets / Piper Jaffray / Raymond James / Wells Fargo Securities / William Blair / Evercore"
+"989","Fund	JPMorgan Diversified Fund"
+"990","Trade Date	7/31/2014"
+"991","Issuer	HealthEquity, Inc. (HQY) IPO"
+"992","Cusip	42226A10"
+"993","Shares	500"
+"994","Offering Price	$14.000"
+"995","Spread	$0.980"
+"996","Cost	$7,000"
+"997","Dealer Executing Trade	Wells Fargo Securities"
+"998","% of Offering  purchased by firm	3.15%"
+"999","Syndicate Members	J.P. Morgan / Wells Fargo Securities / Raymond James / Baird / SunTrust Robinson Humphrey"
+"1000","Fund	JPMorgan Small Cap Core Fund"
+"1001","Trade Date	7/31/2014"
+"1002","Issuer	HealthEquity, Inc. (HQY) IPO"
+"1003","Cusip	42226A10"
+"1004","Shares	10,100"
+"1005","Offering Price	$14.000"
+"1006","Spread	$0.980"
+"1007","Cost	$141,400"
+"1008","Dealer Executing Trade	Wells Fargo Securities"
+"1009","% of Offering  purchased by firm	3.15%"
+"1010","Syndicate Members	J.P. Morgan / Wells Fargo Securities / Raymond James / Baird / SunTrust Robinson Humphrey"
+"1011","Fund	JPMorgan Small Cap Equity Fund"
+"1012","Trade Date	7/31/2014"
+"1013","Issuer	HealthEquity, Inc. (HQY) IPO"
+"1014","Cusip	42226A10"
+"1015","Shares	183,100"
+"1016","Offering Price	$14.000"
+"1017","Spread	$0.980"
+"1018","Cost	$2,563,400"
+"1019","Dealer Executing Trade	Wells Fargo Securities"
+"1020","% of Offering  purchased by firm	3.15%"
+"1021","Syndicate Members	J.P. Morgan / Wells Fargo Securities / Raymond James / Baird / SunTrust Robinson Humphrey"
+"1022","Fund	JPMorgan US Small Company Fund"
+"1023","Trade Date	7/31/2014"
+"1024","Issuer	HealthEquity, Inc. (HQY) IPO"
+"1025","Cusip	42226A10"
+"1026","Shares	8,000"
+"1027","Offering Price	$14.000"
+"1028","Spread	$0.980"
+"1029","Cost	$112,000"
+"1030","Dealer Executing Trade	Wells Fargo Securities"
+"1031","% of Offering  purchased by firm	3.15%"
+"1032","Syndicate Members	J.P. Morgan / Wells Fargo Securities / Raymond James / Baird / SunTrust Robinson Humphrey"
+"1033","Fund	JPMorgan Small Cap Core Fund"
+"1034","Trade Date	8/8/2014"
+"1035","Issuer	Ryerson Holding Corporation (RYI) Secondary"
+"1036","Cusip	78375410"
+"1037","Shares	51,900"
+"1038","Offering Price	$11.000"
+"1039","Spread	$0.660"
+"1040","Cost	$570,900"
+"1041","Dealer Executing Trade	Deutsche Bank Securities"
+"1042","% of Offering  purchased by firm	1.76%"
+"1043","Syndicate Members	BofA Merrill Lynch / Deutsche Bank Securities / BMO Capital Markets / J.P. Morgan / Jefferies / Wells Fargo Securities / KeyBanc Capital Markets / Citigroup / Stephens Inc. / Macquarie Capital / Evercore"
+"1044","Fund	JPMorgan Access Balanced Fund"
+"1045","Trade Date	9/18/2014"
+"1046","Issuer	Alibaba Group Holding Limited (BABA) IPO"
+"1047","Cusip	01609W10"
+"1048","Shares	3,603"
+"1049","Offering Price	$68.000"
+"1050","Spread	$0.816"
+"1051","Cost	$245,004"
+"1052","Dealer Executing Trade	Morgan Stanley"
+"1053","% of Offering  purchased by firm	0.15%"
+"1054","Syndicate Members	Credit Suisse / Deutsche Bank / Goldman Sachs / J.P. Morgan / Morgan Stanley / Citi / BOCI / CICC / CLSA / DBS Bank / HSBC / Mizuho / Pacific Crest / Stifel / Wells Fargo / BNP Paribas / Evercore / Raymond James / SunTrust Robinson Humphrey"
+"1055","Fund	JPMorgan Access Growth Fund"
+"1056","Trade Date	9/18/2014"
+"1057","Issuer	Alibaba Group Holding Limited (BABA) IPO"
+"1058","Cusip	01609W10"
+"1059","Shares	3,755"
+"1060","Offering Price	$68.000"
+"1061","Spread	$0.816"
+"1062","Cost	$255,340"
+"1063","Dealer Executing Trade	Morgan Stanley"
+"1064","% of Offering  purchased by firm	0.15%"
+"1065","Syndicate Members	Credit Suisse / Deutsche Bank / Goldman Sachs / J.P. Morgan / Morgan Stanley / Citi / BOCI / CICC / CLSA / DBS Bank / HSBC / Mizuho / Pacific Crest / Stifel / Wells Fargo / BNP Paribas / Evercore / Raymond James / SunTrust Robinson Humphrey"
+"1066","Fund	JPMorgan Diversified Fund"
+"1067","Trade Date	9/23/2014"
+"1068","Issuer	Citizens  Financial Group, Inc. (CFG) IPO"
+"1069","Cusip	17461010"
+"1070","Shares	17,100"
+"1071","Offering Price	$21.500"
+"1072","Spread	$0.409"
+"1073","Cost	$367,650"
+"1074","Dealer Executing Trade	Morgan Stanley"
+"1075","% of Offering  purchased by firm	5.53%"
+"1076","Syndicate Members	Morgan Stanley / Goldman, Sachs & Co. / J.P. Morgan / Barclays / Citigroup / Deutsche Bank Securities / RBS / Wells Fargo Securities / Credit Suisse / UBS Investment Bank / Jefferies / Keefe, Bruyette, & Woods / Oppenheimer & Co. / RBC Capital Markets / A Stifel Company, Sandler O'Neill + Partners, L.P. / Evercore / ING / Sanford C. Bernstein / Guggenheim Securities / Lebenthal Capital Markets / The Williams Capital Group, L.P."
+"1077","Fund	JPMorgan Mid Cap Equity Fund"
+"1078","Trade Date	9/23/2014"
+"1079","Issuer	Citizens  Financial Group, Inc. (CFG) IPO"
+"1080","Cusip	17461010"
+"1081","Shares	317,200"
+"1082","Offering Price	$21.500"
+"1083","Spread	$0.409"
+"1084","Cost	$6,819,800"
+"1085","Dealer Executing Trade	Morgan Stanley"
+"1086","% of Offering  purchased by firm	5.53%"
+"1087","Syndicate Members	Morgan Stanley / Goldman, Sachs & Co. / J.P. Morgan / Barclays / Citigroup / Deutsche Bank Securities / RBS / Wells Fargo Securities / Credit Suisse / UBS Investment Bank / Jefferies / Keefe, Bruyette, & Woods / Oppenheimer & Co. / RBC Capital Markets / A Stifel Company, Sandler O'Neill + Partners, L.P. / Evercore / ING / Sanford C. Bernstein / Guggenheim Securities / Lebenthal Capital Markets / The Williams Capital Group, L.P."
+"1088","Fund	JPMorgan Value Advantage Fund"
+"1089","Trade Date	9/23/2014"
+"1090","Issuer	Citizens  Financial Group, Inc. (CFG) IPO"
+"1091","Cusip	17461010"
+"1092","Shares	1,844,400"
+"1093","Offering Price	$21.500"
+"1094","Spread	$0.409"
+"1095","Cost	$39,654,600"
+"1096","Dealer Executing Trade	Morgan Stanley"
+"1097","% of Offering  purchased by firm	5.53%"
+"1098","Syndicate Members	Morgan Stanley / Goldman, Sachs & Co. / J.P. Morgan / Barclays / Citigroup / Deutsche Bank Securities / RBS / Wells Fargo Securities / Credit Suisse / UBS Investment Bank / Jefferies / Keefe, Bruyette, & Woods / Oppenheimer & Co. / RBC Capital Markets / A Stifel Company, Sandler O'Neill + Partners, L.P. / Evercore / ING / Sanford C. Bernstein / Guggenheim Securities / Lebenthal Capital Markets / The Williams Capital Group, L.P."
+"1099","Fund	JPMorgan Diversified Fund"
+"1100","Trade Date	10/2/2014"
+"1101","Issuer	VWR Corporation (VWR) IPO"
+"1102","Cusip	91843L10"
+"1103","Shares	1,400"
+"1104","Offering Price	$21.000"
+"1105","Spread	$1.155"
+"1106","Cost	$29,400"
+"1107","Dealer Executing Trade	BofA Merrill Lynch"
+"1108","% of Offering  purchased by firm	0.93%"
+"1109","Syndicate Members	BofA Merrill Lynch / Goldman, Sachs & Co. / J.P. Morgan / Barclays / Deutsche Bank Securities / Citigroup / Jefferies / William Blair / Cowen and Company / Mizuho Securities / SMBC Nikko / Drexel Hamilton / Loop Capital Markets"
+"1110","Fund	JPMorgan Small Cap Core Fund"
+"1111","Trade Date	10/2/2014"
+"1112","Issuer	VWR Corporation (VWR) IPO"
+"1113","Cusip	91843L10"
+"1114","Shares	27,700"
+"1115","Offering Price	$21.000"
+"1116","Spread	$1.155"
+"1117","Cost	$581,700"
+"1118","Dealer Executing Trade	BofA Merrill Lynch"
+"1119","% of Offering  purchased by firm	0.93%"
+"1120","Syndicate Members	BofA Merrill Lynch / Goldman, Sachs & Co. / J.P. Morgan / Barclays / Deutsche Bank Securities / Citigroup / Jefferies / William Blair / Cowen and Company / Mizuho Securities / SMBC Nikko / Drexel Hamilton / Loop Capital Markets"
+"1121","Fund	JPMorgan US Small Company Fund"
+"1122","Trade Date	10/2/2014"
+"1123","Issuer	VWR Corporation (VWR) IPO"
+"1124","Cusip	91843L10"
+"1125","Shares	23,900"
+"1126","Offering Price	$21.000"
+"1127","Spread	$1.155"
+"1128","Cost	$501,900"
+"1129","Dealer Executing Trade	BofA Merrill Lynch"
+"1130","% of Offering  purchased by firm	0.93%"
+"1131","Syndicate Members	BofA Merrill Lynch / Goldman, Sachs & Co. / J.P. Morgan / Barclays / Deutsche Bank Securities / Citigroup / Jefferies / William Blair / Cowen and Company / Mizuho Securities / SMBC Nikko / Drexel Hamilton / Loop Capital Markets"
+"1132","Fund	JPMorgan Diversified Fund"
+"1133","Trade Date	10/3/2014"
+"1134","Issuer	FMSA Holdings Inc. (FMSA) IPO"
+"1135","Cusip	30255X10"
+"1136","Shares	1,600"
+"1137","Offering Price	$16.000"
+"1138","Spread	$0.840"
+"1139","Cost	$25,600"
+"1140","Dealer Executing Trade	Morgan Stanley"
+"1141","% of Offering  purchased by firm	1.32%"
+"1142","Syndicate Members	Morgan Stanley / Wells Fargo Securities / Barclays / Goldman, Sachs & Co. / Jefferies / J.P. Morgan / KeyBanc Capital Markets / RBC Capital Markets / Baird / Cowen and Company / PNC Capital Markets LLC / Raymond James / Scotiabank / Howard Weil / Simmons & Company International / Tudor, Pickering, Holt & Co."
+"1143","Fund	JPMorgan Small Cap Core Fund"
+"1144","Trade Date	10/3/2014"
+"1145","Issuer	FMSA Holdings Inc. (FMSA) IPO"
+"1146","Cusip	30255X10"
+"1147","Shares	47,700"
+"1148","Offering Price	$16.000"
+"1149","Spread	$0.840"
+"1150","Cost	$763,200"
+"1151","Dealer Executing Trade	Morgan Stanley"
+"1152","% of Offering  purchased by firm	1.32%"
+"1153","Syndicate Members	Morgan Stanley / Wells Fargo Securities / Barclays / Goldman, Sachs & Co. / Jefferies / J.P. Morgan / KeyBanc Capital Markets / RBC Capital Markets / Baird / Cowen and Company / PNC Capital Markets LLC / Raymond James / Scotiabank / Howard Weil / Simmons & Company International / Tudor, Pickering, Holt & Co."
+"1154","Fund	JPMorgan US Small Company Fund"
+"1155","Trade Date	10/3/2014"
+"1156","Issuer	FMSA Holdings Inc. (FMSA) IPO"
+"1157","Cusip	30255X10"
+"1158","Shares	27,700"
+"1159","Offering Price	$16.000"
+"1160","Spread	$0.840"
+"1161","Cost	$443,200"
+"1162","Dealer Executing Trade	Morgan Stanley"
+"1163","% of Offering  purchased by firm	1.32%"
+"1164","Syndicate Members	Morgan Stanley / Wells Fargo Securities / Barclays / Goldman, Sachs & Co. / Jefferies / J.P. Morgan / KeyBanc Capital Markets / RBC Capital Markets / Baird / Cowen and Company / PNC Capital Markets LLC / Raymond James / Scotiabank / Howard Weil / Simmons & Company International / Tudor, Pickering, Holt & Co."
+"1165","Fund	JPMorgan Diversified Fund"
+"1166","Trade Date	10/8/2014"
+"1167","Issuer	HubSpot, Inc. (HUBS) IPO"
+"1168","Cusip	44357310"
+"1169","Shares	1,500"
+"1170","Offering Price	$25.000"
+"1171","Spread	$1.750"
+"1172","Cost	$37,500"
+"1173","Dealer Executing Trade	Morgan Stanley"
+"1174","% of Offering  purchased by firm	5.61%"
+"1175","Syndicate Members	Morgan Stanley / J.P. Morgan / UBS Investment Bank / Pacific Crest Securities / Canaccord Genuity / Raymond James"
+"1176","Fund	JPMorgan Dynamic Small Cap Growth Fund"
+"1177","Trade Date	10/8/2014"
+"1178","Issuer	HubSpot, Inc. (HUBS) IPO"
+"1179","Cusip	44357310"
+"1180","Shares	41,400"
+"1181","Offering Price	$25.000"
+"1182","Spread	$1.750"
+"1183","Cost	$1,035,000"
+"1184","Dealer Executing Trade	Morgan Stanley"
+"1185","% of Offering  purchased by firm	5.61%"
+"1186","Syndicate Members	Morgan Stanley / J.P. Morgan / UBS Investment Bank / Pacific Crest Securities / Canaccord Genuity / Raymond James"
+"1187","Fund	JPMorgan Small Cap Core Fund"
+"1188","Trade Date	10/8/2014"
+"1189","Issuer	HubSpot, Inc. (HUBS) IPO"
+"1190","Cusip	44357310"
+"1191","Shares	30,600"
+"1192","Offering Price	$25.000"
+"1193","Spread	$1.750"
+"1194","Cost	$765,000"
+"1195","Dealer Executing Trade	Morgan Stanley"
+"1196","% of Offering  purchased by firm	5.61%"
+"1197","Syndicate Members	Morgan Stanley / J.P. Morgan / UBS Investment Bank / Pacific Crest Securities / Canaccord Genuity / Raymond James"
+"1198","Fund	JPMorgan US Small Company Fund"
+"1199","Trade Date	10/8/2014"
+"1200","Issuer	HubSpot, Inc. (HUBS) IPO"
+"1201","Cusip	44357310"
+"1202","Shares	26,600"
+"1203","Offering Price	$25.000"
+"1204","Spread	$1.750"
+"1205","Cost	$665,000"
+"1206","Dealer Executing Trade	Morgan Stanley"
+"1207","% of Offering  purchased by firm	5.61%"
+"1208","Syndicate Members	Morgan Stanley / J.P. Morgan / UBS Investment Bank / Pacific Crest Securities / Canaccord Genuity / Raymond James"
+"1209","Fund	JPMorgan Diversified Fund"
+"1210","Trade Date	10/30/2014"
+"1211","Issuer	Boot Barn Holdings, Inc. (BOOT) IPO"
+"1212","Cusip	9940610"
+"1213","Shares	200"
+"1214","Offering Price	$16.000"
+"1215","Spread	$1.120"
+"1216","Cost	$3,200"
+"1217","Dealer Executing Trade	Jefferies"
+"1218","% of Offering  purchased by firm	0.75%"
+"1219","Syndicate Members	J.P. Morgan / Piper Jaffray / Jefferies / Wells Fargo Securities / Baird"
+"1220","Fund	JPMorgan Small Cap Core Fund"
+"1221","Trade Date	10/30/2014"
+"1222","Issuer	Boot Barn Holdings, Inc. (BOOT) IPO"
+"1223","Cusip	9940610"
+"1224","Shares	5,900"
+"1225","Offering Price	$16.000"
+"1226","Spread	$1.120"
+"1227","Cost	$94,400"
+"1228","Dealer Executing Trade	Jefferies"
+"1229","% of Offering  purchased by firm	0.75%"
+"1230","Syndicate Members	J.P. Morgan / Piper Jaffray / Jefferies / Wells Fargo Securities / Baird"
+"1231","Fund	JPMorgan US Small Company Fund"
+"1232","Trade Date	10/30/2014"
+"1233","Issuer	Boot Barn Holdings, Inc. (BOOT) IPO"
+"1234","Cusip	9940610"
+"1235","Shares	2,700"
+"1236","Offering Price	$16.000"
+"1237","Spread	$1.120"
+"1238","Cost	$43,200"
+"1239","Dealer Executing Trade	Jefferies"
+"1240","% of Offering  purchased by firm	0.75%"
+"1241","Syndicate Members	J.P. Morgan / Piper Jaffray / Jefferies / Wells Fargo Securities / Baird"
+"1242","Fund	JPMorgan Dynamic Small Cap Growth Fund"
+"1243","Trade Date	11/6/2014"
+"1244","Issuer	Coherus BioSciences, Inc. (CHRS) IPO"
+"1245","Cusip	19249H103"
+"1246","Shares	103,400"
+"1247","Offering Price	$13.500"
+"1248","Spread	$0.945"
+"1249","Cost	$1,395,900"
+"1250","Dealer Executing Trade	Credit Suisse"
+"1251","% of Offering  purchased by firm	6.46%"
+"1252","Syndicate Members	J.P. Morgan / Credit Suisse / Cowen and Company"
+"1253","Fund	JPMorgan Diversified Fund"
+"1254","Trade Date	11/6/2014"
+"1255","Issuer	Nevro Corp. (NVRO) IPO"
+"1256","Cusip	64157F103"
+"1257","Shares	1,700"
+"1258","Offering Price	$18.000"
+"1259","Spread	$1.260"
+"1260","Cost	$30,600"
+"1261","Dealer Executing Trade	Morgan Stanley"
+"1262","% of Offering  purchased by firm	4.21%"
+"1263","Syndicate Members	J.P. Morgan / Morgan Stanley / Leerink Partners / JMP Securities"
+"1264","Fund	JPMorgan Dynamic Small Cap Growth Fund"
+"1265","Trade Date	11/6/2014"
+"1266","Issuer	Nevro Corp. (NVRO) IPO"
+"1267","Cusip	64157F103"
+"1268","Shares	50,600"
+"1269","Offering Price	$18.000"
+"1270","Spread	$1.260"
+"1271","Cost	$910,800"
+"1272","Dealer Executing Trade	Morgan Stanley"
+"1273","% of Offering  purchased by firm	4.21%"
+"1274","Syndicate Members	J.P. Morgan / Morgan Stanley / Leerink Partners / JMP Securities"
+"1275","Fund	JPMorgan Small Cap Core Fund"
+"1276","Trade Date	11/6/2014"
+"1277","Issuer	Nevro Corp. (NVRO) IPO"
+"1278","Cusip	64157F103"
+"1279","Shares	32,800"
+"1280","Offering Price	$18.000"
+"1281","Spread	$1.260"
+"1282","Cost	$590,400"
+"1283","Dealer Executing Trade	Morgan Stanley"
+"1284","% of Offering  purchased by firm	4.21%"
+"1285","Syndicate Members	J.P. Morgan / Morgan Stanley / Leerink Partners / JMP Securities"
+"1286","Fund	JPMorgan US Small Company Fund"
+"1287","Trade Date	11/6/2014"
+"1288","Issuer	Nevro Corp. (NVRO) IPO"
+"1289","Cusip	64157F103"
+"1290","Shares	29,800"
+"1291","Offering Price	$18.000"
+"1292","Spread	$1.260"
+"1293","Cost	$536,400"
+"1294","Dealer Executing Trade	Morgan Stanley"
+"1295","% of Offering  purchased by firm	4.21%"
+"1296","Syndicate Members	J.P. Morgan / Morgan Stanley / Leerink Partners / JMP Securities"
+"1297","Fund	JPMorgan Access Balanced Fund"
+"1298","Trade Date	11/14/2014"
+"1299","Issuer	Premier, Inc. (PINC) Secondary"
+"1300","Cusip	74051N102"
+"1301","Shares	400"
+"1302","Offering Price	$32.350"
+"1303","Spread	$1.860"
+"1304","Cost	$12,940"
+"1305","Dealer Executing Trade	BofA Merrill Lynch"
+"1306","% of Offering  purchased by firm	0.02%"
+"1307","Syndicate Members	J.P. Morgan / BofA Merrill Lynch / Wells Fargo Securities / Citigroup / Raymond James / SunTrust Robinson Humphrey / William Blair"
+"1308","Fund	JPMorgan Access Growth Fund"
+"1309","Trade Date	11/14/2014"
+"1310","Issuer	Premier, Inc. (PINC) Secondary"
+"1311","Cusip	74051N102"
+"1312","Shares	400"
+"1313","Offering Price	$32.350"
+"1314","Spread	$1.860"
+"1315","Cost	$12,940"
+"1316","Dealer Executing Trade	BofA Merrill Lynch"
+"1317","% of Offering  purchased by firm	0.02%"
+"1318","Syndicate Members	J.P. Morgan / BofA Merrill Lynch / Wells Fargo Securities / Citigroup / Raymond James / SunTrust Robinson Humphrey / William Blair"
+"1319","Fund	Security Capital US Core Real Estate Fund"
+"1320","Trade Date	11/18/2014"
+"1321","Issuer	Paramount Group, Inc. (PGRE) IPO"
+"1322","Cusip	69924R108"
+"1323","Shares	5,550"
+"1324","Offering Price	$17.500"
+"1325","Spread	$0.788"
+"1326","Cost	$97,125"
+"1327","Dealer Executing Trade	Wells Fargo Securities"
+"1328","% of Offering  purchased by firm	0.54%"
+"1329","Syndicate Members	BofA Merrill Lynch / Morgan Stanley / Wells Fargo Securities / Deutsche Bank Securities / Citigroup / Credit Suisse / Goldman, Sachs & Co. / J.P. Morgan / RBC Capital Markets / UBS Investment Bank"
+"1330","Fund	JPMorgan Diversified Fund"
+"1331","Trade Date	12/11/2014"
+"1332","Issuer	New Relic, Inc. (NEWR) IPO"
+"1333","Cusip	64829B100"
+"1334","Shares	700"
+"1335","Offering Price	$23.000"
+"1336","Spread	$1.610"
+"1337","Cost	$16,100"
+"1338","Dealer Executing Trade	Morgan Stanley"
+"1339","% of Offering  purchased by firm	1.52%"
+"1340","Syndicate Members	Morgan Stanley / J.P. Morgan / Allen & Company LLC / UBS Investment Bank / JMP Securities / Raymond James"
+"1341","Fund	JPMorgan Dynamic Small Cap Growth Fund"
+"1342","Trade Date	12/11/2014"
+"1343","Issuer	New Relic, Inc. (NEWR) IPO"
+"1344","Cusip	64829B100"
+"1345","Shares	11,300"
+"1346","Offering Price	$23.000"
+"1347","Spread	$1.610"
+"1348","Cost	$259,900"
+"1349","Dealer Executing Trade	Morgan Stanley"
+"1350","% of Offering  purchased by firm	1.52%"
+"1351","Syndicate Members	Morgan Stanley / J.P. Morgan / Allen & Company LLC / UBS Investment Bank / JMP Securities / Raymond James"
+"1352","Fund	JPMorgan Small Cap Core Fund"
+"1353","Trade Date	12/11/2014"
+"1354","Issuer	New Relic, Inc. (NEWR) IPO"
+"1355","Cusip	64829B100"
+"1356","Shares	12,600"
+"1357","Offering Price	$23.000"
+"1358","Spread	$1.610"
+"1359","Cost	$289,800"
+"1360","Dealer Executing Trade	Morgan Stanley"
+"1361","% of Offering  purchased by firm	1.52%"
+"1362","Syndicate Members	Morgan Stanley / J.P. Morgan / Allen & Company LLC / UBS Investment Bank / JMP Securities / Raymond James"
+"1363","Fund	JPMorgan US Small Company Fund"
+"1364","Trade Date	12/11/2014"
+"1365","Issuer	New Relic, Inc. (NEWR) IPO"
+"1366","Cusip	64829B100"
+"1367","Shares	11,900"
+"1368","Offering Price	$23.000"
+"1369","Spread	$1.610"
+"1370","Cost	$273,700"
+"1371","Dealer Executing Trade	Morgan Stanley"
+"1372","% of Offering  purchased by firm	1.52%"
+"1373","Syndicate Members	Morgan Stanley / J.P. Morgan / Allen & Company LLC / UBS Investment Bank / JMP Securities / Raymond James"
+"1374","Fund	JPMorgan Diversified Fund"
+"1375","Trade Date	12/12/2014"
+"1376","Issuer	Connecture, Inc. (CNXR) IPO"
+"1377","Cusip	20786J106"
+"1378","Shares	1,200"
+"1379","Offering Price	$8.000"
+"1380","Spread	$0.560"
+"1381","Cost	$9,600"
+"1382","Dealer Executing Trade	Morgan Stanley"
+"1383","% of Offering  purchased by firm	1.03%"
+"1384","Syndicate Members	Morgan Stanley / J.P. Morgan / Wells Fargo Securities / Raymond James / William Blair"
+"1385","Fund	JPMorgan Small Cap Core Fund"
+"1386","Trade Date	12/12/2014"
+"1387","Issuer	Connecture, Inc. (CNXR) IPO"
+"1388","Cusip	20786J106"
+"1389","Shares	23,100"
+"1390","Offering Price	$8.000"
+"1391","Spread	$0.560"
+"1392","Cost	$184,800"
+"1393","Dealer Executing Trade	Morgan Stanley"
+"1394","% of Offering  purchased by firm	1.03%"
+"1395","Syndicate Members	Morgan Stanley / J.P. Morgan / Wells Fargo Securities / Raymond James / William Blair"
+"1396","Fund	JPMorgan US Small Company Fund"
+"1397","Trade Date	12/12/2014"
+"1398","Issuer	Connecture, Inc. (CNXR) IPO"
+"1399","Cusip	20786J106"
+"1400","Shares	22,200"
+"1401","Offering Price	$8.000"
+"1402","Spread	$0.560"
+"1403","Cost	$177,600"
+"1404","Dealer Executing Trade	Morgan Stanley"
+"1405","% of Offering  purchased by firm	1.03%"
+"1406","Syndicate Members	Morgan Stanley / J.P. Morgan / Wells Fargo Securities / Raymond James / William Blair"
+"1407","Fund	JPMorgan Dynamic Small Cap Growth Fund"
+"1408","Trade Date	12/16/2014"
+"1409","Issuer	On Deck Capital, Inc. (ONDK) IPO"
+"1410","Cusip	682163100"
+"1411","Shares	80,400"
+"1412","Offering Price	$20.000"
+"1413","Spread	$1.400"
+"1414","Cost	$1,608,000"
+"1415","Dealer Executing Trade	BofA Merrill Lynch"
+"1416","% of Offering  purchased by firm	2.76%"
+"1417","Syndicate Members	Morgan Stanley / BofA Merrill Lynch / J.P. Morgan / Deutsche Bank Securities / Jefferies / Raymond James / Stifel / Needham & Company"
+"1418","Fund	JPMorgan Diversified Fund"
+"1419","Trade Date	7/14/14"
+"1420","Issuer	Bank of Nova Scotai (BNS 2.80% June 21, 2021)"
+"1421","Cusip	064159FL"
+"1422","Bonds	315,000"
+"1423","Offering Price	$99.767"
+"1424","Spread	0.40%"
+"1425","Cost	$314,266"
+"1426","Dealer Executing Trade	Barclays Capital Inc"
+"1427","% of Offering  purchased by firm	0.79%"
+"1428","Syndicate Members	Barclays, Deutsche Bank, JPMorgan, BofA Merrill Lynch, Scotia Capital, Citigroup, Goldman Sachs, Morgan Stanley, Wells Fargo"
+"1429","Fund	JPMorgan Diversified Fund"
+"1430","Trade Date	7/14/14"
+"1431","Issuer	Bed Bath & Beyond Inc (BBBY 3.749% August 1, 2024)"
+"1432","Cusip	075896AA"
+"1433","Bonds	37,000"
+"1434","Offering Price	$99.999"
+"1435","Spread	0.45%"
+"1436","Cost	$37,000"
+"1437","Dealer Executing Trade	Morgan Stanley and Company"
+"1438","% of Offering  purchased by firm	1.00%"
+"1439","Syndicate Members	JPMorgan, Morgan Stanley, Wells fargo, Goldman Sachs, RBC, Santander"
+"1440","Fund	JPMorgan Diversified Fund"
+"1441","Trade Date	7/23/14"
+"1442","Issuer	EBAY Inc (EBAY 2.875% August 1, 2021)"
+"1443","Cusip	278642AK"
+"1444","Bonds	62,000"
+"1445","Offering Price	$99.779"
+"1446","Spread	0.40%"
+"1447","Cost	$61,863"
+"1448","Dealer Executing Trade	Citigroup Global Markets"
+"1449","% of Offering  purchased by firm	2.41%"
+"1450","Syndicate Members	Citigroup, JPMorgan, Wells fargo, Barclays, BNP Paribas, BNY Mellon, Credit Suisse, HSBC, Mitsubishi UFJ, RBC, RBS, Standard Chatered, Williams Capital"
+"1451","Fund	JPMorgan Diversified Fund"
+"1452","Trade Date	8/4/14"
+"1453","Issuer	American Tower Corporation (AMT 3.45% September 15, 2021)"
+"1454","Cusip	03027XAE"
+"1455","Bonds	165,000"
+"1456","Offering Price	$99.416"
+"1457","Spread	0.63%"
+"1458","Cost	$164,036"
+"1459","Dealer Executing Trade	Morgan Stanley and Company"
+"1460","% of Offering  purchased by firm	1.35%"
+"1461","Syndicate Members	BofA Merrill Lynch, Citigroup, JPMorgan, Mizuho, Morgan Stanley, BNP Paribas, Credeit Agricole, EA Markets, Goldman Sachs, HSBC, RBC, RBS, Santander, TD Securities, BBVA, Credit Suisse, SMBC Nikko, SunTrust"
+"1462","Fund	JPMorgan Diversified Fund"
+"1463","Trade Date	8/6/14"
+"1464","Issuer	Synchrony Financial (SYF 3.75% August 15, 2021)"
+"1465","Cusip	87165BAC"
+"1466","Bonds	70,000"
+"1467","Offering Price	$99.822"
+"1468","Spread	0.53%"
+"1469","Cost	$69,875"
+"1470","Dealer Executing Trade	Goldman Sachs and Company"
+"1471","% of Offering  purchased by firm	0.93%"
+"1472","Syndicate Members	BofA Merrill Lynch, Barclays, Citigroup, Credit Suisse, Deutsche bank, Goldman Sachs, JPMorgan, Morgan Stanley, Banco Santander, BNP Paribas, HSBC, Mizuho, MUFG Union Bank, RBC, RBS, SMBC Nikko, Societe Generale, Banca IMI, BBVA, Blaylock Beal Van LLC, CastleOak, Commerzbank, Credit Agricole, Fifth Third, ING, Lebenthal, Loop Capital, Mischler, Samuel A Ramirez"
+"1473","Fund	JPMorgan Diversified Fund"
+"1474","Trade Date	8/6/14"
+"1475","Issuer	Synchrony Financial (SYF 4.25% August 15, 2024)"
+"1476","Cusip	87165BAD"
+"1477","Bonds	80,000"
+"1478","Offering Price	$99.806"
+"1479","Spread	0.55%"
+"1480","Cost	$79,845"
+"1481","Dealer Executing Trade	Goldman Sachs and Company"
+"1482","% of Offering  purchased by firm	1.59%"
+"1483","Syndicate Members	BofA Merrill Lynch, Barclays, Citigroup, Credit Suisse, Deutsche bank, Goldman Sachs, JPMorgan, Morgan Stanley, Banco Santander, BNP Paribas, HSBC, Mizuho, MUFG Union Bank, RBC, RBS, SMBC Nikko, Societe Generale, Banca IMI, BBVA, Blaylock Beal Van LLC, CastleOak, Commerzbank, Credit Agricole, Fifth Third, ING, Lebenthal, Loop Capital, Mischler, Samuel A Ramirez"
+"1484","Fund	JPMorgan Diversified Fund"
+"1485","Trade Date	8/13/14"
+"1486","Issuer	Caterpillar Financial Services Corporation (CAT 1.25% August 18, 2017)"
+"1487","Cusip	14912L6D"
+"1488","Bonds	320,000"
+"1489","Offering Price	$99.950"
+"1490","Spread	0.25%"
+"1491","Cost	$319,840"
+"1492","Dealer Executing Trade	Citigroup Global Markets"
+"1493","% of Offering  purchased by firm	1.77%"
+"1494","Syndicate Members	Barclays, Citigroup, JPMorgan, ANZ, BBVA, BNP Paibas, Deutsche Bank, HSBC, Lloyds, Loop Caital, RBC, TD Securities, US Bancorp, Williams Capital"
+"1495","Fund	JPMorgan Diversified Fund"
+"1496","Trade Date	9/2/14"
+"1497","Issuer	The Bank of Tokyo-Mitsubishi JFJ, Ltd (MUFG 2.35% September 8, 2019 144A)"
+"1498","Cusip	064255BC"
+"1499","Bonds	240,000"
+"1500","Offering Price	$99.967"
+"1501","Spread	0.35%"
+"1502","Cost	$239,921"
+"1503","Dealer Executing Trade	Morgan Stanley and Company"
+"1504","% of Offering  purchased by firm	0.51%"
+"1505","Syndicate Members	Citigroup, BofA Merrill Lynch, Mitsubishi UFJ, Morgan Stanley, JPMOrgan, Barcalys, BNP Paribas, Deutsche Bank, HSBC, RBS"
+"1506","Fund	JPMorgan Diversified Fund"
+"1507","Trade Date	9/2/14"
+"1508","Issuer	Florida Power & Light Company (NEE 4.05% October 1, 2044)"
+"1509","Cusip	341081FL"
+"1510","Bonds	100,000"
+"1511","Offering Price	$99.670"
+"1512","Spread	0.88%"
+"1513","Cost	$99,670"
+"1514","Dealer Executing Trade	Morgan Stanley and Company"
+"1515","% of Offering  purchased by firm	2.46%"
+"1516","Syndicate Members	JPMorgan, Mizuho, Morgan Stanley, RBC, RBS, UBS, BBVA, CIBC, DNB Markets, KeyBanc, Regions, Williams Capital"
+"1517","Fund	JPMorgan Diversified Fund"
+"1518","Trade Date	9/2/14"
+"1519","Issuer	Marathon Petroleum Corporation (MPC 4.75% September 15, 2044)"
+"1520","Cusip	56585AAH"
+"1521","Bonds	100,000"
+"1522","Offering Price	$98.862"
+"1523","Spread	0.88%"
+"1524","Cost	$98,862"
+"1525","Dealer Executing Trade	RBS Securities Inc."
+"1526","% of Offering  purchased by firm	1.97%"
+"1527","Syndicate Members	Barclays, Citigroup, JPMorgan, BofA Merrill Lynch, Mitsubishi UFJ, Morgan Stanley, RBS, Deutche Bank, Fifth Third, UBS, US bancorp, Wells Fargo"
+"1528","Fund	JPMorgan Diversified Fund"
+"1529","Trade Date	9/2/14"
+"1530","Issuer	Plains All American Pipeline (PAA 3.60% November 1, 2024)"
+"1531","Cusip	72650RBF"
+"1532","Bonds	105,000"
+"1533","Offering Price	$99.842"
+"1534","Spread	0.65%"
+"1535","Cost	$104,834"
+"1536","Dealer Executing Trade	BofA Merrill Lynch"
+"1537","% of Offering  purchased by firm	3.95%"
+"1538","Syndicate Members	Barclays, BNP Paribas, DNB Markets, JPMorgan, BofA Merrill Lynch, Mizuho, BBVA, BMO Capital, CIBC World, Fifth Third, ING, Regions, SG Americas, SMBC Nikko, US bancorp"
+"1539","Fund	JPMorgan Diversified Fund"
+"1540","Trade Date	9/8/14"
+"1541","Issuer	Kinder Morgan Energy Partners, L.P. (KMP 5.40% September 1, 2044)"
+"1542","Cusip	494550BW"
+"1543","Bonds	115,000"
+"1544","Offering Price	$99.604"
+"1545","Spread	0.75%"
+"1546","Cost	$114,545"
+"1547","Dealer Executing Trade	Citigroup Global Markets"
+"1548","% of Offering  purchased by firm	6.36%"
+"1549","Syndicate Members	Citigroup, Credit Suisse, DNB Nor Markets, JPMorgan, Mizuho, Morgan Syanley, SunTrust, UBS, BBVA, CIBC World, ING, Natixis, Scotia Capital"
+"1550","Fund	JPMorgan Diversified Fund"
+"1551","Trade Date	9/9/14"
+"1552","Issuer	British Sky Broadcasting (BSY 3.75% September 16, 2024 144A)"
+"1553","Cusip	111013AL"
+"1554","Bonds	200,000"
+"1555","Offering Price	$99.620"
+"1556","Spread	0.45%"
+"1557","Cost	$199,240"
+"1558","Dealer Executing Trade	Barclays Capital Inc."
+"1559","% of Offering  purchased by firm	1.39%"
+"1560","Syndicate Members	Bank of China, Barclays, BNP Paribas, DNB Markets, HSBC, JPMorgan, Lloyds, Mitsubishi UFJ, Mizuho, Morgan Stanley, RBS, Santander, SMBC Nikko, Societe Generale, Unicredit"
+"1561","Fund	JPMorgan Diversified Fund"
+"1562","Trade Date	9/16/14"
+"1563","Issuer	Humana Inc (HUM 4.95% October 1, 2044)"
+"1564","Cusip	444859BE"
+"1565","Bonds	100,000"
+"1566","Offering Price	$99.518"
+"1567","Spread	0.88%"
+"1568","Cost	$99,518"
+"1569","Dealer Executing Trade	BofA Merrill Lynch"
+"1570","% of Offering  purchased by firm	1.31%"
+"1571","Syndicate Members	lays, JPMoergan, BofA Merrill Lynch, Wells Fargo, BB&T, BNY Mellon, Citigroup, Credit Suisse, Fifth Third, Goldman Sachs, Morgan Stanley, PNC, UMB Financial, US Bancorp"
+"1572","Fund	JPMorgan Diversified Fund"
+"1573","Trade Date	9/16/14"
+"1574","Issuer	Realty Income Corporation (O 4.125% October 15, 2026)"
+"1575","Cusip	756109AR"
+"1576","Bonds	135,000"
+"1577","Offering Price	$99.499"
+"1578","Spread	0.68%"
+"1579","Cost	$134,324"
+"1580","Dealer Executing Trade	Citigroup Global Markets"
+"1581","% of Offering  purchased by firm	3.79%"
+"1582","Syndicate Members	BNY Mellon, Citigroup, JPMorgan, BofA Merrill Lynch, RBC, Regions, USBancorp, Wells Fargo, Morgan Stanley, BB&T, BBVA, Mitsubishi UFJ, PNC, Capital One, Comerica, Evercore Partners, Mizuho, Moelis & Co, Raymond James, SMBC Nikko, TAP Advisors"
+"1583","Fund	JPMorgan Diversified Fund"
+"1584","Trade Date	9/16/14"
+"1585","Issuer	WPP Finance 2010 (WPPLN 3.75% September 19, 2024)"
+"1586","Cusip	92936MAF"
+"1587","Bonds	220,000"
+"1588","Offering Price	$98.029"
+"1589","Spread	0.45%"
+"1590","Cost	$215,664"
+"1591","Dealer Executing Trade	Citigroup Global Markets"
+"1592","% of Offering  purchased by firm	2.27%"
+"1593","Syndicate Members	Citigroup, Goldman Sachs, HSBC, JPMorgan, Wells Fargo"
+"1594","Fund	JPMorgan Diversified Fund"
+"1595","Trade Date	9/17/14"
+"1596","Issuer	Alcoa Inc (AA 5.125% October 1, 2024)"
+"1597","Cusip	013817AW"
+"1598","Bonds	60,000"
+"1599","Offering Price	$100.000"
+"1600","Spread	1.00%"
+"1601","Cost	$60,000"
+"1602","Dealer Executing Trade	Morgan Stanley and Company"
+"1603","% of Offering  purchased by firm	3.65%"
+"1604","Syndicate Members	Citigroup, Credit Suisse, Goldman Sachs, JPMorgan, Morgan Stanley, ANZ Securities, Banca IMI, Banco do Brasil, BNY Mello, BBVA, BNP Paribas, Bradesco Securities, Credit Agricole, Mitsubishi UFJ, Mizuho, PNC, RBC, RBS, Sandler ONeill, SMBC, TD Securities, US bancorp, Williams Capital
+Fund	JPMorgan Diversified Fund
+Trade Date	9/22/14
+Issuer	Niagara Mohawk Power (NGGLN 3.508% October 1, 2024 144A)
+Cusip	65364UAK
+Bonds	145,000
+Offering Price	$99.999
+Spread	0.40%
+Cost	$144,999
+Dealer Executing Trade	Wells Fargo Advisors
+% of Offering  purchased by firm	2.57%
+Syndicate Members	Goldman sachs, JPMorgan, Lloyds, Mizuho, Wells fargo, Bank of China, BBVA, BNP Paribas, BNY Mellon, ING, Mitsubishi UFJ, RBC, RBS, TD Securities, UBS, UniCredit
+Fund	JPMorgan Diversified Fund
+Trade Date	10/1/14
+Issuer	Bayer US Finance LLC (BAYNGR 3.375% October 8, 2024 144A)
+Cusip	07274EAG
+Bonds	200,000
+Offering Price	$99.011
+Spread	0.45%
+Cost	$198,022
+Dealer Executing Trade	BofA Merrill Lynch
+% of Offering  purchased by firm	1.05%
+Syndicate Members	Banco Santander, BofA Merrill Lynch, Barclays, BBVA, BNP Paribas, Citigroup, Commerzbank. Credit Agricole, Credit Suisse, Deutsche bank, Goldman Sachs, HSBC, JPMorgan, Mitsubishi UFJ, Mizuho, RBS, SMBC Nikko, Societe Generale, UniCredit
+Fund	JPMorgan Diversified Fund
+Trade Date	10/2/14
+Issuer	Enterprise Products Operating LLC (EPD 3.75% February 15, 2025)
+Cusip	29379VBE
+Bonds	75,000
+Offering Price	$99.681
+Spread	0.65%
+Cost	$74,761
+Dealer Executing Trade	Citigroup Global Markets
+% of Offering  purchased by firm	1.52%
+Syndicate Members	BofA Merrill Lynch, Citigroup, DNB Bank, JPMorgan, Morgan Stanley, RBS, Scotia, UBS, Mitsubishi UFJ, Barclays, BBVA, Credit Suisse, Deutsche bank, Mizuho, Sumitomo, SunTrust, US bancorp, Wells Fargo
+Fund	JPMorgan Diversified Fund
+Trade Date	10/17/14
+Issuer	Bank of America Corporation, Series L 2014 (BAC 4.25% October 22, 2026)
+Cusip	06051GFL
+Bonds	95,000
+Offering Price	$99.517
+Spread	0.50%
+Cost	$94,541
+Dealer Executing Trade	BofA Merrill Lynch
+% of Offering  purchased by firm	2.36%
+Syndicate Members	BofA Merrill Lynch, Blaylock Robert Van, ANZ, Banca IMI, BBVA, Capital One, Danske Markets, Deutsche bank, Goldman Sachs, Huntington, ING, JPMorgan, Lloyds, Mizuho, nab securities, Natixis, Rabo Securities, RBS, RBC, Santander, Scotia Capital, SMBC Nikko, Standard Chartered, Wells Fargo, Muriel Siebert & Co
+Fund	JPMorgan Diversified Fund
+Trade Date	10/17/14
+Issuer	Pepsico Inc (PEP 4.25% October 22, 2044)
+Cusip	713448CQ
+Bonds	60,000
+Offering Price	$99.865
+Spread	0.85%
+Cost	$59,919
+Dealer Executing Trade	Goldman Sachs and Company
+% of Offering  purchased by firm	1.99%
+Syndicate Members	Goldman Sachs, JPMorgan, BofA Merrill Lynch, BBVA, Morgan Stanley, Muriel Siebert & Co, SG Americas, TD Securities, UBS US Bancorp, William Capital
+Fund	JPMorgan Diversified Fund
+Trade Date	10/22/14
+Issuer	Omnicom Group Inc (OMC 3.65% November 1, 2024)
+Cusip	681919BA
+Bonds	125,000
+Offering Price	$99.684
+Spread	0.65%
+Cost	$124,605
+Dealer Executing Trade	HSBC Securities
+% of Offering  purchased by firm	1.63%
+Syndicate Members	BNP Paribas, Citigroup, HSBC, JPMOrgan, Wells Fargo, ANZ, Mitsubishi UFJ, Bank of Ireland, Barclays, BBVA, Comerica, Danske Bank, Deutsche Bank, ING, Intesa Sanpaolo, Key Capital, Lloyds, Mizuho, nabsecurities, PNC, RBC, Societe Generale, Sumitomo Bank, TD Securities, Unicredit, US Bancorp, Williams capital
+Fund	JPMorgan Diversified Fund
+Trade Date	10/22/14
+Issuer	Verizon Communications Inc. (VZ 3.50% November 1, 2024)
+Cusip	92343VCR
+Bonds	270,000
+Offering Price	$99.340
+Spread	0.45%
+Cost	$268,218
+Dealer Executing Trade	Morgan Stanley and Company
+% of Offering  purchased by firm	2.29%
+Syndicate Members	Citigroup, Deutsche Bank, JPMorgan, Mizuho, Morgan Stanley, RBS, Wells Fargo, BNY Mellon, catleOak, CL King, Drexel hamilton, Lebenthal, Loop Capital, US Bancorp
+Fund	JPMorgan Diversified Fund
+Trade Date	10/23/14
+Issuer	Textron Inc (TXT 3.875% March 1, 2025)
+Cusip	883203BV
+Bonds	90,000
+Offering Price	$99.903
+Spread	0.65%
+Cost	$89,913
+Dealer Executing Trade	BofA Merrill Lynch
+% of Offering  purchased by firm	1.89%
+Syndicate Members	BofA Merrill Lynch, Morgan Stanley, Mitsubishi UFJ, SMBC Nikko, US Bancorp, BNY Mellon, Citigroup, Fifth Third, Goldman Sachs, JPMorgan, PNC, Wells Fargo, William Capital
+Fund	JPMorgan Diversified Fund
+Trade Date	10/30/14
+Issuer	BP Capital Markets Plc (BPLN 2.521% January 15, 2020)
+Cusip	05565QCT
+Bonds	80,000
+Offering Price	$100.000
+Spread	0.17%
+Cost	$80,000
+Dealer Executing Trade	BNP Paribas Securities
+% of Offering  purchased by firm	1.29%
+Syndicate Members	Barclays, BNP Paribas, HSBC, JPMorgan, Morgan Stanley
+Fund	JPMorgan Diversified Fund
+Trade Date	10/30/14
+Issuer	Toronto-Dominion Bank (TD 2.25% November 5, 2019)
+Cusip	89114QAV
+Bonds	165,000
+Offering Price	$99.821
+Spread	0.35%
+Cost	$164,705
+Dealer Executing Trade	Goldman Sachs and Company
+% of Offering  purchased by firm	1.46%
+Syndicate Members	Goldman Sachs, JPMorgan, Morgan Stanley, TD Securities, Wells Fargo, Barclays, Desjardins Securities, Lloyds
+Fund	JPMorgan Diversified Fund
+Trade Date	11/3/14
+Issuer	Aetna Inc (AET 3.50% November 15, 2024)
+Cusip	00817YAQ1
+Bonds	100,000
+Offering Price	$99.581
+Spread	0.65%
+Cost	$99,581
+Dealer Executing Trade	Citigroup Global Markets
+% of Offering  purchased by firm	1.29%
+Syndicate Members	Barclays, Citigroup, JPMOrgan, Wells Fargo, Credit Suisse, Goldman Sachs, BofA Merrill Lynch, Mitsubishi UFJ, Morgan Stanley, RBS, SunTrust, UBS, US bancorp
+Fund	JPMorgan Diversified Fund
+Trade Date	11/4/14
+Issuer	General Motors Company (GM 5.20% April 1, 2045)
+Cusip	37045VAJ
+Bonds	105,000
+Offering Price	$99.266
+Spread	0.88%
+Cost	$104,229
+Dealer Executing Trade	Goldman Sachs and Company
+% of Offering  purchased by firm	0.55%
+Syndicate Members	Barclays, Goldman Sachs, JPMorgan, BofA Merrill Lynch, Morgan Stanley, BNP Paribas, Citigroup, Credit Suisse, Deutsche Bank, Lloyds, RBS, RBC, Sandler O'Neill, TD Securities, Blaylock Beal Van, CL King, Commerz Markets, Greater pacific capital, Mischler, Mizuho, SG Americas
+Fund	JPMorgan Diversified Fund
+Trade Date	11/5/14
+Issuer	NorthWestern Energy (NWE 4.176% November 15, 2044)
+Cusip	668074AU1
+Bonds	100,000
+Offering Price	$100.000
+Spread	0.88%
+Cost	$100,000
+Dealer Executing Trade	Credit Suisse Securities
+% of Offering  purchased by firm	1.48%
+Syndicate Members	BofA Merrill Lynch, Credit Suisse, JPMorgan, CIBC, Key Capital, Mitsubishi, RBC, US Bancorp
+Fund	JPMorgan Diversified Fund
+Trade Date	11/6/14
+Issuer	Walgreens Boots Alliance, Inc. (WAG 2.70% November 18, 2019)
+Cusip	931427AA6
+Bonds	25,000
+Offering Price	$99.879
+Spread	0.35%
+Cost	$24,970
+Dealer Executing Trade	Morgan Stanley and Company
+% of Offering  purchased by firm	2.42%
+Syndicate Members	BofA Merrill Lynch, Deutsche bank, Goldman Sachs, HSBC, JPMorgan, Morgan Stanley, Wells Fargo, Mitsubishi, RBS, SG Americas, UniCredit, US bancorp, BB&T, Fifth Third, Lloyds, Loop Capital, Mizuho, Samuel A Ramirez, SMBC Nikko, SunTrust
+Fund	JPMorgan Diversified Fund
+Trade Date	11/6/14
+Issuer	Walgreens Boots Alliance, Inc. (WAG 4.80% November 18, 2044)
+Cusip	931427AC2
+Bonds	15,000
+Offering Price	$99.984
+Spread	0.88%
+Cost	$14,998
+Dealer Executing Trade	Goldman Sachs and Company
+% of Offering  purchased by firm	1.30%
+Syndicate Members	BofA Merrill Lynch, Deutsche bank, Goldman Sachs, HSBC, JPMorgan, Morgan Stanley, Wells Fargo, Mitsubishi, RBS, SG Americas, UniCredit, US bancorp, BB&T, Fifth Third, Lloyds, Loop Capital, Mizuho, Samuel A Ramirez, SMBC Nikko, SunTrust
+Fund	JPMorgan Diversified Fund
+Trade Date	11/6/14
+Issuer	Walgreens Boots Alliance, Inc. (WAG 3.30% November 18, 2021)
+Cusip	931427AF5
+Bonds	40,000
+Offering Price	$99.727
+Spread	0.40%
+Cost	$39,891
+Dealer Executing Trade	Deutsche Bank Securities
+% of Offering  purchased by firm	1.88%
+Syndicate Members	BofA Merrill Lynch, Deutsche bank, Goldman Sachs, HSBC, JPMorgan, Morgan Stanley, Wells Fargo, Mitsubishi, RBS, SG Americas, UniCredit, US bancorp, BB&T, Fifth Third, Lloyds, Loop Capital, Mizuho, Samuel A Ramirez, SMBC Nikko, SunTrust
+Fund	JPMorgan Diversified Fund
+Trade Date	11/6/14
+Issuer	Walgreens Boots Alliance (WAG 3.80% November 18, 2024)
+Cusip	931427AH
+Bonds	130,000
+Offering Price	$99.769
+Spread	0.45%
+Cost	$324,249
+Dealer Executing Trade	BofA Merrill Lynch
+% of Offering  purchased by firm	1.33%
+Syndicate Members	BofA Merrill Lynch, Deutsche bank, Goldman Sachs, HSBC, JPMorgan, Morgan Stanley, Wells Fargo, Mitsubishi, RBS, SG Americas, UniCredit, US bancorp, BB&T, Fifth Third, Lloyds, Loop Capital, Mizuho, Samuel A Ramirez, SMBC Nikko, SunTrust
+Fund	JPMorgan Diversified Fund
+Trade Date	11/10/14
+Issuer	Chevron Corporation (CVX 2.193% November 15, 2019)
+Cusip	166764AN0
+Bonds	250,000
+Offering Price	$100.000
+Spread	0.17%
+Cost	$250,000
+Dealer Executing Trade	BofA Merrill Lynch
+% of Offering  purchased by firm	1.02%
+Syndicate Members	Barcalys, Goldman Sachs, JPMorgan, BofA merrill Lynch, Morgan Stanley, Wells fargo, BNP Paribas, Citigroup, Deutsche Bank, HSBC, Mitsubishi, Mizuho, RBC, RBS, SG Americas, Standard Chartered
+Fund	JPMorgan Diversified Fund
+Trade Date	11/12/14
+Issuer	Gilead Sciences Inc (GILD 4.50% February 1, 2045)
+Cusip	375558BA
+Bonds	50,000
+Offering Price	$99.413
+Spread	0.88%
+Cost	$49,707
+Dealer Executing Trade	BofA Merrill Lynch
+% of Offering  purchased by firm	2.07%
+Syndicate Members	Barclays, HSBC, JPMorgan, BofA Merrill Lynch, Goldman Sachs, Mitsubishi UFJ, Mizhuo, RBC, SMBC, US Bancorp, Wells fargo, Williams capiatl
+Fund	JPMorgan Diversified Fund
+Trade Date	11/12/14
+Issuer	Volkswagen Group America (VW 2.45% November 20, 2019 144A)
+Cusip	928668AH
+Bonds	200,000
+Offering Price	$99.776
+Spread	0.30%
+Cost	$199,552
+Dealer Executing Trade	Barclays Capital Inc.
+% of Offering  purchased by firm	1.84%
+Syndicate Members	Barclays, HSBC, Jpmorgan, Mizuho
+Fund	JPMorgan Diversified Fund
+Trade Date	11/17/14
+Issuer	Albermarle Corporation (ALB 4.15% December 1, 2024)
+Cusip	012725AC1
+Bonds	130,000
+Offering Price	$99.658
+Spread	0.65%
+Cost	$129,555
+Dealer Executing Trade	BofA Merrill Lynch
+% of Offering  purchased by firm	1.17%
+Syndicate Members	Jpmorgan, BofA merrilll lYnch, BNP Paribas, Mitsubishi UFJ, RBS, SMBC, HSBC, PNC, US bancorp, Williams Capital
+Fund	JPMorgan Diversified Fund
+Trade Date	11/17/14
+Issuer	Dominion Resources Inc (D 4.70% December 1, 2044)
+Cusip	25746UCC1
+Bonds	165,000
+Offering Price	$99.632
+Spread	0.88%
+Cost	$164,393
+Dealer Executing Trade	Deutsche Bank Securities
+% of Offering  purchased by firm	2.39%
+Syndicate Members	Deutsche Bank, JPMorgan, BofA merrill Lynch, RBC, Scotia Capital
+Fund	JPMorgan Diversified Fund
+Trade Date	11/17/14
+Issuer	Duke Energy Progress Inc (DUK 4.15% December 1, 2044)
+Cusip	26442RAD
+Bonds	55,000
+Offering Price	$99.658
+Spread	0.88%
+Cost	$54,812
+Dealer Executing Trade	Wells Fargo Advisors
+% of Offering  purchased by firm	2.55%
+Syndicate Members	BNP Paribas, Goldman Scahs, JPMorgan, Mitsubishi UFJ, Wells Fargo, Blaylock, BNY Melllon, CastleOak, Fifth Third, KeyBanc, Loop Capital, US bacnorp
+Fund	JPMorgan Diversified Fund
+Trade Date	11/19/14
+Issuer	Boardwalk Pipelines LP (BWP 4.95% Decmeber 15, 2024)
+Cusip	096630AD
+Bonds	125,000
+Offering Price	$98.820
+Spread	0.65%
+Cost	$123,525
+Dealer Executing Trade	Barclays Capital Inc
+% of Offering  purchased by firm	3.92%
+Syndicate Members	Barclays, Citigroup, Deutsche Bank, JPMorgan, Mitsubishi UFJ, Wells Fargo, BB&T, BBVA, Fifth Third, Goldman Sachs, Mizuho, Morgan Stanley, RBC, UBS
+Fund	JPMorgan Diversified Fund
+Trade Date	11/19/14
+Issuer	Consolidated Edison Company of New York, Inc. (ED 3.30% December 1, 2024)
+Cusip	209111FE8
+Bonds	120,000
+Offering Price	$99.653
+Spread	0.65%
+Cost	$119,584
+Dealer Executing Trade	RBS Securities Inc.
+% of Offering  purchased by firm	2.17%
+Syndicate Members	BNY Mellon, Citigroup, JPMorgan, KeyBanc, Mitsubishi, Mizuho, RBS, CIBC, Samuel A Ramirez, TD Securities, US bancorp, Williams Capital
+Fund	JPMorgan Diversified Fund
+Trade Date	11/19/14
+Issuer	Consolidated Edison Company of New York, Inc. (ED 4.625% December 1, 2054)
+Cusip	209111FF5
+Bonds	85,000
+Offering Price	$99.745
+Spread	0.88%
+Cost	$84,783
+Dealer Executing Trade	RBS Securities Inc.
+% of Offering  purchased by firm	4.59%
+Syndicate Members	BNY Mellon, Citigroup, JPMorgan, KeyBanc, Mitsubishi, Mizuho, RBS, CIBC, Samuel A Ramirez, TD Securities, US bancorp, Williams Capital
+Fund	JPMorgan Diversified Fund
+Trade Date	11/21/14
+Issuer	Caterpillar Financial Services Corporation (CAT 3.25% December 1, 2024)
+Cusip	14912L6G1
+Bonds	215,000
+Offering Price	$99.890
+Spread	0.48%
+Cost	$214,764
+Dealer Executing Trade	BofA Merrill Lynch
+% of Offering  purchased by firm	3.48%
+Syndicate Members	BofA Merrill Lynch, JPMorgan, RBS, Societe Generale
+Fund	JPMorgan Diversified Fund
+Trade Date	11/24/14
+Issuer	Kinder Morgan Inc. (KMI 3.05% December 1, 2019)
+Cusip	49456BAE1
+Bonds	95,000
+Offering Price	$99.797
+Spread	0.35%
+Cost	$94,807
+Dealer Executing Trade	Barclays Capital Inc
+% of Offering  purchased by firm	1.98%
+Syndicate Members	Barclays, Citigroup, Credit Suisse, Deutsche Bank, JPMorgan, BofA Merrill Lynch, Mitsubishi, RBC, RBS, Scotia Capital, Wells Fargo, CIBC, DNB Markets, Mizuho, Morgan Stanley, SG Americas, SunTrust, UBS
+Fund	JPMorgan Diversified Fund
+Trade Date	11/24/14
+Issuer	Kinder Morgan Inc. (KMI 4.30% June 1, 2025)
+Cusip	49456BAF8
+Bonds	145,000
+Offering Price	$99.598
+Spread	0.45%
+Cost	$144,417
+Dealer Executing Trade	Barclays Capital Inc
+% of Offering  purchased by firm	0.86%
+Syndicate Members	Barclays, Citigroup, Credit Suisse, Deutsche Bank, JPMorgan, BofA Merrill Lynch, Mitsubishi, RBC, RBS, Scotia Capital, Wells Fargo, CIBC, DNB Markets, Mizuho, Morgan Stanley, SG Americas, SunTrust, UBS
+Fund	JPMorgan Diversified Fund
+Trade Date	11/24/14
+Issuer	Perrigo Finance PLC (PRGO 3.50% December 15, 2021)
+Cusip	714295AB8
+Bonds	200,000
+Offering Price	$99.937
+Spread	0.63%
+Cost	$199,874
+Dealer Executing Trade	Barclays Capital Inc
+% of Offering  purchased by firm	0.54%
+Syndicate Members	Barclays, HSBC, JPMorgan, BofA Merrill Lynch, Wells Fargo, Citigroup, Credit Suisse, Fifth Third, Mizuho, PNC, RBS, Santander, SMBC Nikko, US bancorp
+Fund	JPMorgan Diversified
+Trade Date	12/1/14
+Issuer	Medtronic Inc (MDT 3.15% March 15, 2022 144A)
+Cusip	585055BL9
+Bonds	195,000
+Offering Price	$99.791
+Spread	0.40%
+Cost	$194,592
+Dealer Executing Trade	BofA Merrill Lynch
+% of Offering  purchased by firm	1.22%
+Syndicate Members	BofA Merrill Lynch, Deutsche Bank, JPMOrgan, UBS, Barclays, Citigroup, Morgan Stanley, RBS, HSBC, Mizuho, US Bancorp, Wells Fargo
+Fund	JPMorgan Diversified
+Trade Date	12/1/14
+Issuer	Medtronic Inc (MDT 4.625% March 15, 2045 144A)
+Cusip	585055BP
+Bonds	95,000
+Offering Price	$99.732
+Spread	0.88%
+Cost	$94,745
+Dealer Executing Trade	BofA Merrill Lynch
+% of Offering  purchased by firm	0.65%
+Syndicate Members	BofA Merrill Lynch, Deutsche Bank, JPMOrgan, UBS, Barclays, Citigroup, Morgan Stanley, RBS, HSBC, Mizuho, US Bancorp, Wells Fargo
+Fund	JPMorgan Diversified
+Trade Date	12/2/14
+Issuer	DIRECTV Holdings LLC and DIRECTV Financing Co., Inc. (DTV 3.95% January 15, 2025)
+Cusip	25460CAA1
+Bonds	40,000
+Offering Price	$99.313
+Spread	0.45%
+Cost	$39,725
+Dealer Executing Trade	Barclays Capital Inc.
+% of Offering  purchased by firm	1.72%
+Syndicate Members	Barclays, Deutsche Bank, JPMorgan, Morgan Stanley, RBC, Santander, BBVA, Citigroup, Credit Agricole, Goldman Sachs, Lloyds, BofA Merrill Lynch, Mitsubishi, Mizuho, RBS, SMBC Nikko, UBS, US Bancorp, Wells Fargo
+Fund	JPMorgan Diversified
+Trade Date	12/3/14
+Issuer	UnitedHealth Group Inc (UNH 2.30% December 15, 2019)
+Cusip	91324PCG5
+Bonds	225,000
+Offering Price	$99.821
+Spread	0.35%
+Cost	$224,597
+Dealer Executing Trade	BofA Merrill Lynch
+% of Offering  purchased by firm	2.05%
+Syndicate Members	Goldman Sachs, JPMorgan, BofA Merrill Lynch, Morgan Stanley, Barcalys, BNY Mellon, Citigroup, Credit Suisse, Deutsche Bank, RBS, UBS, US bancorp, Wells Fargo, BB&Y, BMO, Fith Third, HSBC, Itau BBA, KeyBanc, Loop Capital, PNC, Regions
+Fund	JPMorgan Diversified
+Trade Date	12/4/14
+Issuer	Becton, Dickinson and Company (BDX 3.734% December 15, 2024)
+Cusip	075887BF
+Bonds	95,000
+Offering Price	$100.000
+Spread	0.65%
+Cost	$95,000
+Dealer Executing Trade	Goldman Sachs and Company
+% of Offering  purchased by firm	0.89%
+Syndicate Members	BNP Paribas, Citigroup, Goldman sachs, JPMorgan, Mitsubishi, Morgan Stanley, Banc IMI, BNY Mellon, ING, Mizuho, Standard Chartered, Wells Fargo, Williams Capital
+Fund	JPMorgan Diversified
+Trade Date	12/4/14
+Issuer	Becton, Dickinson and Company (BDX 4.685% December 15, 2044)
+Cusip	075887BG3
+Bonds	35,000
+Offering Price	$100.000
+Spread	0.88%
+Cost	$35,000
+Dealer Executing Trade	Goldman Sachs and Company
+% of Offering  purchased by firm	1.30%
+Syndicate Members	BNP Paribas, Citigroup, Goldman sachs, JPMorgan, Mitsubishi, Morgan Stanley, Banc IMI, BNY Mellon, ING, Mizuho, Standard Chartered, Wells Fargo, Williams Capital
+Fund	JPMorgan Diversified
+Trade Date	12/8/14
+Issuer	Trans-Allegheny Interstate Line Company (FE 3.85% June 1, 2025 144A)
+Cusip	893045AE4
+Bonds	90,000
+Offering Price	$99.924
+Spread	0.65%
+Cost	$89,932
+Dealer Executing Trade	Barclays Capital Inc.
+% of Offering  purchased by firm	1.87%
+Syndicate Members	Barclays, JPMorgan, Mitsubishi, Scotia Capital, CIBC, Credit Agricole, PNC, BBVA, Fifth Third
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+"

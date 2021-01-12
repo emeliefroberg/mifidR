@@ -1,0 +1,1467 @@
+"","V1"
+"1","<SEC-DOCUMENT>0000858581-14-000002.txt : 20140226"
+"2","<SEC-HEADER>0000858581-14-000002.hdr.sgml : 20140226"
+"3","<ACCEPTANCE-DATETIME>20140226144632"
+"4","ACCESSION NUMBER:		0000858581-14-000002"
+"5","CONFORMED SUBMISSION TYPE:	NSAR-B"
+"6","PUBLIC DOCUMENT COUNT:		6"
+"7","CONFORMED PERIOD OF REPORT:	20131231"
+"8","FILED AS OF DATE:		20140226"
+"9","DATE AS OF CHANGE:		20140226"
+"10","EFFECTIVENESS DATE:		20140226"
+"11","FILER:"
+"12","	COMPANY DATA:	"
+"13","		COMPANY CONFORMED NAME:			T. Rowe Price Spectrum Fund, Inc."
+"14","		CENTRAL INDEX KEY:			0000808303"
+"15","		IRS NUMBER:				000000000"
+"16","		STATE OF INCORPORATION:			MD"
+"17","		FISCAL YEAR END:			1231"
+"18","	FILING VALUES:"
+"19","		FORM TYPE:		NSAR-B"
+"20","		SEC ACT:		1940 Act"
+"21","		SEC FILE NUMBER:	811-04998"
+"22","		FILM NUMBER:		14644137"
+"23","	BUSINESS ADDRESS:	"
+"24","		STREET 1:		100 EAST PRATT STREET"
+"25","		CITY:			BALTIMORE"
+"26","		STATE:			MD"
+"27","		ZIP:			21202"
+"28","		BUSINESS PHONE:		410-345-2000"
+"29","	MAIL ADDRESS:	"
+"30","		STREET 1:		100 EAST PRATT STREET"
+"31","		CITY:			BALTIMORE"
+"32","		STATE:			MD"
+"33","		ZIP:			21202"
+"34","	FORMER COMPANY:	"
+"35","		FORMER CONFORMED NAME:	PRICE T ROWE SPECTRUM FUND INC"
+"36","		DATE OF NAME CHANGE:	19920703"
+"37","	FORMER COMPANY:	"
+"38","		FORMER CONFORMED NAME:	PRICE T ROWE OMNI TRUST"
+"39","		DATE OF NAME CHANGE:	19870726"
+"40","<SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"41","<EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"42","<SERIES>"
+"43","<OWNER-CIK>0000808303"
+"44","<SERIES-ID>S000002122"
+"45","<SERIES-NAME>Spectrum Income Fund"
+"46","<CLASS-CONTRACT>"
+"47","<CLASS-CONTRACT-ID>C000005512"
+"48","<CLASS-CONTRACT-NAME>Spectrum Income Fund"
+"49","<CLASS-CONTRACT-TICKER-SYMBOL>RPSIX"
+"50","</CLASS-CONTRACT>"
+"51","</SERIES>"
+"52","<SERIES>"
+"53","<OWNER-CIK>0000808303"
+"54","<SERIES-ID>S000002123"
+"55","<SERIES-NAME>Spectrum Growth Fund"
+"56","<CLASS-CONTRACT>"
+"57","<CLASS-CONTRACT-ID>C000005513"
+"58","<CLASS-CONTRACT-NAME>Spectrum Growth Fund"
+"59","<CLASS-CONTRACT-TICKER-SYMBOL>PRSGX"
+"60","</CLASS-CONTRACT>"
+"61","</SERIES>"
+"62","<SERIES>"
+"63","<OWNER-CIK>0000808303"
+"64","<SERIES-ID>S000002124"
+"65","<SERIES-NAME>Spectrum International Fund"
+"66","<CLASS-CONTRACT>"
+"67","<CLASS-CONTRACT-ID>C000005514"
+"68","<CLASS-CONTRACT-NAME>Spectrum International Fund"
+"69","<CLASS-CONTRACT-TICKER-SYMBOL>PSILX"
+"70","</CLASS-CONTRACT>"
+"71","</SERIES>"
+"72","</EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"73","</SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"74","</SEC-HEADER>"
+"75","<DOCUMENT>"
+"76","<TYPE>NSAR-B"
+"77","<SEQUENCE>1"
+"78","<FILENAME>ans_spc.fil"
+"79","<DESCRIPTION>ANSWER FILE~ SPECTRUM FUND"
+"80","<TEXT>"
+"81","<PAGE>      PAGE  1"
+"82","000 B000000 12/31/2013"
+"83","000 C000000 0000808303"
+"84","000 D000000 N"
+"85","000 E000000 NF"
+"86","000 F000000 Y"
+"87","000 G000000 N"
+"88","000 H000000 N"
+"89","000 I000000 6.1"
+"90","000 J000000 A"
+"91","001 A000000 T. ROWE PRICE SPECTRUM FUND, INC."
+"92","001 B000000 811-4998"
+"93","001 C000000 4103452000"
+"94","002 A000000 100 EAST PRATT STREET"
+"95","002 B000000 BALTIMORE"
+"96","002 C000000 MD"
+"97","002 D010000 21202"
+"98","003  000000 N"
+"99","004  000000 N"
+"100","005  000000 N"
+"101","006  000000 N"
+"102","007 A000000 Y"
+"103","007 B000000  3"
+"104","007 C010100  1"
+"105","007 C020100 Spectrum Income Fund"
+"106","007 C030100 N"
+"107","007 C010200  2"
+"108","007 C020200 Spectrum Growth Fund"
+"109","007 C030200 N"
+"110","007 C010300  3"
+"111","007 C020300 Spectrum International Fund"
+"112","007 C030300 N"
+"113","008 A00AA01 T. ROWE PRICE ASSOCIATES, INC."
+"114","008 B00AA01 A"
+"115","008 C00AA01 801-856"
+"116","008 D01AA01 BALTIMORE"
+"117","008 D02AA01 MD"
+"118","008 D03AA01 21202"
+"119","011 A00AA01 T. ROWE PRICE INVESTMENT SERVICES, INC."
+"120","011 B00AA01 8-25130"
+"121","011 C01AA01 BALTIMORE"
+"122","011 C02AA01 MD"
+"123","011 C03AA01 21202"
+"124","012 A00AA01 T. ROWE PRICE SERVICES, INC."
+"125","012 B00AA01 84-1079"
+"126","012 C01AA01 BALTIMORE"
+"127","012 C02AA01 MD"
+"128","012 C03AA01 21202"
+"129","012 A00AA02 T. ROWE PRICE RETIREMENT PLAN SERVICES, INC."
+"130","012 B00AA02 84-1917"
+"131","012 C01AA02 BALTIMORE"
+"132","012 C02AA02 MD"
+"133","<PAGE>      PAGE  2"
+"134","012 C03AA02 21202"
+"135","013 A00AA01 PRICEWATERHOUSECOOPERS LLP"
+"136","013 B01AA01 BALTIMORE"
+"137","013 B02AA01 MD"
+"138","013 B03AA01 21201"
+"139","014 A00AA01 T. ROWE PRICE INVESTMENT SERVICES, INC."
+"140","014 B00AA01 8-25130"
+"141","015 A00AA01 STATE STREET BANK AND TRUST COMPANY"
+"142","015 B00AA01 C"
+"143","015 C01AA01 BOSTON"
+"144","015 C02AA01 MA"
+"145","015 C03AA01 02110"
+"146","015 E01AA01 X"
+"147","018  00AA00 Y"
+"148","019 A00AA00 Y"
+"149","019 B00AA00  157"
+"150","019 C00AA00 TROWEPRICE"
+"151","021  000000        0"
+"152","023 C000000          0"
+"153","023 D000000          0"
+"154","024  000100 N"
+"155","024  000200 N"
+"156","024  000300 N"
+"157","026 A000000 N"
+"158","026 B000000 N"
+"159","026 C000000 N"
+"160","026 D000000 Y"
+"161","026 E000000 N"
+"162","026 F000000 N"
+"163","026 G010000 N"
+"164","026 G020000 N"
+"165","026 H000000 N"
+"166","027  000000 Y"
+"167","028 A010100    110764"
+"168","028 A020100     16425"
+"169","028 A030100         0"
+"170","028 A040100    177947"
+"171","028 B010100     46943"
+"172","028 B020100     17803"
+"173","028 B030100         0"
+"174","028 B040100    114447"
+"175","028 C010100     71825"
+"176","028 C020100     18980"
+"177","028 C030100         0"
+"178","028 C040100     94454"
+"179","028 D010100     96005"
+"180","028 D020100     16494"
+"181","028 D030100         0"
+"182","028 D040100    189568"
+"183","028 E010100     60457"
+"184","028 E020100     17062"
+"185","<PAGE>      PAGE  3"
+"186","028 E030100         0"
+"187","028 E040100     67180"
+"188","028 F010100     83462"
+"189","028 F020100    106423"
+"190","028 F030100         0"
+"191","028 F040100    108917"
+"192","028 G010100    469456"
+"193","028 G020100    193187"
+"194","028 G030100         0"
+"195","028 G040100    752513"
+"196","028 H000100         0"
+"197","028 A010200     21040"
+"198","028 A020200         0"
+"199","028 A030200         0"
+"200","028 A040200     34711"
+"201","028 B010200     19192"
+"202","028 B020200         0"
+"203","028 B030200         0"
+"204","028 B040200     36989"
+"205","028 C010200     17280"
+"206","028 C020200         0"
+"207","028 C030200         0"
+"208","028 C040200     36245"
+"209","028 D010200     21062"
+"210","028 D020200         0"
+"211","028 D030200         0"
+"212","028 D040200     35464"
+"213","028 E010200     17545"
+"214","028 E020200         0"
+"215","028 E030200         0"
+"216","028 E040200     34668"
+"217","028 F010200     24559"
+"218","028 F020200    147177"
+"219","028 F030200         0"
+"220","028 F040200     40314"
+"221","028 G010200    120678"
+"222","028 G020200    147177"
+"223","028 G030200         0"
+"224","028 G040200    218391"
+"225","028 H000200         0"
+"226","028 A010300     17675"
+"227","028 A020300         0"
+"228","028 A030300         0"
+"229","028 A040300     10854"
+"230","028 B010300     15325"
+"231","028 B020300         0"
+"232","028 B030300         0"
+"233","028 B040300      9441"
+"234","028 C010300     14472"
+"235","028 C020300         0"
+"236","028 C030300         0"
+"237","<PAGE>      PAGE  4"
+"238","028 C040300     10364"
+"239","028 D010300     18077"
+"240","028 D020300         0"
+"241","028 D030300         0"
+"242","028 D040300      8789"
+"243","028 E010300     15167"
+"244","028 E020300         0"
+"245","028 E030300         0"
+"246","028 E040300      7955"
+"247","028 F010300     16429"
+"248","028 F020300     15441"
+"249","028 F030300         0"
+"250","028 F040300     12294"
+"251","028 G010300     97145"
+"252","028 G020300     15441"
+"253","028 G030300         0"
+"254","028 G040300     59697"
+"255","028 H000300         0"
+"256","029  00AA00 N"
+"257","030 A00AA00      0"
+"258","030 B00AA00  0.00"
+"259","030 C00AA00  0.00"
+"260","031 A00AA00      0"
+"261","031 B00AA00      0"
+"262","032  00AA00      0"
+"263","033  00AA00      0"
+"264","034  00AA00 N"
+"265","035  00AA00      0"
+"266","036 B00AA00      0"
+"267","037  000100 N"
+"268","037  000200 N"
+"269","037  000300 N"
+"270","038  000100      0"
+"271","038  000200      0"
+"272","038  000300      0"
+"273","039  000100 Y"
+"274","039  000200 Y"
+"275","039  000300 Y"
+"276","040  000100 N"
+"277","040  000200 N"
+"278","040  000300 N"
+"279","042 A000100   0"
+"280","042 B000100   0"
+"281","042 C000100   0"
+"282","042 D000100   0"
+"283","042 E000100   0"
+"284","042 F000100   0"
+"285","042 G000100   0"
+"286","042 H000100   0"
+"287","042 A000200   0"
+"288","042 B000200   0"
+"289","<PAGE>      PAGE  5"
+"290","042 C000200   0"
+"291","042 D000200   0"
+"292","042 E000200   0"
+"293","042 F000200   0"
+"294","042 G000200   0"
+"295","042 H000200   0"
+"296","042 A000300   0"
+"297","042 B000300   0"
+"298","042 C000300   0"
+"299","042 D000300   0"
+"300","042 E000300   0"
+"301","042 F000300   0"
+"302","042 G000300   0"
+"303","042 H000300   0"
+"304","043  000100      0"
+"305","043  000200      0"
+"306","043  000300      0"
+"307","044  000100      0"
+"308","044  000200      0"
+"309","044  000300      0"
+"310","045  000100 Y"
+"311","045  000200 Y"
+"312","045  000300 Y"
+"313","046  000100 N"
+"314","046  000200 N"
+"315","046  000300 N"
+"316","047  000100 N"
+"317","047  000200 N"
+"318","047  000300 N"
+"319","048  000100  0.000"
+"320","048 A010100        0"
+"321","048 A020100 0.000"
+"322","048 B010100        0"
+"323","048 B020100 0.000"
+"324","048 C010100        0"
+"325","048 C020100 0.000"
+"326","048 D010100        0"
+"327","048 D020100 0.000"
+"328","048 E010100        0"
+"329","048 E020100 0.000"
+"330","048 F010100        0"
+"331","048 F020100 0.000"
+"332","048 G010100        0"
+"333","048 G020100 0.000"
+"334","048 H010100        0"
+"335","048 H020100 0.000"
+"336","048 I010100        0"
+"337","048 I020100 0.000"
+"338","048 J010100        0"
+"339","048 J020100 0.000"
+"340","048 K010100        0"
+"341","<PAGE>      PAGE  6"
+"342","048 K020100 0.000"
+"343","048  000200  0.000"
+"344","048 A010200        0"
+"345","048 A020200 0.000"
+"346","048 B010200        0"
+"347","048 B020200 0.000"
+"348","048 C010200        0"
+"349","048 C020200 0.000"
+"350","048 D010200        0"
+"351","048 D020200 0.000"
+"352","048 E010200        0"
+"353","048 E020200 0.000"
+"354","048 F010200        0"
+"355","048 F020200 0.000"
+"356","048 G010200        0"
+"357","048 G020200 0.000"
+"358","048 H010200        0"
+"359","048 H020200 0.000"
+"360","048 I010200        0"
+"361","048 I020200 0.000"
+"362","048 J010200        0"
+"363","048 J020200 0.000"
+"364","048 K010200        0"
+"365","048 K020200 0.000"
+"366","048  000300  0.000"
+"367","048 A010300        0"
+"368","048 A020300 0.000"
+"369","048 B010300        0"
+"370","048 B020300 0.000"
+"371","048 C010300        0"
+"372","048 C020300 0.000"
+"373","048 D010300        0"
+"374","048 D020300 0.000"
+"375","048 E010300        0"
+"376","048 E020300 0.000"
+"377","048 F010300        0"
+"378","048 F020300 0.000"
+"379","048 G010300        0"
+"380","048 G020300 0.000"
+"381","048 H010300        0"
+"382","048 H020300 0.000"
+"383","048 I010300        0"
+"384","048 I020300 0.000"
+"385","048 J010300        0"
+"386","048 J020300 0.000"
+"387","048 K010300        0"
+"388","048 K020300 0.000"
+"389","049  000100 N"
+"390","049  000200 N"
+"391","049  000300 N"
+"392","050  000100 N"
+"393","<PAGE>      PAGE  7"
+"394","050  000200 N"
+"395","050  000300 N"
+"396","051  000100 N"
+"397","051  000200 N"
+"398","051  000300 N"
+"399","052  000100 N"
+"400","052  000200 N"
+"401","052  000300 N"
+"402","053 A000100 N"
+"403","053 A000200 N"
+"404","053 A000300 N"
+"405","054 A000100 N"
+"406","054 B000100 N"
+"407","054 C000100 N"
+"408","054 D000100 N"
+"409","054 E000100 N"
+"410","054 F000100 N"
+"411","054 G000100 N"
+"412","054 H000100 N"
+"413","054 I000100 N"
+"414","054 J000100 N"
+"415","054 K000100 N"
+"416","054 L000100 N"
+"417","054 M000100 N"
+"418","054 N000100 N"
+"419","054 O000100 N"
+"420","054 A000200 N"
+"421","054 B000200 N"
+"422","054 C000200 N"
+"423","054 D000200 N"
+"424","054 E000200 N"
+"425","054 F000200 N"
+"426","054 G000200 N"
+"427","054 H000200 N"
+"428","054 I000200 N"
+"429","054 J000200 N"
+"430","054 K000200 N"
+"431","054 L000200 N"
+"432","054 M000200 N"
+"433","054 N000200 N"
+"434","054 O000200 N"
+"435","054 A000300 N"
+"436","054 B000300 N"
+"437","054 C000300 N"
+"438","054 D000300 N"
+"439","054 E000300 N"
+"440","054 F000300 N"
+"441","054 G000300 N"
+"442","054 H000300 N"
+"443","054 I000300 N"
+"444","054 J000300 N"
+"445","<PAGE>      PAGE  8"
+"446","054 K000300 N"
+"447","054 L000300 N"
+"448","054 M000300 N"
+"449","054 N000300 N"
+"450","054 O000300 N"
+"451","055 A000100 N"
+"452","055 B000100 N"
+"453","055 A000200 N"
+"454","055 B000200 N"
+"455","055 A000300 N"
+"456","055 B000300 N"
+"457","056  000100 Y"
+"458","056  000200 Y"
+"459","056  000300 Y"
+"460","057  000100 N"
+"461","057  000200 N"
+"462","057  000300 N"
+"463","058 A000100 N"
+"464","058 A000200 N"
+"465","058 A000300 N"
+"466","059  000100 Y"
+"467","059  000200 Y"
+"468","059  000300 Y"
+"469","060 A000100 N"
+"470","060 B000100 N"
+"471","060 A000200 N"
+"472","060 B000200 N"
+"473","060 A000300 N"
+"474","060 B000300 N"
+"475","061  000100     1000"
+"476","061  000200     1000"
+"477","061  000300     1000"
+"478","062 A000100 N"
+"479","062 B000100   0.0"
+"480","062 C000100   0.0"
+"481","062 D000100   0.0"
+"482","062 E000100   0.0"
+"483","062 F000100   0.0"
+"484","062 G000100   0.0"
+"485","062 H000100   0.0"
+"486","062 I000100   0.0"
+"487","062 J000100   0.0"
+"488","062 K000100   0.0"
+"489","062 L000100   0.0"
+"490","062 M000100   0.0"
+"491","062 N000100   0.0"
+"492","062 O000100   0.0"
+"493","062 P000100   0.0"
+"494","062 Q000100   0.0"
+"495","062 R000100   0.0"
+"496","062 A000200 N"
+"497","<PAGE>      PAGE  9"
+"498","062 B000200   0.0"
+"499","062 C000200   0.0"
+"500","062 D000200   0.0"
+"501","062 E000200   0.0"
+"502","062 F000200   0.0"
+"503","062 G000200   0.0"
+"504","062 H000200   0.0"
+"505","062 I000200   0.0"
+"506","062 J000200   0.0"
+"507","062 K000200   0.0"
+"508","062 L000200   0.0"
+"509","062 M000200   0.0"
+"510","062 N000200   0.0"
+"511","062 O000200   0.0"
+"512","062 P000200   0.0"
+"513","062 Q000200   0.0"
+"514","062 R000200   0.0"
+"515","062 A000300 N"
+"516","062 B000300   0.0"
+"517","062 C000300   0.0"
+"518","062 D000300   0.0"
+"519","062 E000300   0.0"
+"520","062 F000300   0.0"
+"521","062 G000300   0.0"
+"522","062 H000300   0.0"
+"523","062 I000300   0.0"
+"524","062 J000300   0.0"
+"525","062 K000300   0.0"
+"526","062 L000300   0.0"
+"527","062 M000300   0.0"
+"528","062 N000300   0.0"
+"529","062 O000300   0.0"
+"530","062 P000300   0.0"
+"531","062 Q000300   0.0"
+"532","062 R000300   0.0"
+"533","063 A000100   0"
+"534","063 B000100  0.0"
+"535","063 A000200   0"
+"536","063 B000200  0.0"
+"537","063 A000300   0"
+"538","063 B000300  0.0"
+"539","066 A000100 N"
+"540","066 A000200 Y"
+"541","066 B000200 N"
+"542","066 C000200 N"
+"543","066 D000200 N"
+"544","066 E000200 Y"
+"545","066 F000200 N"
+"546","066 G000200 N"
+"547","066 A000300 Y"
+"548","066 B000300 N"
+"549","<PAGE>      PAGE  10"
+"550","066 C000300 N"
+"551","066 D000300 Y"
+"552","066 E000300 N"
+"553","066 F000300 N"
+"554","066 G000300 N"
+"555","067  000100 N"
+"556","067  000200 N"
+"557","067  000300 N"
+"558","068 A000100 N"
+"559","068 B000100 N"
+"560","068 A000200 N"
+"561","068 B000200 N"
+"562","068 A000300 N"
+"563","068 B000300 Y"
+"564","069  000100 N"
+"565","069  000200 N"
+"566","069  000300 N"
+"567","070 A010100 Y"
+"568","070 A020100 N"
+"569","070 B010100 N"
+"570","070 B020100 N"
+"571","070 C010100 N"
+"572","070 C020100 N"
+"573","070 D010100 N"
+"574","070 D020100 N"
+"575","070 E010100 N"
+"576","070 E020100 N"
+"577","070 F010100 N"
+"578","070 F020100 N"
+"579","070 G010100 N"
+"580","070 G020100 N"
+"581","070 H010100 N"
+"582","070 H020100 N"
+"583","070 I010100 N"
+"584","070 I020100 N"
+"585","070 J010100 Y"
+"586","070 J020100 N"
+"587","070 K010100 Y"
+"588","070 K020100 N"
+"589","070 L010100 Y"
+"590","070 L020100 N"
+"591","070 M010100 N"
+"592","070 M020100 N"
+"593","070 N010100 N"
+"594","070 N020100 N"
+"595","070 O010100 Y"
+"596","070 O020100 N"
+"597","070 P010100 Y"
+"598","070 P020100 N"
+"599","070 Q010100 N"
+"600","070 Q020100 N"
+"601","<PAGE>      PAGE  11"
+"602","070 R010100 N"
+"603","070 R020100 N"
+"604","070 A010200 Y"
+"605","070 A020200 N"
+"606","070 B010200 N"
+"607","070 B020200 N"
+"608","070 C010200 N"
+"609","070 C020200 N"
+"610","070 D010200 N"
+"611","070 D020200 N"
+"612","070 E010200 N"
+"613","070 E020200 N"
+"614","070 F010200 N"
+"615","070 F020200 N"
+"616","070 G010200 N"
+"617","070 G020200 N"
+"618","070 H010200 N"
+"619","070 H020200 N"
+"620","070 I010200 N"
+"621","070 I020200 N"
+"622","070 J010200 Y"
+"623","070 J020200 N"
+"624","070 K010200 Y"
+"625","070 K020200 N"
+"626","070 L010200 Y"
+"627","070 L020200 N"
+"628","070 M010200 N"
+"629","070 M020200 N"
+"630","070 N010200 N"
+"631","070 N020200 N"
+"632","070 O010200 Y"
+"633","070 O020200 N"
+"634","070 P010200 Y"
+"635","070 P020200 N"
+"636","070 Q010200 N"
+"637","070 Q020200 N"
+"638","070 R010200 N"
+"639","070 R020200 N"
+"640","070 A010300 Y"
+"641","070 A020300 N"
+"642","070 B010300 N"
+"643","070 B020300 N"
+"644","070 C010300 N"
+"645","070 C020300 N"
+"646","070 D010300 N"
+"647","070 D020300 N"
+"648","070 E010300 N"
+"649","070 E020300 N"
+"650","070 F010300 N"
+"651","070 F020300 N"
+"652","070 G010300 N"
+"653","<PAGE>      PAGE  12"
+"654","070 G020300 N"
+"655","070 H010300 N"
+"656","070 H020300 N"
+"657","070 I010300 N"
+"658","070 I020300 N"
+"659","070 J010300 Y"
+"660","070 J020300 N"
+"661","070 K010300 Y"
+"662","070 K020300 N"
+"663","070 L010300 Y"
+"664","070 L020300 N"
+"665","070 M010300 N"
+"666","070 M020300 N"
+"667","070 N010300 N"
+"668","070 N020300 N"
+"669","070 O010300 Y"
+"670","070 O020300 N"
+"671","070 P010300 Y"
+"672","070 P020300 N"
+"673","070 Q010300 N"
+"674","070 Q020300 N"
+"675","070 R010300 N"
+"676","070 R020300 N"
+"677","071 A000100    941960"
+"678","071 B000100   1009483"
+"679","071 C000100   6589676"
+"680","071 D000100   14"
+"681","071 A000200    349870"
+"682","071 B000200    451250"
+"683","071 C000200   3606993"
+"684","071 D000200   10"
+"685","071 A000300    204754"
+"686","071 B000300     46510"
+"687","071 C000300    978548"
+"688","071 D000300    5"
+"689","072 A000100 12"
+"690","072 B000100        0"
+"691","072 C000100   207893"
+"692","072 D000100        0"
+"693","072 E000100        0"
+"694","072 F000100        0"
+"695","072 G000100        0"
+"696","072 H000100        0"
+"697","072 I000100     8895"
+"698","072 J000100        1"
+"699","072 K000100       29"
+"700","072 L000100       58"
+"701","072 M000100       33"
+"702","072 N000100       73"
+"703","072 O000100        0"
+"704","072 P000100        0"
+"705","<PAGE>      PAGE  13"
+"706","072 Q000100       69"
+"707","072 R000100       13"
+"708","072 S000100        4"
+"709","072 T000100        0"
+"710","072 U000100        0"
+"711","072 V000100      134"
+"712","072 W000100       22"
+"713","072 X000100     9331"
+"714","072 Y000100     9331"
+"715","072 Z000100   207893"
+"716","072AA000100   129363"
+"717","072BB000100        0"
+"718","072CC010100        0"
+"719","072CC020100   140940"
+"720","072DD010100   210191"
+"721","072DD020100        0"
+"722","072EE000100   106013"
+"723","072 A000200 12"
+"724","072 B000200        0"
+"725","072 C000200    35487"
+"726","072 D000200        0"
+"727","072 E000200        0"
+"728","072 F000200        0"
+"729","072 G000200        0"
+"730","072 H000200        0"
+"731","072 I000200     3899"
+"732","072 J000200        1"
+"733","072 K000200       25"
+"734","072 L000200       55"
+"735","072 M000200       18"
+"736","072 N000200       60"
+"737","072 O000200        0"
+"738","072 P000200        0"
+"739","072 Q000200       69"
+"740","072 R000200       12"
+"741","072 S000200        4"
+"742","072 T000200        0"
+"743","072 U000200        0"
+"744","072 V000200       70"
+"745","072 W000200       15"
+"746","072 X000200     4228"
+"747","072 Y000200     4228"
+"748","072 Z000200    35487"
+"749","072AA000200   192248"
+"750","072BB000200        0"
+"751","072CC010200   684488"
+"752","072CC020200        0"
+"753","072DD010200    35371"
+"754","072DD020200        0"
+"755","072EE000200   117363"
+"756","072 A000300 12"
+"757","<PAGE>      PAGE  14"
+"758","072 B000300        0"
+"759","072 C000300    14954"
+"760","072 D000300        0"
+"761","072 E000300        0"
+"762","072 F000300        0"
+"763","072 G000300        0"
+"764","072 H000300        0"
+"765","072 I000300      910"
+"766","072 J000300        0"
+"767","072 K000300        8"
+"768","072 L000300       19"
+"769","072 M000300        5"
+"770","072 N000300       75"
+"771","072 O000300        0"
+"772","072 P000300        0"
+"773","072 Q000300       70"
+"774","072 R000300       10"
+"775","072 S000300        4"
+"776","072 T000300        0"
+"777","072 U000300        0"
+"778","072 V000300       19"
+"779","072 W000300        9"
+"780","072 X000300     1129"
+"781","072 Y000300     1129"
+"782","072 Z000300    14954"
+"783","072AA000300     6050"
+"784","072BB000300        0"
+"785","072CC010300   144357"
+"786","072CC020300        0"
+"787","072DD010300    14816"
+"788","072DD020300        0"
+"789","072EE000300     1307"
+"790","073 A010100   0.4100"
+"791","073 A020100   0.0000"
+"792","073 B000100   0.2100"
+"793","073 C000100   0.0000"
+"794","073 A010200   0.2200"
+"795","073 A020200   0.0000"
+"796","073 B000200   0.7300"
+"797","073 C000200   0.0000"
+"798","073 A010300   0.1700"
+"799","073 A020300   0.0000"
+"800","073 B000300   0.0200"
+"801","073 C000300   0.0000"
+"802","074 A000100        0"
+"803","074 B000100        0"
+"804","074 C000100        0"
+"805","074 D000100        0"
+"806","074 E000100        0"
+"807","074 F000100        0"
+"808","074 G000100        0"
+"809","<PAGE>      PAGE  15"
+"810","074 H000100        0"
+"811","074 I000100  6460111"
+"812","074 J000100    13163"
+"813","074 K000100        0"
+"814","074 L000100     6031"
+"815","074 M000100        0"
+"816","074 N000100  6479305"
+"817","074 O000100        0"
+"818","074 P000100        0"
+"819","074 Q000100        0"
+"820","074 R010100        0"
+"821","074 R020100        0"
+"822","074 R030100        0"
+"823","074 R040100    20110"
+"824","074 S000100        0"
+"825","074 T000100  6459195"
+"826","074 U010100   506070"
+"827","074 U020100        0"
+"828","074 V010100    12.76"
+"829","074 V020100     0.00"
+"830","074 W000100   0.0000"
+"831","074 X000100    69602"
+"832","074 Y000100        0"
+"833","074 A000200        0"
+"834","074 B000200        0"
+"835","074 C000200        0"
+"836","074 D000200        0"
+"837","074 E000200        0"
+"838","074 F000200        0"
+"839","074 G000200        0"
+"840","074 H000200        0"
+"841","074 I000200  3995937"
+"842","074 J000200     1035"
+"843","074 K000200        0"
+"844","074 L000200     1899"
+"845","074 M000200        0"
+"846","074 N000200  3998871"
+"847","074 O000200        0"
+"848","074 P000200        0"
+"849","074 Q000200        0"
+"850","074 R010200        0"
+"851","074 R020200        0"
+"852","074 R030200        0"
+"853","074 R040200     2756"
+"854","074 S000200        0"
+"855","074 T000200  3996115"
+"856","074 U010200   166669"
+"857","074 U020200        0"
+"858","074 V010200    23.98"
+"859","074 V020200     0.00"
+"860","074 W000200   0.0000"
+"861","<PAGE>      PAGE  16"
+"862","074 X000200    70113"
+"863","074 Y000200        0"
+"864","074 A000300        0"
+"865","074 B000300        0"
+"866","074 C000300        0"
+"867","074 D000300        0"
+"868","074 E000300        0"
+"869","074 F000300        0"
+"870","074 G000300        0"
+"871","074 H000300        0"
+"872","074 I000300  1126491"
+"873","074 J000300        0"
+"874","074 K000300        0"
+"875","074 L000300     1449"
+"876","074 M000300        6"
+"877","074 N000300  1127946"
+"878","074 O000300     1106"
+"879","074 P000300        0"
+"880","074 Q000300        0"
+"881","074 R010300        0"
+"882","074 R020300        0"
+"883","074 R030300        0"
+"884","074 R040300      341"
+"885","074 S000300        0"
+"886","074 T000300  1126499"
+"887","074 U010300    88387"
+"888","074 U020300        0"
+"889","074 V010300    12.75"
+"890","074 V020300     0.00"
+"891","074 W000300   0.0000"
+"892","074 X000300    24698"
+"893","074 Y000300        0"
+"894","075 A000100        0"
+"895","075 B000100  6591493"
+"896","075 A000200        0"
+"897","075 B000200  3622178"
+"898","075 A000300        0"
+"899","075 B000300   982318"
+"900","076  000100     0.00"
+"901","076  000200     0.00"
+"902","076  000300     0.00"
+"903","077 A000000 Y"
+"904","077 B000000 Y"
+"905","077 D000000 Y"
+"906","077 Q010000 Y"
+"907","077 Q020000 N"
+"908","077 Q030000 N"
+"909","078  000000 N"
+"910","080 A00AA00 ICI Mutual Insurance Company"
+"911","080 C00AA00   130000"
+"912","081 A00AA00 Y"
+"913","<PAGE>      PAGE  17"
+"914","081 B00AA00 374"
+"915","082 A00AA00 N"
+"916","082 B00AA00        0"
+"917","083 A00AA00 N"
+"918","083 B00AA00        0"
+"919","084 A00AA00 N"
+"920","084 B00AA00        0"
+"921","085 A00AA00 Y"
+"922","085 B00AA00 N"
+"923","086 A010000      0"
+"924","086 A020000      0"
+"925","086 B010000      0"
+"926","086 B020000      0"
+"927","086 C010000      0"
+"928","086 C020000      0"
+"929","086 D010000      0"
+"930","086 D020000      0"
+"931","086 E010000      0"
+"932","086 E020000      0"
+"933","086 F010000      0"
+"934","086 F020000      0"
+"935","SIGNATURE   GREGORY K. HINKLE"
+"936","TITLE       TREASURER"
+"937","</TEXT>"
+"938","</DOCUMENT>"
+"939","<DOCUMENT>"
+"940","<TYPE>EX-99.77B ACCT LTTR"
+"941","<SEQUENCE>2"
+"942","<FILENAME>spectrumfundsinc-3funds12311.htm"
+"943","<DESCRIPTION>ACCOUNTING LETTER~ SPECTRUM FUND"
+"944","<TEXT>"
+"945","<HTML>"
+"946","<HEAD>"
+"947","   <TITLE>spectrumfundsinc-3funds12311.htm - Generated by SEC Publisher for SEC Filing</TITLE>"
+"948","</HEAD>"
+"949","<BODY bgcolor=#ffffff>"
+"950","<!--$$/page=-->"
+"951","<A name=page_1></A><BR>"
+"952","<a name=_bclPageBorder1></a><DIV STYLE=WIDTH: 100%; PADDING-RIGHT: 0%; PADDING-LEFT: 0%>"
+"953","<IMG src=spectrumfundsinc-3funds1x1x1.jpg border=0>"
+"954","<BR>"
+"955","<P style=text-align: center;>"
+"956","<B><FONT size=2 face=Georgia-Bold,Times New Roman,Times,serif>Report of Independent Registered Public Accounting Firm</FONT></B></P>"
+"957","<P style=text-align: left;>"
+"958","<FONT size=2 face=Georgia,Times New Roman,Times,serif>To the Board of Directors of T. Rowe Price Spectrum Fund, Inc. and</FONT></P>"
+"959","<P style=text-align: left;>"
+"960","<FONT size=2 face=Georgia,Times New Roman,Times,serif>Shareholders of Spectrum Growth Fund, Spectrum Income Fund and Spectrum International Fund</FONT></P>"
+"961","<P style=text-align: left;>"
+"962","<FONT size=2 face=Georgia,Times New Roman,Times,serif>In planning and performing our audit of the financial statements of Spectrum Growth Fund, Spectrum Income Fund and Spectrum International Fund (three of the funds comprising T. Rowe Price Spectrum Fund, Inc., hereafter referred to as the &#147;Companies&#148;) as of and for the year ended December 31, 2013, in accordance with the standards of the Public Company Accounting Oversight Board (United States), we considered the Companies' internal control over financial reporting, including controls over safeguarding securities, as a basis for designing our auditing procedures for the purpose of expressing our opinion on the financial statements and to comply with the requirements of Form N-SAR, but not for the purpose of expressing an opinion on the effectiveness of the Companies' internal control over financial reporting. Accordingly, we do not express an opinion on the effectiveness of the Companies' internal control over financial reporting.</FONT></P>"
+"963","<P style=text-align: left;>"
+"964","<FONT size=2 face=Georgia,Times New Roman,Times,serif>The management of the Companies is responsible for establishing and maintaining effective internal control over financial reporting. In fulfilling this responsibility, estimates and judgments by management are required to assess the expected benefits and related costs of controls. A company&#146;s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of a company&#146;s assets that could have a material effect on the financial statements.</FONT></P>"
+"965","<P style=text-align: left;>"
+"966","<FONT size=2 face=Georgia,Times New Roman,Times,serif>Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.</FONT></P>"
+"967","<P style=text-align: left;>"
+"968","<FONT size=2 face=Georgia,Times New Roman,Times,serif>A deficiency in internal control over financial reporting exists when the design or operation of a control does not allow management or employees, in the normal course of performing their assigned functions, to prevent or detect misstatements on a timely basis. A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the Companies' annual or interim financial statements will not be prevented or detected on a timely basis.</FONT></P>"
+"969","<P style=text-align: center;>"
+"970","<I><FONT size=2 face=Georgia-Italic,Times New Roman,Times,serif>PricewaterhouseCoopers LLP, 100 East Pratt Street, Suite 1900, Baltimore, MD 21202-1096</FONT></I></P>"
+"971","<TABLE border=0 cellspacing=0>"
+"972","<TR>"
+"973","	<TD nowrap valign=top width=2%>"
+"974","<I><FONT size=2 face=Georgia-Italic,Times New Roman,Times,serif>T:</FONT></I>&nbsp; &nbsp; &nbsp; 	</TD>"
+"975","	<TD width=98%>"
+"976","<I><FONT size=2 face=Georgia-Italic,Times New Roman,Times,serif>(410) 783 7600, F: (410) 783 7680, www.pwc.com/us</FONT></I>	</TD>"
+"977","</TR>"
+"978","</TABLE>"
+"979","</DIV>"
+"980","<HR noshade align=center width=100% size=2><DIV STYLE=page-break-before: always>&nbsp;</div>"
+"981","<!--$$/page=-->"
+"982","<A name=page_2></A><BR>"
+"983","<a name=_bclPageBorder2></a><DIV STYLE=WIDTH: 100%; PADDING-RIGHT: 0%; PADDING-LEFT: 0%>"
+"984","<IMG src=spectrumfundsinc-3funds1x2x1.jpg border=0>"
+"985","<BR>"
+"986","<P style=text-align: left;>"
+"987","<FONT size=2 face=Georgia,Times New Roman,Times,serif>Our consideration of the Companies' internal control over financial reporting was for the limited purpose described in the first paragraph and would not necessarily disclose all deficiencies in internal control over financial reporting that might be material weaknesses under standards established by the Public Company Accounting Oversight Board (United States). However, we noted no deficiencies in the Companies' internal control over financial reporting and its operation, including controls over safeguarding securities, that we consider to be material weaknesses as defined above as of December 31, 2013.</FONT></P>"
+"988","<P style=text-align: left;>"
+"989","<FONT size=2 face=Georgia,Times New Roman,Times,serif>This report is intended solely for the information and use of management and the Board of Directors of T. Rowe Price Spectrum Fund, Inc. and the Securities and Exchange Commission and is not intended to be and should not be used by anyone other than these specified parties.</FONT></P>"
+"990","<IMG src=spectrumfundsinc-3funds1x2x2.jpg border=0>"
+"991","<BR>"
+"992","<P style=text-align: left;>"
+"993","<FONT size=2 face=ArialMT,Arial,Helvetica,sans-serif>Page 2 of 2</FONT></P>"
+"994","</DIV>"
+"995","</BODY>"
+"996","</HTML>"
+"997","</TEXT>"
+"998","</DOCUMENT>"
+"999","<DOCUMENT>"
+"1000","<TYPE>GRAPHIC"
+"1001","<SEQUENCE>3"
+"1002","<FILENAME>spectrumfundsinc-3funds1x1x1.jpg"
+"1003","<DESCRIPTION>GRAPHIC"
+"1004","<TEXT>"
+"1005","begin 644 spectrumfundsinc-3funds1x1x1.jpg"
+"1006","M_]C_X``02D9)1@`!`0'_____``#_[@`.061O8F4`9``````!_]L`0P`0PP.
+M#`H0#@T.$A$0$Q@H&A@6%A@Q(R4=*#HS/3PY,S@W0$A<3D!$5T4W.%!M45=?
+M8F=H9SY-<7EP9'A<96=C_]L`0P$1$A(8%1@O&AHO8T(X0F-C8V-C8V-C8V-C
+M8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C_\``$0@`
+M?P3`P$B``(1`0,1`?_$`!\```$%`0$!`0$!```````````!`@,$!08'`D*
+M__$`+40``(!`P,!`,%!00$```!?0$`P`$$042(3%!!A-180<B<10R@9&A"
+"1007","M-L<$54M'P)#-B<H()A87&!D:)28G*DJ-#4V-S@Y.D-$149'2$E*4U15
+M5E=865IC9&5F9VAI:G-T=79W>'EZ@X2%AH>(B8J2DY25EI>8F9JBHZ2EIJ>H
+MJ:JRL[2UMK>XN;KP\3%QL?(R<K2T]35UM?8V=KAXN/DY>;GZ.GJ\?+S]/7V"
+"1008","M]_CY^O_$`!\!``,!`0$!`0$!`0$````````!`@,$!08'`D*__$`+41``(!"
+"1009","M`@0$`P0'!00$``$=P`!`@,1!`4A,08205$'87$3(C*!!1D:&QP0DC,U+P
+M%6)RT0H6)#3A)?$7&!D:)B<H*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E
+M9F=H:6IS='5V=WAY>H*#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6V
+MM[BYNL+#Q,7&Q\C)RM+3U-76U]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_:``P#
+M`0`$0,1`#\`]`HHHH`****`BBB@`HHHH`****`BBB@`HHHH`****`BBB
+M@`HHHH`****`BBB@`HHHH`****`BBB@`HJKJ%RUI;>:H7.X#YJS/[=D](O
+MU_QK&I7A3=I&L*,IJZ-VBL)=<D+`8BY]C_C6U'*DJ[D.1G'2G3JQJ?*=.4-"
+"1010","MQ]%%%:F84444`%%%%`!1110`4444`%%%%`!1110`4444`97B)MNEL>OSBN3\"
+"1011","M_P#V?UKJO$YVZ0Q/]]:XSS5]#7FXM>^O0]3!)>S?J6TGQ(IV]QWKI++462$@"
+"1012","M1C[WK7*IRRGW%;MI_JC]:X_:SIZQ9K7A&2U-ZSNC<EP5[<=*M5FZ5]Z3ZM"
+"1013","M*O6PTY3I*4MSR:B49-(****Z`HHHH`****`BBB@`HHHH`****`BL3Q%<:
+MM`;?^RXW<-N\S;'NQTQ_6L7^T/%7_/7_OP/\*S=1)VL;PH.<>9-&SXP)&@R"
+"1014","M$'!WK_.O/_,?^\?SKKK(:OJMRMIK,$GV-@2V8]G(Z<CWK3_X1/2/^>#_`/?P"
+"1015","MUE.#J.Z.JE5CAUR2U]#A4ED^7YV_.M&ZG'$K]?6NK'A;2A_P`L7_[^&I!X"
+"1016","M<TU1@1/_`-]FL7A9/L;/&TGT9SUE>W*E]L\@Z?Q5V<))@C).25&?RJ@F@V9
+MVHXS_MFM%5J%'0#`KKI0Y(*)PXBKHTXH=1116AS!1110`4444`%%%>?>-]
+M2\0Z9<+_`*='%:SLPA6WX8`8^\2,YY'0T`>@T5YU8Q>+M5\.V\]GJ^5AL#S"
+"1017","M2)I/F/5B/P'/3%5_7BO4(]42QUX>>.=O+5I3EHW/`YZXSP:`/3:*\O\4:M"
+"1018","MXFTJ_6WN]34%T$B_9AM`&2/0'M73Z[X@?2?EI*'+7MUHC8\G.T9;\,_F10"
+"1019","M!U-%<7\.M2O=1COS>W4LY0Q[=[9QG=G^58NA:YJA\43//>SR6</FR3JS$JJ*"
+"1020","M#V[=L8H`].HKS2#6]9\5Z^+2SO9+&U8E@(S@J@[DCDG\>]0R:UJNB^*FLH;Z"
+"1021","MYNH4G6/RYWWEP<<<]^>U`'J-%%%`!1110`4444`%%%%`!1110`5P'Q3_`-7I"
+"1022","MGUE_]EKOZX#XI_ZO3/K+_PRT`;O@9UC\'6;NP55$A))P`-[5Y[I$#ZGXPB-
+MLI*M=^;D#[J!MQ/Y5T?A[PM_;/AJU>;5+U(7W?Z.K?(,.1P/PS76Z'H%AH4+
+M)9HQ9_OR.<LU`'?$[_D/V__`%ZK_PA-3X;6;5M#O\`6KQ(;>S%O:(W;:`"
+"1023","MP_7\SZ5U7B'PE;Z_>QW4US+$R1B/`$$9)[_6M*?2()-#;28RT4!B\H$<D#"
+"1024","MU^M`'F_A+6CI5A?Q6Z&6^NFCCMXQZX;D^PR*ZS_A'&TSP9?VR8FO9HF>611R"
+"1025","M[=<#N?\`/K5KP_X0LMNGN4D>>8C:K2`?(.^/K714`>1>`[ZP\2(URZQI+&"
+"1026","MT>YC@`G!&?RQ^->IW,ME;XN;EX(\#B1R`?P)KG=6\!:=J-W)<Q32VKR'<RH`"
+"1027","M5SZX[5'9?#O38)5>YN)[G:<A<A5/UQS^M`'84444`%%%%`!1110`4444`%%%"
+"1028","M%`!7-ZWX137+KSKK4;K:#\D0V[4]<<>U=)10!C:#H)T-3''J%Q/;[2%ADQM4"
+"1029","MDYR/U_.MFBB@`HHHH`****`BBB@`HHHH`****`BBB@`HHHH`****`BBB@
+C`HHHH`****`BBB@`HHHH`****`BBB@`HHHH`****`/_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>spectrumfundsinc-3funds1x2x1.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 spectrumfundsinc-3funds1x2x1.jpg
+M_]C_X``02D9)1@`!`0'_____``#_[@`.061O8F4`9``````!_]L`0P`0PP."
+"1030","M#`H0#@T.$A$0$Q@H&A@6%A@Q(R4=*#HS/3PY,S@W0$A<3D!$5T4W.%!M45=?"
+"1031","M8F=H9SY-<7EP9'A<96=C_]L`0P$1$A(8%1@O&AHO8T(X0F-C8V-C8V-C8V-C"
+"1032","M8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C_\``$0@`"
+"1033","M?P3`P$B``(1`0,1`?_$`!\```$%`0$!`0$!```````````!`@,$!08'`D*"
+"1034","M__$`+40``(!`P,!`,%!00$```!?0$`P`$$042(3%!!A-180<B<10R@9&A
+M""-L<$54M'P)#-B<H()A87&!D:)28G*DJ-#4V-S@Y.D-$149'2$E*4U15"
+"1035","M5E=865IC9&5F9VAI:G-T=79W>'EZ@X2%AH>(B8J2DY25EI>8F9JBHZ2EIJ>H"
+"1036","MJ:JRL[2UMK>XN;KP\3%QL?(R<K2T]35UM?8V=KAXN/DY>;GZ.GJ\?+S]/7V
+M]_CY^O_$`!\!``,!`0$!`0$!`0$````````!`@,$!08'`D*__$`+41``(!
+M`@0$`P0'!00$``$=P`!`@,1!`4A,08205$'87$3(C*!!1D:&QP0DC,U+P"
+"1037","M%6)RT0H6)#3A)?$7&!D:)B<H*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E"
+"1038","M9F=H:6IS='5V=WAY>H*#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6V"
+"1039","MM[BYNL+#Q,7&Q\C)RM+3U-76U]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_:``P#"
+"1040","M`0`$0,1`#\`]`HHHH`****`BBB@`HHHH`****`BBB@`HHHH`****`BBB"
+"1041","M@`HHHH`****`BBB@`HHHH`****`BBB@`HJKJ%RUI;>:H7.X#YJS/[=D](O"
+"1042","MU_QK&I7A3=I&L*,IJZ-VBL)=<D+`8BY]C_C6U'*DJ[D.1G'2G3JQJ?*=.4-
+MQ]%%%:F84444`%%%%`!1110`4444`%%%%`!1110`4444`97B)MNEL>OSBN3\
+M_P#V?UKJO$YVZ0Q/]]:XSS5]#7FXM>^O0]3!)>S?J6TGQ(IV]QWKI++462$@
+M1C[WK7*IRRGW%;MI_JC]:X_:SIZQ9K7A&2U-ZSNC<EP5[<=*M5FZ5]Z3ZM
+M*O6PTY3I*4MSR:B49-(****Z`HHHH`****`BBB@`HHHH`****`BL3Q%<:"
+"1043","MM`;?^RXW<-N\S;'NQTQ_6L7^T/%7_/7_OP/\*S=1)VL;PH.<>9-&SXP)&@R
+M$'!WK_.O/_,?^\?SKKK(:OJMRMIK,$GV-@2V8]G(Z<CWK3_X1/2/^>#_`/?P
+MUE.#J.Z.JE5CAUR2U]#A4ED^7YV_.M&ZG'$K]?6NK'A;2A_P`L7_[^&I!X
+M<TU1@1/_`-]FL7A9/L;/&TGT9SUE>W*E]L\@Z?Q5V<))@C).25&?RJ@F@V9"
+"1044","MVHXS_MFM%5J%'0#`KKI0Y(*)PXBKHTXH=1116AS!1110`4444`%%%>?>-]"
+"1045","M2\0Z9<+_`*='%:SLPA6WX8`8^\2,YY'0T`>@T5YU8Q>+M5\.V\]GJ^5AL#S
+M2)I/F/5B/P'/3%5_7BO4(]42QUX>>.=O+5I3EHW/`YZXSP:`/3:*\O\4:M
+MXFTJ_6WN]34%T$B_9AM`&2/0'M73Z[X@?2?EI*'+7MUHC8\G.T9;\,_F10
+M!U-%<7\.M2O=1COS>W4LY0Q[=[9QG=G^58NA:YJA\43//>SR6</FR3JS$JJ*
+M#V[=L8H`].HKS2#6]9\5Z^+2SO9+&U8E@(S@J@[DCDG\>]0R:UJNB^*FLH;Z
+MYNH4G6/RYWWEP<<<]^>U`'J-%%%`!1110`4444`%%%%`!1110`5P'Q3_`-7I
+MGUE_]EKOZX#XI_ZO3/K+_PRT`;O@9UC\'6;NP55$A))P`-[5Y[I$#ZGXPB-"
+"1046","MLI*M=^;D#[J!MQ/Y5T?A[PM_;/AJU>;5+U(7W?Z.K?(,.1P/PS76Z'H%AH4+"
+"1047","M)9HQ9_OR.<LU`'?$[_D/V__`%ZK_PA-3X;6;5M#O\`6KQ(;>S%O:(W;:`
+MP_7\SZ5U7B'PE;Z_>QW4US+$R1B/`$$9)[_6M*?2()-#;28RT4!B\H$<D#
+MU^M`'F_A+6CI5A?Q6Z&6^NFCCMXQZX;D^PR*ZS_A'&TSP9?VR8FO9HF>611R
+M[=<#N?\`/K5KP_X0LMNGN4D>>8C:K2`?(.^/K714`>1>`[ZP\2(URZQI+&
+MT>YC@`G!&?RQ^->IW,ME;XN;EX(\#B1R`?P)KG=6\!:=J-W)<Q32VKR'<RH`
+M5SZX[5'9?#O38)5>YN)[G:<A<A5/UQS^M`'84444`%%%%`!1110`4444`%%%
+M%`!7-ZWX137+KSKK4;K:#\D0V[4]<<>U=)10!C:#H)T-3''J%Q/;[2%ADQM4
+MDYR/U_.MFBB@`HHHH`****`BBB@`HHHH`****`BBB@`HHHH`****`BBB@"
+"1048","C`HHHH`****`BBB@`HHHH`****`BBB@`HHHH`****`/_]D_"
+"1049","`"
+"1050","end"
+"1051","</TEXT>"
+"1052","</DOCUMENT>"
+"1053","<DOCUMENT>"
+"1054","<TYPE>GRAPHIC"
+"1055","<SEQUENCE>5"
+"1056","<FILENAME>spectrumfundsinc-3funds1x2x2.jpg"
+"1057","<DESCRIPTION>GRAPHIC"
+"1058","<TEXT>"
+"1059","begin 644 spectrumfundsinc-3funds1x2x2.jpg"
+"1060","M_]C_X``02D9)1@`!`0'_____``#_[@`.061O8F4`9``````!_]L`0P`0PP.
+M#`H0#@T.$A$0$Q@H&A@6%A@Q(R4=*#HS/3PY,S@W0$A<3D!$5T4W.%!M45=?
+M8F=H9SY-<7EP9'A<96=C_]L`0P$1$A(8%1@O&AHO8T(X0F-C8V-C8V-C8V-C
+M8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C_\``$0@`
+M6`%#`P$B``(1`0,1`?_$`!\```$%`0$!`0$!```````````!`@,$!08'`D*"
+"1061","M__$`+40``(!`P,!`,%!00$```!?0$`P`$$042(3%!!A-180<B<10R@9&A
+M""-L<$54M'P)#-B<H()A87&!D:)28G*DJ-#4V-S@Y.D-$149'2$E*4U15"
+"1062","M5E=865IC9&5F9VAI:G-T=79W>'EZ@X2%AH>(B8J2DY25EI>8F9JBHZ2EIJ>H"
+"1063","MJ:JRL[2UMK>XN;KP\3%QL?(R<K2T]35UM?8V=KAXN/DY>;GZ.GJ\?+S]/7V
+M]_CY^O_$`!\!``,!`0$!`0$!`0$````````!`@,$!08'`D*__$`+41``(!
+M`@0$`P0'!00$``$=P`!`@,1!`4A,08205$'87$3(C*!!1D:&QP0DC,U+P"
+"1064","M%6)RT0H6)#3A)?$7&!D:)B<H*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E"
+"1065","M9F=H:6IS='5V=WAY>H*#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6V"
+"1066","MM[BYNL+#Q,7&Q\C)RM+3U-76U]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_:``P#"
+"1067","M`0`$0,1`#\`]`HHHH`***@N+VUM1_I-S##C_GI(%_G0!/162/$VB&0(-4ML
+MGU?`_/I5^VN[:[4M:W$,ZCO&X8?I0!/115._U.VTY[<73,@N)/+5]N5#'ID]
+MJ`+E%%%`!1110`4444`%%%%`!1110`4444`%%%%`!1110`4444`%%%%`!111
+M0`4444`%%%%`!1110`4444`%%%%`!1110`5EWNM)#*UO8V\E_=J<-%$>$_WV
+MZ+_/VJQJD5W/9F&RD\J21@K2YP43/S$<'G'2GV-C;:=;+;VD2QQKS@=2?4GN
+M?>@#.CTW4KV(G5=0>+<0?(LCY:J/0O\`>/X$5/:>'M(L^8-.MPP_C==[?FV3
+M6G6:FK(_B%])6(EH[?SFESP.<;<?CF@\T,3+M:-.FHKF]3M(K+Q/I#:7$"
+"1068","MD%Q.[BX6(!0\74E@/?OZUK:KK,&G%(54W%Y*<16T?WW/]![FH=$TNX@EEU'4"
+"1069","MY%EU&X&UMI^6).H1?;N?>@#8IK*KC#*&'H1FG44`%%%%`!1110`45F>(]0FT"
+"1070","MK1+B\MT#RQE-JGOEP/ZUIT`%%%8GB34+FR;3([*3;+<7J1LNT-NCYW=>W3F@"
+"1071","M#;HHHH`****`BBB@`HIKLJ(SNP55&22<`LN/Q+H\VH)8Q7J27#L4HI(S]
+M<8_6@#6HHHH`****`BBB@`HHHH`****`BBB@`HHHH`**A6ZMWG,3Q-*.3"
+"1072","M&'!8?A4U`!1110`4444`175PEK:RW$IPD2%V/L!FN8T;14UG2IKW5ED$VH3
+MXPKLI11D(/H`3^!JQXSN&:UL]+C(#ZC<+$V?[F1N_I5S4M3>TU;2M,M50-<N
+M=X*_=C523CT_^M0!/#8Z5H=M)<1P0VR(I,DI&6Q[L>35'3=<O+G58K>[L!;0
+M7432VQWY?`QG<.V00?;WIL\ZZ]K`L(E$FGV;![F3JKR`_+'[X/)Z^E5;75+4
+M>*M7N=2N8H/L<:PPJ[8PG5B`>I)QT]J`.H,L8F$)D02D;@FX;B/7'I2^8GF>
+M7O7?C.W/./7%<78ZCYUW?^*KG>+=%-M8Q=#,,]N.I/I[^E9VD0W,\6J^*YIF
+M:]A\T)`IX0[<?-WP`>![=:`/10ZLS*K`E>H!Z4ZO/-(U'3=)*WL,X>8:>9+N
+M1I?-G?:RQ_48;I[Y[U<_P$Q^R>';<6S'4-06%6F;:Q2/(S\Y_3\*`.JU*_
+M_L](&\B28S3I%3L6[G/:KA(!`)`SP/>N&US7[?5I-'LH+Z.!F=9[B>-N(%
+MSC/3N?I@5'_PE&+R$R2R7L=C.)'N_+$:&-P8SA1Z;@0>_/3B@#<UB-=7\0V&
+MFCYHK,B\N.>_1%^I.?PK?\V,RF+>OF`;BF><>N*Y?2KF'2M)O?$6H-MDU!S*
+MJGKMY\M!QZ5@V6MZM`FH:^=)>26X`Q-)\L4<0X``X+<X_+ZT`>DUS<DB:EXR
+M`9E\G28LDG_GK)C'/T'^>TEAKMO:>'H[C4=3M[FY6+S)-CKDD\[0!]0*XF33
+M)Y?#]SJ^ISR`WDVZWC(_>2-T+?S`]*`/5J*X6WU_5]22V6UN(X?M#_9H%,>"
+"1073","M]Y0!\\Y/&`.N/P[4S3?%\>F:+>-<7CW]PMRXMUD;YF3CDD9P,Y_D*`.]J);F"
+"1074","M!YFA2:-I5^\@8%A]17*VWC.S'AY);^^C&H21L=D*DX.3M'&<<8ZU0T+5=`A\"
+"1075","M.-<*EO%JEM$[;I@/,>3:>58\G)[9H`[M98W=T216=,;E!R5STSZ5E:KK+V]V"
+"1076","MFG:?!]JU0;MG1(E_O.>P_6L3X>6H$-W?J)2EP(U\R4Y9W`)D/TW''X?6M/P
+MPL+WFLSD+]L-ZZ2\\A1P@^F._?GTH`=;>&DE<SZW</J4['(23B*/O\J?IDUN
+M1QI$@2-%11T51@G5@V>HW^L?:;BP\N&TA9D@WKS<LN>I_A3..V?<4`;U%<Y"
+"1077","M8^))XI/LFMV,EO?;?,V6Z-,F2-WRYQ@C]1^&Y#>6T]N;B*>-H5SN<-PN.N?
+M3'O0!/17+ZWXJDMTD?2(H;N*W4//<,_[M<]%7'WF/7CVJUJ?BNQTR*W\]7:Y
+MG56^SIRR`X^]Z=?QH`WJ*K'4+,7?V0W4/VC!/E;QN``STJL=?TH7T=D+Z)[B
+M1MBI'E^?0XSC\:`-*BF12QS('B=70YPRG(]*?0`5F:]JC:79H8466ZGE6*("
+"1078","M_P`;$_RQGFM(D`9/`KF]-=?$&M_VO\PL[$M#:'H)&/#/SVZ`4`=(,XYZU&+F"
+"1079","M$W1MA*IG;S'GD+G&:2ZN8K.VDN)W11KN9CV%8OAJWEN9KG7KD%9-0^5&>
+ML<0^Z/Q&#0!T%8.NRO?WD.A6Y<>>OF74B-@QP@]/JQXK:N)/)MY9<@;$+<].
+M!7(^'K?6=7LYM2EODL_MY^8QP_O-JC:`I)PHZGH>N>]`$FK66G6>JZ-9Z1;P
+MPWZW*NWDJ-PB`^?>>N#WZX-==6?I.C6>D1L+96:23F2:1MTDA]2:T*`BBB
+M@`HHHH`@FL[:>XAN)H$>:#/ENPR4SUQ^55M5T:SU80_:E?=24>-RK+GJ,CU"
+"1080","MK0HH`K6%C;:=:):VD8CAC^ZH.?U-5]2T+3-4D66]M(Y9%&`_(./PZ_C6C10!"
+"1081","MSNE^$+2PF@EFN+B[-L2;=96^6+)SD`=ZDO\`PEIUY=2W27-I+,<R&VEV;SU
+MR1@BMZB@#G['P7HEC<9;4RL.@F;>H_`\5IC2;`:?)8I:1):R+M>-!M#?ESG"
+"1082","MWZU=HH`R9?#6CRVV+6,8MU?>%4E3N]<@YK(U'PE,G]ISZ;<;3=1-+8*%7`"
+"1083","M`7!/H!GCCG'I76T4`<W:>#-.C,+7,EU<I&`5MYY=T2'V&*Z:&>!H)HD>)A"
+"1084","MM9&&01Z8J2B@#!;P9X?8L3IR_-UQ(X_KQ5T:%I:VR6PLHO)CD\U4QP&]:T:*"
+"1085","M`,71O^GZ+=/<6S3NY!51*^1&I.2%XZ?7-+!X5T6TFMH[%?*GXDR[$D9!`S"
+"1086","MG.,@?E6S10!2BTC3HK8V\=A;$C!3R@0?KZU%-X?T>=%633+7]-L07'Y5I4"
+"1087","M4`<[#X0MK1\V&HZE9KG<(HI_D!^A!S^-*GAJ83/>'5)$U-C@W4,00.O&`Z<J"
+"1088","MWUX[>E=#10!B?9/$2,`FJ6<J=S):D'\@U9UEX<UK2Q''I^KQ?9U)<P20D(&/"
+"1089","M4#!SCVS7644`<G-IFOV^MQ:QBTOYA$8&A0F(*O4$$Y[]?\X@UF&2/3I;WQ+("
+"1090","M@1G_`'5A:942.1@;FZL<#\`/PKLZYNTT^\U;7?[3U6'R[:V)%E;OU!R/G/OQ"
+"1091","MQGV]*`.=TSP?KPAM5EDLXK>)S+Y$F6RQQRR@88\`<GM6Q_PAD]W>3SZIJTDO"
+"1092","MG.LC!!&=R@A>3G@9X%==10!RQ\`Z*UX9W%PRGK$9>>Y)^][]:BE\`:?/>/"
+"1093","M(TC10*`L,4`[<#DLQR6.>]==10!QVE:9XITJT33K4Z:MO&QQ.VXL06)SCI^
+ME=59Q306R1W%P;F49+2%0N3GT'05/10!#=VXN[.>V9F19HVC+*>0,9'O7-+"
+"1094","MX!TI+0Q++<F8<QS-)S&WJ`,#K75T4`<QJFAZWJ.@'3YM0MII6E4L[(4#1CG!"
+"1095","MQG)S@]NE.N-#UZ>T*_\`0&.08V)#`(T7IQD<FNEHH`P/$?]HSV,.E6D;237
+M@\N>Y82-/XB>PSSQ6U;6\=K;16\*[8XE*/0`5+10`4444`%%%%`!1618Z\
+M+](9(M-OA#*YC$I5%()!R`Y(&0><5/K.H2:99BY2W690ZJX,FP@$@9'!SR1"
+"1096","MQQ0!H4444`%%%%`!1110`4444`%%%%`!1110`4444`%%%%`!1110`4444`%%"
+"1097","M%%`!1110`4444`%%%%`!1110`4444`%%%%`!1110`4444`%%%%`'+^';*==!"
+"1098","MG:`75O?GS0@N#(J*2Q*D(WR]QR!_6LD:;<C2KC;!<%WBB66!+)XP7$BDL26."
+"1099","M]L9^8#&***-F&Y)=V(;SWBTVX73VO8'AA%L^1C_6,$`RH(]AFI]7T>&S^UI:"
+"1100","M:9(]O/I_EQ.%I#YH8D9ZD'D8)],444/;^NP+?\`KN-U'[3+-;2QZ;)&T!MV
+M29+-S*ZY&_+`94#D;>I^E21>'['5'UA9K&2.9IG:WDDA=``5'(R`#\P/^311
+M0^OS#:WR-;PS`'M#J,MM'!/<JH(1<850%'3Z$_0CTK/TVYFLDU8P6U[NDN`T
+M+3V\S?*0J[N06;'/'7BBBA[@EH1Z%J,.FQZS*ZWLZQW09F,+;RJ@D[@,>I'"
+"1101","M8=JU_$V[K:FXMKB[57)$*1-)&W&,R`*W`SQQUHHH>R!;OYF,EBL2Z8MS!=7
+MNFQ+*'C:VD.V0G*YC(W%0,@<5&T%U!INF>=!?EH[[S%B5)'\N`-D!@N1D#'!
+MY]***-G_`%ZAO_7R)/$%XTM_9R3+=)'#?1.,6\F&&>6)VX)/8#/YGCL.M%%"
+"1102","MV_KR$]Q:***!A1110`4444`%%%%`!1110`4444`%%%%`!1110`4444`%%%%
+4`!1110`4444`%%%%`!1110!__]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.77D POLICIES
+<SEQUENCE>6
+<FILENAME>cip_spc.htm
+<DESCRIPTION>POLICIES~ SPECTRUM FUND
+<TEXT>
+
+<HTML>
+<HEAD>
+   <TITLE>cip_spc.htm - Generated by SEC Publisher for SEC Filing</TITLE>
+</HEAD>
+
+<BODY bgcolor=#ffffff>
+<a name=page_1></a><a name=_bclPageBorder1></a><DIV STYLE=WIDTH: 100%; PADDING-RIGHT: 0%; PADDING-LEFT: 0%>
+
+<a name=_bclHeader1></a><DIV>
+
+
+<p style=line-height:115%;margin-bottom:10.0pt;margin-left:0in;margin-right:0in;margin-top:0in;><font face=Calibri,sans-serif lang=EN-US style=font-size:11.0pt;>&nbsp;</font></p>
+
+
+</DIV>
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>T.
+Rowe Price Spectrum Fund, Inc.</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>Spectrum
+International Fund</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>The fundamental
+policy relating to the purchase and sale of commodities has been revised to the
+following:</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>The funds may not
+purchase or sell commodities except to the extent permitted by applicable law.</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>To clarify the
+intent of the new policy, the following note was added to the SAI to be read in
+connection with the policy:</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>With respect to
+this investment restriction, the funds may not directly purchase or sell
+commodities that require physical storage unless acquired as a result of
+ownership of securities or other instruments but the funds may invest in any
+derivatives and other financial instruments that involve commodities or
+represent interests in commodities to the extent permitted by the Investment
+Company Act of 1940 or other applicable law.</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>This new policy
+does not apply to the Dividend Growth Fund, Diversified Small-Cap Growth Fund,
+Emerging Markets Local Multi-Sector Account Portfolio, Institutional High Yield
+Fund, Institutional Large-Cap Growth Fund, Institutional Large-Cap Value Fund,
+Institutional Mid-Cap Equity Growth Fund, Institutional Small-Cap Stock Fund,
+or New America Growth Fund since these funds did not obtain the necessary
+shareholder votes to approve the revised policy.&#160; These funds will continue to
+operate under their current policy, which is that they may not purchase or sell
+physical commodities, except that they may enter into futures contracts and
+options thereon.</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>We did not seek
+shareholder approval to apply the new policy to the Short-Government Reserve
+Fund, Short-Term Reserve Fund, or any of the T. Rowe Price money market funds
+since they are not permitted to use derivatives.</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>T. Rowe Price
+Spectrum Fund, Inc.</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>Spectrum Growth
+Fund</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>The fundamental
+policy relating to the purchase and sale of commodities has been revised to the
+following:</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>The funds may not
+purchase or sell commodities except to the extent permitted by applicable law.</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>To clarify the
+intent of the new policy, the following note was added to the SAI to be read in
+connection with the policy:</font></p>
+
+
+<a name=_bclFooter1></a><DIV>
+
+
+<p style=line-height:115%;margin-bottom:10.0pt;margin-left:0in;margin-right:0in;margin-top:0in;><font face=Calibri,sans-serif lang=EN-US style=font-size:11.0pt;>&nbsp;</font></p>
+
+
+</DIV>
+</DIV><HR noshade align=center width=100% size=2><DIV STYLE=page-break-before: always>&nbsp;</div><a name=page_2></a><a name=_bclPageBorder2></a><DIV STYLE=WIDTH: 100%; PADDING-RIGHT: 0%; PADDING-LEFT: 0%>
+
+<a name=_bclHeader2></a><DIV>
+
+
+<p style=line-height:115%;margin-bottom:10.0pt;margin-left:0in;margin-right:0in;margin-top:0in;><font face=Calibri,sans-serif lang=EN-US style=font-size:11.0pt;>&nbsp;</font></p>
+
+
+</DIV>
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>With respect to
+this investment restriction, the funds may not directly purchase or sell
+commodities that require physical storage unless acquired as a result of
+ownership of securities or other instruments but the funds may invest in any
+derivatives and other financial instruments that involve commodities or
+represent interests in commodities to the extent permitted by the Investment
+Company Act of 1940 or other applicable law.</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>This new policy
+does not apply to the Dividend Growth Fund, Diversified Small-Cap Growth Fund,
+Emerging Markets Local Multi-Sector Account Portfolio, Institutional High Yield
+Fund, Institutional Large-Cap Growth Fund, Institutional Large-Cap Value Fund,
+Institutional Mid-Cap Equity Growth Fund, Institutional Small-Cap Stock Fund,
+or New America Growth Fund since these funds did not obtain the necessary
+shareholder votes to approve the revised policy.&#160; These funds will continue to
+operate under their current policy, which is that they may not purchase or sell
+physical commodities, except that they may enter into futures contracts and
+options thereon.</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>We did not seek
+shareholder approval to apply the new policy to the Short-Government Reserve
+Fund, Short-Term Reserve Fund, or any of the T. Rowe Price money market funds
+since they are not permitted to use derivatives.</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>T. Rowe Price
+Spectrum Fund, Inc.</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>Spectrum Income
+Fund</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>The fundamental
+policy relating to the purchase and sale of commodities has been revised to the
+following:</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>The funds may not
+purchase or sell commodities except to the extent permitted by applicable law.</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>To clarify the
+intent of the new policy, the following note was added to the SAI to be read in
+connection with the policy:</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>With respect to
+this investment restriction, the funds may not directly purchase or sell
+commodities that require physical storage unless acquired as a result of
+ownership of securities or other instruments but the funds may invest in any
+derivatives and other financial instruments that involve commodities or
+represent interests in commodities to the extent permitted by the Investment
+Company Act of 1940 or other applicable law.</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>This new policy
+does not apply to the Dividend Growth Fund, Diversified Small-Cap Growth Fund,
+Emerging Markets Local Multi-Sector Account Portfolio, Institutional High Yield
+Fund, Institutional Large-Cap Growth Fund, Institutional Large-Cap Value Fund,
+Institutional Mid-Cap Equity Growth Fund, Institutional Small-Cap Stock Fund,
+or New America Growth Fund since these funds did not obtain the necessary
+shareholder votes to </font><font face=courier new lang=EN-US style=font-size:10.5pt;>approve the revised policy.&#160; These
+funds will continue to operate under their current policy, which is that they
+may not purchase or sell physical commodities, except that they may enter into
+futures contracts and options thereon.</font></p>
+<a name=_bclFooter2></a><DIV>
+
+
+<p style=line-height:115%;margin-bottom:10.0pt;margin-left:0in;margin-right:0in;margin-top:0in;><font face=Calibri,sans-serif lang=EN-US style=font-size:11.0pt;>&nbsp;</font></p>
+
+
+</DIV>
+</DIV><HR noshade align=center width=100% size=2><DIV STYLE=page-break-before: always>&nbsp;</div><a name=page_3></a><a name=_bclPageBorder3></a><DIV STYLE=WIDTH: 100%; PADDING-RIGHT: 0%; PADDING-LEFT: 0%>
+
+<a name=_bclHeader3></a><DIV>
+
+
+<p style=line-height:115%;margin-bottom:10.0pt;margin-left:0in;margin-right:0in;margin-top:0in;><font face=Calibri,sans-serif lang=EN-US style=font-size:11.0pt;>&nbsp;</font></p>
+
+
+</DIV>
+
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>We did not seek
+shareholder approval to apply the new policy to the Short-Government Reserve
+Fund, Short-Term Reserve Fund, or any of the T. Rowe Price money market funds
+since they are not permitted to use derivatives.</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+<p style=margin:0in;margin-bottom:.0001pt;><font face=courier new lang=EN-US style=font-size:10.5pt;>&nbsp;</font></p>
+
+
+
+</div>
+</BODY>
+
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+"

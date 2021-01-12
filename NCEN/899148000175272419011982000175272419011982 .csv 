@@ -1,0 +1,1723 @@
+"","V1"
+"1","<SEC-DOCUMENT>0001752724-19-011982.txt : 20190318"
+"2","<SEC-HEADER>0001752724-19-011982.hdr.sgml : 20190318"
+"3","<ACCEPTANCE-DATETIME>20190318143714"
+"4","ACCESSION NUMBER:		0001752724-19-011982"
+"5","CONFORMED SUBMISSION TYPE:	N-CEN"
+"6","PUBLIC DOCUMENT COUNT:		3"
+"7","CONFORMED PERIOD OF REPORT:	20181231"
+"8","FILED AS OF DATE:		20190318"
+"9","DATE AS OF CHANGE:		20190318"
+"10","EFFECTIVENESS DATE:		20190318"
+"11","FILER:"
+"12","	COMPANY DATA:	"
+"13","		COMPANY CONFORMED NAME:			RYDEX SERIES FUNDS"
+"14","		CENTRAL INDEX KEY:			0000899148"
+"15","		IRS NUMBER:				000000000"
+"16","		FISCAL YEAR END:			0331"
+"17","	FILING VALUES:"
+"18","		FORM TYPE:		N-CEN"
+"19","		SEC ACT:		1940 Act"
+"20","		SEC FILE NUMBER:	811-07584"
+"21","		FILM NUMBER:		19687841"
+"22","	BUSINESS ADDRESS:	"
+"23","		STREET 1:		702 KING FARM BOULEVARD"
+"24","		STREET 2:		SUITE 200"
+"25","		CITY:			ROCKVILLE"
+"26","		STATE:			MD"
+"27","		ZIP:			20850"
+"28","		BUSINESS PHONE:		301-296-5100"
+"29","	MAIL ADDRESS:	"
+"30","		STREET 1:		702 KING FARM BOULEVARD"
+"31","		STREET 2:		SUITE 200"
+"32","		CITY:			ROCKVILLE"
+"33","		STATE:			MD"
+"34","		ZIP:			20850"
+"35","	FORMER COMPANY:	"
+"36","		FORMER CONFORMED NAME:	RYDEX DYNAMIC FUNDS"
+"37","		DATE OF NAME CHANGE:	20170712"
+"38","	FORMER COMPANY:	"
+"39","		FORMER CONFORMED NAME:	RYDEX SERIES FUNDS"
+"40","		DATE OF NAME CHANGE:	20000229"
+"41","	FORMER COMPANY:	"
+"42","		FORMER CONFORMED NAME:	RYDEX SERIES TRUST"
+"43","		DATE OF NAME CHANGE:	19930714"
+"44","<SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"45","<EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"46","<SERIES>"
+"47","<OWNER-CIK>0000899148"
+"48","<SERIES-ID>S000003763"
+"49","<SERIES-NAME>Guggenheim Multi-Hedge Strategies Fund"
+"50","<CLASS-CONTRACT>"
+"51","<CLASS-CONTRACT-ID>C000010438"
+"52","<CLASS-CONTRACT-NAME>Class P"
+"53","<CLASS-CONTRACT-TICKER-SYMBOL>RYMSX"
+"54","</CLASS-CONTRACT>"
+"55","<CLASS-CONTRACT>"
+"56","<CLASS-CONTRACT-ID>C000010439"
+"57","<CLASS-CONTRACT-NAME>Class A"
+"58","<CLASS-CONTRACT-TICKER-SYMBOL>RYMQX"
+"59","</CLASS-CONTRACT>"
+"60","<CLASS-CONTRACT>"
+"61","<CLASS-CONTRACT-ID>C000010440"
+"62","<CLASS-CONTRACT-NAME>Class C"
+"63","<CLASS-CONTRACT-TICKER-SYMBOL>RYMRX"
+"64","</CLASS-CONTRACT>"
+"65","<CLASS-CONTRACT>"
+"66","<CLASS-CONTRACT-ID>C000088407"
+"67","<CLASS-CONTRACT-NAME>Institutional Class"
+"68","<CLASS-CONTRACT-TICKER-SYMBOL>RYIMX"
+"69","</CLASS-CONTRACT>"
+"70","</SERIES>"
+"71","<SERIES>"
+"72","<OWNER-CIK>0000899148"
+"73","<SERIES-ID>S000003774"
+"74","<SERIES-NAME>Commodities Strategy Fund"
+"75","<CLASS-CONTRACT>"
+"76","<CLASS-CONTRACT-ID>C000010463"
+"77","<CLASS-CONTRACT-NAME>Class H"
+"78","<CLASS-CONTRACT-TICKER-SYMBOL>RYMBX"
+"79","</CLASS-CONTRACT>"
+"80","<CLASS-CONTRACT>"
+"81","<CLASS-CONTRACT-ID>C000010464"
+"82","<CLASS-CONTRACT-NAME>Class A"
+"83","<CLASS-CONTRACT-TICKER-SYMBOL>RYMEX"
+"84","</CLASS-CONTRACT>"
+"85","<CLASS-CONTRACT>"
+"86","<CLASS-CONTRACT-ID>C000010465"
+"87","<CLASS-CONTRACT-NAME>Class C"
+"88","<CLASS-CONTRACT-TICKER-SYMBOL>RYMJX"
+"89","</CLASS-CONTRACT>"
+"90","</SERIES>"
+"91","<SERIES>"
+"92","<OWNER-CIK>0000899148"
+"93","<SERIES-ID>S000014094"
+"94","<SERIES-NAME>Guggenheim Managed Futures Strategy Fund"
+"95","<CLASS-CONTRACT>"
+"96","<CLASS-CONTRACT-ID>C000038557"
+"97","<CLASS-CONTRACT-NAME>Class P"
+"98","<CLASS-CONTRACT-TICKER-SYMBOL>RYMFX"
+"99","</CLASS-CONTRACT>"
+"100","<CLASS-CONTRACT>"
+"101","<CLASS-CONTRACT-ID>C000039064"
+"102","<CLASS-CONTRACT-NAME>Class A"
+"103","<CLASS-CONTRACT-TICKER-SYMBOL>RYMTX"
+"104","</CLASS-CONTRACT>"
+"105","<CLASS-CONTRACT>"
+"106","<CLASS-CONTRACT-ID>C000039065"
+"107","<CLASS-CONTRACT-NAME>Class C"
+"108","<CLASS-CONTRACT-TICKER-SYMBOL>RYMZX"
+"109","</CLASS-CONTRACT>"
+"110","<CLASS-CONTRACT>"
+"111","<CLASS-CONTRACT-ID>C000088408"
+"112","<CLASS-CONTRACT-NAME>Institutional Class"
+"113","<CLASS-CONTRACT-TICKER-SYMBOL>RYIFX"
+"114","</CLASS-CONTRACT>"
+"115","</SERIES>"
+"116","</EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"117","</SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"118","</SEC-HEADER>"
+"119","<DOCUMENT>"
+"120","<TYPE>N-CEN"
+"121","<SEQUENCE>1"
+"122","<FILENAME>primary_doc.xml"
+"123","<TEXT>"
+"124","<XML>"
+"125","<?xml version=1.0 encoding=UTF-8?>"
+"126","<edgarSubmission xmlns=http://www.sec.gov/edgar/ncen xmlns:com=http://www.sec.gov/edgar/common>"
+"127","  <schemaVersion>X0201</schemaVersion>"
+"128","  <headerData>"
+"129","    <submissionType>N-CEN</submissionType>"
+"130","    <filerInfo>"
+"131","      <liveTestFlag>LIVE</liveTestFlag>"
+"132","      <filer>"
+"133","        <issuerCredentials>"
+"134","          <cik>0000899148</cik>"
+"135","          <ccc>XXXXXXXX</ccc>"
+"136","        </issuerCredentials>"
+"137","        <fileNumber>811-07584</fileNumber>"
+"138","      </filer>"
+"139","      <investmentCompanyType>N-1A</investmentCompanyType>"
+"140","    </filerInfo>"
+"141","    <seriesClass>"
+"142","      <reportSeriesClass>"
+"143","        <rptSeriesClassInfo>"
+"144","          <seriesId>S000003774</seriesId>"
+"145","          <includeAllClassesFlag>true</includeAllClassesFlag>"
+"146","        </rptSeriesClassInfo>"
+"147","        <rptSeriesClassInfo>"
+"148","          <seriesId>S000014094</seriesId>"
+"149","          <includeAllClassesFlag>true</includeAllClassesFlag>"
+"150","        </rptSeriesClassInfo>"
+"151","        <rptSeriesClassInfo>"
+"152","          <seriesId>S000003763</seriesId>"
+"153","          <includeAllClassesFlag>true</includeAllClassesFlag>"
+"154","        </rptSeriesClassInfo>"
+"155","      </reportSeriesClass>"
+"156","    </seriesClass>"
+"157","  </headerData>"
+"158","  <formData>"
+"159","    <generalInfo reportEndingPeriod=2018-12-31 isReportPeriodLt12=N/>"
+"160","    <registrantInfo>"
+"161","      <registrantFullName>Rydex Series Funds</registrantFullName>"
+"162","      <investmentCompFileNo>811-07584</investmentCompFileNo>"
+"163","      <registrantCik>0000899148</registrantCik>"
+"164","      <registrantLei>5493004D62WV1EDNTU07</registrantLei>"
+"165","      <registrantstreet1>702 King Farm Blvd., Suite 200</registrantstreet1>"
+"166","      <registrantcity>Rockville</registrantcity>"
+"167","      <registrantzipCode>20850</registrantzipCode>"
+"168","      <registrantstate>US-MD</registrantstate>"
+"169","      <registrantcountry>US</registrantcountry>"
+"170","      <registrantphoneNumber>312-827-0100</registrantphoneNumber>"
+"171","      <websites>"
+"172","        <website webpage=https://www.guggenheiminvestments.com/mf/products/>"
+"173","      </websites>"
+"174","      <locationBooksRecords>"
+"175","        <locationBooksRecord>"
+"176","          <officeName>MUFG Investor Services (US), LLC</officeName>"
+"177","          <officeAddress1>805 King Farm Blvd</officeAddress1>"
+"178","          <officeCity>Rockville</officeCity>"
+"179","          <officeStateCountry officeCountry=US officeState=US-MD/>"
+"180","          <officeRecordsZipCode>20850</officeRecordsZipCode>"
+"181","          <officePhone>240-614-4800</officePhone>"
+"182","          <booksRecordsDesc>Records of the Trusts securities and cash</booksRecordsDesc>
+        </locationBooksRecord>
+      </locationBooksRecords>
+      <isRegistrantFirstFiling>Y</isRegistrantFirstFiling>
+      <isRegistrantLastFiling>N</isRegistrantLastFiling>
+      <registrantFamilyInvComp isRegistrantFamilyInvComp=Y familyInvCompFullName=Guggenheim/>
+      <registrantClassificationType>N-1A</registrantClassificationType>
+      <totalSeries>52</totalSeries>
+      <isSecuritiesActRegistration>Y</isSecuritiesActRegistration>
+      <directors>
+        <director>
+          <directorName>Angela Brock-Kyle</directorName>
+          <crdNumber>N/A</crdNumber>
+          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>
+          <fileNumbers>
+            <fileNumberInfo fileNumber=811-09525/>
+            <fileNumberInfo fileNumber=811-08821/>
+          </fileNumbers>
+        </director>
+        <director>
+          <directorName>J. Kenneth Dalton</directorName>
+          <crdNumber>N/A</crdNumber>
+          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>
+          <fileNumbers>
+            <fileNumberInfo fileNumber=811-09525/>
+            <fileNumberInfo fileNumber=811-08821/>
+            <fileNumberInfo fileNumber=811-21962/>
+          </fileNumbers>
+        </director>
+        <director>
+          <directorName>Thomas F. Lydon Jr.</directorName>
+          <crdNumber>001099080</crdNumber>
+          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>
+          <fileNumbers>
+            <fileNumberInfo fileNumber=811-08821/>
+            <fileNumberInfo fileNumber=811-09525/>
+          </fileNumbers>
+        </director>
+        <director>
+          <directorName>Corey A. Colehour</directorName>
+          <crdNumber>N/A</crdNumber>
+          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>
+          <fileNumbers>
+            <fileNumberInfo fileNumber=811-09525/>
+            <fileNumberInfo fileNumber=811-08821/>
+          </fileNumbers>
+        </director>
+        <director>
+          <directorName>Sandra G. Sponem</directorName>
+          <crdNumber>N/A</crdNumber>
+          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>
+          <fileNumbers>
+            <fileNumberInfo fileNumber=811-09525/>
+            <fileNumberInfo fileNumber=811-08821/>
+          </fileNumbers>
+        </director>
+      </directors>
+      <chiefComplianceOfficers>
+        <chiefComplianceOfficer>
+          <ccoName>Elisabeth Miller</ccoName>
+          <crdNumber>004381813</crdNumber>
+          <ccoStreet1>702 King Farm Blvd., Suite 200</ccoStreet1>
+          <ccoCity>Rockville</ccoCity>
+          <ccoStateCountry ccoCountry=US ccoState=US-MD/>
+          <ccoZipCode>20850</ccoZipCode>
+          <ccoPhone>XXXXXX</ccoPhone>
+          <isCcoChangedSinceLastFiling>N</isCcoChangedSinceLastFiling>
+          <ccoEmployers>
+            <ccoEmployer ccoEmployerName=N/A ccoEmployerId=N/A/>
+          </ccoEmployers>
+        </chiefComplianceOfficer>
+      </chiefComplianceOfficers>
+      <isRegistrantSubmittedMatter>N</isRegistrantSubmittedMatter>
+      <legalProceedingSeriesInfo isPreviousLegalProceeding=Y>
+        <seriesInfo seriesName=Multi-Hedge Strategies Fund seriesId=S000003763/>
+      </legalProceedingSeriesInfo>
+      <isPreviousProceedingTerminated>N</isPreviousProceedingTerminated>
+      <isClaimFiled>N</isClaimFiled>
+      <coveredByInsurancePolicy isCoveredByInsurancePolicy=Y isClaimFiledDuringPeriod=N/>
+      <isFinancialSupportDuringPeriod>N</isFinancialSupportDuringPeriod>
+      <isExemptionFromAct>N</isExemptionFromAct>
+      <principalUnderwriters>
+        <principalUnderwriter>
+          <principalUnderwriterName>Guggenheim Funds Distributors, LLC</principalUnderwriterName>
+          <principalUnderwriterFileNumber>008-48842</principalUnderwriterFileNumber>
+          <principalUnderwriterCrdNumber>000039805</principalUnderwriterCrdNumber>
+          <principalUnderwriterLei>549300YLHACOJHH3DN20</principalUnderwriterLei>
+          <principalUnderWriterStateCountry principalUnderWriterCountry=US principalUnderWriterState=US-MD/>
+          <isPrincipalUnderwriterAffiliatedWithRegistrant>Y</isPrincipalUnderwriterAffiliatedWithRegistrant>
+        </principalUnderwriter>
+      </principalUnderwriters>
+      <isUnderwriterHiredOrTerminated>N</isUnderwriterHiredOrTerminated>
+      <publicAccountants>
+        <publicAccountant>
+          <publicAccountantName>Ernst &amp; Young LLP</publicAccountantName>
+          <pcaobNumber>42</pcaobNumber>
+          <publicAccountantLei>N/A</publicAccountantLei>
+          <publicAccountantStateCountry publicAccountantCountry=US publicAccountantState=US-VA/>
+        </publicAccountant>
+      </publicAccountants>
+      <isPublicAccountantChanged>N</isPublicAccountantChanged>
+      <isMaterialWeakness>N</isMaterialWeakness>
+      <isOpinionOffered>N</isOpinionOffered>
+      <isMaterialChange>N</isMaterialChange>
+      <isAccountingPrincipleChange>N</isAccountingPrincipleChange>
+      <isPaymentErrorInNetAssetValue>N</isPaymentErrorInNetAssetValue>
+      <isPaymentDividend>N</isPaymentDividend>
+    </registrantInfo>
+    <managementInvestmentQuestionSeriesInfo>
+      <managementInvestmentQuestion>
+        <mgmtInvFundName>Managed Futures Strategy Fund</mgmtInvFundName>
+        <mgmtInvSeriesId>S000014094</mgmtInvSeriesId>
+        <mgmtInvLei>5493008TG2LUF83EGF33</mgmtInvLei>
+        <isFirstFilingByFund>Y</isFirstFilingByFund>
+        <numAuthorizedClass>4</numAuthorizedClass>
+        <numAddedClass>0</numAddedClass>
+        <numTerminatedClass>0</numTerminatedClass>
+        <sharesOutstandings>
+          <sharesOutstanding sharesOutstandingClassName=Class A sharesOutstandingClassId=C000039064 sharesOutstandingTickerSymbol=RYMTX/>
+          <sharesOutstanding sharesOutstandingClassName=Class P sharesOutstandingClassId=C000038557 sharesOutstandingTickerSymbol=RYMFX/>
+          <sharesOutstanding sharesOutstandingClassName=Institutional sharesOutstandingClassId=C000088408 sharesOutstandingTickerSymbol=RYIFX/>
+          <sharesOutstanding sharesOutstandingClassName=Class C sharesOutstandingClassId=C000039065 sharesOutstandingTickerSymbol=RYMZX/>
+        </sharesOutstandings>
+        <fundTypes>
+          <fundType>Fund of Funds</fundType>
+        </fundTypes>
+        <isNonDiversifiedCompany>Y</isNonDiversifiedCompany>
+        <foreignInvestments isForeignSubsidiary=Y>
+          <foreignInvestment foreignSubsidiaryName=Managed Futures Strategy CFC foreignSubsidiaryLei=549300240V032R2PK709/>
+        </foreignInvestments>
+        <isFundSecuritiesLending>Y</isFundSecuritiesLending>
+        <fundLendSecurities didFundLendSecurities=Y>
+          <isFundLiquidated>N</isFundLiquidated>
+          <isFundAdverselyImpacted>N</isFundAdverselyImpacted>
+        </fundLendSecurities>
+        <securityLendings>
+          <securityLending>
+            <securitiesAgentName>U.S. Bank, N.A.</securitiesAgentName>
+            <securitiesAgentLei>6BYL5QZYBDK8S7L73M02</securitiesAgentLei>
+            <isSecuritiesAgentAffiliated>N</isSecuritiesAgentAffiliated>
+            <securityAgentIdemnity isSecurityAgentIdemnity=Y>
+              <idemnityProviders>
+                <idemnityProvider idemnityProviderName=N/A idemnityProviderLei=N/A/>
+              </idemnityProviders>
+              <didIndemnificationRights>N</didIndemnificationRights>
+            </securityAgentIdemnity>
+          </securityLending>
+        </securityLendings>
+        <collateralManagers>
+          <collateralManager collateralManagerName=U.S. Bancorp Asset Management, Inc. collateralManagerLei=8KUMV9EIJ75IBFMLFD23 isCollateralManagerAffliliated=Y isCollateralManagerAffliliatedWithFund=N/>
+        </collateralManagers>
+        <paymentToAgentManagers>
+          <paymentToAgentManagerType>Revenue sharing split</paymentToAgentManagerType>
+          <paymentToAgentManagerType>Cash collateral reinvestment fee</paymentToAgentManagerType>
+        </paymentToAgentManagers>
+        <avgPortfolioSecuritiesValue>78742.34000000</avgPortfolioSecuritiesValue>
+        <netIncomeSecuritiesLending>5528.82000000</netIncomeSecuritiesLending>
+        <relyOnRuleTypes>
+          <relyOnRuleType>Rule 32a-4 (17 CFR 270.32a-4)</relyOnRuleType>
+          <relyOnRuleType>Rule 22d-1 (17 CFR 270.22d-1)</relyOnRuleType>
+        </relyOnRuleTypes>
+        <isExpenseLimitationInPlace>Y</isExpenseLimitationInPlace>
+        <isExpenseReducedOrWaived>Y</isExpenseReducedOrWaived>
+        <isFeesWaivedRecoupable>N</isFeesWaivedRecoupable>
+        <isExpenseWaivedRecoupable>N</isExpenseWaivedRecoupable>
+        <investmentAdvisers>
+          <investmentAdviser>
+            <investmentAdviserName>Security Investors, LLC</investmentAdviserName>
+            <investmentAdviserFileNo>801-8008</investmentAdviserFileNo>
+            <investmentAdviserCrdNo>000105477</investmentAdviserCrdNo>
+            <investmentAdviserLei>549300R47VF4XGNEC751</investmentAdviserLei>
+            <investmentAdviserStateCountry investmentAdviserState=US-NY investmentAdviserCountry=US/>
+            <isInvestmentAdviserHired>N</isInvestmentAdviserHired>
+          </investmentAdviser>
+        </investmentAdvisers>
+        <transferAgents>
+          <transferAgent>
+            <transferAgentName>MUFG Investor Services (US), LLC</transferAgentName>
+            <transferAgentFileNo>084-05475</transferAgentFileNo>
+            <transferAgentLei>N/A</transferAgentLei>
+            <transferAgentStateCountry transferAgentState=US-MD transferAgentCountry=US/>
+            <isTransferAgentAffiliated>N</isTransferAgentAffiliated>
+            <isTransferAgentSubAgent>N</isTransferAgentSubAgent>
+          </transferAgent>
+        </transferAgents>
+        <isTransferAgentHiredOrTerminated>N</isTransferAgentHiredOrTerminated>
+        <pricingServices>
+          <pricingService>
+            <pricingServiceName>ICE Data Services</pricingServiceName>
+            <pricingServiceLei>5493000NQ9LYLDBCTL34</pricingServiceLei>
+            <pricingServiceStateCountry pricingServiceState=US-NY pricingServiceCountry=US/>
+            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>
+          </pricingService>
+          <pricingService>
+            <pricingServiceName>Bloomberg</pricingServiceName>
+            <pricingServiceLei>549300B56MD0ZC402L06</pricingServiceLei>
+            <pricingServiceStateCountry pricingServiceState=US-NY pricingServiceCountry=US/>
+            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>
+          </pricingService>
+        </pricingServices>
+        <isPricingServiceHiredOrTerminated>N</isPricingServiceHiredOrTerminated>
+        <custodians>
+          <custodian>
+            <custodianName>U.S. Bank N.A.</custodianName>
+            <custodianLei>6BYL5QZYBDK8S7L73M02</custodianLei>
+            <custodianStateCountry custodianState=US-OH custodianCountry=US/>
+            <isCustodianAffiliated>N</isCustodianAffiliated>
+            <isSubCustodian>N</isSubCustodian>
+            <custodyType>Bank - section 17(f)(1) (15 U.S.C. 80a-17(f)(1))</custodyType>
+          </custodian>
+        </custodians>
+        <isCustodianHiredOrTerminated>N</isCustodianHiredOrTerminated>
+        <shareholderServicingAgents>
+          <shareholderServicingAgent>
+            <shareholderServiceAgentName>MUFG Investor Services (US), LLC</shareholderServiceAgentName>
+            <shareholderServiceAgentLei>084-05475</shareholderServiceAgentLei>
+            <shareholderServiceIdNumberDesc>SEC File Number</shareholderServiceIdNumberDesc>
+            <shareholderServiceAgentStateCountry shareholderServiceAgentState=US-MD shareholderServiceAgentCountry=US/>
+            <isShareholderServiceAgentAffiliated>N</isShareholderServiceAgentAffiliated>
+            <isShareholderServiceAgentSubshare>N</isShareholderServiceAgentSubshare>
+          </shareholderServicingAgent>
+        </shareholderServicingAgents>
+        <isShareholderServiceHiredTerminated>N</isShareholderServiceHiredTerminated>
+        <admins>
+          <admin>
+            <adminName>MUFG Investor Services (US), LLC</adminName>
+            <adminLei>084-05475</adminLei>
+            <idNumberDesc>SEC File Number</idNumberDesc>
+            <adminStateCountry adminState=US-MD adminCountry=US/>
+            <isAdminAffiliated>N</isAdminAffiliated>
+            <isAdminSubAdmin>N</isAdminSubAdmin>
+          </admin>
+        </admins>
+        <isAdminHiredOrTerminated>N</isAdminHiredOrTerminated>
+        <brokerDealers>
+          <brokerDealer>
+            <brokerDealerName>Guggenheim Funds Distributors, LLC</brokerDealerName>
+            <brokerDealerFileNo>8-48842</brokerDealerFileNo>
+            <brokerDealerCrdNo>000039805</brokerDealerCrdNo>
+            <brokerDealerLei>549300YLHACOJHH3DN20</brokerDealerLei>
+            <brokerDealerStateCountry brokerDealerState=US-IL brokerDealerCountry=US/>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+          <brokerDealer>
+            <brokerDealerName>Guggenheim Securities International Ltd</brokerDealerName>
+            <brokerDealerFileNo>N/A</brokerDealerFileNo>
+            <brokerDealerCrdNo>N/A</brokerDealerCrdNo>
+            <brokerDealerLei>N/A</brokerDealerLei>
+            <brokerDealerCountry>GB</brokerDealerCountry>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+          <brokerDealer>
+            <brokerDealerName>Guggenheim Investor Services, LLC</brokerDealerName>
+            <brokerDealerFileNo>8-44742</brokerDealerFileNo>
+            <brokerDealerCrdNo>000030096</brokerDealerCrdNo>
+            <brokerDealerLei>N/A</brokerDealerLei>
+            <brokerDealerStateCountry brokerDealerState=US-NY brokerDealerCountry=US/>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+          <brokerDealer>
+            <brokerDealerName>GLM Securities, LLC</brokerDealerName>
+            <brokerDealerFileNo>8-69770</brokerDealerFileNo>
+            <brokerDealerCrdNo>000283873</brokerDealerCrdNo>
+            <brokerDealerLei>N/A</brokerDealerLei>
+            <brokerDealerStateCountry brokerDealerState=US-NY brokerDealerCountry=US/>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+          <brokerDealer>
+            <brokerDealerName>Guggenheim KBBO Partners Ltd</brokerDealerName>
+            <brokerDealerFileNo>N/A</brokerDealerFileNo>
+            <brokerDealerCrdNo>N/A</brokerDealerCrdNo>
+            <brokerDealerLei>N/A</brokerDealerLei>
+            <brokerDealerCountry>AE</brokerDealerCountry>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+          <brokerDealer>
+            <brokerDealerName>Sammons Financial Network LLC</brokerDealerName>
+            <brokerDealerFileNo>8-68905</brokerDealerFileNo>
+            <brokerDealerCrdNo>000158538</brokerDealerCrdNo>
+            <brokerDealerLei>N/A</brokerDealerLei>
+            <brokerDealerStateCountry brokerDealerState=US-IA brokerDealerCountry=US/>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+          <brokerDealer>
+            <brokerDealerName>Guggenheim Partners Japan, Ltd.</brokerDealerName>
+            <brokerDealerFileNo>N/A</brokerDealerFileNo>
+            <brokerDealerCrdNo>N/A</brokerDealerCrdNo>
+            <brokerDealerLei>N/A</brokerDealerLei>
+            <brokerDealerCountry>JP</brokerDealerCountry>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+          <brokerDealer>
+            <brokerDealerName>GUGGENHEIM SECURITIES, LLC</brokerDealerName>
+            <brokerDealerFileNo>8-49107</brokerDealerFileNo>
+            <brokerDealerCrdNo>000040638</brokerDealerCrdNo>
+            <brokerDealerLei>5493005G25VHYWLYJU59</brokerDealerLei>
+            <brokerDealerStateCountry brokerDealerState=US-NY brokerDealerCountry=US/>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+        </brokerDealers>
+        <brokers>
+          <broker>
+            <brokerName>GOLDMAN SACHS &amp; CO. LLC</brokerName>
+            <brokerFileNo>8-129</brokerFileNo>
+            <brokerCrdNo>000000361</brokerCrdNo>
+            <brokerLei>FOR8UP27PHTHYVLBNG30</brokerLei>
+            <brokerStateCountry brokerState=US-NY brokerCountry=US/>
+            <grossCommission>61207.21000000</grossCommission>
+          </broker>
+          <broker>
+            <brokerName>Sanford C. Bernstein &amp; Co., LLC</brokerName>
+            <brokerFileNo>8-52942</brokerFileNo>
+            <brokerCrdNo>000104474</brokerCrdNo>
+            <brokerLei>549300I7JYZHT7D5CO04</brokerLei>
+            <brokerStateCountry brokerState=US-NY brokerCountry=US/>
+            <grossCommission>351.69000000</grossCommission>
+          </broker>
+          <broker>
+            <brokerName>Instinet, LLC</brokerName>
+            <brokerFileNo>8-23669</brokerFileNo>
+            <brokerCrdNo>000007897</brokerCrdNo>
+            <brokerLei>549300MGMN3RKMU8FT57</brokerLei>
+            <brokerStateCountry brokerState=US-NY brokerCountry=US/>
+            <grossCommission>190.33000000</grossCommission>
+          </broker>
+        </brokers>
+        <aggregateCommission>61749.23000000</aggregateCommission>
+        <principalTransactions>
+          <principalTransaction>
+            <principalName>BARCLAYS CAPITAL INC.</principalName>
+            <principalFileNo>8-41342</principalFileNo>
+            <principalCrdNo>000019714</principalCrdNo>
+            <principalLei>AC28XWWI3WIBK2824319</principalLei>
+            <principalStateCountry principalState=US-NY principalCountry=US/>
+            <principalTotalPurchaseSale>50983578.63000000</principalTotalPurchaseSale>
+          </principalTransaction>
+          <principalTransaction>
+            <principalName>GOLDMAN SACHS &amp; CO. LLC</principalName>
+            <principalFileNo>8-129</principalFileNo>
+            <principalCrdNo>000000361</principalCrdNo>
+            <principalLei>FOR8UP27PHTHYVLBNG30</principalLei>
+            <principalStateCountry principalState=US-NY principalCountry=US/>
+            <principalTotalPurchaseSale>15539905.34000000</principalTotalPurchaseSale>
+          </principalTransaction>
+          <principalTransaction>
+            <principalName>J.P. MORGAN SECURITIES LLC</principalName>
+            <principalFileNo>8-35008</principalFileNo>
+            <principalCrdNo>000000079</principalCrdNo>
+            <principalLei>ZBUT11V806EZRVTWT807</principalLei>
+            <principalStateCountry principalState=US-NY principalCountry=US/>
+            <principalTotalPurchaseSale>187277383.89000000</principalTotalPurchaseSale>
+          </principalTransaction>
+          <principalTransaction>
+            <principalName>MERRILL LYNCH, PIERCE, FENNER &amp; SMITH INCORPORATED</principalName>
+            <principalFileNo>8-7221</principalFileNo>
+            <principalCrdNo>000007691</principalCrdNo>
+            <principalLei>8NAV47T0Y26Q87Y0QP81</principalLei>
+            <principalStateCountry principalState=US-NY principalCountry=US/>
+            <principalTotalPurchaseSale>62971451.20000000</principalTotalPurchaseSale>
+          </principalTransaction>
+        </principalTransactions>
+        <principalAggregatePurchase>316772319.06000000</principalAggregatePurchase>
+        <isBrokerageResearchPayment>N</isBrokerageResearchPayment>
+        <mnthlyAvgNetAssets>43089793.03000000</mnthlyAvgNetAssets>
+        <dailyAvgNetAssets>0.00000000</dailyAvgNetAssets>
+        <lineOfCredit hasLineOfCredit=Y>
+          <lineOfCreditDetails>
+            <lineOfCreditDetail>
+              <isCreditLineCommitted>Uncommitted</isCreditLineCommitted>
+              <lineOfCreditSize>75000000.00000000</lineOfCreditSize>
+              <lineOfCreditInstitutions>
+                <lineOfCreditInstitution creditInstitutionName=U.S. Bank, N.A./>
+              </lineOfCreditInstitutions>
+              <sharedCreditType creditType=Shared>
+                <creditUser fundName=Dow 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Transportation Fund secFileNo=811-08821/>
+                <creditUser fundName=Government Long Bond 1.2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P 500 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=S&amp;P 500 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=NASDAQ-100 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Energy Services Fund secFileNo=811-08821/>
+                <creditUser fundName=Multi-Hedge Strategies Fund secFileNo=811-07584/>
+                <creditUser fundName=Weakening Dollar 2x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Long Short Equity Fund secFileNo=811-08821/>
+                <creditUser fundName=Electronics Fund secFileNo=811-07584/>
+                <creditUser fundName=Health Care Fund secFileNo=811-07584/>
+                <creditUser fundName=Basic Materials Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse Emerging Markets 2x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Energy Services Fund secFileNo=811-07584/>
+                <creditUser fundName=Consumer Products Fund secFileNo=811-08821/>
+                <creditUser fundName=Inverse Mid-Cap Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Retailing Fund secFileNo=811-08821/>
+                <creditUser fundName=Utilities Fund secFileNo=811-07584/>
+                <creditUser fundName=Government Long Bond 1.2x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Retailing Fund secFileNo=811-07584/>
+                <creditUser fundName=Health Care Fund secFileNo=811-08821/>
+                <creditUser fundName=Strengthening Dollar 2x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Nova Fund secFileNo=811-07584/>
+                <creditUser fundName=Russell 2000 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Russell 2000 Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse NASDAQ-100 Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=NASDAQ-100 Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P 500 Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse Dow 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=NASDAQ-100 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=Leisure Fund secFileNo=811-08821/>
+                <creditUser fundName=Financial Services Fund secFileNo=811-08821/>
+                <creditUser fundName=Telecommunications Fund secFileNo=811-08821/>
+                <creditUser fundName=Real Estate Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse Government Long Bond Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Strengthening Dollar 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Russell 2000 1.5x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Europe 1.25x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=S&amp;P MidCap 400 Pure Growth Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P 500 Pure Value Fund secFileNo=811-07584/>
+                <creditUser fundName=S&amp;P MidCap 400 Pure Growth Fund secFileNo=811-07584/>
+                <creditUser fundName=Dow 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=Russell 2000 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=Inverse S&amp;P 500 Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Inverse Russell 2000 Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Japan 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Inverse NASDAQ-100 Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Emerging Markets Bond Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=U.S. Government Money Market Fund secFileNo=811-07584/>
+                <creditUser fundName=Biotechnology Fund secFileNo=811-07584/>
+                <creditUser fundName=S&amp;P SmallCap 600 Pure Growth Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P SmallCap 600 Pure Value Fund secFileNo=811-08821/>
+                <creditUser fundName=U.S. Government Money Market Fund secFileNo=811-08821/>
+                <creditUser fundName=Inverse Dow 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Basic Materials Fund secFileNo=811-08821/>
+                <creditUser fundName=Precious Metals Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P SmallCap 600 Pure Growth Fund secFileNo=811-07584/>
+                <creditUser fundName=Internet Fund secFileNo=811-07584/>
+                <creditUser fundName=Internet Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P MidCap 400 Pure Value Fund secFileNo=811-08821/>
+                <creditUser fundName=Inverse Russell 2000 Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Mid-Cap 1.5x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=S&amp;P 500 Pure Value Fund secFileNo=811-08821/>
+                <creditUser fundName=Global Managed Futures Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Mid-Cap 1.5x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Banking Fund secFileNo=811-07584/>
+                <creditUser fundName=Dow Jones Industrial Average Fund secFileNo=811-07584/>
+                <creditUser fundName=Nova Fund secFileNo=811-08821/>
+                <creditUser fundName=Biotechnology Fund secFileNo=811-08821/>
+                <creditUser fundName=Transportation Fund secFileNo=811-07584/>
+                <creditUser fundName=Long Short Equity Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse Mid-Cap Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Consumer Products Fund secFileNo=811-07584/>
+                <creditUser fundName=High Yield Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P 500 Pure Growth Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse S&amp;P 500 Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=High Yield Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Technology Fund secFileNo=811-07584/>
+                <creditUser fundName=Technology Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P MidCap 400 Pure Value Fund secFileNo=811-07584/>
+                <creditUser fundName=Monthly Rebalance NASDAQ-100 2x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Energy Fund secFileNo=811-07584/>
+                <creditUser fundName=NASDAQ-100 Fund secFileNo=811-07584/>
+                <creditUser fundName=Russell 2000 1.5x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Emerging Markets 2x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Weakening Dollar 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Utilities Fund secFileNo=811-08821/>
+                <creditUser fundName=Electronics Fund secFileNo=811-08821/>
+                <creditUser fundName=Real Estate Fund secFileNo=811-08821/>
+                <creditUser fundName=Commodities Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Telecommunications Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse Government Long Bond Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Energy Fund secFileNo=811-08821/>
+                <creditUser fundName=Inverse NASDAQ-100 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=Inverse High Yield Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse Russell 2000 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=S&amp;P 500 Pure Growth Fund secFileNo=811-08821/>
+                <creditUser fundName=Banking Fund secFileNo=811-08821/>
+                <creditUser fundName=Japan 2x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Multi-Hedge Strategies Fund secFileNo=811-08821/>
+                <creditUser fundName=Financial Services Fund secFileNo=811-07584/>
+                <creditUser fundName=Commodities Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse S&amp;P 500 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=S&amp;P SmallCap 600 Pure Value Fund secFileNo=811-07584/>
+                <creditUser fundName=Europe 1.25x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Precious Metals Fund secFileNo=811-07584/>
+                <creditUser fundName=Leisure Fund secFileNo=811-07584/>
+              </sharedCreditType>
+              <isCreditLineUsed>N</isCreditLineUsed>
+            </lineOfCreditDetail>
+          </lineOfCreditDetails>
+        </lineOfCredit>
+        <isInterfundLending>N</isInterfundLending>
+        <isInterfundBorrowing>N</isInterfundBorrowing>
+        <isSwingPricing>N</isSwingPricing>
+      </managementInvestmentQuestion>
+      <managementInvestmentQuestion>
+        <mgmtInvFundName>Multi-Hedge Strategies Fund</mgmtInvFundName>
+        <mgmtInvSeriesId>S000003763</mgmtInvSeriesId>
+        <mgmtInvLei>549300XPBFY7BCNE0409</mgmtInvLei>
+        <isFirstFilingByFund>Y</isFirstFilingByFund>
+        <numAuthorizedClass>4</numAuthorizedClass>
+        <numAddedClass>0</numAddedClass>
+        <numTerminatedClass>0</numTerminatedClass>
+        <sharesOutstandings>
+          <sharesOutstanding sharesOutstandingClassName=Class C sharesOutstandingClassId=C000010440 sharesOutstandingTickerSymbol=RYMRX/>
+          <sharesOutstanding sharesOutstandingClassName=Class P sharesOutstandingClassId=C000010438 sharesOutstandingTickerSymbol=RYMSX/>
+          <sharesOutstanding sharesOutstandingClassName=Institutional sharesOutstandingClassId=C000088407 sharesOutstandingTickerSymbol=RYIMX/>
+          <sharesOutstanding sharesOutstandingClassName=Class A sharesOutstandingClassId=C000010439 sharesOutstandingTickerSymbol=RYMQX/>
+        </sharesOutstandings>
+        <fundTypes>
+          <fundType>Fund of Funds</fundType>
+        </fundTypes>
+        <isNonDiversifiedCompany>Y</isNonDiversifiedCompany>
+        <foreignInvestments isForeignSubsidiary=Y>
+          <foreignInvestment foreignSubsidiaryName=Rydex Series Multi-Hedge Strategies CFC foreignSubsidiaryLei=549300Y1JW5TPPJNDK69/>
+        </foreignInvestments>
+        <isFundSecuritiesLending>Y</isFundSecuritiesLending>
+        <fundLendSecurities didFundLendSecurities=Y>
+          <isFundLiquidated>N</isFundLiquidated>
+          <isFundAdverselyImpacted>N</isFundAdverselyImpacted>
+        </fundLendSecurities>
+        <securityLendings>
+          <securityLending>
+            <securitiesAgentName>U.S. Bank, N.A.</securitiesAgentName>
+            <securitiesAgentLei>6BYL5QZYBDK8S7L73M02</securitiesAgentLei>
+            <isSecuritiesAgentAffiliated>N</isSecuritiesAgentAffiliated>
+            <securityAgentIdemnity isSecurityAgentIdemnity=Y>
+              <idemnityProviders>
+                <idemnityProvider idemnityProviderName=N/A idemnityProviderLei=N/A/>
+              </idemnityProviders>
+              <didIndemnificationRights>N</didIndemnificationRights>
+            </securityAgentIdemnity>
+          </securityLending>
+        </securityLendings>
+        <collateralManagers>
+          <collateralManager collateralManagerName=U.S. Bancorp Asset Management, Inc. collateralManagerLei=8KUMV9EIJ75IBFMLFD23 isCollateralManagerAffliliated=Y isCollateralManagerAffliliatedWithFund=N/>
+        </collateralManagers>
+        <paymentToAgentManagers>
+          <paymentToAgentManagerType>Revenue sharing split</paymentToAgentManagerType>
+          <paymentToAgentManagerType>Cash collateral reinvestment fee</paymentToAgentManagerType>
+        </paymentToAgentManagers>
+        <avgPortfolioSecuritiesValue>137525.53000000</avgPortfolioSecuritiesValue>
+        <netIncomeSecuritiesLending>13431.13000000</netIncomeSecuritiesLending>
+        <relyOnRuleTypes>
+          <relyOnRuleType>Rule 32a-4 (17 CFR 270.32a-4)</relyOnRuleType>
+          <relyOnRuleType>Rule 22d-1 (17 CFR 270.22d-1)</relyOnRuleType>
+        </relyOnRuleTypes>
+        <isExpenseLimitationInPlace>Y</isExpenseLimitationInPlace>
+        <isExpenseReducedOrWaived>Y</isExpenseReducedOrWaived>
+        <isFeesWaivedRecoupable>N</isFeesWaivedRecoupable>
+        <isExpenseWaivedRecoupable>N</isExpenseWaivedRecoupable>
+        <investmentAdvisers>
+          <investmentAdviser>
+            <investmentAdviserName>Security Investors, LLC</investmentAdviserName>
+            <investmentAdviserFileNo>801-8008</investmentAdviserFileNo>
+            <investmentAdviserCrdNo>000105477</investmentAdviserCrdNo>
+            <investmentAdviserLei>549300R47VF4XGNEC751</investmentAdviserLei>
+            <investmentAdviserStateCountry investmentAdviserState=US-NY investmentAdviserCountry=US/>
+            <isInvestmentAdviserHired>N</isInvestmentAdviserHired>
+          </investmentAdviser>
+        </investmentAdvisers>
+        <transferAgents>
+          <transferAgent>
+            <transferAgentName>MUFG Investor Services (US), LLC</transferAgentName>
+            <transferAgentFileNo>084-05475</transferAgentFileNo>
+            <transferAgentLei>N/A</transferAgentLei>
+            <transferAgentStateCountry transferAgentState=US-MD transferAgentCountry=US/>
+            <isTransferAgentAffiliated>N</isTransferAgentAffiliated>
+            <isTransferAgentSubAgent>N</isTransferAgentSubAgent>
+          </transferAgent>
+        </transferAgents>
+        <isTransferAgentHiredOrTerminated>N</isTransferAgentHiredOrTerminated>
+        <pricingServices>
+          <pricingService>
+            <pricingServiceName>ICE Data Services</pricingServiceName>
+            <pricingServiceLei>5493000NQ9LYLDBCTL34</pricingServiceLei>
+            <pricingServiceStateCountry pricingServiceState=US-NY pricingServiceCountry=US/>
+            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>
+          </pricingService>
+          <pricingService>
+            <pricingServiceName>Bloomberg</pricingServiceName>
+            <pricingServiceLei>549300B56MD0ZC402L06</pricingServiceLei>
+            <pricingServiceStateCountry pricingServiceState=US-NY pricingServiceCountry=US/>
+            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>
+          </pricingService>
+        </pricingServices>
+        <isPricingServiceHiredOrTerminated>N</isPricingServiceHiredOrTerminated>
+        <custodians>
+          <custodian>
+            <custodianName>U.S. Bank N.A.</custodianName>
+            <custodianLei>6BYL5QZYBDK8S7L73M02</custodianLei>
+            <custodianStateCountry custodianState=US-OH custodianCountry=US/>
+            <isCustodianAffiliated>N</isCustodianAffiliated>
+            <isSubCustodian>N</isSubCustodian>
+            <custodyType>Bank - section 17(f)(1) (15 U.S.C. 80a-17(f)(1))</custodyType>
+          </custodian>
+        </custodians>
+        <isCustodianHiredOrTerminated>N</isCustodianHiredOrTerminated>
+        <shareholderServicingAgents>
+          <shareholderServicingAgent>
+            <shareholderServiceAgentName>MUFG Investor Services (US), LLC</shareholderServiceAgentName>
+            <shareholderServiceAgentLei>084-05475</shareholderServiceAgentLei>
+            <shareholderServiceIdNumberDesc>SEC File Number</shareholderServiceIdNumberDesc>
+            <shareholderServiceAgentStateCountry shareholderServiceAgentState=US-MD shareholderServiceAgentCountry=US/>
+            <isShareholderServiceAgentAffiliated>N</isShareholderServiceAgentAffiliated>
+            <isShareholderServiceAgentSubshare>N</isShareholderServiceAgentSubshare>
+          </shareholderServicingAgent>
+        </shareholderServicingAgents>
+        <isShareholderServiceHiredTerminated>N</isShareholderServiceHiredTerminated>
+        <admins>
+          <admin>
+            <adminName>MUFG Investor Services (US), LLC</adminName>
+            <adminLei>084-05475</adminLei>
+            <idNumberDesc>SEC File Number</idNumberDesc>
+            <adminStateCountry adminState=US-MD adminCountry=US/>
+            <isAdminAffiliated>N</isAdminAffiliated>
+            <isAdminSubAdmin>N</isAdminSubAdmin>
+          </admin>
+        </admins>
+        <isAdminHiredOrTerminated>N</isAdminHiredOrTerminated>
+        <brokerDealers>
+          <brokerDealer>
+            <brokerDealerName>Guggenheim Partners Japan, Ltd.</brokerDealerName>
+            <brokerDealerFileNo>N/A</brokerDealerFileNo>
+            <brokerDealerCrdNo>N/A</brokerDealerCrdNo>
+            <brokerDealerLei>N/A</brokerDealerLei>
+            <brokerDealerCountry>JP</brokerDealerCountry>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+          <brokerDealer>
+            <brokerDealerName>Sammons Financial Network LLC</brokerDealerName>
+            <brokerDealerFileNo>8-68905</brokerDealerFileNo>
+            <brokerDealerCrdNo>000158538</brokerDealerCrdNo>
+            <brokerDealerLei>N/A</brokerDealerLei>
+            <brokerDealerStateCountry brokerDealerState=US-IA brokerDealerCountry=US/>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+          <brokerDealer>
+            <brokerDealerName>Guggenheim KBBO Partners Ltd</brokerDealerName>
+            <brokerDealerFileNo>N/A</brokerDealerFileNo>
+            <brokerDealerCrdNo>N/A</brokerDealerCrdNo>
+            <brokerDealerLei>N/A</brokerDealerLei>
+            <brokerDealerCountry>AE</brokerDealerCountry>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+          <brokerDealer>
+            <brokerDealerName>Guggenheim Funds Distributors, LLC</brokerDealerName>
+            <brokerDealerFileNo>8-48842</brokerDealerFileNo>
+            <brokerDealerCrdNo>000039805</brokerDealerCrdNo>
+            <brokerDealerLei>549300YLHACOJHH3DN20</brokerDealerLei>
+            <brokerDealerStateCountry brokerDealerState=US-IL brokerDealerCountry=US/>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+          <brokerDealer>
+            <brokerDealerName>Guggenheim Securities International Ltd</brokerDealerName>
+            <brokerDealerFileNo>N/A</brokerDealerFileNo>
+            <brokerDealerCrdNo>N/A</brokerDealerCrdNo>
+            <brokerDealerLei>N/A</brokerDealerLei>
+            <brokerDealerCountry>GB</brokerDealerCountry>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+          <brokerDealer>
+            <brokerDealerName>Guggenheim Investor Services, LLC</brokerDealerName>
+            <brokerDealerFileNo>8-44742</brokerDealerFileNo>
+            <brokerDealerCrdNo>000030096</brokerDealerCrdNo>
+            <brokerDealerLei>N/A</brokerDealerLei>
+            <brokerDealerStateCountry brokerDealerState=US-NY brokerDealerCountry=US/>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+          <brokerDealer>
+            <brokerDealerName>GUGGENHEIM SECURITIES, LLC</brokerDealerName>
+            <brokerDealerFileNo>8-49107</brokerDealerFileNo>
+            <brokerDealerCrdNo>000040638</brokerDealerCrdNo>
+            <brokerDealerLei>5493005G25VHYWLYJU59</brokerDealerLei>
+            <brokerDealerStateCountry brokerDealerState=US-NY brokerDealerCountry=US/>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+          <brokerDealer>
+            <brokerDealerName>GLM Securities, LLC</brokerDealerName>
+            <brokerDealerFileNo>8-69770</brokerDealerFileNo>
+            <brokerDealerCrdNo>000283873</brokerDealerCrdNo>
+            <brokerDealerLei>N/A</brokerDealerLei>
+            <brokerDealerStateCountry brokerDealerState=US-NY brokerDealerCountry=US/>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+        </brokerDealers>
+        <brokers>
+          <broker>
+            <brokerName>Instinet, LLC</brokerName>
+            <brokerFileNo>8-23669</brokerFileNo>
+            <brokerCrdNo>000007897</brokerCrdNo>
+            <brokerLei>549300MGMN3RKMU8FT57</brokerLei>
+            <brokerStateCountry brokerState=US-NY brokerCountry=US/>
+            <grossCommission>3664.50000000</grossCommission>
+          </broker>
+          <broker>
+            <brokerName>GOLDMAN SACHS &amp; CO. LLC</brokerName>
+            <brokerFileNo>8-129</brokerFileNo>
+            <brokerCrdNo>000000361</brokerCrdNo>
+            <brokerLei>FOR8UP27PHTHYVLBNG30</brokerLei>
+            <brokerStateCountry brokerState=US-NY brokerCountry=US/>
+            <grossCommission>134938.40000000</grossCommission>
+          </broker>
+          <broker>
+            <brokerName>Sanford C. Bernstein &amp; Co., LLC</brokerName>
+            <brokerFileNo>8-52942</brokerFileNo>
+            <brokerCrdNo>000104474</brokerCrdNo>
+            <brokerLei>549300I7JYZHT7D5CO04</brokerLei>
+            <brokerStateCountry brokerState=US-NY brokerCountry=US/>
+            <grossCommission>3435.01000000</grossCommission>
+          </broker>
+        </brokers>
+        <aggregateCommission>142037.91000000</aggregateCommission>
+        <principalTransactions>
+          <principalTransaction>
+            <principalName>MERRILL LYNCH, PIERCE, FENNER &amp; SMITH INCORPORATED</principalName>
+            <principalFileNo>8-7221</principalFileNo>
+            <principalCrdNo>000007691</principalCrdNo>
+            <principalLei>8NAV47T0Y26Q87Y0QP81</principalLei>
+            <principalStateCountry principalState=US-NY principalCountry=US/>
+            <principalTotalPurchaseSale>141755294.77000000</principalTotalPurchaseSale>
+          </principalTransaction>
+          <principalTransaction>
+            <principalName>GOLDMAN SACHS &amp; CO. LLC</principalName>
+            <principalFileNo>8-129</principalFileNo>
+            <principalCrdNo>000000361</principalCrdNo>
+            <principalLei>FOR8UP27PHTHYVLBNG30</principalLei>
+            <principalStateCountry principalState=US-NY principalCountry=US/>
+            <principalTotalPurchaseSale>32413996.91000000</principalTotalPurchaseSale>
+          </principalTransaction>
+          <principalTransaction>
+            <principalName>Nomura Securities International, Inc.</principalName>
+            <principalFileNo>8-15255</principalFileNo>
+            <principalCrdNo>000004297</principalCrdNo>
+            <principalLei>OXTKY6Q8X53C9ILVV871</principalLei>
+            <principalStateCountry principalState=US-NY principalCountry=US/>
+            <principalTotalPurchaseSale>1196464.76000000</principalTotalPurchaseSale>
+          </principalTransaction>
+          <principalTransaction>
+            <principalName>TD SECURITIES (USA) LLC</principalName>
+            <principalFileNo>8-36747</principalFileNo>
+            <principalCrdNo>000018476</principalCrdNo>
+            <principalLei>SUVUFHICNZMP2WKHG940</principalLei>
+            <principalStateCountry principalState=US-NY principalCountry=US/>
+            <principalTotalPurchaseSale>8405123.22000000</principalTotalPurchaseSale>
+          </principalTransaction>
+          <principalTransaction>
+            <principalName>JEFFERIES LLC</principalName>
+            <principalFileNo>8-15074</principalFileNo>
+            <principalCrdNo>000002347</principalCrdNo>
+            <principalLei>58PU97L1C0WSRCWADL48</principalLei>
+            <principalStateCountry principalState=US-NY principalCountry=US/>
+            <principalTotalPurchaseSale>1490603.13000000</principalTotalPurchaseSale>
+          </principalTransaction>
+          <principalTransaction>
+            <principalName>J.P. MORGAN SECURITIES LLC</principalName>
+            <principalFileNo>8-35008</principalFileNo>
+            <principalCrdNo>000000079</principalCrdNo>
+            <principalLei>ZBUT11V806EZRVTWT807</principalLei>
+            <principalStateCountry principalState=US-NY principalCountry=US/>
+            <principalTotalPurchaseSale>426188348.87000000</principalTotalPurchaseSale>
+          </principalTransaction>
+          <principalTransaction>
+            <principalName>BARCLAYS CAPITAL INC.</principalName>
+            <principalFileNo>8-41342</principalFileNo>
+            <principalCrdNo>000019714</principalCrdNo>
+            <principalLei>AC28XWWI3WIBK2824319</principalLei>
+            <principalStateCountry principalState=US-NY principalCountry=US/>
+            <principalTotalPurchaseSale>107283033.82000000</principalTotalPurchaseSale>
+          </principalTransaction>
+        </principalTransactions>
+        <principalAggregatePurchase>718732865.48000000</principalAggregatePurchase>
+        <isBrokerageResearchPayment>N</isBrokerageResearchPayment>
+        <mnthlyAvgNetAssets>54568926.24833300</mnthlyAvgNetAssets>
+        <dailyAvgNetAssets>0.00000000</dailyAvgNetAssets>
+        <lineOfCredit hasLineOfCredit=Y>
+          <lineOfCreditDetails>
+            <lineOfCreditDetail>
+              <isCreditLineCommitted>Uncommitted</isCreditLineCommitted>
+              <lineOfCreditSize>75000000.00000000</lineOfCreditSize>
+              <lineOfCreditInstitutions>
+                <lineOfCreditInstitution creditInstitutionName=U.S. Bank, N.A./>
+              </lineOfCreditInstitutions>
+              <sharedCreditType creditType=Shared>
+                <creditUser fundName=Emerging Markets Bond Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=S&amp;P MidCap 400 Pure Value Fund secFileNo=811-08821/>
+                <creditUser fundName=Inverse Russell 2000 Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Inverse S&amp;P 500 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=U.S. Government Money Market Fund secFileNo=811-08821/>
+                <creditUser fundName=Precious Metals Fund secFileNo=811-08821/>
+                <creditUser fundName=Global Managed Futures Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Long Short Equity Fund secFileNo=811-07584/>
+                <creditUser fundName=Biotechnology Fund secFileNo=811-08821/>
+                <creditUser fundName=Inverse Russell 2000 Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Internet Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse Dow 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Real Estate Fund secFileNo=811-07584/>
+                <creditUser fundName=S&amp;P 500 Pure Value Fund secFileNo=811-07584/>
+                <creditUser fundName=Health Care Fund secFileNo=811-07584/>
+                <creditUser fundName=Dow 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=Inverse Russell 2000 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=Inverse S&amp;P 500 Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Energy Services Fund secFileNo=811-07584/>
+                <creditUser fundName=Precious Metals Fund secFileNo=811-07584/>
+                <creditUser fundName=Weakening Dollar 2x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=High Yield Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=NASDAQ-100 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Real Estate Fund secFileNo=811-08821/>
+                <creditUser fundName=Basic Materials Fund secFileNo=811-08821/>
+                <creditUser fundName=Banking Fund secFileNo=811-08821/>
+                <creditUser fundName=Inverse Dow 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=S&amp;P 500 Pure Growth Fund secFileNo=811-08821/>
+                <creditUser fundName=Basic Materials Fund secFileNo=811-07584/>
+                <creditUser fundName=Leisure Fund secFileNo=811-08821/>
+                <creditUser fundName=NASDAQ-100 Fund secFileNo=811-07584/>
+                <creditUser fundName=Retailing Fund secFileNo=811-07584/>
+                <creditUser fundName=Financial Services Fund secFileNo=811-08821/>
+                <creditUser fundName=Consumer Products Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse Government Long Bond Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Commodities Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=U.S. Government Money Market Fund secFileNo=811-07584/>
+                <creditUser fundName=S&amp;P MidCap 400 Pure Growth Fund secFileNo=811-07584/>
+                <creditUser fundName=S&amp;P 500 Pure Growth Fund secFileNo=811-07584/>
+                <creditUser fundName=S&amp;P 500 Pure Value Fund secFileNo=811-08821/>
+                <creditUser fundName=Multi-Hedge Strategies Fund secFileNo=811-08821/>
+                <creditUser fundName=Inverse S&amp;P 500 Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Russell 2000 1.5x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Banking Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse Government Long Bond Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P 500 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Government Long Bond 1.2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P 500 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=Transportation Fund secFileNo=811-07584/>
+                <creditUser fundName=Commodities Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Financial Services Fund secFileNo=811-07584/>
+                <creditUser fundName=Dow Jones Industrial Average Fund secFileNo=811-07584/>
+                <creditUser fundName=Mid-Cap 1.5x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Technology Fund secFileNo=811-07584/>
+                <creditUser fundName=S&amp;P 500 Fund secFileNo=811-07584/>
+                <creditUser fundName=Retailing Fund secFileNo=811-08821/>
+                <creditUser fundName=Nova Fund secFileNo=811-07584/>
+                <creditUser fundName=NASDAQ-100 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=Russell 2000 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=S&amp;P MidCap 400 Pure Growth Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P SmallCap 600 Pure Growth Fund secFileNo=811-07584/>
+                <creditUser fundName=Weakening Dollar 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Transportation Fund secFileNo=811-08821/>
+                <creditUser fundName=Japan 2x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse Emerging Markets 2x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse NASDAQ-100 Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Leisure Fund secFileNo=811-07584/>
+                <creditUser fundName=S&amp;P SmallCap 600 Pure Value Fund secFileNo=811-08821/>
+                <creditUser fundName=Health Care Fund secFileNo=811-08821/>
+                <creditUser fundName=Internet Fund secFileNo=811-08821/>
+                <creditUser fundName=Telecommunications Fund secFileNo=811-08821/>
+                <creditUser fundName=Inverse High Yield Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Energy Fund secFileNo=811-07584/>
+                <creditUser fundName=S&amp;P MidCap 400 Pure Value Fund secFileNo=811-07584/>
+                <creditUser fundName=Technology Fund secFileNo=811-08821/>
+                <creditUser fundName=Energy Services Fund secFileNo=811-08821/>
+                <creditUser fundName=Telecommunications Fund secFileNo=811-07584/>
+                <creditUser fundName=Russell 2000 1.5x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Dow 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Electronics Fund secFileNo=811-07584/>
+                <creditUser fundName=Europe 1.25x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Electronics Fund secFileNo=811-08821/>
+                <creditUser fundName=Europe 1.25x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=High Yield Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Mid-Cap 1.5x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Inverse NASDAQ-100 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=Utilities Fund secFileNo=811-07584/>
+                <creditUser fundName=Monthly Rebalance NASDAQ-100 2x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Strengthening Dollar 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P SmallCap 600 Pure Value Fund secFileNo=811-07584/>
+                <creditUser fundName=Russell 2000 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Japan 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Emerging Markets 2x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Strengthening Dollar 2x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse NASDAQ-100 Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Energy Fund secFileNo=811-08821/>
+                <creditUser fundName=Consumer Products Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P SmallCap 600 Pure Growth Fund secFileNo=811-08821/>
+                <creditUser fundName=Inverse Mid-Cap Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=NASDAQ-100 Fund secFileNo=811-08821/>
+                <creditUser fundName=Government Long Bond 1.2x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Russell 2000 Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse Mid-Cap Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Biotechnology Fund secFileNo=811-07584/>
+                <creditUser fundName=Long Short Equity Fund secFileNo=811-08821/>
+                <creditUser fundName=Nova Fund secFileNo=811-08821/>
+                <creditUser fundName=Managed Futures Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Utilities Fund secFileNo=811-08821/>
+              </sharedCreditType>
+              <creditLineUsed isCreditLineUsed=Y averageCreditLineUsed=639666.67 daysCreditUsed=6/>
+            </lineOfCreditDetail>
+          </lineOfCreditDetails>
+        </lineOfCredit>
+        <isInterfundLending>N</isInterfundLending>
+        <isInterfundBorrowing>N</isInterfundBorrowing>
+        <isSwingPricing>N</isSwingPricing>
+      </managementInvestmentQuestion>
+      <managementInvestmentQuestion>
+        <mgmtInvFundName>Commodities Strategy Fund</mgmtInvFundName>
+        <mgmtInvSeriesId>S000003774</mgmtInvSeriesId>
+        <mgmtInvLei>549300Y83L5ISW76HS10</mgmtInvLei>
+        <isFirstFilingByFund>Y</isFirstFilingByFund>
+        <numAuthorizedClass>3</numAuthorizedClass>
+        <numAddedClass>0</numAddedClass>
+        <numTerminatedClass>0</numTerminatedClass>
+        <sharesOutstandings>
+          <sharesOutstanding sharesOutstandingClassName=Class A sharesOutstandingClassId=C000010464 sharesOutstandingTickerSymbol=RYMEX/>
+          <sharesOutstanding sharesOutstandingClassName=Class C sharesOutstandingClassId=C000010465 sharesOutstandingTickerSymbol=RYMJX/>
+          <sharesOutstanding sharesOutstandingClassName=Class H sharesOutstandingClassId=C000010463 sharesOutstandingTickerSymbol=RYMBX/>
+        </sharesOutstandings>
+        <fundTypes>
+          <indexFundInfo fundType=Index Fund>
+            <isIndexFundAffiliated>N</isIndexFundAffiliated>
+            <isIndexFundExclusive>N</isIndexFundExclusive>
+            <indexFundReturnDiffBeforeExpense>-0.00049600</indexFundReturnDiffBeforeExpense>
+            <indexFundReturnDiffAfterExpense>-0.01680000</indexFundReturnDiffAfterExpense>
+            <indexFundReturnDailyStdevBeforeExpense>0.00326700</indexFundReturnDailyStdevBeforeExpense>
+            <indexFundReturnDailyStdevAfterExpense>0.00326800</indexFundReturnDailyStdevAfterExpense>
+          </indexFundInfo>
+        </fundTypes>
+        <isNonDiversifiedCompany>Y</isNonDiversifiedCompany>
+        <foreignInvestments isForeignSubsidiary=Y>
+          <foreignInvestment foreignSubsidiaryName=Rydex Series Commodities Strategy CFC foreignSubsidiaryLei=549300MLTZ23MYO4NP08/>
+        </foreignInvestments>
+        <isFundSecuritiesLending>Y</isFundSecuritiesLending>
+        <didFundLendSecurities>N</didFundLendSecurities>
+        <securityLendings>
+          <securityLending>
+            <securitiesAgentName>U.S. Bank, N.A.</securitiesAgentName>
+            <securitiesAgentLei>6BYL5QZYBDK8S7L73M02</securitiesAgentLei>
+            <isSecuritiesAgentAffiliated>N</isSecuritiesAgentAffiliated>
+            <securityAgentIdemnity isSecurityAgentIdemnity=Y>
+              <idemnityProviders>
+                <idemnityProvider idemnityProviderName=N/A idemnityProviderLei=N/A/>
+              </idemnityProviders>
+              <didIndemnificationRights>N</didIndemnificationRights>
+            </securityAgentIdemnity>
+          </securityLending>
+        </securityLendings>
+        <collateralManagers>
+          <collateralManager collateralManagerName=U.S. Bancorp Asset Management, Inc. collateralManagerLei=8KUMV9EIJ75IBFMLFD23 isCollateralManagerAffliliated=Y isCollateralManagerAffliliatedWithFund=N/>
+        </collateralManagers>
+        <paymentToAgentManagerType>N/A</paymentToAgentManagerType>
+        <avgPortfolioSecuritiesValue>N/A</avgPortfolioSecuritiesValue>
+        <netIncomeSecuritiesLending>N/A</netIncomeSecuritiesLending>
+        <relyOnRuleTypes>
+          <relyOnRuleType>Rule 22d-1 (17 CFR 270.22d-1)</relyOnRuleType>
+          <relyOnRuleType>Rule 32a-4 (17 CFR 270.32a-4)</relyOnRuleType>
+        </relyOnRuleTypes>
+        <isExpenseLimitationInPlace>Y</isExpenseLimitationInPlace>
+        <isExpenseReducedOrWaived>Y</isExpenseReducedOrWaived>
+        <isFeesWaivedRecoupable>N</isFeesWaivedRecoupable>
+        <isExpenseWaivedRecoupable>N</isExpenseWaivedRecoupable>
+        <investmentAdvisers>
+          <investmentAdviser>
+            <investmentAdviserName>Security Investors, LLC</investmentAdviserName>
+            <investmentAdviserFileNo>801-8008</investmentAdviserFileNo>
+            <investmentAdviserCrdNo>000105477</investmentAdviserCrdNo>
+            <investmentAdviserLei>549300R47VF4XGNEC751</investmentAdviserLei>
+            <investmentAdviserStateCountry investmentAdviserState=US-NY investmentAdviserCountry=US/>
+            <isInvestmentAdviserHired>N</isInvestmentAdviserHired>
+          </investmentAdviser>
+        </investmentAdvisers>
+        <transferAgents>
+          <transferAgent>
+            <transferAgentName>MUFG Investor Services (US), LLC</transferAgentName>
+            <transferAgentFileNo>084-05475</transferAgentFileNo>
+            <transferAgentLei>N/A</transferAgentLei>
+            <transferAgentStateCountry transferAgentState=US-MD transferAgentCountry=US/>
+            <isTransferAgentAffiliated>N</isTransferAgentAffiliated>
+            <isTransferAgentSubAgent>N</isTransferAgentSubAgent>
+          </transferAgent>
+        </transferAgents>
+        <isTransferAgentHiredOrTerminated>N</isTransferAgentHiredOrTerminated>
+        <pricingServices>
+          <pricingService>
+            <pricingServiceName>ICE Data Services</pricingServiceName>
+            <pricingServiceLei>5493000NQ9LYLDBCTL34</pricingServiceLei>
+            <pricingServiceStateCountry pricingServiceState=US-NY pricingServiceCountry=US/>
+            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>
+          </pricingService>
+          <pricingService>
+            <pricingServiceName>Bloomberg</pricingServiceName>
+            <pricingServiceLei>549300B56MD0ZC402L06</pricingServiceLei>
+            <pricingServiceStateCountry pricingServiceState=US-NY pricingServiceCountry=US/>
+            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>
+          </pricingService>
+        </pricingServices>
+        <isPricingServiceHiredOrTerminated>N</isPricingServiceHiredOrTerminated>
+        <custodians>
+          <custodian>
+            <custodianName>U.S. Bank N.A.</custodianName>
+            <custodianLei>6BYL5QZYBDK8S7L73M02</custodianLei>
+            <custodianStateCountry custodianState=US-OH custodianCountry=US/>
+            <isCustodianAffiliated>N</isCustodianAffiliated>
+            <isSubCustodian>N</isSubCustodian>
+            <custodyType>Bank - section 17(f)(1) (15 U.S.C. 80a-17(f)(1))</custodyType>
+          </custodian>
+        </custodians>
+        <isCustodianHiredOrTerminated>N</isCustodianHiredOrTerminated>
+        <shareholderServicingAgents>
+          <shareholderServicingAgent>
+            <shareholderServiceAgentName>MUFG Investor Services (US), LLC</shareholderServiceAgentName>
+            <shareholderServiceAgentLei>084-05475</shareholderServiceAgentLei>
+            <shareholderServiceIdNumberDesc>SEC File Number</shareholderServiceIdNumberDesc>
+            <shareholderServiceAgentStateCountry shareholderServiceAgentState=US-MD shareholderServiceAgentCountry=US/>
+            <isShareholderServiceAgentAffiliated>N</isShareholderServiceAgentAffiliated>
+            <isShareholderServiceAgentSubshare>N</isShareholderServiceAgentSubshare>
+          </shareholderServicingAgent>
+        </shareholderServicingAgents>
+        <isShareholderServiceHiredTerminated>N</isShareholderServiceHiredTerminated>
+        <admins>
+          <admin>
+            <adminName>MUFG Investor Services (US), LLC</adminName>
+            <adminLei>084-05475</adminLei>
+            <idNumberDesc>SEC File Number</idNumberDesc>
+            <adminStateCountry adminState=US-MD adminCountry=US/>
+            <isAdminAffiliated>N</isAdminAffiliated>
+            <isAdminSubAdmin>N</isAdminSubAdmin>
+          </admin>
+        </admins>
+        <isAdminHiredOrTerminated>N</isAdminHiredOrTerminated>
+        <brokerDealers>
+          <brokerDealer>
+            <brokerDealerName>GLM Securities, LLC</brokerDealerName>
+            <brokerDealerFileNo>8-69770</brokerDealerFileNo>
+            <brokerDealerCrdNo>000283873</brokerDealerCrdNo>
+            <brokerDealerLei>N/A</brokerDealerLei>
+            <brokerDealerStateCountry brokerDealerState=US-NY brokerDealerCountry=US/>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+          <brokerDealer>
+            <brokerDealerName>Guggenheim Funds Distributors, LLC</brokerDealerName>
+            <brokerDealerFileNo>8-48842</brokerDealerFileNo>
+            <brokerDealerCrdNo>000039805</brokerDealerCrdNo>
+            <brokerDealerLei>549300YLHACOJHH3DN20</brokerDealerLei>
+            <brokerDealerStateCountry brokerDealerState=US-IL brokerDealerCountry=US/>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+          <brokerDealer>
+            <brokerDealerName>Guggenheim KBBO Partners Ltd</brokerDealerName>
+            <brokerDealerFileNo>N/A</brokerDealerFileNo>
+            <brokerDealerCrdNo>N/A</brokerDealerCrdNo>
+            <brokerDealerLei>N/A</brokerDealerLei>
+            <brokerDealerCountry>AE</brokerDealerCountry>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+          <brokerDealer>
+            <brokerDealerName>Guggenheim Securities International Ltd</brokerDealerName>
+            <brokerDealerFileNo>N/A</brokerDealerFileNo>
+            <brokerDealerCrdNo>N/A</brokerDealerCrdNo>
+            <brokerDealerLei>N/A</brokerDealerLei>
+            <brokerDealerCountry>GB</brokerDealerCountry>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+          <brokerDealer>
+            <brokerDealerName>Guggenheim Partners Japan, Ltd.</brokerDealerName>
+            <brokerDealerFileNo>N/A</brokerDealerFileNo>
+            <brokerDealerCrdNo>N/A</brokerDealerCrdNo>
+            <brokerDealerLei>N/A</brokerDealerLei>
+            <brokerDealerCountry>JP</brokerDealerCountry>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+          <brokerDealer>
+            <brokerDealerName>Guggenheim Investor Services, LLC</brokerDealerName>
+            <brokerDealerFileNo>8-44742</brokerDealerFileNo>
+            <brokerDealerCrdNo>000030096</brokerDealerCrdNo>
+            <brokerDealerLei>N/A</brokerDealerLei>
+            <brokerDealerStateCountry brokerDealerState=US-NY brokerDealerCountry=US/>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+          <brokerDealer>
+            <brokerDealerName>Sammons Financial Network LLC</brokerDealerName>
+            <brokerDealerFileNo>8-68905</brokerDealerFileNo>
+            <brokerDealerCrdNo>000158538</brokerDealerCrdNo>
+            <brokerDealerLei>N/A</brokerDealerLei>
+            <brokerDealerStateCountry brokerDealerState=US-IA brokerDealerCountry=US/>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+          <brokerDealer>
+            <brokerDealerName>GUGGENHEIM SECURITIES, LLC</brokerDealerName>
+            <brokerDealerFileNo>8-49107</brokerDealerFileNo>
+            <brokerDealerCrdNo>000040638</brokerDealerCrdNo>
+            <brokerDealerLei>5493005G25VHYWLYJU59</brokerDealerLei>
+            <brokerDealerStateCountry brokerDealerState=US-NY brokerDealerCountry=US/>
+            <brokerDealerCommission>0.00000000</brokerDealerCommission>
+          </brokerDealer>
+        </brokerDealers>
+        <aggregateCommission>0.00000000</aggregateCommission>
+        <principalTransactions>
+          <principalTransaction>
+            <principalName>Nomura Securities International, Inc.</principalName>
+            <principalFileNo>8-15255</principalFileNo>
+            <principalCrdNo>000004297</principalCrdNo>
+            <principalLei>OXTKY6Q8X53C9ILVV871</principalLei>
+            <principalStateCountry principalState=US-NY principalCountry=US/>
+            <principalTotalPurchaseSale>1999720.00000000</principalTotalPurchaseSale>
+          </principalTransaction>
+          <principalTransaction>
+            <principalName>BARCLAYS CAPITAL INC.</principalName>
+            <principalFileNo>8-41342</principalFileNo>
+            <principalCrdNo>000019714</principalCrdNo>
+            <principalLei>AC28XWWI3WIBK2824319</principalLei>
+            <principalStateCountry principalState=US-NY principalCountry=US/>
+            <principalTotalPurchaseSale>626478501.36000000</principalTotalPurchaseSale>
+          </principalTransaction>
+          <principalTransaction>
+            <principalName>J.P. MORGAN SECURITIES LLC</principalName>
+            <principalFileNo>8-35008</principalFileNo>
+            <principalCrdNo>000000079</principalCrdNo>
+            <principalLei>ZBUT11V806EZRVTWT807</principalLei>
+            <principalStateCountry principalState=US-NY principalCountry=US/>
+            <principalTotalPurchaseSale>1525540181.13000000</principalTotalPurchaseSale>
+          </principalTransaction>
+          <principalTransaction>
+            <principalName>Citigroup Global Markets Inc.</principalName>
+            <principalFileNo>8-8177</principalFileNo>
+            <principalCrdNo>000007059</principalCrdNo>
+            <principalLei>MBNUM2BPBDO7JBLYG310</principalLei>
+            <principalStateCountry principalState=US-NY principalCountry=US/>
+            <principalTotalPurchaseSale>13999366.21000000</principalTotalPurchaseSale>
+          </principalTransaction>
+          <principalTransaction>
+            <principalName>MIZUHO SECURITIES USA INC.</principalName>
+            <principalFileNo>8-37710</principalFileNo>
+            <principalCrdNo>000019647</principalCrdNo>
+            <principalLei>7TK5RJIZDFROZCA6XF66</principalLei>
+            <principalStateCountry principalState=US-NY principalCountry=US/>
+            <principalTotalPurchaseSale>13497559.72000000</principalTotalPurchaseSale>
+          </principalTransaction>
+          <principalTransaction>
+            <principalName>MERRILL LYNCH, PIERCE, FENNER &amp; SMITH INCORPORATED</principalName>
+            <principalFileNo>8-7221</principalFileNo>
+            <principalCrdNo>000007691</principalCrdNo>
+            <principalLei>8NAV47T0Y26Q87Y0QP81</principalLei>
+            <principalStateCountry principalState=US-NY principalCountry=US/>
+            <principalTotalPurchaseSale>520287585.69000000</principalTotalPurchaseSale>
+          </principalTransaction>
+          <principalTransaction>
+            <principalName>CastleOak Securities, LP</principalName>
+            <principalFileNo>8-65786</principalFileNo>
+            <principalCrdNo>000125334</principalCrdNo>
+            <principalLei>549300MXL7C60HZ59S65</principalLei>
+            <principalStateCountry principalState=US-NY principalCountry=US/>
+            <principalTotalPurchaseSale>11989966.67000000</principalTotalPurchaseSale>
+          </principalTransaction>
+          <principalTransaction>
+            <principalName>BNY MELLON CAPITAL MARKETS, LLC</principalName>
+            <principalFileNo>8-35255</principalFileNo>
+            <principalCrdNo>000017454</principalCrdNo>
+            <principalLei>VJW2DOOHGDT6PR0ZRO63</principalLei>
+            <principalStateCountry principalState=US-NY principalCountry=US/>
+            <principalTotalPurchaseSale>4998933.33000000</principalTotalPurchaseSale>
+          </principalTransaction>
+          <principalTransaction>
+            <principalName>JEFFERIES LLC</principalName>
+            <principalFileNo>8-15074</principalFileNo>
+            <principalCrdNo>000002347</principalCrdNo>
+            <principalLei>58PU97L1C0WSRCWADL48</principalLei>
+            <principalStateCountry principalState=US-NY principalCountry=US/>
+            <principalTotalPurchaseSale>25696713.67000000</principalTotalPurchaseSale>
+          </principalTransaction>
+          <principalTransaction>
+            <principalName>Morgan Stanley &amp; Co. LLC</principalName>
+            <principalFileNo>8-15869</principalFileNo>
+            <principalCrdNo>000008209</principalCrdNo>
+            <principalLei>9R7GPTSO7KV3UQJZQ078</principalLei>
+            <principalStateCountry principalState=US-NY principalCountry=US/>
+            <principalTotalPurchaseSale>17997630.00000000</principalTotalPurchaseSale>
+          </principalTransaction>
+        </principalTransactions>
+        <principalAggregatePurchase>2762486157.78000000</principalAggregatePurchase>
+        <isBrokerageResearchPayment>N</isBrokerageResearchPayment>
+        <mnthlyAvgNetAssets>18533442.10083300</mnthlyAvgNetAssets>
+        <dailyAvgNetAssets>0.00000000</dailyAvgNetAssets>
+        <lineOfCredit hasLineOfCredit=Y>
+          <lineOfCreditDetails>
+            <lineOfCreditDetail>
+              <isCreditLineCommitted>Uncommitted</isCreditLineCommitted>
+              <lineOfCreditSize>75000000.00000000</lineOfCreditSize>
+              <lineOfCreditInstitutions>
+                <lineOfCreditInstitution creditInstitutionName=U.S. Bank, N.A./>
+              </lineOfCreditInstitutions>
+              <sharedCreditType creditType=Shared>
+                <creditUser fundName=High Yield Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Basic Materials Fund secFileNo=811-07584/>
+                <creditUser fundName=Commodities Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P MidCap 400 Pure Value Fund secFileNo=811-07584/>
+                <creditUser fundName=Biotechnology Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse NASDAQ-100 Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Transportation Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P MidCap 400 Pure Growth Fund secFileNo=811-07584/>
+                <creditUser fundName=Strengthening Dollar 2x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=S&amp;P SmallCap 600 Pure Value Fund secFileNo=811-08821/>
+                <creditUser fundName=Internet Fund secFileNo=811-07584/>
+                <creditUser fundName=Dow Jones Industrial Average Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse High Yield Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Long Short Equity Fund secFileNo=811-08821/>
+                <creditUser fundName=Real Estate Fund secFileNo=811-07584/>
+                <creditUser fundName=Transportation Fund secFileNo=811-07584/>
+                <creditUser fundName=Internet Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P 500 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=Dow 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=Managed Futures Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Consumer Products Fund secFileNo=811-07584/>
+                <creditUser fundName=Europe 1.25x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Emerging Markets Bond Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=U.S. Government Money Market Fund secFileNo=811-08821/>
+                <creditUser fundName=NASDAQ-100 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=Inverse Russell 2000 Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Government Long Bond 1.2x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Telecommunications Fund secFileNo=811-07584/>
+                <creditUser fundName=Europe 1.25x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Emerging Markets 2x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Financial Services Fund secFileNo=811-08821/>
+                <creditUser fundName=Real Estate Fund secFileNo=811-08821/>
+                <creditUser fundName=Inverse Government Long Bond Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Inverse Dow 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=Energy Services Fund secFileNo=811-07584/>
+                <creditUser fundName=Weakening Dollar 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Retailing Fund secFileNo=811-07584/>
+                <creditUser fundName=Biotechnology Fund secFileNo=811-08821/>
+                <creditUser fundName=Inverse Russell 2000 Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Multi-Hedge Strategies Fund secFileNo=811-08821/>
+                <creditUser fundName=Inverse Government Long Bond Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=S&amp;P 500 Pure Value Fund secFileNo=811-08821/>
+                <creditUser fundName=Russell 2000 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Russell 2000 1.5x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=U.S. Government Money Market Fund secFileNo=811-07584/>
+                <creditUser fundName=Japan 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P 500 Pure Value Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse Dow 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Utilities Fund secFileNo=811-07584/>
+                <creditUser fundName=Consumer Products Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P 500 Pure Growth Fund secFileNo=811-07584/>
+                <creditUser fundName=High Yield Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Retailing Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P 500 Pure Growth Fund secFileNo=811-08821/>
+                <creditUser fundName=Inverse NASDAQ-100 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=Inverse Mid-Cap Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Technology Fund secFileNo=811-08821/>
+                <creditUser fundName=NASDAQ-100 Fund secFileNo=811-08821/>
+                <creditUser fundName=Energy Services Fund secFileNo=811-08821/>
+                <creditUser fundName=Government Long Bond 1.2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Banking Fund secFileNo=811-08821/>
+                <creditUser fundName=NASDAQ-100 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Monthly Rebalance NASDAQ-100 2x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse S&amp;P 500 Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P 500 Fund secFileNo=811-07584/>
+                <creditUser fundName=S&amp;P SmallCap 600 Pure Growth Fund secFileNo=811-07584/>
+                <creditUser fundName=Long Short Equity Fund secFileNo=811-07584/>
+                <creditUser fundName=Health Care Fund secFileNo=811-07584/>
+                <creditUser fundName=Mid-Cap 1.5x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P MidCap 400 Pure Value Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P SmallCap 600 Pure Value Fund secFileNo=811-07584/>
+                <creditUser fundName=Energy Fund secFileNo=811-08821/>
+                <creditUser fundName=Utilities Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P MidCap 400 Pure Growth Fund secFileNo=811-08821/>
+                <creditUser fundName=S&amp;P 500 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Global Managed Futures Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Precious Metals Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse Emerging Markets 2x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Multi-Hedge Strategies Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse NASDAQ-100 Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Precious Metals Fund secFileNo=811-08821/>
+                <creditUser fundName=Russell 2000 Fund secFileNo=811-07584/>
+                <creditUser fundName=Russell 2000 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=Telecommunications Fund secFileNo=811-08821/>
+                <creditUser fundName=Japan 2x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse Russell 2000 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=S&amp;P SmallCap 600 Pure Growth Fund secFileNo=811-08821/>
+                <creditUser fundName=Banking Fund secFileNo=811-07584/>
+                <creditUser fundName=Russell 2000 1.5x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Basic Materials Fund secFileNo=811-08821/>
+                <creditUser fundName=Dow 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Electronics Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse Mid-Cap Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Nova Fund secFileNo=811-07584/>
+                <creditUser fundName=Financial Services Fund secFileNo=811-07584/>
+                <creditUser fundName=Energy Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse S&amp;P 500 2x Strategy Fund secFileNo=811-09525/>
+                <creditUser fundName=Strengthening Dollar 2x Strategy Fund secFileNo=811-08821/>
+                <creditUser fundName=Electronics Fund secFileNo=811-08821/>
+                <creditUser fundName=Mid-Cap 1.5x Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Leisure Fund secFileNo=811-08821/>
+                <creditUser fundName=Technology Fund secFileNo=811-07584/>
+                <creditUser fundName=Inverse S&amp;P 500 Strategy Fund secFileNo=811-07584/>
+                <creditUser fundName=Health Care Fund secFileNo=811-08821/>
+                <creditUser fundName=Nova Fund secFileNo=811-08821/>
+                <creditUser fundName=Leisure Fund secFileNo=811-07584/>
+                <creditUser fundName=NASDAQ-100 Fund secFileNo=811-07584/>
+                <creditUser fundName=Weakening Dollar 2x Strategy Fund secFileNo=811-07584/>
+              </sharedCreditType>
+              <isCreditLineUsed>N</isCreditLineUsed>
+            </lineOfCreditDetail>
+          </lineOfCreditDetails>
+        </lineOfCredit>
+        <isInterfundLending>N</isInterfundLending>
+        <isInterfundBorrowing>N</isInterfundBorrowing>
+        <isSwingPricing>N</isSwingPricing>
+      </managementInvestmentQuestion>
+    </managementInvestmentQuestionSeriesInfo>
+    <attachmentsTab>
+      <isLegalProceedings>true</isLegalProceedings>
+      <isIPAReportInternalControl>true</isIPAReportInternalControl>
+      <isInfoRequiredEO>false</isInfoRequiredEO>
+      <isOtherInfoRequired>false</isOtherInfoRequired>
+    </attachmentsTab>
+    <signature registrantSignedName=Rydex Series Funds signedDate=2019-03-18 signature=John Sullivan title=CFO/>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INTERNAL CONTROL RPT
+<SEQUENCE>2
+<FILENAME>Auditletter_rsf-g1aiii.htm
+<DESCRIPTION>AUDIT LETTER
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE=font: 11pt Times New Roman, Times, Serif>
+
+<P STYLE=margin: 0></P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center><B>Report of Independent Registered Public Accounting
+Firm</B></P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0>To the Shareholders and Board of Trustees</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0>of Rydex Series Funds</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>In planning and performing our audits of the
+financial statements of Rydex Series Funds (the &ldquo;Trust&rdquo;) as of and for the year ended December 31, 2018, in accordance
+with the standards of the Public Company Accounting Oversight Board (United States), we considered the Trust&rsquo;s internal control
+over financial reporting, including controls over safeguarding securities, as a basis for designing our auditing procedures for
+the purpose of expressing our opinions on the financial statements and to comply with the requirements of Form N-CEN, but not for
+the purpose of expressing an opinion on the effectiveness of the Trust&rsquo;s internal control over financial reporting. Accordingly,
+we express no such opinion.</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>The management of the Trust is responsible
+for establishing and maintaining effective internal control over financial reporting. In fulfilling this responsibility, estimates
+and judgments by management are required to assess the expected benefits and related costs of controls. A company&rsquo;s internal
+control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance with U.S. generally accepted accounting principles.
+A company&rsquo;s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance
+of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company;
+(2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance
+with U.S. generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance
+with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely
+detection of unauthorized acquisition, use or disposition of a company&rsquo;s assets that could have a material effect on the
+financial statements.</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>Because of its inherent limitations, internal
+control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness
+to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree
+of compliance with the policies or procedures may deteriorate.</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>A deficiency in internal control over financial
+reporting exists when the design or operation of a control does not allow management or employees, in the normal course of performing
+their assigned functions, to prevent or detect misstatements on a timely basis. A material weakness is a deficiency, or a combination
+of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement
+of the company&rsquo;s annual or interim financial statements will not be prevented or detected on a timely basis.</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>Our consideration of the Trust&rsquo;s internal
+control over financial reporting was for the limited purpose described in the first paragraph and would not necessarily disclose
+all deficiencies in internal control that might be material weaknesses under standards established by the Public Company Accounting
+Oversight Board (United States). However, we noted no deficiencies in the Trust&rsquo;s internal control over financial reporting
+and its operation, including controls over safeguarding securities, that we consider to be a material weakness as defined above
+as of December 31, 2018.</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>This report is intended solely for the information
+and use of management and the Board of Trustees of Rydex Series Funds and the Securities and Exchange Commission and is not intended
+to be and should not be used by anyone other than these specified parties.</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0>&nbsp;</P>
+
+<TABLE CELLSPACING=0 CELLPADDING=0 STYLE=width: 100%; font: 11pt Times New Roman, Times, Serif; border-collapse: collapse>
+<TR STYLE=vertical-align: top>
+    <TD STYLE=font-size: 11pt; width: 50%>&nbsp;</TD>
+    <TD STYLE=font-size: 11pt; width: 50%><FONT STYLE=font-family: Times New Roman, Times, Serif; font-size: 11pt>/s/ Ernst &amp; Young LLP</FONT></TD></TR>
+</TABLE>
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0>Tysons, Virginia</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0>February 26, 2019</P>
+
+
+
+<P STYLE=margin: 0></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>LEGAL PROCEEDINGS
+<SEQUENCE>3
+<FILENAME>fp0039779-rsf_g1ai.htm
+<DESCRIPTION>LEGAL PROCEEDINGS
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE=font: 11pt Times New Roman, Times, Serif>
+
+<P STYLE=margin: 0><B>Legal Proceedings</B></P>
+
+<P STYLE=margin: 0><B>&nbsp;</B></P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify><B>Tribune Company</B></P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify><B>&nbsp;</B></P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>Rydex Series Funds has been named as a defendant
+and a putative member of the proposed defendant class of shareholders in the case entitled <I>Kirschner v. FitzSimons</I>, No.
+12-2652 (S.D.N.Y.) (formerly <I>Official Committee of Unsecured Creditors of Tribune Co. v. FitzSimons</I>, Adv. Pro. No. 10-54010
+(Bankr. D. Del.)) (the &ldquo;<I>FitzSimons</I> action&rdquo;), as a result of ownership by certain series of the Rydex Series
+Funds of shares in the Tribune Company (&ldquo;Tribune&rdquo;) in 2007, when Tribune effected a leveraged buyout transaction (&ldquo;LBO&rdquo;)
+by which Tribune converted to a privately-held company. In his complaint, the plaintiff has alleged that, in connection with the
+LBO, Tribune insiders and shareholders were overpaid for their Tribune stock using financing that the insiders knew would, and
+ultimately did, leave Tribune insolvent. The plaintiff has asserted claims against certain insiders, major shareholders, professional
+advisers, and others involved in the LBO. The plaintiff is also attempting to obtain from former Tribune shareholders, including
+the Rydex Series Funds, the proceeds they received in connection with the LBO.</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>In June 2011, a group of Tribune creditors
+filed multiple actions against former Tribune shareholders involving state law constructive fraudulent conveyance claims arising
+out of the 2007 LBO (the &ldquo;SLCFC actions&rdquo;). Rydex Series Funds has been named as a defendant in one or more of these
+suits. In those actions, the creditors seek to recover from Tribune&rsquo;s former shareholders the proceeds received in connection
+with the 2007 LBO.</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>The <I>FitzSimons</I> action and the SLCFC
+actions have been consolidated with the majority of the other Tribune LBO-related lawsuits in a multidistrict litigation proceeding
+captioned <I>In re Tribune Company Fraudulent Conveyance Litig.</I>, No. 11-md-2696 (S.D.N.Y.) (the &ldquo;MDL Proceeding&rdquo;).</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>On September 23, 2013, the District Court granted
+the defendants&rsquo; omnibus motion to dismiss the SLCFC actions, on the basis that the creditors lacked standing. On September
+30, 2013, the creditors filed a notice of appeal of the September 23 order. On October 28, 2013, the defendants filed a joint notice
+of cross-appeal of that same order.</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>On March 29, 2016, the U.S. Court of Appeals
+for the Second Circuit issued its opinion on the appeal of the SLCFC actions. The appeals court affirmed the district court&rsquo;s
+dismissal of those lawsuits, but on different grounds than the district court. The appeals court held that while the plaintiffs
+have standing under the U.S. Bankruptcy Code, their claims were preempted by Section 546(e) of the Bankruptcy Code&mdash;the statutory
+safe harbor for settlement payments.</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>On April 12, 2016, the Plaintiffs in the SLCFC
+actions filed a petition seeking rehearing <I>en banc</I> before the appeals court. On July 22, 2016, the appeals court denied
+the petition. On September 9, 2016, the plaintiffs filed a petition for writ of certiorari in the U.S. Supreme Court challenging
+the Second Circuit&rsquo;s decision that the safe harbor of Section 546(e) applied to their claims. The shareholder defendants,
+including the Funds, filed a joint brief in opposition to the petition for certiorari on October 24, 2016. On April 3, 2018, Justice
+Kennedy and Justice Thomas issued a &ldquo;Statement&rdquo; related to the petition for certiorari suggesting that the Second Circuit
+and/or District Court may want to take steps to reexamine the application of the Section 546(e) safe harbor to the previously dismissed
+state law constructive fraudulent transfer claims based on the Supreme Court&rsquo;s decision in <I>Merit Management Group LP v.
+FTI Consulting, Inc.</I> On April 10, 2018, Plaintiffs filed in the Second Circuit a motion for that court to recall its mandate,
+vacate its prior decision, and remand to the district court for further proceedings consistent with Merit Management. On April
+20, 2018, the shareholder defendants filed an opposition to Plaintiffs&rsquo; motion to recall the mandate. On May 15, 2018, the
+Second Circuit issued an order recalling the mandate &ldquo;in anticipation of further panel review.&rdquo;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE=margin-bottom: 6pt><P STYLE=margin: 0pt; font: 9pt Times New Roman, Times, Serif>&nbsp;</P></DIV>
+    <DIV STYLE=page-break-before: always; margin-top: 6pt><P STYLE=margin: 0pt>&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify></P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>On May 23, 2014, the defendants filed motions
+to dismiss the <I>FitzSimons</I> action, including a global motion to dismiss Count I, which is the claim brought against former
+Tribune shareholders for intentional fraudulent conveyance under U.S. federal law. On January 6, 2017, the United States District
+Court for the Southern District of New York granted the shareholder defendants&rsquo; motion to dismiss the intentional fraudulent
+conveyance claim in the <I>FitzSimons</I> action. In dismissing the intentional fraudulent conveyance claim, the Court denied the
+plaintiff&rsquo;s request to amend the complaint. The plaintiff requested that the Court direct entry of a final judgment in order
+to make the order immediately appealable. On February 23, 2017, the Court issued an order stating that it intends to permit an
+interlocutory appeal of the dismissal order, but will wait to do so until it has resolved outstanding motions to dismiss filed
+by other defendants. Accordingly, the timing of the appeal is uncertain.</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>On July 18, 2017, the plaintiff submitted a
+letter to the District Court seeking leave to amend its complaint to add a constructive fraudulent transfer claim. The shareholder
+defendants opposed that request. On August 24, 2017, the Court denied the plaintiff&rsquo;s request without prejudice to renewal
+of the request in the event of an intervening change in the law. On March 8, 2018, the plaintiff renewed his request for leave
+to file a motion to amend the complaint to assert a constructive fraudulent transfer claim based on the Supreme Court&rsquo;s ruling
+in <I>Merit Management Group LP v. FTI Consulting, Inc.</I> The shareholder defendants opposed that request. On June 18, 2018 the
+District Court ordered that the request would be stayed pending further action by the Second Circuit in the SLCFC actions<FONT STYLE=color: #1F497D>.</FONT></P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify><FONT STYLE=color: #1F497D>&nbsp;</FONT></P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>None of these lawsuits alleges any wrongdoing
+on the part of Rydex Series Funds. The following series of Rydex Series Funds held shares of Tribune and tendered these shares
+as part of Tribune&rsquo;s LBO: Nova Fund, S&amp;P 500&reg; Pure Value Fund, Multi-Cap Core Equity Fund, S&amp;P 500&reg; Fund,
+Multi-Hedge Strategies Fund and Hedged Equity Fund (the &ldquo;Funds&rdquo;). The value of the proceeds received by the foregoing
+Funds was $28,220, $109,242, $9,860, $3,400, $1,181,160, and $10,880, respectively. At this stage of the proceedings, Rydex Series
+Funds is not able to make a reliable predication as to the outcome of these lawsuits or the effect, if any, on a Fund&rsquo;s net
+asset value.</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>
+
+<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>
+
+
+
+<P STYLE=margin: 0></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+"

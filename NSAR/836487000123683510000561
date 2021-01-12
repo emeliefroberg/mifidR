@@ -1,0 +1,2103 @@
+"","V1"
+"1","-----BEGIN PRIVACY-ENHANCED MESSAGE-----"
+"2","Proc-Type: 2001,MIC-CLEAR"
+"3","Originator-Name: webmaster@www.sec.gov"
+"4","Originator-Key-Asymmetric:"
+"5"," MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen"
+"6"," TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB"
+"7","MIC-Info: RSA-MD5,RSA,"
+"8"," Ir5rnpLkyBuWuTJW+/NyPqu+RTopKtM6ZAZWnKZ+1SMJkmVg3uYlpblHKZP4GQSL"
+"9"," ssvc9bXIn5gPyhcucQsQng=="
+"10","<SEC-DOCUMENT>0001236835-10-000561.txt : 20101029"
+"11","<SEC-HEADER>0001236835-10-000561.hdr.sgml : 20101029"
+"12","<ACCEPTANCE-DATETIME>20101029112809"
+"13","ACCESSION NUMBER:		0001236835-10-000561"
+"14","CONFORMED SUBMISSION TYPE:	NSAR-B"
+"15","PUBLIC DOCUMENT COUNT:		5"
+"16","CONFORMED PERIOD OF REPORT:	20100831"
+"17","FILED AS OF DATE:		20101029"
+"18","DATE AS OF CHANGE:		20101029"
+"19","EFFECTIVENESS DATE:		20101029"
+"20","FILER:"
+"21","	COMPANY DATA:	"
+"22","		COMPANY CONFORMED NAME:			MORGAN STANLEY INSTITUTIONAL FUND INC"
+"23","		CENTRAL INDEX KEY:			0000836487"
+"24","		IRS NUMBER:				000000000"
+"25","		STATE OF INCORPORATION:			MD"
+"26","		FISCAL YEAR END:			1231"
+"27","	FILING VALUES:"
+"28","		FORM TYPE:		NSAR-B"
+"29","		SEC ACT:		1940 Act"
+"30","		SEC FILE NUMBER:	811-05624"
+"31","		FILM NUMBER:		101150348"
+"32","	BUSINESS ADDRESS:	"
+"33","		STREET 1:		522 FIFTH AVENUE"
+"34","		CITY:			NEW YORK"
+"35","		STATE:			NY"
+"36","		ZIP:			10036"
+"37","		BUSINESS PHONE:		6175578742"
+"38","	MAIL ADDRESS:	"
+"39","		STREET 1:		522 FIFTH AVENUE"
+"40","		CITY:			NEW YORK"
+"41","		STATE:			NY"
+"42","		ZIP:			10036"
+"43","	FORMER COMPANY:	"
+"44","		FORMER CONFORMED NAME:	MORGAN STANLEY DEAN WITTER INSTITUTIONAL FUND INC"
+"45","		DATE OF NAME CHANGE:	19990329"
+"46","	FORMER COMPANY:	"
+"47","		FORMER CONFORMED NAME:	MORGAN STANLEY INSTITUTIONAL FUND INC"
+"48","		DATE OF NAME CHANGE:	19920703"
+"49","<SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"50","<EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"51","<SERIES>"
+"52","<OWNER-CIK>0000836487"
+"53","<SERIES-ID>S000027993"
+"54","<SERIES-NAME>Advantage Portfolio"
+"55","<CLASS-CONTRACT>"
+"56","<CLASS-CONTRACT-ID>C000085090"
+"57","<CLASS-CONTRACT-NAME>Class H"
+"58","</CLASS-CONTRACT>"
+"59","<CLASS-CONTRACT>"
+"60","<CLASS-CONTRACT-ID>C000085091"
+"61","<CLASS-CONTRACT-NAME>Class I"
+"62","</CLASS-CONTRACT>"
+"63","<CLASS-CONTRACT>"
+"64","<CLASS-CONTRACT-ID>C000085092"
+"65","<CLASS-CONTRACT-NAME>Class L"
+"66","</CLASS-CONTRACT>"
+"67","<CLASS-CONTRACT>"
+"68","<CLASS-CONTRACT-ID>C000085093"
+"69","<CLASS-CONTRACT-NAME>Class P"
+"70","</CLASS-CONTRACT>"
+"71","</SERIES>"
+"72","</EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"73","</SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"74","</SEC-HEADER>"
+"75","<DOCUMENT>"
+"76","<TYPE>NSAR-B"
+"77","<SEQUENCE>1"
+"78","<FILENAME>answer.fil"
+"79","<DESCRIPTION>08/31/2010 ANNUAL NSAR"
+"80","<TEXT>"
+"81","<PAGE>      PAGE  1"
+"82","000 B000000 08/31/2010"
+"83","000 C000000 0000836487"
+"84","000 D000000 N"
+"85","000 E000000 NF"
+"86","000 F000000 Y"
+"87","000 G000000 N"
+"88","000 H000000 N"
+"89","000 I000000 6.1"
+"90","000 J000000 A"
+"91","001 A000000 MORGAN STANLEY INSTITUTIONAL FUND, INC."
+"92","001 B000000 811-05624"
+"93","001 C000000 2122966963"
+"94","002 A000000 522 FIFTH AVENUE"
+"95","002 B000000 NEW YORK"
+"96","002 C000000 NY"
+"97","002 D010000 10036"
+"98","003  000000 N"
+"99","004  000000 N"
+"100","005  000000 N"
+"101","006  000000 N"
+"102","007 A000000 Y"
+"103","007 B000000 17"
+"104","007 C015300 53"
+"105","007 C025300 Advantage Portfolio"
+"106","007 C035300 N"
+"107","008 A005301 MORGAN STANLEY INVESTMENT MANAGEMENT INC."
+"108","008 B005301 A"
+"109","008 C005301 801-05757"
+"110","008 D015301 NEW YORK"
+"111","008 D025301 NY"
+"112","008 D035301 10036"
+"113","010 A005301 MORGAN STANLEY INVESTMENT MANAGEMENT INC."
+"114","010 B005301 801-15757"
+"115","010 C015301 NEW YORK"
+"116","010 C025301 NY"
+"117","010 C035301 10036"
+"118","011 A00AA01 MORGAN STANLEY DISTRIBUTION, INC."
+"119","011 B00AA01 8-00000000"
+"120","011 C01AA01 WEST CONSHOHOCKEN"
+"121","011 C02AA01 PA"
+"122","011 C03AA01 19428"
+"123","011 C04AA01 2899"
+"124","012 A00AA01 MORGAN STANLEY SERVICES COMPANY INC."
+"125","012 B00AA01 84-06270"
+"126","012 C01AA01 JERSEY CITY"
+"127","012 C02AA01 NJ"
+"128","012 C03AA01 07311"
+"129","013 A00AA01 ERNST & YOUNG LLP"
+"130","013 B01AA01 BOST0N"
+"131","013 B02AA01 MA"
+"132","013 B03AA01 02116"
+"133","<PAGE>      PAGE  2"
+"134","013 B04AA01 5072"
+"135","014 A00AA01 ARIGIL MENKUL DEGERLER A.S."
+"136","014 B00AA01 8-00000"
+"137","014 A00AA02 CHINA INTERNATIONAL CAPITAL CORP. HONG KONG S"
+"138","014 B00AA02 8-00000"
+"139","014 A00AA03 H.C. SECURITIES AND INVESTMENTS"
+"140","014 B00AA03 8-00000"
+"141","014 A00AA04 BANK MORGAN STANLEY AG"
+"142","014 B00AA04 8-00000"
+"143","014 A00AA05 MORGAN STANLEY DEAN WITTER C.T.V.M. S.A."
+"144","014 B00AA05 8-00000"
+"145","014 A00AA06 MORGAN STANLEY FUTURES (HONG KONG) LIMITED"
+"146","014 B00AA06 8-00000"
+"147","014 A00AA07 MORGAN STANLEY HONG KONG SECURITIES LIMITED"
+"148","014 B00AA07 8-00000"
+"149","014 A00AA08 MORGAN STANLEY & CO. INCORPORATED"
+"150","014 B00AA08 8-15869"
+"151","014 A00AA09 MORGAN STANLEY & CO. INTERNATIONAL PLC"
+"152","014 B00AA09 8-00000"
+"153","014 A00AA10 MORGAN STANLEY ASIA (SINGAPORE) SECURITIES PT"
+"154","014 B00AA10 8-00000"
+"155","014 A00AA11 MORGAN STANLEY CANADA LIMITED"
+"156","014 B00AA11 8-00000"
+"157","014 A00AA12 MORGAN STANLEY SECURITIES LIMITED"
+"158","014 B00AA12 8-00000"
+"159","014 A00AA13 MORGAN STANLEY DEAN WITTER AUSTRALIA SECURITI"
+"160","014 B00AA13 8-00000"
+"161","014 A00AA14 MORGAN STANLEY DEAN WITTER AUSTRALIA LIMITED"
+"162","014 B00AA14 8-00000"
+"163","014 A00AA15 MORGAN STANLEY, S.V. S.A."
+"164","014 B00AA15 8-00000"
+"165","014 A00AA16 MORGAN STANLEY DEAN WITTER ASIA (SINGAPORE) P"
+"166","014 B00AA16 8-00000"
+"167","014 A00AA17 MORGAN STANLEY JAPAN SECURITIES CO., LTD."
+"168","014 B00AA17 8-00000"
+"169","014 A00AA18 MORGAN STANLEY INDIA COMPANY PRIVATE LTD."
+"170","014 B00AA18 8-00000"
+"171","014 A00AA19 OOO MORGAN STANLEY BANK"
+"172","014 B00AA19 8-00000"
+"173","014 A00AA20 MORGAN STANLEY DISTRIBUTION, INC."
+"174","014 B00AA20 8-44766"
+"175","014 A00AA21 MORGAN STANLEY DISTRIBUTORS INC."
+"176","014 B00AA21 8-45262"
+"177","014 A00AA22 MORGAN STANLEY MARKET PRODUCTS INC."
+"178","014 B00AA22 8-37795"
+"179","014 A00AA23 MS SECURITIES SERVICES INC."
+"180","014 B00AA23 8-26804"
+"181","014 A00AA24 PRIME DEALER SERVICES CORP."
+"182","014 B00AA24 8-47025"
+"183","014 A00AA25 MORGAN STANLEY ASIA LIMITED"
+"184","014 B00AA25 8-00000"
+"185","<PAGE>      PAGE  3"
+"186","014 A00AA26 MORGAN STANLEY TAIWAN LIMITED"
+"187","014 B00AA26 8-00000"
+"188","014 A00AA27 BLOCK INTEREST DISCOVERY SERVICE"
+"189","014 B00AA27 8-00000"
+"190","014 A00AA28 BETTER ALTERNATIVE TRADING SYSTEM"
+"191","014 B00AA28 8-00000"
+"192","014 A00AA29 MUNICENTER"
+"193","014 B00AA29 8-00000"
+"194","014 A00AA30 RMB MORGAN STANLEY"
+"195","014 B00AA30 8-00000"
+"196","014 A00AA31 HTI VALORI MOBILIARE S.A."
+"197","014 B00AA31 8-00000"
+"198","014 A00AA32 MITSUBISHI UFJ SECURITIES CO. LTD"
+"199","014 B00AA32 8-00000"
+"200","014 A00AA33 MITSUBISHI UFJ SECURITIES INTERNATIONAL PLC"
+"201","014 B00AA33 8-00000"
+"202","014 A00AA34 MITSUBISHI UFJ TRUST & BANKING CORP."
+"203","014 B00AA34 8-00000"
+"204","014 A00AA35 BANK OF TOKYO-MITSUBISHI UFJ LTD."
+"205","014 B00AA35 8-00000"
+"206","014 A00AA36 UNION BANC INVESTMENT SERVICES"
+"207","014 B00AA36 8-306"
+"208","014 A00AA37 MORGAN STANLEY SMITH BARNEY LLC"
+"209","014 B00AA37 8-68191"
+"210","014 A00AA38 MORGAN STANLEY MUFG SECURITIES CO., LTD."
+"211","014 B00AA38 8-00000"
+"212","014 A00AA39 MORGAN STANLEY INDIA FINANCIAL SERVICES PRIVA"
+"213","014 B00AA39 8-00000"
+"214","014 A00AA40 MORGAN STANLEY SMITH BARNEY FINANCING, LLC"
+"215","014 B00AA40 8-00000"
+"216","014 A00AA41 MORGAN STANLEY SMITH BARNEY AUSTRALIA PTY LTD"
+"217","014 B00AA41 8-00000"
+"218","014 A00AA42 OLIVETREE SECURITIES LTD"
+"219","014 B00AA42 8-00000"
+"220","014 A00AA43 MITSUBISHI UFJ MORGAN STANLEY SECURITIES CO."
+"221","014 B00AA43 8-00000"
+"222","015 A00AA01 STATE STREET BANK AND TRUST COMPANY"
+"223","015 B00AA01 C"
+"224","015 C01AA01 BOSTON"
+"225","015 C02AA01 MA"
+"226","015 C03AA01 02111"
+"227","015 E01AA01 X"
+"228","018  00AA00 Y"
+"229","019 A00AA00 Y"
+"230","019 B00AA00  101"
+"231","019 C00AA00 MORGANSTAN"
+"232","020 A000001 CREDIT SUISSE FIRST BOSTON LLC"
+"233","020 B000001 13-5659485"
+"234","020 C000001      1"
+"235","021  000000        3"
+"236","022 A000001 JP MORGAN SECURITIES INC."
+"237","<PAGE>      PAGE  4"
+"238","022 B000001 13-3224016"
+"239","022 C000001     13635"
+"240","022 D000001         0"
+"241","022 A000002 BANK OF AMERICAN SECURITIES LLC"
+"242","022 B000002 56-2058405"
+"243","022 C000002      4446"
+"244","022 D000002         0"
+"245","022 A000003 STATE STREET BANK & TRUST CO."
+"246","022 B000003 04-1867445"
+"247","022 C000003       619"
+"248","022 D000003       150"
+"249","022 A000004 SOCIETE GENERALE"
+"250","022 B000004 36-1370818"
+"251","022 C000004         8"
+"252","022 D000004         0"
+"253","023 C000000      18708"
+"254","023 D000000        150"
+"255","024  005300 N"
+"256","025 D005301       0"
+"257","026 A000000 N"
+"258","026 B000000 Y"
+"259","026 C000000 N"
+"260","026 D000000 Y"
+"261","026 E000000 N"
+"262","026 F000000 Y"
+"263","026 G010000 N"
+"264","026 G020000 N"
+"265","026 H000000 N"
+"266","027  000000 Y"
+"267","028 A015300        35"
+"268","028 A025300         0"
+"269","028 A035300         0"
+"270","028 A045300         9"
+"271","028 B015300       252"
+"272","028 B025300         0"
+"273","028 B035300         0"
+"274","028 B045300       110"
+"275","028 C015300         0"
+"276","028 C025300         0"
+"277","028 C035300         0"
+"278","028 C045300       312"
+"279","028 D015300         0"
+"280","028 D025300         0"
+"281","028 D035300         0"
+"282","028 D045300         7"
+"283","028 E015300         0"
+"284","028 E025300         0"
+"285","028 E035300         0"
+"286","028 E045300         0"
+"287","028 F015300         0"
+"288","028 F025300         0"
+"289","<PAGE>      PAGE  5"
+"290","028 F035300         0"
+"291","028 F045300        12"
+"292","028 G015300       287"
+"293","028 G025300         0"
+"294","028 G035300         0"
+"295","028 G045300       450"
+"296","028 H005300       275"
+"297","029  005300 Y"
+"298","030 A005300      0"
+"299","030 B005300  4.75"
+"300","030 C005300  0.00"
+"301","031 A005300      0"
+"302","031 B005300      0"
+"303","032  005300      0"
+"304","033  005300      0"
+"305","034  005300 N"
+"306","035  005300      0"
+"307","036 B005300      0"
+"308","037  005300 N"
+"309","038  005300      0"
+"310","039  005300 N"
+"311","040  005300 Y"
+"312","041  005300 Y"
+"313","042 A005300   0"
+"314","042 B005300   0"
+"315","042 C005300 100"
+"316","042 D005300   0"
+"317","042 E005300   0"
+"318","042 F005300   0"
+"319","042 G005300   0"
+"320","042 H005300   0"
+"321","043  005300      3"
+"322","044  005300      0"
+"323","045  005300 Y"
+"324","046  005300 N"
+"325","047  005300 Y"
+"326","048  005300  0.000"
+"327","048 A015300   750000"
+"328","048 A025300 0.750"
+"329","048 B015300   750000"
+"330","048 B025300 0.700"
+"331","048 C015300        0"
+"332","048 C025300 0.000"
+"333","048 D015300        0"
+"334","048 D025300 0.000"
+"335","048 E015300        0"
+"336","048 E025300 0.000"
+"337","048 F015300        0"
+"338","048 F025300 0.000"
+"339","048 G015300        0"
+"340","048 G025300 0.000"
+"341","<PAGE>      PAGE  6"
+"342","048 H015300        0"
+"343","048 H025300 0.000"
+"344","048 I015300        0"
+"345","048 I025300 0.000"
+"346","048 J015300        0"
+"347","048 J025300 0.000"
+"348","048 K015300  1500000"
+"349","048 K025300 0.650"
+"350","049  005300 N"
+"351","050  005300 N"
+"352","051  005300 N"
+"353","052  005300 N"
+"354","053 A005300 Y"
+"355","053 B005300 Y"
+"356","054 A00AA00 Y"
+"357","054 B00AA00 Y"
+"358","054 C00AA00 Y"
+"359","054 D00AA00 N"
+"360","054 E00AA00 N"
+"361","054 F00AA00 N"
+"362","054 G00AA00 Y"
+"363","054 H00AA00 N"
+"364","054 I00AA00 N"
+"365","054 J00AA00 Y"
+"366","054 K00AA00 N"
+"367","054 L00AA00 Y"
+"368","054 M00AA00 Y"
+"369","054 N00AA00 N"
+"370","054 O00AA00 Y"
+"371","055 A005300 N"
+"372","055 B005300 N"
+"373","056  005300 Y"
+"374","057  005300 N"
+"375","058 A005300 N"
+"376","059  005300 Y"
+"377","060 A005300 Y"
+"378","060 B005300 Y"
+"379","061  005300    25000"
+"380","062 A005300 N"
+"381","062 B005300   0.0"
+"382","062 C005300   0.0"
+"383","062 D005300   0.0"
+"384","062 E005300   0.0"
+"385","062 F005300   0.0"
+"386","062 G005300   0.0"
+"387","062 H005300   0.0"
+"388","062 I005300   0.0"
+"389","062 J005300   0.0"
+"390","062 K005300   0.0"
+"391","062 L005300   0.0"
+"392","062 M005300   0.0"
+"393","<PAGE>      PAGE  7"
+"394","062 N005300   0.0"
+"395","062 O005300   0.0"
+"396","062 P005300   0.0"
+"397","062 Q005300   0.0"
+"398","062 R005300   0.0"
+"399","063 A005300   0"
+"400","063 B005300  0.0"
+"401","066 A005300 Y"
+"402","066 B005300 N"
+"403","066 C005300 Y"
+"404","066 D005300 N"
+"405","066 E005300 N"
+"406","066 F005300 N"
+"407","066 G005300 N"
+"408","067  005300 N"
+"409","068 A005300 N"
+"410","068 B005300 N"
+"411","069  005300 N"
+"412","070 A015300 Y"
+"413","070 A025300 Y"
+"414","070 B015300 Y"
+"415","070 B025300 N"
+"416","070 C015300 Y"
+"417","070 C025300 N"
+"418","070 D015300 Y"
+"419","070 D025300 N"
+"420","070 E015300 Y"
+"421","070 E025300 N"
+"422","070 F015300 Y"
+"423","070 F025300 N"
+"424","070 G015300 Y"
+"425","070 G025300 N"
+"426","070 H015300 Y"
+"427","070 H025300 N"
+"428","070 I015300 Y"
+"429","070 I025300 N"
+"430","070 J015300 Y"
+"431","070 J025300 N"
+"432","070 K015300 Y"
+"433","070 K025300 N"
+"434","070 L015300 Y"
+"435","070 L025300 Y"
+"436","070 M015300 Y"
+"437","070 M025300 N"
+"438","070 N015300 Y"
+"439","070 N025300 N"
+"440","070 O015300 N"
+"441","070 O025300 N"
+"442","070 P015300 Y"
+"443","070 P025300 N"
+"444","070 Q015300 N"
+"445","<PAGE>      PAGE  8"
+"446","070 Q025300 N"
+"447","070 R015300 N"
+"448","070 R025300 N"
+"449","071 A005300      1733"
+"450","071 B005300      1873"
+"451","071 C005300      5443"
+"452","071 D005300   32"
+"453","072 A005300 12"
+"454","072 B005300        0"
+"455","072 C005300       85"
+"456","072 D005300        0"
+"457","072 E005300        0"
+"458","072 F005300       42"
+"459","072 G005300        1"
+"460","072 H005300        0"
+"461","072 I005300       15"
+"462","072 J005300        7"
+"463","072 K005300        0"
+"464","072 L005300       34"
+"465","072 M005300        2"
+"466","072 N005300       46"
+"467","072 O005300        0"
+"468","072 P005300        0"
+"469","072 Q005300        0"
+"470","072 R005300       36"
+"471","072 S005300        4"
+"472","072 T005300        3"
+"473","072 U005300        0"
+"474","072 V005300        0"
+"475","072 W005300       64"
+"476","072 X005300      254"
+"477","072 Y005300      192"
+"478","072 Z005300       23"
+"479","072AA005300        0"
+"480","072BB005300      172"
+"481","072CC015300      889"
+"482","072CC025300        0"
+"483","072DD015300       23"
+"484","072DD025300        5"
+"485","072EE005300        0"
+"486","073 A015300   0.0000"
+"487","073 A025300   0.0000"
+"488","073 B005300   0.0000"
+"489","073 C005300   0.0000"
+"490","074 A005300        0"
+"491","074 B005300        0"
+"492","074 C005300        0"
+"493","074 D005300        0"
+"494","074 E005300       32"
+"495","074 F005300     5470"
+"496","074 G005300        0"
+"497","<PAGE>      PAGE  9"
+"498","074 H005300        0"
+"499","074 I005300      175"
+"500","074 J005300        0"
+"501","074 K005300        2"
+"502","074 L005300        7"
+"503","074 M005300        0"
+"504","074 N005300     5686"
+"505","074 O005300        0"
+"506","074 P005300        3"
+"507","074 Q005300        0"
+"508","074 R015300        0"
+"509","074 R025300        0"
+"510","074 R035300        0"
+"511","074 R045300      255"
+"512","074 S005300        0"
+"513","074 T005300     5428"
+"514","074 U015300      461"
+"515","074 U025300      132"
+"516","074 V015300     0.00"
+"517","074 V025300     0.00"
+"518","074 W005300   0.0000"
+"519","074 X005300       64"
+"520","074 Y005300        0"
+"521","075 A005300        0"
+"522","075 B005300     5541"
+"523","076  005300     0.00"
+"524","077 A000000 Y"
+"525","077 B000000 Y"
+"526","077 C000000 N"
+"527","077 D000000 N"
+"528","077 E000000 N"
+"529","077 F000000 N"
+"530","077 G000000 N"
+"531","077 H000000 N"
+"532","077 I000000 Y"
+"533","077 J000000 N"
+"534","077 K000000 N"
+"535","077 L000000 N"
+"536","077 M000000 Y"
+"537","077 N000000 N"
+"538","077 O000000 N"
+"539","077 P000000 N"
+"540","077 Q010000 Y"
+"541","077 Q020000 N"
+"542","077 Q030000 N"
+"543","078  000000 N"
+"544","080 A00AA00 ICI MUTUAL INSURANCE COMPANY"
+"545","080 B00AA00 Continental Insurance Company"
+"546","080 C00AA00    75000"
+"547","081 A00AA00 Y"
+"548","081 B00AA00 102"
+"549","<PAGE>      PAGE  10"
+"550","082 A00AA00 Y"
+"551","082 B00AA00        0"
+"552","083 A00AA00 N"
+"553","083 B00AA00        0"
+"554","084 A00AA00 N"
+"555","084 B00AA00        0"
+"556","085 A00AA00 Y"
+"557","085 B00AA00 N"
+"558","086 A010000      0"
+"559","086 A020000      0"
+"560","086 B010000      0"
+"561","086 B020000      0"
+"562","086 C010000      0"
+"563","086 C020000      0"
+"564","086 D010000      0"
+"565","086 D020000      0"
+"566","086 E010000      0"
+"567","086 E020000      0"
+"568","086 F010000      0"
+"569","086 F020000      0"
+"570","SIGNATURE   TAMARA GASTON-CHALMERS"
+"571","TITLE       SUPERVISOR"
+"572","</TEXT>"
+"573","</DOCUMENT>"
+"574","<DOCUMENT>"
+"575","<TYPE>EX-99.77Q1 OTHR EXHB"
+"576","<SEQUENCE>2"
+"577","<FILENAME>seventysevenq.txt"
+"578","<DESCRIPTION>OTHER EXHIBITS"
+"579","<TEXT>"
+"580","                      AGREEMENT AND PLAN OF REORGANIZATION"
+"581","      This Agreement and Plan of Reorganization (the Agreement) is made as of"
+"582","January 20, 2010 by and between (i) each of the Van Kampen open-end registered"
+"583","investment companies identified on Exhibit A hereto (each a Target Entity)"
+"584","separately, on behalf of its respective series identified on Exhibit A hereto"
+"585","(each a Target Fund); and (ii) Morgan Stanley Institutional Fund, Inc., SEC"
+"586","File No. 033-23166 (the Acquiring Entity), on behalf of its respective series"
+"587","identified on Exhibit A hereto (each an Acquiring Fund)."
+"588","                              W I T N E S S E T H:"
+"589","      WHEREAS, the Board of Directors of the Acquiring Entity, on behalf of each"
+"590","Acquiring Fund (the Acquiring Entity Board), and the Board of"
+"591","Directors/Trustees of each Target Entity, on behalf of its respective Target"
+"592","Fund (collectively, the Target Entity Board and, together with the Acquiring"
+"593","Entity Board, the Boards), have determined that entering into this Agreement"
+"594","whereby each Target Fund would transfer all of its assets and liabilities to the"
+"595","corresponding Acquiring Fund in exchange for shares of such Acquiring Fund, is"
+"596","in the best interests of the shareholders of their respective Fund; and"
+"597","      WHEREAS, the parties hereto intend for each Acquiring Fund and its"
+"598","corresponding Target Fund (as set forth in Exhibit A hereto) to enter into a"
+"599","transaction pursuant to which: (i) the Acquiring Fund will acquire the assets"
+"600","and liabilities of the Target Fund in exchange for the corresponding class or"
+"601","classes of shares (as applicable) of the Acquiring Fund identified on Exhibit A"
+"602","of equal value to the net assets of the Target Fund being acquired, (ii) the"
+"603","Target Fund will distribute such shares of the Acquiring Fund to shareholders of"
+"604","the corresponding class of the Target Fund, in connection with the liquidation"
+"605","of the Target Fund, all upon the terms and conditions hereinafter set forth in"
+"606","this Agreement, and (iii) the outstanding shares of the Acquired Fund held by"
+"607","such shareholders will then be redeemed and cancelled as permitted by the"
+"608","organizational documents of the Acquired Fund and applicable law (each such"
+"609","transaction, a Reorganization and collectively, the Reorganizations). Each"
+"610","Acquiring Fund is, and will be immediately prior to the Closing Date (defined in"
+"611","Section II), a shell series, without assets (other than seed capital) or"
+"612","liabilities, created for the purpose of acquiring the assets and liabilities of"
+"613","the Target Fund;"
+"614","      WHEREAS, each Target Entity and the Acquiring Entity is a registered"
+"615","open-end, investment company; and"
+"616","      WHEREAS, the parties intend that this transaction qualify as a"
+"617","reorganization within the meaning of Section 368(a)(1)(F) of the Internal"
+"618","Revenue Code of 1986, as amended (the Code);"
+"619","      NOW, THEREFORE, in consideration of the mutual promises contained herein,"
+"620","and intending to be legally bound hereby, the parties hereto agree as follows:"
+"621","<PAGE>"
+"622","I.    PLAN OF TRANSACTION."
+"623","            It is the intention of the parties hereto that each Reorganization"
+"624","      described herein shall be conducted separately of the others, and a party"
+"625","      that is not a party to a Reorganization shall incur no obligations, duties"
+"626","      or liabilities with respect to such Reorganization by reason of being a"
+"627","      party to this Agreement. If any one or more Reorganizations should fail to"
+"628","      be consummated, such failure shall not affect the other Reorganizations in"
+"629","      any way."
+"630","            Provided that all conditions precedent to a Reorganization set forth"
+"631","      herein have been satisfied as of the Closing Date (as defined below), and"
+"632","      based on the representations and warranties each party provides to the"
+"633","      others, each Target Entity and the Acquiring Entity agree to take the"
+"634","      following steps with respect to their Reorganization(s), the parties to"
+"635","      which and classes of shares to be issued in connection with which are set"
+"636","      forth in Exhibit A:"
+"637","      A.    TRANSFER OF ASSETS. Upon satisfaction of the conditions precedent to"
+"638","            a Reorganization set forth in Sections VII and VIII hereof, the"
+"639","            Target Fund will convey, transfer and deliver to the Acquiring Fund"
+"640","            at the closing, provided for in Section II hereof, all of the"
+"641","            existing assets of the Target Fund (including accrued interest to"
+"642","            the Closing Date (as defined below)), free and clear of all liens,"
+"643","            encumbrances and claims whatsoever (the assets so transferred"
+"644","            collectively being referred to as the Assets)."
+"645","      B.    CONSIDERATION. In consideration thereof, the Acquiring Fund agrees"
+"646","            that the Acquiring Fund at the closing will (i) deliver to the"
+"647","            Target Fund, full and fractional shares of common stock, $0.001 par"
+"648","            value per share, of each class of the Acquiring Fund that"
+"649","            corresponds to the class of shares of the Target Fund, as set forth"
+"650","            in Exhibit A, with an aggregate net asset value equal to the"
+"651","            aggregate dollar value of the Assets net of any liabilities of the"
+"652","            corresponding class of the Target Fund described in Section III.E."
+"653","            hereof (the Liabilities) determined pursuant to Section III.A. of"
+"654","            this Agreement (collectively, the Acquiring Fund Shares) and (ii)"
+"655","            assume all of the Liabilities of the Target Fund. The calculation of"
+"656","            full and fractional Acquiring Fund Shares to be exchanged shall be"
+"657","            carried out to no less than two (2) decimal places. All Acquiring"
+"658","            Fund Shares delivered to the Target Fund in exchange for such Assets"
+"659","            shall be delivered at net asset value without sales load, commission"
+"660","            or other transactional fees being imposed."
+"661","II.   CLOSING OF THE TRANSACTION."
+"662","      A.    CLOSING DATE. The closing of each Reorganization shall occur within"
+"663","            ten (10) business days after the later of the receipt of all"
+"664","            necessary regulatory approvals and the final adjournment of the"
+"665","            meeting of shareholders of the applicable Target Fund at which this"
+"666","            Agreement will be considered and approved, or such other date as the"
+"667","            parties may"
+"668","                                       2"
+"669","<PAGE>"
+"670","            mutually agree (the Closing Date). On the Closing Date, the"
+"671","            Acquiring Fund shall deliver to the Target Fund the Acquiring Fund"
+"672","            Shares in the amount determined pursuant to Section I.B. hereof and"
+"673","            the Target Fund thereafter shall, in order to effect the"
+"674","            distribution of such shares to the Target Fund shareholders,"
+"675","            instruct the Acquiring Fund to register the pro rata interest in the"
+"676","            Acquiring Fund Shares (in full and fractional shares) of each of the"
+"677","            holders of record of shares of the Target Fund in accordance with"
+"678","            their holdings of the corresponding class of the Target Fund, as set"
+"679","            forth in Exhibit A, and shall provide as part of such instruction a"
+"680","            complete and updated list of such holders (including addresses and"
+"681","            taxpayer identification numbers), and the Acquiring Fund agrees"
+"682","            promptly to comply with said instruction. The Acquiring Fund shall"
+"683","            have no obligation to inquire as to the validity, propriety or"
+"684","            correctness of such instruction, but shall assume that such"
+"685","            instruction is valid, proper and correct."
+"686","III.  PROCEDURE FOR REORGANIZATION."
+"687","      A.    VALUATION. With respect to each Reorganization, the value of the"
+"688","            Assets and Liabilities of the Target Fund to be transferred and"
+"689","            assumed, respectively, by the Acquiring Fund shall be computed as of"
+"690","            4:00 p.m. (New York time) on the business day immediately preceding"
+"691","            the Closing Date, in the manner set forth in the most recent"
+"692","            Prospectus and Statement of Additional Information of the Acquiring"
+"693","            Fund (collectively, the Acquiring Fund Prospectus), copies of"
+"694","            which have been delivered to the Target Fund."
+"695","      B.    DELIVERY OF FUND ASSETS. he Assets shall be delivered to JPMorgan"
+"696","            Chase Bank, N.A. or other custodian as designated by the Acquiring"
+"697","            Fund (collectively the Custodian) for the benefit of the Acquiring"
+"698","            Fund, duly endorsed in proper form for transfer in such condition as"
+"699","            to constitute a good delivery thereof, free and clear of all liens,"
+"700","            encumbrances and claims whatsoever, in accordance with the custom of"
+"701","            brokers, and shall be accompanied by all necessary state stock"
+"702","            transfer stamps, if any, the cost of which shall be borne by the"
+"703","            investment adviser to the Target Fund, with respect to Van Kampen"
+"704","            Core Growth Fund and Van Kampen Global Growth Fund, and Van Kampen"
+"705","            Equity Growth Fund."
+"706","      C.    FAILURE TO DELIVER SECURITIES. If the Target Fund is unable to make"
+"707","            delivery pursuant to Section III.B. hereof to the Custodian of any"
+"708","            of the securities of the Target Fund then, in lieu of such delivery,"
+"709","            the Target Fund shall deliver to the Custodian, with respect to said"
+"710","            securities, executed copies of an agreement of assignment and due"
+"711","            bills, together with such other documents as may be required by the"
+"712","            Acquiring Fund or Custodian."
+"713","                                       3"
+"714","<PAGE>"
+"715","      D.    SHAREHOLDER ACCOUNTS. The Acquiring Fund, in order to assist the"
+"716","            Target Fund in the distribution of the Acquiring Fund Shares to the"
+"717","            Target Fund shareholders after delivery of the Acquiring Fund Shares"
+"718","            to the Target Fund, will establish pursuant to the request of the"
+"719","            Target Fund an open account with the Acquiring Fund for each"
+"720","            shareholder of the Target Fund and, upon request by the Target Fund,"
+"721","            shall transfer to such accounts, the exact number of Acquiring Fund"
+"722","            Shares then held by the Target Fund specified in the instruction"
+"723","            provided pursuant to Section II hereof. The Acquiring Fund is not"
+"724","            required to issue certificates representing Acquiring Fund Shares"
+"725","            unless requested to do so by a shareholder. Upon liquidation or"
+"726","            dissolution of the Target Fund, certificates representing shares of"
+"727","            the Target Fund shall become null and void."
+"728","      E.    LIABILITIES. The Liabilities shall include all of the Target Fund's"
+"729","            liabilities, debts, obligations, and duties of whatever kind or"
+"730","            nature, whether absolute, accrued, contingent, or otherwise, whether"
+"731","            or not arising in the ordinary course of business, whether or not"
+"732","            determinable at the Closing Date, and whether or not specifically"
+"733","            referred to in this Agreement."
+"734","      F.    EXPENSES. In the event that the Reorganization of Van Kampen Core"
+"735","            Growth Fund into Advantage Portfolio is consummated, and the"
+"736","            Reorganization of Van Kampen Global Growth Fund into Global Growth"
+"737","            Portfolio is consummated, the expenses of each such Reorganization,"
+"738","            including the costs of the special meeting of shareholders of each"
+"739","            Target Fund, will be paid by Morgan Stanley Investment Management,"
+"740","            Inc., the investment adviser to Advantage Portfolio and Global"
+"741","            Growth Portfolio. In the event that the Reorganization of Van Kampen"
+"742","            Equity Growth Fund into Equity Growth Portfolio is consummated, the"
+"743","            expenses of such Reorganization, including the costs of the special"
+"744","            meeting of shareholders of Van Kampen Equity Growth Fund, will be"
+"745","            paid by Van Kampen Equity Growth Fund. In the event that the"
+"746","            transactions contemplated herein are not consummated by reason of a"
+"747","            Target Fund being either unwilling or unable to go forward (other"
+"748","            than by reason of the nonfulfillment or failure of any condition to"
+"749","            the Target Fund's obligations specified in this Agreement), the"
+"750","            Target Fund's only obligation hereunder shall be to reimburse the"
+"751","            corresponding Acquiring Fund for all reasonable out-of-pocket fees"
+"752","            and expenses incurred by the Acquiring Fund in connection with those"
+"753","            transactions. The investment adviser to the Target Fund will"
+"754","            reimburse the corresponding Acquiring Fund for any such amounts on"
+"755","            behalf of the Target Fund. In the event the transactions"
+"756","            contemplated herein are not consummated by reason of an Acquiring"
+"757","            Fund being either unwilling or unable to go forward (other than by"
+"758","            reason of the nonfulfillment or failure of any condition to the"
+"759","            Acquiring Fund's obligations specified in this Agreement), the"
+"760","            Acquiring Fund's only obligation hereunder shall be to reimburse the"
+"761","            corresponding Target Fund for all reasonable out-of-pocket fees and"
+"762","            expenses incurred by the Target"
+"763","                                       4"
+"764","<PAGE>"
+"765","            Fund in connection with those transactions. The investment adviser"
+"766","            to the Acquiring Fund will reimburse the corresponding Target Fund"
+"767","            for any such amounts on behalf of the Acquiring Fund."
+"768","      G.    DISSOLUTION. As soon as practicable after the Closing Date but in no"
+"769","            event later than one year after the Closing Date, the Target Fund"
+"770","            shall voluntarily dissolve and completely liquidate by taking, in"
+"771","            accordance with the law in the state of its organization and federal"
+"772","            securities laws, all steps as shall be necessary and proper to"
+"773","            effect a complete liquidation and dissolution of the Target Fund."
+"774","            Immediately after the Closing Date, the share transfer books"
+"775","            relating to the Target Fund shall be closed and no transfer of"
+"776","            shares shall thereafter be made on such books."
+"777","IV.   REPRESENTATIONS AND WARRANTIES OF THE TARGET FUND."
+"778","      Each Target Entity on behalf of itself or, where applicable, a Target Fund"
+"779","hereby represents and warrants to the Acquiring Entity and its corresponding"
+"780","Acquiring Fund, which representations and warranties are true and correct on the"
+"781","date hereof, and agrees with the Acquiring Entity and its corresponding"
+"782","Acquiring Fund that:"
+"783","      A.    ORGANIZATION. The Target Fund is duly organized as a series of the"
+"784","            Target Entity, and the Target Entity is in good standing, under the"
+"785","            laws of the state of its organization and the Target Fund is duly"
+"786","            authorized to transact business in the state of its organization."
+"787","            The Target Fund is qualified to do business in all jurisdictions in"
+"788","            which it is required to be so qualified, except jurisdictions in"
+"789","            which the failure to so qualify would not have a material adverse"
+"790","            effect on the Target Fund. The Target Fund has all material federal,"
+"791","            state and local authorizations necessary to own all of its"
+"792","            properties and assets and to carry on its business as now being"
+"793","            conducted, except authorizations which the failure to so obtain"
+"794","            would not have a material adverse effect on the Target Fund."
+"795","      B.    REGISTRATION. The Target Entity is registered under the Investment"
+"796","            Company Act of 1940, as amended (the 1940 Act), as an open-end"
+"797","            management investment company and such registration has not been"
+"798","            revoked or rescinded. The Target Entity is in compliance in all"
+"799","            material respects with the 1940 Act, and the rules and regulations"
+"800","            thereunder with respect to its activities. All of the outstanding"
+"801","            common shares of the Target Fund have been duly authorized and are"
+"802","            validly issued, fully paid and nonassessable and not subject to"
+"803","            pre-emptive or dissenters' rights."
+"804","      C.    AUDITED FINANCIAL STATEMENTS. The statement of assets and"
+"805","            liabilities and the portfolio of investments and the related"
+"806","            statements of operations and changes in net assets of the Target"
+"807","            Entity, with respect to its corresponding Target Fund, audited as of"
+"808","            the most recently completed fiscal year, true and complete copies of"
+"809","            which have been heretofore"
+"810","                                       5"
+"811","<PAGE>"
+"812","            furnished to the Acquiring Fund, fairly represent the financial"
+"813","            condition and the results of operations of the Target Fund as of and"
+"814","            for their respective dates and periods in conformity with generally"
+"815","            accepted accounting principles applied on a consistent basis during"
+"816","            the periods involved."
+"817","      D.    FINANCIAL STATEMENTS. The Target Entity, on behalf of the"
+"818","            corresponding Target Fund, shall furnish to the Acquiring Fund"
+"819","            within five (5) business days after the Closing Date, an unaudited"
+"820","            statement of assets and liabilities and the portfolio of investments"
+"821","            and the related statements of operations and changes in net assets"
+"822","            as of and for the interim period ending on the Closing Date; such"
+"823","            financial statements will represent fairly the financial position"
+"824","            and portfolio of investments and the results of the Target Fund's"
+"825","            operations as of, and for the periods ending on, the dates of such"
+"826","            statements in conformity with generally accepted accounting"
+"827","            principles applied on a consistent basis during the periods involved"
+"828","            and the results of its operations and changes in financial position"
+"829","            for the period then ended; and such financial statements shall be"
+"830","            certified by the Treasurer of the Target Entity as complying with"
+"831","            the requirements hereof."
+"832","      E.    CONTINGENT LIABILITIES. There are, and as of the Closing Date will"
+"833","            be, no contingent Liabilities of the Target Fund not disclosed in"
+"834","            the financial statements delivered pursuant to Sections IV.C. and"
+"835","            IV.D. which would materially affect the Target Fund's financial"
+"836","            condition, and there are no legal, administrative, or other"
+"837","            proceedings pending or, to the Target Entity's knowledge, threatened"
+"838","            against the Target Fund which would, if adversely determined,"
+"839","            materially affect the Target Fund's financial condition. All"
+"840","            Liabilities were incurred by the Target Fund in the ordinary course"
+"841","            of its business."
+"842","      F.    MATERIAL AGREEMENTS. The Target Fund is in compliance with all"
+"843","            material agreements, rules, laws, statutes, regulations and"
+"844","            administrative orders affecting its operations or its assets; and"
+"845","            except as referred to in the most recent Prospectus and Statement of"
+"846","            Additional Information of the Target Fund (collectively, the Target
+            Fund Prospectus) there are no material agreements outstanding"
+"847","            relating to the Target Fund to which the Target Fund is a party."
+"848","      G.    STATEMENT OF EARNINGS. As promptly as practicable, but in any case"
+"849","            no later than thirty (30) calendar days after the Closing Date, the"
+"850","            Target Fund shall furnish the Acquiring Fund with a statement of the"
+"851","            earnings and profits of the Target Fund within the meaning of the"
+"852","            Code as of the Closing Date."
+"853","      H.    TAX RETURNS. At the date hereof and on the Closing Date, all federal"
+"854","            and other material tax returns and reports of the Target Fund"
+"855","            required by"
+"856","                                       6"
+"857","<PAGE>"
+"858","            law to have been filed by such dates shall have been filed, and all"
+"859","            federal and other taxes shown thereon shall have been paid so far as"
+"860","            due, or provision shall have been made for the payment thereof, and"
+"861","            to the best of the Target Entity's knowledge no such return is"
+"862","            currently under audit and no assessment has been asserted with"
+"863","            respect to any such return."
+"864","      I.    CORPORATE AUTHORITY. The Target Entity, on behalf of its"
+"865","            corresponding Target Fund, has the necessary power to enter into"
+"866","            this Agreement and to consummate the transactions contemplated"
+"867","            herein. The execution, delivery and performance of this Agreement"
+"868","            and the consummation of the transactions contemplated herein have"
+"869","            been duly authorized by the Target Fund Board, and except for"
+"870","            obtaining approval of the Target Fund shareholders, no other"
+"871","            corporate acts or proceedings by the Target Fund are necessary to"
+"872","            authorize this Agreement and the transactions contemplated herein."
+"873","            This Agreement has been duly executed and delivered by the Target"
+"874","            Fund and constitutes a valid and binding obligation of the Target"
+"875","            Fund enforceable in accordance with its terms, except as such"
+"876","            enforceability may be limited by bankruptcy, insolvency, fraudulent"
+"877","            transfer, reorganization, moratorium or similar laws affecting"
+"878","            creditors' rights generally, or by general principles of equity"
+"879","            (regardless of whether enforcement is sought in a proceeding at"
+"880","            equity or law)."
+"881","      J.    NO VIOLATION; CONSENTS AND APPROVALS. The execution, delivery and"
+"882","            performance of this Agreement by the Target Entity, on behalf of its"
+"883","            corresponding Target Fund, does not and will not (i) result in a"
+"884","            material violation of any provision of the Target Entity's"
+"885","            organizational documents, (ii) violate any statute, law, judgment,"
+"886","            writ, decree, order, regulation or rule of any court or governmental"
+"887","            authority applicable to the Target Entity, (iii) result in a"
+"888","            material violation or breach of, or constitute a default under any"
+"889","            material contract, indenture, mortgage, loan agreement, note, lease"
+"890","            or other instrument or obligation to which the Target Entity is"
+"891","            subject, or (iv) result in the creation or imposition of any lien,"
+"892","            charge or encumbrance upon any property or assets of the Target"
+"893","            Entity. Except as have been obtained, (i) no consent, approval,"
+"894","            authorization, order or filing with or notice to any court or"
+"895","            governmental authority or agency is required for the consummation by"
+"896","            the Target Entity, on behalf of its corresponding Target Fund, of"
+"897","            the transactions contemplated by this Agreement and (ii) no consent"
+"898","            of or notice to any third party or entity is required for the"
+"899","            consummation by the Target Entity, on behalf of its corresponding"
+"900","            Target Fund, of the transactions contemplated by this Agreement."
+"901","      K.    TITLE. On the Closing Date, the Target Fund will have good and"
+"902","            marketable title to the Assets, free and clear of all liens,"
+"903","            mortgages, pledges, encumbrances, charges, claims and equities"
+"904","            whatsoever, other than a lien for taxes not yet due and payable, and"
+"905","            full right, power and authority to sell, assign, transfer and"
+"906","            deliver such Assets; upon delivery of such Assets, the Acquiring"
+"907","            Fund will receive good and marketable title to"
+"908","                                       7"
+"909","<PAGE>"
+"910","            such Assets, free and clear of all liens, mortgages, pledges,"
+"911","            encumbrances, charges, claims and equities whatsoever, other than a"
+"912","            lien for taxes not yet due and payable."
+"913","      L.    PROSPECTUS/PROXY STATEMENT. The Acquiring Entity's Registration"
+"914","            Statement on Form N-14 and the Prospectus/Proxy Statement contained"
+"915","            therein, as of the effective date of such Registration Statement,"
+"916","            and at all times subsequent thereto up to and including the Closing"
+"917","            Date, as amended or as supplemented if it shall have been amended or"
+"918","            supplemented, conform and will conform as they relate to the Target"
+"919","            Fund, in all material respects, to the applicable requirements of"
+"920","            the applicable federal securities laws and the rules and regulations"
+"921","            of the Securities and Exchange Commission (the SEC) thereunder,"
+"922","            and do not and will not include any untrue statement of a material"
+"923","            fact or omit to state any material fact required to be stated"
+"924","            therein or necessary to make the statements therein, in light of the"
+"925","            circumstances under which they were made, not misleading, except"
+"926","            that no representations or warranties in this Section IV.L. apply to"
+"927","            statements or omissions made in reliance upon and in conformity with"
+"928","            written information concerning the Acquiring Fund furnished to the"
+"929","            Target Entity by the Acquiring Fund."
+"930","      M.    TAX QUALIFICATION. The Target Fund has qualified as a regulated"
+"931","            investment company within the meaning of Section 851 of the Code for"
+"932","            each of its taxable years; and has satisfied the distribution"
+"933","            requirements imposed by Section 852 of the Code for each of its"
+"934","            taxable years."
+"935","      N.    FAIR MARKET VALUE. The fair market value on a going concern basis of"
+"936","            the Assets will equal or exceed the Liabilities to be assumed by the"
+"937","            Acquiring Fund and those to which the Assets are subject."
+"938","      O.    TARGET FUND LIABILITIES. Except as otherwise provided for herein,"
+"939","            the Target Fund shall use reasonable efforts, consistent with its"
+"940","            ordinary operating procedures, to repay in full any indebtedness for"
+"941","            borrowed money and to discharge or reserve against all of the Target"
+"942","            Fund's known debts, liabilities and obligations including expenses,"
+"943","            costs and charges whether absolute or contingent, accrued or"
+"944","            unaccrued."
+"945","V.    REPRESENTATIONS AND WARRANTIES OF THE ACQUIRING FUND."
+"946","      The Acquiring Entity, on behalf of the applicable Acquiring Fund, hereby"
+"947","represents and warrants to the corresponding Target Entity and Target Fund,"
+"948","which representations and warranties are true and correct on the date hereof,"
+"949","and agrees with the corresponding Target Entity and Target Fund that:"
+"950","      A.    ORGANIZATION. The Acquiring Fund is duly organized as a series of"
+"951","            the Acquiring Entity, and in good standing under the laws of the"
+"952","            state of its organization and is duly authorized to transact"
+"953","            business in the state of"
+"954","                                       8"
+"955","<PAGE>"
+"956","            its organization. The Acquiring Fund is qualified to do business in"
+"957","            all jurisdictions in which it is required to be so qualified, except"
+"958","            jurisdictions in which the failure to so qualify would not have a"
+"959","            material adverse effect on the Acquiring Fund. The Acquiring Fund"
+"960","            has all material federal, state and local authorizations necessary"
+"961","            to own all of its properties and assets and to carry on its business"
+"962","            and the business thereof as now being conducted, except"
+"963","            authorizations which the failure to so obtain would not have a"
+"964","            material adverse effect on the Acquiring Fund."
+"965","      B.    REGISTRATION. The Acquiring Entity is registered under the 1940 Act"
+"966","            as an open-end management investment company and such registration"
+"967","            has not been revoked or rescinded. The Acquiring Fund is in"
+"968","            compliance in all material respects with the 1940 Act, and the rules"
+"969","            and regulations thereunder with respect to its activities. All of"
+"970","            the outstanding shares of common stock of the Acquiring Fund have"
+"971","            been duly authorized and are validly issued, fully paid and"
+"972","            non-assessable and not subject to pre-emptive or dissenters' rights."
+"973","      C.    FINANCIAL STATEMENTS. The Acquiring Fund is, and will be on the"
+"974","            Closing Date, a newly created series of the Acquiring Entity,"
+"975","            without assets (other than seed capital) or liabilities, formed for"
+"976","            the purpose of receiving the Assets and Liabilities of the Target"
+"977","            Fund in connection with the Reorganization and, accordingly, the"
+"978","            Acquiring Fund has not prepared books of account and related records"
+"979","            or financial statements or issued any shares except those issued in"
+"980","            a private placement to Morgan Stanley Investment Management Inc. or"
+"981","            its affiliate to secure any required initial shareholder approvals;"
+"982","      D.    MATERIAL AGREEMENTS. The Acquiring Fund is in compliance with all"
+"983","            material agreements, rules, laws, statutes, regulations and"
+"984","            administrative orders affecting its operations or its assets; and,"
+"985","            except as referred to in the current Prospectus of the Acquiring"
+"986","            Fund there are no material agreements outstanding relating to the"
+"987","            Acquiring Fund to which the Acquiring Fund is a party."
+"988","      E.    CORPORATE AUTHORITY. The Acquiring Entity, on behalf of its"
+"989","            corresponding Acquiring Fund, has the necessary power to enter into"
+"990","            this Agreement and to consummate the transactions contemplated"
+"991","            herein. The execution, delivery and performance of this Agreement"
+"992","            and the consummation of the transactions contemplated herein have"
+"993","            been duly authorized by the Acquiring Entity Board, no other"
+"994","            corporate acts or proceedings by the Acquiring Fund are necessary to"
+"995","            authorize this Agreement and the transactions contemplated herein."
+"996","            This Agreement has been duly executed and delivered by the Acquiring"
+"997","            Fund and constitutes a valid and binding obligation of the Acquiring"
+"998","            Fund enforceable in accordance with its terms, except as such"
+"999","            enforceability may be limited by bankruptcy, insolvency, fraudulent"
+"1000","            transfer, reorganization, moratorium or"
+"1001","                                       9"
+"1002","<PAGE>"
+"1003","            similar laws affecting creditors' rights generally, or by general"
+"1004","            principals of equity (regardless of whether enforcement is sought in"
+"1005","            a proceeding at equity or law)."
+"1006","      F.    NO VIOLATION; CONSENTS AND APPROVALS. The execution, delivery and"
+"1007","            performance of this Agreement by the Acquiring Entity, on behalf of"
+"1008","            its corresponding Acquiring Fund, does not and will not (i) result"
+"1009","            in a material violation of any provision of the Acquiring Fund's"
+"1010","            organizational documents, (ii) violate any statute, law, judgment,"
+"1011","            writ, decree, order, regulation or rule of any court or governmental"
+"1012","            authority applicable to the Acquiring Fund, (iii) result in a"
+"1013","            material violation or breach of, or constitute a default under any"
+"1014","            material contract, indenture, mortgage, loan agreement, note, lease"
+"1015","            or other instrument or obligation to which the Acquiring Fund is"
+"1016","            subject, or (iv) result in the creation or imposition or any lien,"
+"1017","            charge or encumbrance upon any property or assets of the Acquiring"
+"1018","            Fund. Except as have been obtained, (i) no consent, approval,"
+"1019","            authorization, order or filing with or notice to any court or"
+"1020","            governmental authority or agency is required for the consummation by"
+"1021","            the Acquiring Entity, on behalf of its corresponding Acquiring Fund,"
+"1022","            of the transactions contemplated by this Agreement and (ii) no"
+"1023","            consent of or notice to any third party or entity is required for"
+"1024","            the consummation by the Acquiring Entity, on behalf of its"
+"1025","            corresponding Acquiring Fund, of the transactions contemplated by"
+"1026","            this Agreement."
+"1027","      G.    ABSENCE OF PROCEEDINGS. There are no legal, administrative or other"
+"1028","            proceedings pending or, to its knowledge, threatened against the"
+"1029","            Acquiring Fund which would materially affect its financial"
+"1030","            condition."
+"1031","      H.    ACQUIRING FUND SHARES: REGISTRATION. The Acquiring Fund Shares to be"
+"1032","            issued pursuant to Section I hereof will be duly registered under"
+"1033","            the Securities Act of 1933, as amended (the Securities Act), and"
+"1034","            all applicable state securities laws."
+"1035","      I.    ACQUIRING FUND SHARES: AUTHORIZATION. The Acquiring Fund Shares to"
+"1036","            be issued pursuant to Section I hereof have been duly authorized"
+"1037","            and, when issued in accordance with this Agreement, will be validly"
+"1038","            issued, fully paid and non-assessable, will not be subject to"
+"1039","            pre-emptive or dissenters' rights and will conform in all material"
+"1040","            respects to the description thereof contained in the Acquiring"
+"1041","            Fund's Prospectus furnished to the Target Fund."
+"1042","      J.    REGISTRATION STATEMENT. The Acquiring Entity's Registration"
+"1043","            Statement on Form N-14 and the Prospectus/Proxy Statement contained"
+"1044","            therein as of the effective date of such Registration Statement, and"
+"1045","            at all times subsequent thereto up to and including the Closing"
+"1046","            Date, as amended or as supplemented if they shall have been amended"
+"1047","            or supplemented, conforms and will conform, as they relate to the"
+"1048","            Acquiring"
+"1049","                                       10"
+"1050","<PAGE>"
+"1051","            Fund, in all material respects, to the applicable requirements of"
+"1052","            the applicable federal securities laws and the rules and regulations"
+"1053","            of the SEC thereunder, and do not and will not include any untrue"
+"1054","            statement of a material fact or omit to state any material fact"
+"1055","            required to be stated therein or necessary to make the statements"
+"1056","            therein, in light of the circumstances under which they were made,"
+"1057","            not misleading, except that no representations or warranties in this"
+"1058","            Section V apply to statements or omissions made in reliance upon and"
+"1059","            in conformity with written information concerning the Target Fund"
+"1060","            furnished to the Acquiring Entity by the Target Fund."
+"1061","      K.    TAX QUALIFICATION. The Acquiring Fund was formed for the purpose of"
+"1062","            the respective Reorganization and intends to elect to be a regulated"
+"1063","            investment company within the meaning of Section 851 of the Code."
+"1064","            The Acquiring Fund will satisfy the requirements of Part I of"
+"1065","            Subchapter M of the Code to maintain qualification as a regulated"
+"1066","            investment company for its current taxable year. The Acquiring Fund"
+"1067","            has no earnings or profits accumulated in any taxable year in which"
+"1068","            the provisions of Subchapter M of the Code did not apply to it."
+"1069","VI.   COVENANTS."
+"1070","      During the period from the date of this Agreement and continuing until the"
+"1071","Closing Date, with respect to each Reorganization, the Target Entity, on behalf"
+"1072","of its corresponding Target Fund, and Acquiring Entity, on behalf of its"
+"1073","corresponding Acquiring Fund, agree as follows (except as expressly contemplated"
+"1074","or permitted by this Agreement):"
+"1075","      A.    OTHER ACTIONS. The Target Fund and Acquiring Fund shall operate only"
+"1076","            in the ordinary course of business consistent with prior practice."
+"1077","            No party shall take any action that would, or reasonably would be"
+"1078","            expected to, result in any of its representations and warranties set"
+"1079","            forth in this Agreement being or becoming untrue in any material"
+"1080","            respect."
+"1081","      B.    GOVERNMENT FILINGS; CONSENTS. The Target Fund and Acquiring Fund"
+"1082","            shall file all reports required to be filed by the Target Fund and"
+"1083","            Acquiring Fund with the SEC between the date of this Agreement and"
+"1084","            the Closing Date and shall deliver to the other party copies of all"
+"1085","            such reports promptly after the same are filed. Except where"
+"1086","            prohibited by applicable statutes and regulations, each party shall"
+"1087","            promptly provide the other (or its counsel) with copies of all other"
+"1088","            filings made by such party with any state, local or federal"
+"1089","            government agency or entity in connection with this Agreement or the"
+"1090","            transactions contemplated hereby. Each of the Target Fund and the"
+"1091","            Acquiring Fund shall use all reasonable efforts to obtain all"
+"1092","            consents, approvals and authorizations required in connection with"
+"1093","            the"
+"1094","                                       11"
+"1095","<PAGE>"
+"1096","            consummation of the transactions contemplated by this Agreement and"
+"1097","            to make all necessary filings with the appropriate federal and state"
+"1098","            officials."
+"1099","      C.    PREPARATION OF THE REGISTRATION STATEMENT ON FORM N-14 AND THE"
+"1100","            PROSPECTUS/PROXY STATEMENT. In connection with the Registration"
+"1101","            Statement on Form N-14 and the Prospectus/Proxy Statement, each"
+"1102","            party hereto will cooperate with the other and furnish to the other"
+"1103","            the information relating to the Target Fund or Acquiring Fund, as"
+"1104","            the case may be, required by the Securities Act or the Securities"
+"1105","            Exchange Act of 1934 and the rules and regulations thereunder, as"
+"1106","            the case may be, to be set forth in such Registration Statement on"
+"1107","            Form N-14 or the Prospectus/Proxy Statement, as the case may be. The"
+"1108","            Target Entity shall promptly prepare for filing with the SEC the"
+"1109","            Prospectus/Proxy Statement and the Acquiring Entity shall promptly"
+"1110","            prepare and file with the SEC the Registration Statement, in which"
+"1111","            the Prospectus/Proxy Statement will be included as a prospectus. In"
+"1112","            connection with the Registration Statement, insofar as it relates to"
+"1113","            the Target Fund and its affiliated persons, the Acquiring Entity"
+"1114","            shall only include such information as is approved by the Target"
+"1115","            Entity for use in the Registration Statement. The Acquiring Entity"
+"1116","            shall not amend or supplement any such information regarding the"
+"1117","            Target Fund and such affiliates without the prior written consent of"
+"1118","            the Target Fund which consent shall not be unreasonably withheld or"
+"1119","            delayed. The Acquiring Entity shall promptly notify and provide the"
+"1120","            Target Fund with copies of all amendments or supplements filed with"
+"1121","            respect to the Registration Statement. The Acquiring Entity shall"
+"1122","            use all reasonable efforts to have the Registration Statement"
+"1123","            declared effective under the Securities Act as promptly as"
+"1124","            practicable after such filing. The Acquiring Entity shall also take"
+"1125","            any action (other than qualifying to do business in any jurisdiction"
+"1126","            in which it is now not so qualified) required to be taken under any"
+"1127","            applicable state securities laws in connection with the issuance of"
+"1128","            the Acquiring Fund Shares in the transactions contemplated by this"
+"1129","            Agreement, and the Target Entity shall furnish all information"
+"1130","            concerning the Target Fund and the holders of the Target Fund's"
+"1131","            shares as may be reasonably requested in connection with any such"
+"1132","            action."
+"1133","      D.    ACCESS TO INFORMATION. During the period prior to the Closing Date,"
+"1134","            the Target Fund shall make available to the Acquiring Fund a copy of"
+"1135","            each report, schedule, registration statement and other document"
+"1136","            (the Documents) filed or received by it during such period"
+"1137","            pursuant to the requirements of federal or state securities laws or"
+"1138","            federal or state banking laws (other than Documents which such party"
+"1139","            is not permitted to disclose under applicable law). During the"
+"1140","            period prior to the Closing Date, the Acquiring Fund shall make"
+"1141","            available to the Target Fund each Document pertaining to the"
+"1142","            transactions contemplated hereby filed or received by it during such"
+"1143","            period pursuant to federal or state securities laws or federal or"
+"1144","            state banking laws (other than Documents which such party is not"
+"1145","            permitted to disclose under applicable law)."
+"1146","                                       12"
+"1147","<PAGE>"
+"1148","      E.    SHAREHOLDERS MEETING. The Target Entity shall call a meeting of the"
+"1149","            Target Fund shareholders to be held as promptly as practicable for"
+"1150","            the purpose of voting upon the approval of this Agreement and the"
+"1151","            transactions contemplated herein, and shall furnish a copy of the"
+"1152","            Prospectus/Proxy Statement and form of proxy to each shareholder of"
+"1153","            the Target Fund as of the record date for such meeting. The Target"
+"1154","            Entity Board shall recommend to the Target Fund shareholders"
+"1155","            approval of this Agreement and the transactions contemplated herein,"
+"1156","            subject to fiduciary obligations under applicable law."
+"1157","      F.    COORDINATION OF PORTFOLIOS. The Target Fund and Acquiring Fund"
+"1158","            covenant and agree to coordinate the respective portfolios of the"
+"1159","            Target Fund and Acquiring Fund from the date of the Agreement up to"
+"1160","            and including the Closing Date in order that at Closing, when the"
+"1161","            Assets are added to the Acquiring Fund's portfolio, the resulting"
+"1162","            portfolio will meet the Acquiring Fund's investment objective,"
+"1163","            policies and restrictions, as set forth in the Acquiring Fund's"
+"1164","            Prospectus, a copy of which has been delivered to the Target Fund."
+"1165","      G.    DISTRIBUTION OF THE SHARES. At closing the Target Fund covenants"
+"1166","            that it shall cause to be distributed the Acquiring Fund Shares in"
+"1167","            the proper pro rata amount for the benefit of Target Fund's"
+"1168","            shareholders and such that the Target Fund shall not continue to"
+"1169","            hold amounts of said shares so as to cause a violation of Section"
+"1170","            12(d)(1) of the 1940 Act. The Target Fund covenants further that,"
+"1171","            pursuant to Section III.G., it shall liquidate and dissolve as"
+"1172","            promptly as practicable after the Closing Date. The Target Fund"
+"1173","            covenants to use all reasonable efforts to cooperate with the"
+"1174","            Acquiring Fund and the Acquiring Fund's transfer agent in the"
+"1175","            distribution of said shares."
+"1176","      H.    BROKERS OR FINDERS. Except as disclosed in writing to the other"
+"1177","            party prior to the date hereof, each of the Target Fund and the"
+"1178","            Acquiring Fund represents that no agent, broker, investment banker,"
+"1179","            financial advisor or other firm or person is or will be entitled to"
+"1180","            any broker's or finder's fee or any other commission or similar fee"
+"1181","            in connection with any of the transactions contemplated by this"
+"1182","            Agreement, and each party shall hold the other harmless from and"
+"1183","            against any and all claims, liabilities or obligations with respect"
+"1184","            to any such fees, commissions or expenses asserted by any person to"
+"1185","            be due or payable in connection with any of the transactions"
+"1186","            contemplated by this Agreement on the basis of any act or statement"
+"1187","            alleged to have been made by such first party or its affiliate."
+"1188","      I.    ADDITIONAL AGREEMENT. In case at any time after the Closing Date any"
+"1189","            further action is necessary or desirable in order to carry out the"
+"1190","            purposes of this Agreement, the proper directors, trustees and"
+"1191","            officers of each party to this Agreement shall take all such"
+"1192","            necessary action."
+"1193","                                       13"
+"1194","<PAGE>"
+"1195","      J.    PUBLIC ANNOUNCEMENTS. For a period of time from the date of this"
+"1196","            Agreement to the Closing Date, the Target Fund and the Acquiring"
+"1197","            Fund will consult with each other before issuing any press releases"
+"1198","            or otherwise making any public statements with respect to this"
+"1199","            Agreement or the transactions contemplated herein and shall not"
+"1200","            issue any press release or make any public statement prior to such"
+"1201","            consultation, except as may be required by law."
+"1202","      K.    TAX STATUS OF REORGANIZATION. The intention of the parties is that"
+"1203","            the transaction will qualify as a reorganization within the meaning"
+"1204","            of Section 368(a) of the Code. Neither the Acquiring Fund nor the"
+"1205","            Target Fund shall take any action, or cause any action to be taken"
+"1206","            (including, without limitation, the filing of any tax return) that"
+"1207","            is inconsistent with such treatment or results in the failure of the"
+"1208","            transaction to qualify as a reorganization within the meaning of"
+"1209","            Section 368(a)(1)(F) of the Code. At or prior to the Closing Date,"
+"1210","            the Acquiring Fund and the Target Fund will take such action, or"
+"1211","            cause such action to be taken, as is reasonably necessary to enable"
+"1212","            Dechert LLP, counsel to the Acquiring Entity, to render the tax"
+"1213","            opinion required herein."
+"1214","VII.  CONDITIONS TO OBLIGATIONS OF THE TARGET FUND."
+"1215","      The obligations of the Target Entity, on behalf of the Target Fund,"
+"1216","hereunder with respect to the consummation of each Reorganization are subject to"
+"1217","the satisfaction of the following conditions, unless waived in writing by the"
+"1218","Target Entity, on behalf of the Target Fund:"
+"1219","      A.    SHAREHOLDER APPROVAL. With respect to Van Kampen Core Growth Fund"
+"1220","            and Van Kampen Global Growth Fund, this Agreement and the"
+"1221","            transactions contemplated herein shall have been approved by the"
+"1222","            affirmative vote of the holders of a majority of the outstanding"
+"1223","            shares of the Target Fund. With respect to Van Kampen Equity Growth"
+"1224","            Fund, this Agreement and the transactions contemplated herein shall"
+"1225","            have been approved by the affirmative vote of the lesser of: (1)"
+"1226","            more than 50% of the outstanding common shares of the Fund, or (2)"
+"1227","            67% or more of the common shares of the Fund represented at the"
+"1228","            shareholder meeting if the holders of more than 50% of the"
+"1229","            outstanding common shares of the Fund are present or represented by"
+"1230","            proxy."
+"1231","      B.    REPRESENTATIONS, WARRANTIES AND AGREEMENTS. Each of the"
+"1232","            representations and warranties of the Acquiring Fund and the"
+"1233","            Acquiring Entity contained herein shall be true in all material"
+"1234","            respects as of the Closing Date, there shall have been no material"
+"1235","            adverse change in the financial condition, results of operations,"
+"1236","            business properties or assets of the Acquiring Fund as of the"
+"1237","            Closing Date, and the Target Fund shall have received a certificate"
+"1238","            of an authorized officer of the Acquiring Entity"
+"1239","                                       14"
+"1240","<PAGE>"
+"1241","            satisfactory in form and substance to the Target Fund so stating."
+"1242","            The Acquiring Entity and the Acquiring Fund shall have performed and"
+"1243","            complied in all material respects with all agreements, obligations"
+"1244","            and covenants required by this Agreement to be so performed or"
+"1245","            complied with by it on or prior to the Closing Date."
+"1246","      C.    REGISTRATION STATEMENT EFFECTIVE. The Acquiring Entity's"
+"1247","            Registration Statement on Form N-14 shall have become effective and"
+"1248","            no stop orders under the Securities Act pertaining thereto shall"
+"1249","            have been issued."
+"1250","      D.    CLASS R SHARES REDEMPTION. All Class R Shares of each Acquired Fund,"
+"1251","            as applicable, shall have been redeemed."
+"1252","      E.    REGULATORY APPROVAL. All necessary approvals, registrations, and"
+"1253","            exemptions under federal and state securities laws shall have been"
+"1254","            obtained."
+"1255","      F.    ABSENCE OF CHANGES. As of the Closing Date, there shall have been no"
+"1256","            change in the business, results of operations, assets or financial"
+"1257","            condition or the manner of conducting the business of the Acquiring"
+"1258","            Fund, other than changes in the ordinary course of its business,"
+"1259","            which has had a material adverse effect on such business, results of"
+"1260","            operations, assets, financial condition or manner of conducting"
+"1261","            business."
+"1262","      G.    NO INJUNCTIONS OR RESTRAINTS; ILLEGALITY. No temporary restraining"
+"1263","            order, preliminary or permanent injunction or other order issued by"
+"1264","            any court of competent jurisdiction or other legal restraint or"
+"1265","            prohibition (an Injunction) preventing the consummation of the"
+"1266","            transactions contemplated by this Agreement shall be in effect, nor"
+"1267","            shall any proceeding by any state, local or federal government"
+"1268","            agency or entity seeking any of the foregoing be pending. There"
+"1269","            shall not have been any action taken or any statute, rule,"
+"1270","            regulation or order enacted, entered, enforced or deemed applicable"
+"1271","            to the transactions contemplated by this Agreement, which makes the"
+"1272","            consummation of the transactions contemplated by this Agreement"
+"1273","            illegal or which has a material adverse effect on business"
+"1274","            operations of the Acquiring Fund."
+"1275","      H.    TAX OPINION. The Target Entity shall have obtained an opinion from"
+"1276","            Dechert LLP, counsel for the Acquiring Entity, dated as of the"
+"1277","            Closing Date, addressed to the Target Entity, that absent a change"
+"1278","            of law or change of fact between the date of this Agreement and the"
+"1279","            Closing, the consummation of the transactions set forth in this"
+"1280","            Agreement comply with the requirements of a reorganization as"
+"1281","            described in Section 368(a)(1)(F) of the Code. In rendering such"
+"1282","            opinion, Dechert LLP may request and rely upon representations"
+"1283","            contained in certificates of officers of the Target"
+"1284","                                       15"
+"1285","<PAGE>"
+"1286","            Entity and others, and the officers of the Target Entity shall use"
+"1287","            their best efforts to make available such truthful certificates."
+"1288","      I.    OPINION OF COUNSEL."
+"1289","            1.    The Target Entity shall have received the opinion of Dechert"
+"1290","                  LLP, counsel for the Acquiring Entity, dated as of the Closing"
+"1291","                  Date, addressed to the Target Entity substantially in the form"
+"1292","                  and to the effect that:"
+"1293","                  (a)   The Acquiring Entity is registered as an open-end,"
+"1294","                        management investment company under the 1940 Act."
+"1295","                  (b)   The Agreement constitutes the valid and binding"
+"1296","                        obligation of the Acquiring Entity on behalf of the"
+"1297","                        Acquiring Fund, enforceable against it in accordance"
+"1298","                        with its terms."
+"1299","                  (c)   Neither the execution, delivery or performance by the"
+"1300","                        Acquiring Entity, on behalf of the Acquiring Fund, of"
+"1301","                        the Agreement nor the compliance by the Acquiring"
+"1302","                        Entity, on behalf of the Acquiring Fund, with the terms"
+"1303","                        and provisions thereof will contravene any provision of"
+"1304","                        any applicable law of the United States of America."
+"1305","                  (d)   No approval by any court, regulatory body,"
+"1306","                        administrative agency or governmental body of the United"
+"1307","                        States of America, which has not been obtained or taken"
+"1308","                        and is not in full force and effect, is required to"
+"1309","                        authorize, or is required in connection with, the"
+"1310","                        execution or delivery of the Agreement by the Acquiring"
+"1311","                        Entity, on behalf of the Acquiring Fund, or the"
+"1312","                        consummation by the Acquiring Entity, on behalf of the"
+"1313","                        Acquiring Fund, of the transactions contemplated"
+"1314","                        thereby."
+"1315","            2.    In addition, the Target Fund shall have received the opinion"
+"1316","                  of Ballard Spahr LLP, Maryland counsel for the Acquiring"
+"1317","                  Entity, dated as of the Closing Date, addressed to the Target"
+"1318","                  Fund substantially in the form and to the effect that:"
+"1319","                  (a)   The Acquiring Fund is duly incorporated and validly"
+"1320","                        existing as a corporation in good standing under the"
+"1321","                        laws of the State of Maryland."
+"1322","                  (b)   The Acquiring Fund has the requisite corporate power and"
+"1323","                        authority under the Maryland General Corporation Law and"
+"1324","                        its charter and bylaws, to own its properties and assets"
+"1325","                        and to conduct its business as described in its charter"
+"1326","                        and to enter into and perform its obligations under the"
+"1327","                        Agreement."
+"1328","                                       16"
+"1329","<PAGE>"
+"1330","                  (c)   The execution and delivery of the Agreement by the"
+"1331","                        Acquiring Fund have been duly authorized by all"
+"1332","                        necessary corporate action on the part of the Acquiring"
+"1333","                        Fund under its charter and bylaws and the Maryland"
+"1334","                        General Corporation Law, and the Agreement has been duly"
+"1335","                        executed and, to the knowledge of such counsel,"
+"1336","                        delivered by the Acquiring Fund."
+"1337","                  (d)   The execution and delivery of the Agreement by the"
+"1338","                        Acquiring Fund, and the consummation of the transactions"
+"1339","                        contemplated thereby, do not and will not result in any"
+"1340","                        violation of the provisions of the charter or bylaws of"
+"1341","                        the Acquiring Fund or the Maryland General Corporation"
+"1342","                        Law."
+"1343","                  (e)   No approval of any court, regulatory body,"
+"1344","                        administrative agency or governmental body of the State"
+"1345","                        of Maryland is required to be obtained by the Acquiring"
+"1346","                        Fund under the Maryland General Corporation Law in"
+"1347","                        connection with the execution, delivery and performance"
+"1348","                        of the Agreement by the Acquiring Fund, except for such"
+"1349","                        as have been obtained."
+"1350","                  (f)   The issuance of the Acquiring Fund Shares has been duly"
+"1351","                        authorized by all necessary corporate action on the part"
+"1352","                        of the Acquiring Fund, and when such Acquiring Fund"
+"1353","                        Shares are issued and delivered by the Acquiring Fund as"
+"1354","                        contemplated by the Agreement in exchange for the"
+"1355","                        consideration therefor described in the Agreement, such"
+"1356","                        Acquiring Fund Shares will be validly issued, fully paid"
+"1357","                        and non-assessable, and the issuance of the Acquiring"
+"1358","                        Fund Shares by the Acquiring Fund will not be subject to"
+"1359","                        any pre-emptive or similar rights arising under the"
+"1360","                        charter or bylaws of the Acquiring Fund or under the"
+"1361","                        Maryland General Corporation Law."
+"1362","      J.    OFFICER CERTIFICATES. The Target Fund shall have received a"
+"1363","            certificate of an authorized officer of the Acquiring Entity, dated"
+"1364","            as of the Closing Date, certifying that the representations and"
+"1365","            warranties set forth in Section V are true and correct on the"
+"1366","            Closing Date, together with certified copies of the resolutions"
+"1367","            adopted by the Acquiring Entity Board."
+"1368","VIII. CONDITIONS TO OBLIGATIONS OF ACQUIRING FUND."
+"1369","      The obligations of the Acquiring Entity, on behalf of the Acquiring Fund,"
+"1370","hereunder with respect to the consummation of the Reorganization are subject to"
+"1371","the satisfaction of the following conditions, unless waived in writing by the"
+"1372","Acquiring Entity, on behalf of the Acquiring Fund:"
+"1373","                                       17"
+"1374","<PAGE>"
+"1375","      A.    REPRESENTATIONS, WARRANTIES AND AGREEMENTS. Each of the"
+"1376","            representations and warranties of the Target Entity and the Target"
+"1377","            Fund contained herein shall be true in all material respects as of"
+"1378","            the Closing Date, there shall have been no material adverse change"
+"1379","            in the financial condition, results of operations, business,"
+"1380","            properties or assets of the Target Fund as of the Closing Date, and"
+"1381","            the Acquiring Fund shall have received a certificate of an"
+"1382","            authorized officer of the Target Entity satisfactory in form and"
+"1383","            substance to the Acquiring Fund so stating. The Target Fund shall"
+"1384","            have performed and complied in all material respects with all"
+"1385","            agreements, obligations and covenants required by this Agreement to"
+"1386","            be so performed or complied with by them on or prior to the Closing"
+"1387","            Date."
+"1388","      B.    REGISTRATION STATEMENT EFFECTIVE. The Acquiring Entity's"
+"1389","            Registration Statement on Form N-14 shall have become effective and"
+"1390","            no stop orders under the Securities Act pertaining thereto shall"
+"1391","            have been issued."
+"1392","      C.    REGULATORY APPROVAL. All necessary approvals, registrations, and"
+"1393","            exemptions under federal and state securities laws shall have been"
+"1394","            obtained."
+"1395","      D.    ABSENCE OF CHANGES. As of the Closing Date, there shall not have"
+"1396","            been:"
+"1397","            1.    any change in the business, results of operations, assets, or"
+"1398","                  financial condition or the manner of conducting the business"
+"1399","                  of the Target Fund, other than changes in the ordinary course"
+"1400","                  of its business, or any pending or threatened litigation,"
+"1401","                  which has had or may have a material adverse effect on such"
+"1402","                  business, results of operations, assets, financial condition"
+"1403","                  or manner of conducting business;"
+"1404","            2.    issued by the Target Fund any option to purchase or other"
+"1405","                  right to acquire shares of the Target Fund to any person other"
+"1406","                  than subscriptions to purchase shares at net asset value in"
+"1407","                  accordance with terms in the Target Fund Prospectus;"
+"1408","            3.    any entering into, amendment or termination of any contract or"
+"1409","                  agreement by the Target Fund, except as otherwise contemplated"
+"1410","                  by this Agreement (and except with respect to the deferred"
+"1411","                  compensation plan and the retirement plan applicable to the"
+"1412","                  Target Entity Board);"
+"1413","            4.    any indebtedness incurred, other than in the ordinary course"
+"1414","                  of business, by the Target Fund for borrowed money or any"
+"1415","                  commitment to borrow money entered into by the Target Fund;"
+"1416","                                       18"
+"1417","<PAGE>"
+"1418","            5.    any amendment of the Target Fund's organizational documents;"
+"1419","                  or"
+"1420","            6.    any grant or imposition of any lien, claim, charge or"
+"1421","                  encumbrance (other than encumbrances arising in the ordinary"
+"1422","                  course of business with respect to covered options) upon any"
+"1423","                  asset of the Target Fund other than a lien for taxes not yet"
+"1424","                  due and payable."
+"1425","      E.    NO INJUNCTIONS OR RESTRAINTS: ILLEGALITY. No Injunction preventing"
+"1426","            the consummation of the transactions contemplated by this Agreement"
+"1427","            shall be in effect, nor shall any proceeding by any state, local or"
+"1428","            federal government agency or entity seeking any of the foregoing be"
+"1429","            pending. There shall not have been any action taken, or any statute,"
+"1430","            rule, regulation or order enacted, entered, enforced or deemed"
+"1431","            applicable to the transactions contemplated by this Agreement, which"
+"1432","            makes the consummation of the transactions contemplated by this"
+"1433","            Agreement illegal."
+"1434","      F.    TAX OPINION. The Acquiring Entity shall have obtained an opinion"
+"1435","            from Dechert LLP, counsel for the Acquiring Entity, dated as of the"
+"1436","            Closing Date, addressed to the Acquiring Entity, that absent a"
+"1437","            change of law or a change in fact between the date of this Agreement"
+"1438","            and the Closing, the consummation of the transactions set forth in"
+"1439","            this Agreement comply with the requirements of a reorganization as"
+"1440","            described in Section 368(a)(1)(F) of the Code. In rendering such"
+"1441","            opinion, Dechert LLP may request and rely upon representations"
+"1442","            contained in certificates of officers of the Acquiring Entity and"
+"1443","            others, and the officers of the Acquiring Entity shall use their"
+"1444","            best efforts to make available such truthful certificates."
+"1445","      G.    OPINION OF COUNSEL."
+"1446","            1.    The Acquiring Entity shall have received the opinion of"
+"1447","                  Skadden, Arps, Slate, Meagher & Flom LLP (Skadden) counsel
+                  for each Target Entity, dated as of the Closing Date,
+                  addressed to the Acquiring Entity, substantially in the form
+                  and to the effect that:
+
+                  (a)   The Target Entity is registered as an open-end,
+                        management investment company under the 1940 Act.
+
+                  (b)   Neither the execution, delivery or performance by the
+                        Target Entity, on behalf of the Target Fund, of the
+                        Agreement nor the compliance by the Target Entity, on
+                        behalf of the Target Fund, with the terms and provisions
+                        thereof will contravene any provision of any applicable
+                        law of the United States of America.
+
+                  (c)   No approval by any court, regulatory body,
+                        administrative agency or governmental body of the United
+                        States of America, which has not been obtained or taken
+                        and is not in full force and effect, is required to
+                        authorize, or is required
+
+                                       19
+<PAGE>
+
+                        in connection with, the execution or delivery of the
+                        Agreement by the Target Entity, on behalf of the Target
+                        Fund, or the enforceability of the Agreement against the
+                        Target Entity, on behalf of the Target Fund, in
+                        connection with the opinion.
+
+            2.    The Acquiring Fund shall have received the opinion of Skadden,
+                  Delaware counsel for Van Kampen Equity Trust II, on behalf of
+                  Van Kampen Core Growth Fund, and Van Kampen Equity Trust, on
+                  behalf of Van Kampen Global Growth Fund, dated as of the
+                  Closing Date, addressed to the Acquiring Fund substantially in
+                  the form and to the effect that:
+
+                  (a)   The Target Fund is a statutory trust validly existing
+                        and in good standing under the laws of the State of
+                        Delaware.
+
+                  (b)   The Target Fund has the statutory trust power and
+                        authority to execute, deliver and perform its
+                        obligations under the Agreement and the applicable laws
+                        of the State of Delaware.
+
+                  (c)   The Agreement constitutes the valid and binding
+                        obligation of the Target Entity, on behalf of the Target
+                        Fund, enforceable against the Target Entity in
+                        accordance with its terms under the applicable laws of
+                        the State of Delaware.
+
+                  (d)   The execution and delivery of the Agreement and the
+                        consummation by the Target Fund of the transactions
+                        contemplated thereby have been duly authorized by all
+                        requisite statutory trust action on the part of the
+                        Target Fund under the applicable laws of the State of
+                        Delaware. The Agreement has been duly executed and, to
+                        the knowledge of such counsel, delivered by the Target
+                        Fund under the applicable laws of the State of Delaware.
+
+            3.    In addition, the Acquiring Entity shall have received the
+                  opinion of Ballard Spahr LLP, Maryland counsel for Van Kampen
+                  Series Fund, Inc., on behalf of Van Kampen Equity Growth Fund,
+                  dated as of the Closing Date, addressed to the Acquiring Fund
+                  substantially in the form and to the effect that:
+
+                  (a)   The Target Fund is duly incorporated and validly
+                        existing as a corporation in good standing under the
+                        laws of the State of Maryland.
+
+                  (b)   The Target Fund has the requisite corporate power and
+                        authority under the Maryland General Corporation Law and
+                        its charter and bylaws, to own its properties and assets
+                        and
+
+                                       20
+<PAGE>
+
+                        to conduct its business as described in its charter and
+                        to enter into and perform its obligations under the
+                        Agreement.
+
+                  (c)   The execution and delivery of the Agreement by the
+                        Target Fund have been duly authorized by all necessary
+                        corporate action on the part of the Target Fund under
+                        its charter and bylaws and the Maryland General
+                        Corporation Law, and the Agreement has been duly
+                        executed and, to the knowledge of such counsel,
+                        delivered by the Target Fund.
+
+                  (d)   The Agreement constitutes the valid and binding
+                        obligation of the Target Entity, on behalf of the Target
+                        Fund, enforceable against the Target Entity in
+                        accordance with its terms under the applicable laws of
+                        the State of Maryland.
+
+                  (e)   The execution and delivery of the Agreement by the
+                        Target Fund, and the consummation of the transactions
+                        contemplated thereby, do not and will not result in any
+                        violation of the provisions of the charter or bylaws of
+                        the Target Fund or the Maryland General Corporation Law.
+
+                  (f)   No approval of any court, regulatory body,
+                        administrative agency or governmental body of the State
+                        of Maryland is required to be obtained by the Target
+                        Fund under the Maryland General Corporation Law in
+                        connection with the execution, delivery and performance
+                        of the Agreement by the Target Fund, except for such as
+                        have been obtained.
+
+      H.    SHAREHOLDER LIST. The Target Entity, on behalf of the Target Fund,
+            shall have delivered to the Acquiring Fund an updated list of all
+            shareholders of the Target Fund, as reported by the Target Fund's
+            transfer agent, as of one (1) business day prior to the Closing Date
+            with each shareholder's respective holdings in the Target Fund,
+            taxpayer identification numbers, Form W9 and last known address.
+
+      I.    OFFICER CERTIFICATES. The Acquiring Fund shall have received a
+            certificate of an authorized officer of the Target Entity, dated as
+            of the Closing Date, certifying that the representations and
+            warranties set forth in Section IV are true and correct on the
+            Closing Date, together with certified copies of the resolutions
+            adopted by the Target Entity Board and Target Fund shareholders.
+
+IX.   AMENDMENT, WAIVER AND TERMINATION.
+
+      A.    The parties hereto may, by agreement in writing authorized by their
+            respective Boards, amend this Agreement at any time before or after
+            approval thereof by the shareholders of the Target Fund; provided,
+
+                                       21
+<PAGE>
+
+            however, that after receipt of Target Fund shareholder approval, no
+            amendment shall be made by the parties hereto which substantially
+            changes the terms of Sections I, II and III hereof without obtaining
+            Target Fund's shareholder approval thereof.
+
+      B.    At any time prior to the Closing Date, either of the parties may by
+            written instrument signed by it (i) waive any inaccuracies in the
+            representations and warranties made to it contained herein and (ii)
+            waive compliance with any of the covenants or conditions made for
+            its benefit contained herein. No delay on the part of either party
+            in exercising any right, power or privilege hereunder shall operate
+            as a waiver thereof, nor shall any waiver on the part of any party
+            of any such right, power or privilege, or any single or partial
+            exercise of any such right, power or privilege, preclude any further
+            exercise thereof or the exercise of any other such right, power or
+            privilege.
+
+      C.    This Agreement may be terminated, and the transactions contemplated
+            herein may be abandoned with respect to one or more (or all)
+            Reorganizations at any time prior to the Closing Date:
+
+            1.    by the consent of the Target Entity Board and the Acquiring
+                  Entity Board;
+
+            2.    by the Target Fund, if the Acquiring Fund breaches in any
+                  material respect any of its representations, warranties,
+                  covenants or agreements contained in this Agreement;
+
+            3.    by the Acquiring Fund, if the Target Fund breaches in any
+                  material respect any of its representations, warranties,
+                  covenants or agreements contained in this Agreement;
+
+            4.    by either the Target Fund or the Acquiring Fund, if the
+                  Closing has not occurred on or prior to December 31, 2010
+                  (provided that the rights to terminate this Agreement pursuant
+                  to this subsection C.(4) shall not be available to any party
+                  whose failure to fulfill any of its obligations under this
+                  Agreement has been the cause of or resulted in the failure of
+                  the closing to occur on or before such date);
+
+            5.    by the Acquiring Fund in the event that: (a) all the
+                  conditions precedent to the Target Fund's obligation to close,
+                  as set forth in Section VII of this Agreement, have been fully
+                  satisfied (or can be fully satisfied at the Closing); (b) the
+                  Acquiring Fund gives the Target Fund written assurance of its
+                  intent to close irrespective of the satisfaction or
+                  nonsatisfaction of all conditions precedent to the Acquiring
+                  Fund's obligation to close, as set forth in Section VIII of
+                  this Agreement; and (c) the Target Fund then fails or refuses
+                  to
+
+                                       22
+<PAGE>
+
+                  close within the earlier of five (5) business days or
+                  December 31, 2010; or
+
+            6.    by the Target Fund in the event that: (a) all the conditions
+                  precedent to the Acquiring Fund's obligation to close, as set
+                  forth in Section VIII of this Agreement, have been fully
+                  satisfied (or can be fully satisfied at the Closing); (b) the
+                  Target Fund gives the Acquiring Fund written assurance of its
+                  intent to close irrespective of the satisfaction or
+                  nonsatisfaction of all the conditions precedent to the Target
+                  Fund's obligation to close, as set forth in Section VII of
+                  this Agreement; and (c) the Acquiring Fund then fails or
+                  refuses to close within the earlier of five (5) business days
+                  or December 31, 2010.
+
+X.    REMEDIES.
+
+      In the event of termination of this Agreement by either or both of the
+Target Fund and Acquiring Fund pursuant to Section IX.C., written notice thereof
+shall forthwith be given by the terminating party to the other party hereto, and
+this Agreement shall therefore terminate and become void and have no effect, and
+the transactions contemplated herein and thereby shall be abandoned, without
+further action by the parties hereto.
+
+XI.   SURVIVAL OF WARRANTIES AND INDEMNIFICATION.
+
+      A.    SURVIVAL. The representations and warranties included or provided
+            for herein, or in the schedules or other instruments delivered or to
+            be delivered pursuant hereto, shall survive the Closing Date for a
+            three (3) year period except that any representation or warranty
+            with respect to taxes shall survive for the expiration of the
+            statutory period of limitations for assessments of tax deficiencies
+            as the same may be extended from time to time by the taxpayer. The
+            covenants and agreements included or provided for herein shall
+            survive and be continuing obligations in accordance with their
+            terms. The period for which a representation, warranty, covenant or
+            agreement survives shall be referred to hereinafter as the Survival"
+"1448","            Period. Notwithstanding anything set forth in the immediately
+            preceding sentence, the right of the Acquiring Fund and the Target
+            Fund to seek indemnity pursuant to this Agreement shall survive for
+            a period of ninety (90) days beyond the expiration of the Survival
+            Period of the representation, warranty, covenant or agreement upon
+            which indemnity is sought. In no event shall the Acquiring Fund or
+            the Target Fund be obligated to indemnify the other if indemnity is
+            not sought within ninety (90) days of the expiration of the
+            applicable Survival Period.
+
+      B.    INDEMNIFICATION. Each party (an Indemnitor) shall indemnify and
+            hold the other and its directors, trustees, officers, agents and
+            persons
+
+                                       23
+<PAGE>
+
+            controlled by or controlling any of them (each an Indemnified"
+"1449","            Party) harmless from and against any and all losses, damages,
+            liabilities, claims, demands, judgments, settlements, deficiencies,
+            taxes, assessments, charges, costs and expenses of any nature
+            whatsoever (including reasonable attorneys' fees), including amounts
+            paid in satisfaction of judgments, in compromise or as fines and
+            penalties, and counsel fees reasonably incurred by such Indemnified
+            Party in connection with the defense or disposition of any claim,
+            action, suit or other proceeding, whether civil or criminal, before
+            any court or administrative or investigative body in which such
+            Indemnified Party may be or may have been involved as a party or
+            otherwise or with which such Indemnified Party may be or may have
+            been threatened (collectively, the Losses) arising out of or
+            related to any claim of a breach of any representation, warranty or
+            covenant made herein by the Indemnitor, provided, however, that no
+            Indemnified Party shall be indemnified hereunder against any Losses
+            arising directly from such Indemnified Party's (i) willful
+            misfeasance, (ii) bad faith, (iii) gross negligence or (iv) reckless
+            disregard of the duties involved in the conduct of such Indemnified
+            Party's position.
+
+      C.    INDEMNIFICATION PROCEDURE. The Indemnified Party shall use its best
+            efforts to minimize any liabilities, damages, deficiencies, claims,
+            judgments, assessments, costs and expenses in respect of which
+            indemnity may be sought hereunder. The Indemnified Party shall give
+            written notice to the Indemnitor within the earlier of ten (10) days
+            of receipt of written notice to the Indemnified Party or thirty (30)
+            days from discovery by the Indemnified Party of any matters which
+            may give rise to a claim for indemnification or reimbursement under
+            this Agreement. The failure to give such notice shall not affect the
+            right of the Indemnified Party to indemnity hereunder unless such
+            failure has materially and adversely affected the rights of the
+            Indemnitor; provided that in any event such notice shall have been
+            given prior to the expiration of the Survival Period. At any time
+            after ten (10) days from the giving of such notice, the Indemnified
+            Party may, at its option, resist, settle or otherwise compromise, or
+            pay such claim unless it shall have received notice from the
+            Indemnitor that the Indemnitor intends, at the Indemnitor's sole
+            cost and expense, to assume the defense of any such matter, in which
+            case the Indemnified Party shall have the right, at no cost or
+            expense to the Indemnitor, to participate in such defense. If the
+            Indemnitor does not assume the defense of such matter, and in any
+            event until the Indemnitor states in writing that it will assume the
+            defense, the Indemnitor shall pay all costs of the Indemnified Party
+            arising out of the defense until the defense is assumed; provided,
+            however, that the Indemnified Party shall consult with the
+            Indemnitor and obtain the Indemnitor's prior written consent to any
+            payment or settlement of any such claim. The Indemnitor shall keep
+            the Indemnified Party fully apprised at all times as to the
+
+                                       24
+<PAGE>
+
+            status of the defense. If the Indemnitor does not assume the
+            defense, the Indemnified Party shall keep Indemnitor apprised at all
+            times as to the status of the defense. Following indemnification as
+            provided for hereunder, the Indemnitor shall be subrogated to all
+            rights of the Indemnified Party with respect to all third parties,
+            firms or corporations relating to the matter for which
+            indemnification has been made.
+
+XII.  SURVIVAL.
+
+      The provisions set forth in Sections X, XI and XVI hereof shall survive
+the termination of this Agreement for any cause whatsoever.
+
+XIII. NOTICES.
+
+      All notices hereunder shall be sufficiently given for all purposes
+hereunder if in writing and delivered personally or sent by registered mail or
+certified mail, postage prepaid. Notice to the Target Entity, with respect to
+its corresponding Target Fund shall be addressed to the Target Entity c/o Van
+Kampen Asset Management, 522 Fifth Avenue, New York, New York 10036, Attention:
+General Counsel, or at such other address as the Target Entity may designate by
+written notice to the Acquiring Entity. Notice to the Acquiring Entity, with
+respect to its corresponding Acquiring Fund shall be addressed to the Acquiring
+Fund c/o Morgan Stanley Investment Management, 522 Fifth Avenue, New York, New
+York 10036, Attention: General Counsel, or at such other address and to the
+attention of such other person as the Acquiring Entity may designate by written
+notice to the Target Entity. Any notice shall be deemed to have been served or
+given as of the date such notice is delivered personally or mailed.
+
+XIV.  SUCCESSORS AND ASSIGNS.
+
+      This Agreement shall be binding upon and inure to the benefit of the
+parties hereto and their successors and assigns. This Agreement shall not be
+assigned by any party without the prior written consent of the other party
+hereto.
+
+XV.   BOOKS AND RECORDS.
+
+      The Target Fund and the Acquiring Fund agree that copies of the books and
+records of the Target Fund relating to the Assets including, but not limited to,
+all files, records, written materials (e.g., closing transcripts, surveillance
+files and credit reports) shall be delivered by the Target Fund to the Acquiring
+Fund on or prior to the Closing Date. In addition to, and without limiting the
+foregoing, the Target Fund and the Acquiring Fund agree to take such action as
+may be necessary in order that the Acquiring Fund shall have reasonable access
+to such other books and records as may be reasonably requested, all for three
+(3) complete fiscal and tax years after the Closing Date; namely, general
+ledgers, journal entries, voucher registers, distribution journals, payroll
+registers, monthly balance owing reports, income tax returns, tax depreciation
+schedules, and investment tax credit basis schedules.
+
+                                       25
+<PAGE>
+
+XVI.  GENERAL.
+
+      This Agreement supersedes all prior agreements between the parties
+(written or oral), is intended as a complete and exclusive statement of the
+terms of the Agreement between the parties and may not be amended, modified or
+changed, or terminated orally. This Agreement may be executed in one or more
+counterparts, all of which shall be considered one and the same agreement, and
+shall become effective when one or more counterparts have been executed by the
+Target Fund and Acquiring Fund and delivered to each of the parties hereto. The
+headings contained in this Agreement are for reference purposes only and shall
+not affect in any way the meaning or interpretation of this Agreement. This
+Agreement is for the sole benefit of the parties hereto, and nothing in this
+Agreement, expressed or implied, is intended to confer upon any other person any
+rights or remedies under or by reason of this Agreement. This Agreement shall be
+governed by and construed in accordance with the laws of the State of
+Maryland without regard to principles of conflicts or choice of law.
+
+                                       26
+<PAGE>
+
+      IN WITNESS WHEREOF, the parties have hereunto caused this Agreement to be
+executed and delivered by their duly authorized officers as of the day and year
+first written above.
+
+                                        MORGAN STANLEY INSTITUTIONAL FUND INC.,
+                                        ON BEHALF OF ITS SERIES IDENTIFIED ON
+                                        EXHIBIT A HERETO
+
+                                        ----------------------------------------
+                                        Name: Randy Takian
+                                        Title: President
+
+ATTEST:
+
+/s/ Mary E. Mullin
+- -------------------------
+Name: Mary E. Mullin
+Title: Secretary
+
+<PAGE>
+
+                                        VAN KAMPEN EQUITY TRUST II,
+                                        ON BEHALF OF VAN KAMPEN CORE
+                                        GROWTH FUND
+
+                                        /s/ Edward C. Wood III
+                                        ----------------------------------------
+                                        Name: Edward C. Wood III
+                                        Title: President and Principal Executive
+                                        Officer
+
+ATTEST:
+
+/s/ Joanne Antico
+- ---------------------------
+Name: Joanne Antico
+Title: Assistant Secretary
+
+                                        VAN KAMPEN SERIES FUND, INC., ON BEHALF
+                                        OF VAN KAMPEN EQUITY GROWTH FUND
+
+                                        /s/ Edward C. Wood III
+                                        ----------------------------------------
+                                        Name: Edward C. Wood III
+                                        Title: President and Principal Executive
+                                        Officer
+
+ATTEST:
+
+/s/ Joanne Antico
+- ------------------------------
+Name: Joanne Antico
+Title: Assistant Secretary
+
+                                        VAN KAMPEN EQUITY TRUST, ON BEHALF OF
+                                        VAN KAMPEN GLOBAL GROWTH FUND
+
+                                        /s/ Edward C. Wood III
+                                        ----------------------------------------
+                                        Name: Edward C. Wood III
+                                        Title: President and Principal Executive
+                                        Officer
+
+ATTEST:
+
+<PAGE>
+
+/s/ Joanne Antico
+- ------------------------------
+Name: Joanne Antico
+Title: Assistant Secretary
+
+<PAGE>
+
+                                    EXHIBIT A
+
+                            CHART OF REORGANIZATIONS
+
+<TABLE>
+<CAPTION>
+     TARGET FUND (AND SHARE CLASSES) AND TARGET                              CORRESPONDING ACQUIRING FUND (AND
+                       ENTITY                                               SHARE CLASSES) AND ACQUIRING ENTITY
+<S>                                                         <C>             <C>
+Van Kampen Core Growth Fund, a series of Van Kampen                         Advantage Portfolio, a series of Morgan
+Equity Trust II                                                             Stanley Institutional Fund, Inc.
+
+         CLASS A                                            -->                CLASS H
+         CLASS B
+         CLASS C                                            -->                CLASS L
+         CLASS I                                            -->                CLASS I
+</TABLE>
+
+<TABLE>
+<CAPTION>
+     TARGET FUND (AND SHARE CLASSES) AND TARGET                              CORRESPONDING ACQUIRING FUND (AND
+                       ENTITY                                               SHARE CLASSES) AND ACQUIRING ENTITY
+<S>                                                         <C>             <C>
+Van Kampen Equity Growth Fund, a series of Van                              Equity Growth Portfolio, a series of Morgan
+Kampen Series Fund, Inc.                                                    Stanley Institutional Fund, Inc.
+
+         CLASS A                                            -->                CLASS H
+         CLASS B
+         CLASS C                                            -->                CLASS L
+         CLASS I                                            -->                CLASS I
+</TABLE>
+
+<TABLE>
+<CAPTION>
+     TARGET FUND (AND SHARE CLASSES) AND TARGET                              CORRESPONDING ACQUIRING FUND (AND
+                       ENTITY                                               SHARE CLASSES) AND ACQUIRING ENTITY
+<S>                                                         <C>             <C>
+Van Kampen Global Growth Fund, a series of Van                              Global Growth Portfolio, a series of
+Kampen Equity Trust                                                         Morgan Stanley Institutional Fund, Inc.
+
+         CLASS A                                            -->                CLASS H
+         CLASS B
+         CLASS C                                            -->                CLASS L
+         CLASS I                                            -->                CLASS I
+</TABLE>
+
+                                       A-1
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.77M MERGERS
+<SEQUENCE>3
+<FILENAME>itemseventysevenm.txt
+<DESCRIPTION>MERGER
+<TEXT>
+
+ITEM 77M: Mergers
+
+MORGAN STANLEY INSTITUTIONAL FUND, INC. - ADVANTAGE PORTFOLIO
+
+      On May 10, 2010, a Special Meeting of Shareholders of Van Kampen Core
+Growth Fund, a series of Van Kampen Equity Trust II (Core Growth) was held to
+consider and vote upon an Agreement and Plan of Reorganization (the
+Reorganization Agreement) between Van Kampen Equity Trust II, on behalf of
+Core Growth, and Morgan Stanley Institutional Fund, Inc. on behalf of the
+Advantage Portfolio (Advantage), pursuant to which substantially all of the
+assets of Core Growth would be combined with those of Advantage and shareholders
+of Core Growth would become stockholders of Advantage receiving shares of
+Advantage with a value equal to the value of their holdings in Core Growth. On
+January 20, 2010 the Board of Trustees unanimously approved the Reorganization
+Agreement, and on May 10, 2010 the Reorganization Agreement was approved by the
+affirmative vote of a majority of the outstanding shares of Core Growth
+represented in person or by proxy and entitled to vote at the meeting.
+
+      On May 21, 2010, the Reorganization Agreement between Core Growth and
+Advantage was completed according to the terms set forth above and in the
+Reorganization Agreement.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.77I NEW SECUR
+<SEQUENCE>4
+<FILENAME>seventyseveni.txt
+<DESCRIPTION>NEW SECURITIES
+<TEXT>
+
+         Item 77I. Terms of New or Amended Securities
+- - Morgan Stanley Institutional Fund, Inc. - Advantage Portfolio
+
+The Board of Directors of Morgan Stanley Institutional Fund, Inc.
+(the Board of Directors), at a meeting duly convened and held
+on December 9-10, 2009, adopted resolutions which established an
+additional portfolio of common stock, consisting of four classes,
+designated as Advantage Portfolio - Class I, Advantage Portfolio
+- - Class P, Advantage Portfolio - Class H, Advantage Portfolio
+- - Class L, and classified 500,000,000 shares of common stock as
+shares of Advantage Portfolio - Class I, 500,000,000 shares of
+common stock as shares of Advantage Portfolio - Class P,
+500,000,000 shares of common stock as shares of Advantage Portfolio
+- - Class H, and 500,000,000 shares of common stock as shares of
+Advantage Portfolio - Class L.   The terms applicable to the classes
+of common stock designated and classified as set forth above,
+including any preferences, conversion and other rights, voting powers,
+restrictions, limitations as to dividends, qualifications and terms
+and conditions of redemption, as set by the Board of Directors, are
+the same as the terms of the existing classes of common stock which
+are set forth in the Articles of Restatement of Morgan Stanley
+Institutional Fund, Inc. as amended and supplemented (the Charter).
+The shares of the Advantage Portfolio, when issued, are fully paid
+and nonassessable, and have no preference as to conversion, exchange,
+dividends, retirement or other features. The shares of the Advantage
+Portfolio have no pre-emptive rights.  The shares of Morgan Stanley
+Institutional Fund, Inc. have non-cumulative voting rights, which
+means that the holders of more than 50% of the shares voting for the
+election of Directors can elect 100% of the Directors if they choose
+to do so.  Shareholders are entitled to one vote for each full share
+held (and a fractional vote for each fractional share held), then
+standing in their name on the books of Morgan Stanley Institutional
+Fund, Inc.  The Advantage Portfolio is not subject to the liabilities
+of any other portfolio of Morgan Stanley Institutional Fund, Inc.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.77B ACCT LTTR
+<SEQUENCE>5
+<FILENAME>opinionletter.txt
+<DESCRIPTION>OPINION LETTER
+<TEXT>
+Report of Independent Registered Public Accounting Firm
+
+To the Shareholders and Board of Directors of
+Morgan Stanley Institutional Fund, Inc.
+
+In planning and performing our audit of the financial statements
+of the Advantage Portfolio of Morgan Stanley Institutional Fund,
+Inc. (the Fund) as of and for the year ended August 31, 2010,
+in accordance with the standards of the Public Company Accounting
+Oversight Board (United States), we considered its internal control
+over financial reporting, including controls over safeguarding
+securities, as a basis for designing our auditing procedures for
+the purpose of expressing our opinion on the financial statements
+and to comply with the requirements of Form N-SAR, but not for the
+purpose of expressing an opinion on the effectiveness of the Fund's
+internal control over financial reporting.  Accordingly, we express
+no such opinion.
+
+The management of the Fund is responsible for establishing and
+maintaining effective internal control over financial reporting.
+In fulfilling this responsibility, estimates and judgments by
+management are required to assess the expected benefits and
+related costs of controls. A company's internal control over
+financial reporting is a process designed to provide reasonable
+assurance regarding the reliability of financial reporting and the
+preparation of financial statements for external purposes in
+accordance with generally accepted accounting principles. A company's
+internal control over financial reporting includes those policies
+and procedures that (1) pertain to the maintenance of records that,
+in reasonable detail, accurately and fairly reflect the transactions
+and dispositions of the assets of the company; (2) provide reasonable
+assurance that transactions are recorded as necessary to permit
+preparation of financial statements in accordance with generally
+accepted accounting principles, and that receipts and expenditures
+of the company are being made only in accordance with authorizations
+of management and directors of the company; and (3) provide
+reasonable assurance regarding prevention or timely detection of
+unauthorized acquisition, use or disposition of a company's assets
+that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial
+reporting may not prevent or detect misstatements. Also, projections
+of any evaluation of effectiveness to future periods are subject to
+the risk that controls may become inadequate because of changes in
+conditions, or that the degree of compliance with the policies or
+procedures may deteriorate.
+
+A deficiency in internal control over financial reporting exists when
+the design or operation of a control does not allow management or
+employees, in the normal course of performing their assigned
+functions, to prevent or detect misstatements on a timely basis.
+A material weakness is a deficiency, or a combination of deficiencies,
+in internal control over financial reporting, such that there is a
+reasonable possibility that a material misstatement of the company's
+annual or interim financial statements will not be prevented or
+detected on a timely basis.
+
+Our consideration of the Fund's internal control over financial
+reporting was for the limited purpose described in the first paragraph
+and would not necessarily disclose all deficiencies in internal
+control that might be material weaknesses under standards established
+by the Public Company Accounting Oversight Board (United States).
+However, we noted no deficiencies in the Fund's internal control over
+financial reporting and its operation, including controls over
+safeguarding securities, that we consider to be a material weakness
+as defined above as of August 31, 2010.
+
+This report is intended solely for the information and use of
+management and the Board of Directors of Morgan Stanley Institutional
+Fund, Inc., and the Securities and Exchange Commission and is not
+intended to be and should not be used by anyone other than these
+specified parties.
+
+
+
+/s/ Ernst & Young LLP
+
+Boston, Massachusetts
+October 22, 2010
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
+"

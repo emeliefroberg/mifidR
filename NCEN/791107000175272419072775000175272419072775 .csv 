@@ -1,0 +1,2597 @@
+"","V1"
+"1","<SEC-DOCUMENT>0001752724-19-072775.txt : 20190715"
+"2","<SEC-HEADER>0001752724-19-072775.hdr.sgml : 20190715"
+"3","<ACCEPTANCE-DATETIME>20190715115040"
+"4","ACCESSION NUMBER:		0001752724-19-072775"
+"5","CONFORMED SUBMISSION TYPE:	N-CEN/A"
+"6","PUBLIC DOCUMENT COUNT:		6"
+"7","CONFORMED PERIOD OF REPORT:	20181130"
+"8","FILED AS OF DATE:		20190715"
+"9","DATE AS OF CHANGE:		20190715"
+"10","EFFECTIVENESS DATE:		20190715"
+"11","FILER:"
+"12","	COMPANY DATA:	"
+"13","		COMPANY CONFORMED NAME:			VANGUARD CONVERTIBLE SECURITIES FUND"
+"14","		CENTRAL INDEX KEY:			0000791107"
+"15","		IRS NUMBER:				000000000"
+"16","		STATE OF INCORPORATION:			DE"
+"17","		FISCAL YEAR END:			1130"
+"18","	FILING VALUES:"
+"19","		FORM TYPE:		N-CEN/A"
+"20","		SEC ACT:		1940 Act"
+"21","		SEC FILE NUMBER:	811-04627"
+"22","		FILM NUMBER:		19954564"
+"23","	BUSINESS ADDRESS:	"
+"24","		STREET 1:		PO BOX 2600"
+"25","		STREET 2:		V26"
+"26","		CITY:			VALLEY FORGE"
+"27","		STATE:			PA"
+"28","		ZIP:			19482"
+"29","		BUSINESS PHONE:		6106691000"
+"30","	MAIL ADDRESS:	"
+"31","		STREET 1:		P.O. BOX 2600"
+"32","		STREET 2:		V26"
+"33","		CITY:			VALLEY FORGE"
+"34","		STATE:			PA"
+"35","		ZIP:			19482"
+"36","	FORMER COMPANY:	"
+"37","		FORMER CONFORMED NAME:	VANGUARD CONVERTIBLE SECURITIES FUND INC"
+"38","		DATE OF NAME CHANGE:	19920703"
+"39","<SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"40","<EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"41","<SERIES>"
+"42","<OWNER-CIK>0000791107"
+"43","<SERIES-ID>S000002837"
+"44","<SERIES-NAME>VANGUARD CONVERTIBLE SECURITIES FUND"
+"45","<CLASS-CONTRACT>"
+"46","<CLASS-CONTRACT-ID>C000007767"
+"47","<CLASS-CONTRACT-NAME>Investor Shares"
+"48","<CLASS-CONTRACT-TICKER-SYMBOL>VCVSX"
+"49","</CLASS-CONTRACT>"
+"50","</SERIES>"
+"51","</EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"52","</SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"53","</SEC-HEADER>"
+"54","<DOCUMENT>"
+"55","<TYPE>N-CEN/A"
+"56","<SEQUENCE>1"
+"57","<FILENAME>primary_doc.xml"
+"58","<TEXT>"
+"59","<XML>"
+"60","<?xml version=1.0 encoding=UTF-8?>"
+"61","<edgarSubmission xmlns=http://www.sec.gov/edgar/ncen xmlns:com=http://www.sec.gov/edgar/common>"
+"62","  <schemaVersion>X0201</schemaVersion>"
+"63","  <headerData>"
+"64","    <submissionType>N-CEN/A</submissionType>"
+"65","    <accessionNumber>0001752724-19-004027</accessionNumber>"
+"66","    <filerInfo>"
+"67","      <liveTestFlag>LIVE</liveTestFlag>"
+"68","      <filer>"
+"69","        <issuerCredentials>"
+"70","          <cik>0000791107</cik>"
+"71","          <ccc>XXXXXXXX</ccc>"
+"72","        </issuerCredentials>"
+"73","        <fileNumber>811-04627</fileNumber>"
+"74","      </filer>"
+"75","      <flags>"
+"76","        <returnCopyFlag>true</returnCopyFlag>"
+"77","        <overrideInternetFlag>false</overrideInternetFlag>"
+"78","        <confirmingCopyFlag>false</confirmingCopyFlag>"
+"79","      </flags>"
+"80","      <investmentCompanyType>N-1A</investmentCompanyType>"
+"81","    </filerInfo>"
+"82","    <seriesClass>"
+"83","      <reportSeriesClass>"
+"84","        <rptIncludeAllSeriesFlag>true</rptIncludeAllSeriesFlag>"
+"85","      </reportSeriesClass>"
+"86","    </seriesClass>"
+"87","  </headerData>"
+"88","  <formData>"
+"89","    <generalInfo reportEndingPeriod=2018-11-30 isReportPeriodLt12=N/>"
+"90","    <registrantInfo>"
+"91","      <registrantFullName>VANGUARD CONVERTIBLE SECURITIES FUND</registrantFullName>"
+"92","      <investmentCompFileNo>811-04627</investmentCompFileNo>"
+"93","      <registrantCik>0000791107</registrantCik>"
+"94","      <registrantLei>549300K7UZX1RNUAZP45</registrantLei>"
+"95","      <registrantstreet1>100 VANGUARD BOULEVARD</registrantstreet1>"
+"96","      <registrantcity>MALVERN</registrantcity>"
+"97","      <registrantzipCode>19355</registrantzipCode>"
+"98","      <registrantstate>US-PA</registrantstate>"
+"99","      <registrantcountry>US</registrantcountry>"
+"100","      <registrantphoneNumber>6106691000</registrantphoneNumber>"
+"101","      <websites>"
+"102","        <website webpage=www.vanguard.com/>"
+"103","      </websites>"
+"104","      <locationBooksRecords>"
+"105","        <locationBooksRecord>"
+"106","          <officeName>State Street Bank and Trust</officeName>"
+"107","          <officeAddress1>One Lincoln Street</officeAddress1>"
+"108","          <officeCity>Boston</officeCity>"
+"109","          <officeStateCountry officeCountry=US officeState=US-MA/>"
+"110","          <officeRecordsZipCode>20111</officeRecordsZipCode>"
+"111","          <officePhone>617-662-3839</officePhone>"
+"112","          <booksRecordsDesc>The accounts, books, and other documents required to be maintained by Registrant pursuant to section 31(a) of the Investment Company Act of 1940 and the Rules thereunder.</booksRecordsDesc>"
+"113","        </locationBooksRecord>"
+"114","      </locationBooksRecords>"
+"115","      <isRegistrantFirstFiling>Y</isRegistrantFirstFiling>"
+"116","      <isRegistrantLastFiling>Y</isRegistrantLastFiling>"
+"117","      <registrantFamilyInvComp isRegistrantFamilyInvComp=Y familyInvCompFullName=The Vanguard Group, Inc./>"
+"118","      <registrantClassificationType>N-1A</registrantClassificationType>"
+"119","      <totalSeries>1</totalSeries>"
+"120","      <isSecuritiesActRegistration>Y</isSecuritiesActRegistration>"
+"121","      <directors>"
+"122","        <director>"
+"123","          <directorName>Mortimer J. Buckley</directorName>"
+"124","          <crdNumber>002167630</crdNumber>"
+"125","          <isDirectorInterestedPerson>Y</isDirectorInterestedPerson>"
+"126","          <fileNumbers>"
+"127","            <fileNumberInfo fileNumber=811-58431/>"
+"128","            <fileNumberInfo fileNumber=811-04570/>"
+"129","            <fileNumberInfo fileNumber=811-22114/>"
+"130","            <fileNumberInfo fileNumber=811-01766/>"
+"131","            <fileNumberInfo fileNumber=811-04526/>"
+"132","            <fileNumberInfo fileNumber=811-07443/>"
+"133","            <fileNumberInfo fileNumber=811-04474/>"
+"134","            <fileNumberInfo fileNumber=811-02554/>"
+"135","            <fileNumberInfo fileNumber=811-00834/>"
+"136","            <fileNumberInfo fileNumber=811-02368/>"
+"137","            <fileNumberInfo fileNumber=811-03919/>"
+"138","            <fileNumberInfo fileNumber=811-05340/>"
+"139","            <fileNumberInfo fileNumber=811-21478/>"
+"140","            <fileNumberInfo fileNumber=811-05628/>"
+"141","            <fileNumberInfo fileNumber=811-04571/>"
+"142","            <fileNumberInfo fileNumber=811-05445/>"
+"143","            <fileNumberInfo fileNumber=811-05962/>"
+"144","            <fileNumberInfo fileNumber=811-03916/>"
+"145","            <fileNumberInfo fileNumber=811-01530/>"
+"146","            <fileNumberInfo fileNumber=811-06083/>"
+"147","            <fileNumberInfo fileNumber=811-04681/>"
+"148","            <fileNumberInfo fileNumber=811-04098/>"
+"149","            <fileNumberInfo fileNumber=811-00121/>"
+"150","            <fileNumberInfo fileNumber=811-07803/>"
+"151","            <fileNumberInfo fileNumber=811-07043/>"
+"152","            <fileNumberInfo fileNumber=811-02968-99/>"
+"153","            <fileNumberInfo fileNumber=811-05972/>"
+"154","            <fileNumberInfo fileNumber=811-07239/>"
+"155","            <fileNumberInfo fileNumber=811-22619/>"
+"156","            <fileNumberInfo fileNumber=811-01027/>"
+"157","            <fileNumberInfo fileNumber=811-09005/>"
+"158","            <fileNumberInfo fileNumber=811-02652/>"
+"159","            <fileNumberInfo fileNumber=811-02687/>"
+"160","            <fileNumberInfo fileNumber=811-06093/>"
+"161","            <fileNumberInfo fileNumber=811-01685/>"
+"162","            <fileNumberInfo fileNumber=811-07175/>"
+"163","          </fileNumbers>"
+"164","        </director>"
+"165","        <director>"
+"166","          <directorName>Andre F. Perold</directorName>"
+"167","          <crdNumber>N/A</crdNumber>"
+"168","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"169","          <fileNumbers>"
+"170","            <fileNumberInfo fileNumber=811-07175/>"
+"171","            <fileNumberInfo fileNumber=811-05972/>"
+"172","            <fileNumberInfo fileNumber=811-21478/>"
+"173","            <fileNumberInfo fileNumber=811-07803/>"
+"174","            <fileNumberInfo fileNumber=811-00121/>"
+"175","            <fileNumberInfo fileNumber=811-03916/>"
+"176","            <fileNumberInfo fileNumber=811-05962/>"
+"177","            <fileNumberInfo fileNumber=811-05445/>"
+"178","            <fileNumberInfo fileNumber=811-02652/>"
+"179","            <fileNumberInfo fileNumber=811-07443/>"
+"180","            <fileNumberInfo fileNumber=811-02554/>"
+"181","            <fileNumberInfo fileNumber=811-05628/>"
+"182","            <fileNumberInfo fileNumber=811-02687/>"
+"183","            <fileNumberInfo fileNumber=811-01027/>"
+"184","            <fileNumberInfo fileNumber=811-02968-99/>"
+"185","            <fileNumberInfo fileNumber=811-04526/>"
+"186","            <fileNumberInfo fileNumber=811-02368/>"
+"187","            <fileNumberInfo fileNumber=811-03919/>"
+"188","            <fileNumberInfo fileNumber=811-04681/>"
+"189","            <fileNumberInfo fileNumber=811-04570/>"
+"190","            <fileNumberInfo fileNumber=811-01530/>"
+"191","            <fileNumberInfo fileNumber=811-00834/>"
+"192","            <fileNumberInfo fileNumber=811-09005/>"
+"193","            <fileNumberInfo fileNumber=811-01685/>"
+"194","            <fileNumberInfo fileNumber=811-04098/>"
+"195","            <fileNumberInfo fileNumber=811-07043/>"
+"196","            <fileNumberInfo fileNumber=811-07239/>"
+"197","            <fileNumberInfo fileNumber=811-06093/>"
+"198","            <fileNumberInfo fileNumber=811-22619/>"
+"199","            <fileNumberInfo fileNumber=811-58431/>"
+"200","            <fileNumberInfo fileNumber=811-04474/>"
+"201","            <fileNumberInfo fileNumber=811-01766/>"
+"202","            <fileNumberInfo fileNumber=811-22114/>"
+"203","            <fileNumberInfo fileNumber=811-04571/>"
+"204","            <fileNumberInfo fileNumber=811-05340/>"
+"205","            <fileNumberInfo fileNumber=811-06083/>"
+"206","          </fileNumbers>"
+"207","        </director>"
+"208","        <director>"
+"209","          <directorName>F. William McNabb III</directorName>"
+"210","          <crdNumber>001567399</crdNumber>"
+"211","          <isDirectorInterestedPerson>Y</isDirectorInterestedPerson>"
+"212","          <fileNumbers>"
+"213","            <fileNumberInfo fileNumber=811-00834/>"
+"214","            <fileNumberInfo fileNumber=811-04098/>"
+"215","            <fileNumberInfo fileNumber=811-07443/>"
+"216","            <fileNumberInfo fileNumber=811-06083/>"
+"217","            <fileNumberInfo fileNumber=811-01530/>"
+"218","            <fileNumberInfo fileNumber=811-04570/>"
+"219","            <fileNumberInfo fileNumber=811-22619/>"
+"220","            <fileNumberInfo fileNumber=811-04681/>"
+"221","            <fileNumberInfo fileNumber=811-07803/>"
+"222","            <fileNumberInfo fileNumber=811-03916/>"
+"223","            <fileNumberInfo fileNumber=811-02652/>"
+"224","            <fileNumberInfo fileNumber=811-00121/>"
+"225","            <fileNumberInfo fileNumber=811-22114/>"
+"226","            <fileNumberInfo fileNumber=811-05628/>"
+"227","            <fileNumberInfo fileNumber=811-58431/>"
+"228","            <fileNumberInfo fileNumber=811-05962/>"
+"229","            <fileNumberInfo fileNumber=811-09005/>"
+"230","            <fileNumberInfo fileNumber=811-04474/>"
+"231","            <fileNumberInfo fileNumber=811-03919/>"
+"232","            <fileNumberInfo fileNumber=811-02554/>"
+"233","            <fileNumberInfo fileNumber=811-06093/>"
+"234","            <fileNumberInfo fileNumber=811-01027/>"
+"235","            <fileNumberInfo fileNumber=811-01766/>"
+"236","            <fileNumberInfo fileNumber=811-07175/>"
+"237","            <fileNumberInfo fileNumber=811-05972/>"
+"238","            <fileNumberInfo fileNumber=811-02368/>"
+"239","            <fileNumberInfo fileNumber=811-04526/>"
+"240","            <fileNumberInfo fileNumber=811-05340/>"
+"241","            <fileNumberInfo fileNumber=811-02968-99/>"
+"242","            <fileNumberInfo fileNumber=811-02687/>"
+"243","            <fileNumberInfo fileNumber=811-21478/>"
+"244","            <fileNumberInfo fileNumber=811-05445/>"
+"245","            <fileNumberInfo fileNumber=811-04571/>"
+"246","            <fileNumberInfo fileNumber=811-07043/>"
+"247","            <fileNumberInfo fileNumber=811-01685/>"
+"248","            <fileNumberInfo fileNumber=811-07239/>"
+"249","          </fileNumbers>"
+"250","        </director>"
+"251","        <director>"
+"252","          <directorName>F. Joseph Loughrey</directorName>"
+"253","          <crdNumber>N/A</crdNumber>"
+"254","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"255","          <fileNumbers>"
+"256","            <fileNumberInfo fileNumber=811-03916/>"
+"257","            <fileNumberInfo fileNumber=811-21478/>"
+"258","            <fileNumberInfo fileNumber=811-07239/>"
+"259","            <fileNumberInfo fileNumber=811-02554/>"
+"260","            <fileNumberInfo fileNumber=811-05445/>"
+"261","            <fileNumberInfo fileNumber=811-09005/>"
+"262","            <fileNumberInfo fileNumber=811-07175/>"
+"263","            <fileNumberInfo fileNumber=811-04681/>"
+"264","            <fileNumberInfo fileNumber=811-04526/>"
+"265","            <fileNumberInfo fileNumber=811-04474/>"
+"266","            <fileNumberInfo fileNumber=811-04570/>"
+"267","            <fileNumberInfo fileNumber=811-22114/>"
+"268","            <fileNumberInfo fileNumber=811-02687/>"
+"269","            <fileNumberInfo fileNumber=811-07043/>"
+"270","            <fileNumberInfo fileNumber=811-00834/>"
+"271","            <fileNumberInfo fileNumber=811-00121/>"
+"272","            <fileNumberInfo fileNumber=811-02368/>"
+"273","            <fileNumberInfo fileNumber=811-01530/>"
+"274","            <fileNumberInfo fileNumber=811-02968-99/>"
+"275","            <fileNumberInfo fileNumber=811-58431/>"
+"276","            <fileNumberInfo fileNumber=811-06083/>"
+"277","            <fileNumberInfo fileNumber=811-22619/>"
+"278","            <fileNumberInfo fileNumber=811-01027/>"
+"279","            <fileNumberInfo fileNumber=811-01685/>"
+"280","            <fileNumberInfo fileNumber=811-05972/>"
+"281","            <fileNumberInfo fileNumber=811-05962/>"
+"282","            <fileNumberInfo fileNumber=811-04571/>"
+"283","            <fileNumberInfo fileNumber=811-07443/>"
+"284","            <fileNumberInfo fileNumber=811-04098/>"
+"285","            <fileNumberInfo fileNumber=811-05340/>"
+"286","            <fileNumberInfo fileNumber=811-03919/>"
+"287","            <fileNumberInfo fileNumber=811-05628/>"
+"288","            <fileNumberInfo fileNumber=811-01766/>"
+"289","            <fileNumberInfo fileNumber=811-06093/>"
+"290","            <fileNumberInfo fileNumber=811-02652/>"
+"291","            <fileNumberInfo fileNumber=811-07803/>"
+"292","          </fileNumbers>"
+"293","        </director>"
+"294","        <director>"
+"295","          <directorName>Scott C. Malpass</directorName>"
+"296","          <crdNumber>N/A</crdNumber>"
+"297","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"298","          <fileNumbers>"
+"299","            <fileNumberInfo fileNumber=811-05972/>"
+"300","            <fileNumberInfo fileNumber=811-02652/>"
+"301","            <fileNumberInfo fileNumber=811-07443/>"
+"302","            <fileNumberInfo fileNumber=811-05628/>"
+"303","            <fileNumberInfo fileNumber=811-05445/>"
+"304","            <fileNumberInfo fileNumber=811-00834/>"
+"305","            <fileNumberInfo fileNumber=811-01685/>"
+"306","            <fileNumberInfo fileNumber=811-07043/>"
+"307","            <fileNumberInfo fileNumber=811-06093/>"
+"308","            <fileNumberInfo fileNumber=811-06083/>"
+"309","            <fileNumberInfo fileNumber=811-04474/>"
+"310","            <fileNumberInfo fileNumber=811-22619/>"
+"311","            <fileNumberInfo fileNumber=811-04526/>"
+"312","            <fileNumberInfo fileNumber=811-07239/>"
+"313","            <fileNumberInfo fileNumber=811-03916/>"
+"314","            <fileNumberInfo fileNumber=811-09005/>"
+"315","            <fileNumberInfo fileNumber=811-07175/>"
+"316","            <fileNumberInfo fileNumber=811-00121/>"
+"317","            <fileNumberInfo fileNumber=811-02368/>"
+"318","            <fileNumberInfo fileNumber=811-02687/>"
+"319","            <fileNumberInfo fileNumber=811-04681/>"
+"320","            <fileNumberInfo fileNumber=811-04098/>"
+"321","            <fileNumberInfo fileNumber=811-04570/>"
+"322","            <fileNumberInfo fileNumber=811-21478/>"
+"323","            <fileNumberInfo fileNumber=811-05340/>"
+"324","            <fileNumberInfo fileNumber=811-01766/>"
+"325","            <fileNumberInfo fileNumber=811-01027/>"
+"326","            <fileNumberInfo fileNumber=811-03919/>"
+"327","            <fileNumberInfo fileNumber=811-04571/>"
+"328","            <fileNumberInfo fileNumber=811-58431/>"
+"329","            <fileNumberInfo fileNumber=811-02554/>"
+"330","            <fileNumberInfo fileNumber=811-05962/>"
+"331","            <fileNumberInfo fileNumber=811-07803/>"
+"332","            <fileNumberInfo fileNumber=811-22114/>"
+"333","            <fileNumberInfo fileNumber=811-01530/>"
+"334","            <fileNumberInfo fileNumber=811-02968-99/>"
+"335","          </fileNumbers>"
+"336","        </director>"
+"337","        <director>"
+"338","          <directorName>JoAnn Heffernan Heisen</directorName>"
+"339","          <crdNumber>N/A</crdNumber>"
+"340","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"341","          <fileNumbers>"
+"342","            <fileNumberInfo fileNumber=811-02968-99/>"
+"343","            <fileNumberInfo fileNumber=811-01766/>"
+"344","            <fileNumberInfo fileNumber=811-01685/>"
+"345","            <fileNumberInfo fileNumber=811-07239/>"
+"346","            <fileNumberInfo fileNumber=811-05445/>"
+"347","            <fileNumberInfo fileNumber=811-02554/>"
+"348","            <fileNumberInfo fileNumber=811-06083/>"
+"349","            <fileNumberInfo fileNumber=811-04098/>"
+"350","            <fileNumberInfo fileNumber=811-00121/>"
+"351","            <fileNumberInfo fileNumber=811-00834/>"
+"352","            <fileNumberInfo fileNumber=811-05972/>"
+"353","            <fileNumberInfo fileNumber=811-02652/>"
+"354","            <fileNumberInfo fileNumber=811-07175/>"
+"355","            <fileNumberInfo fileNumber=811-04526/>"
+"356","            <fileNumberInfo fileNumber=811-03919/>"
+"357","            <fileNumberInfo fileNumber=811-02687/>"
+"358","            <fileNumberInfo fileNumber=811-05962/>"
+"359","            <fileNumberInfo fileNumber=811-07803/>"
+"360","            <fileNumberInfo fileNumber=811-02368/>"
+"361","            <fileNumberInfo fileNumber=811-09005/>"
+"362","            <fileNumberInfo fileNumber=811-06093/>"
+"363","            <fileNumberInfo fileNumber=811-04570/>"
+"364","            <fileNumberInfo fileNumber=811-22114/>"
+"365","            <fileNumberInfo fileNumber=811-04571/>"
+"366","            <fileNumberInfo fileNumber=811-05340/>"
+"367","            <fileNumberInfo fileNumber=811-58431/>"
+"368","            <fileNumberInfo fileNumber=811-22619/>"
+"369","            <fileNumberInfo fileNumber=811-04474/>"
+"370","            <fileNumberInfo fileNumber=811-04681/>"
+"371","            <fileNumberInfo fileNumber=811-07443/>"
+"372","            <fileNumberInfo fileNumber=811-03916/>"
+"373","            <fileNumberInfo fileNumber=811-01027/>"
+"374","            <fileNumberInfo fileNumber=811-05628/>"
+"375","            <fileNumberInfo fileNumber=811-21478/>"
+"376","            <fileNumberInfo fileNumber=811-01530/>"
+"377","            <fileNumberInfo fileNumber=811-07043/>"
+"378","          </fileNumbers>"
+"379","        </director>"
+"380","        <director>"
+"381","          <directorName>Amy Gutmann</directorName>"
+"382","          <crdNumber>N/A</crdNumber>"
+"383","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"384","          <fileNumbers>"
+"385","            <fileNumberInfo fileNumber=811-04570/>"
+"386","            <fileNumberInfo fileNumber=811-07443/>"
+"387","            <fileNumberInfo fileNumber=811-04526/>"
+"388","            <fileNumberInfo fileNumber=811-05972/>"
+"389","            <fileNumberInfo fileNumber=811-04681/>"
+"390","            <fileNumberInfo fileNumber=811-05340/>"
+"391","            <fileNumberInfo fileNumber=811-09005/>"
+"392","            <fileNumberInfo fileNumber=811-01530/>"
+"393","            <fileNumberInfo fileNumber=811-04098/>"
+"394","            <fileNumberInfo fileNumber=811-00834/>"
+"395","            <fileNumberInfo fileNumber=811-22619/>"
+"396","            <fileNumberInfo fileNumber=811-01766/>"
+"397","            <fileNumberInfo fileNumber=811-04571/>"
+"398","            <fileNumberInfo fileNumber=811-02652/>"
+"399","            <fileNumberInfo fileNumber=811-07803/>"
+"400","            <fileNumberInfo fileNumber=811-05962/>"
+"401","            <fileNumberInfo fileNumber=811-06093/>"
+"402","            <fileNumberInfo fileNumber=811-01685/>"
+"403","            <fileNumberInfo fileNumber=811-07043/>"
+"404","            <fileNumberInfo fileNumber=811-02968-99/>"
+"405","            <fileNumberInfo fileNumber=811-58431/>"
+"406","            <fileNumberInfo fileNumber=811-06083/>"
+"407","            <fileNumberInfo fileNumber=811-04474/>"
+"408","            <fileNumberInfo fileNumber=811-03916/>"
+"409","            <fileNumberInfo fileNumber=811-03919/>"
+"410","            <fileNumberInfo fileNumber=811-02554/>"
+"411","            <fileNumberInfo fileNumber=811-05445/>"
+"412","            <fileNumberInfo fileNumber=811-01027/>"
+"413","            <fileNumberInfo fileNumber=811-07239/>"
+"414","            <fileNumberInfo fileNumber=811-00121/>"
+"415","            <fileNumberInfo fileNumber=811-02687/>"
+"416","            <fileNumberInfo fileNumber=811-07175/>"
+"417","            <fileNumberInfo fileNumber=811-22114/>"
+"418","            <fileNumberInfo fileNumber=811-05628/>"
+"419","            <fileNumberInfo fileNumber=811-21478/>"
+"420","            <fileNumberInfo fileNumber=811-02368/>"
+"421","          </fileNumbers>"
+"422","        </director>"
+"423","        <director>"
+"424","          <directorName>Mark Loughridge</directorName>"
+"425","          <crdNumber>N/A</crdNumber>"
+"426","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"427","          <fileNumbers>"
+"428","            <fileNumberInfo fileNumber=811-02368/>"
+"429","            <fileNumberInfo fileNumber=811-01027/>"
+"430","            <fileNumberInfo fileNumber=811-00834/>"
+"431","            <fileNumberInfo fileNumber=811-01766/>"
+"432","            <fileNumberInfo fileNumber=811-00121/>"
+"433","            <fileNumberInfo fileNumber=811-04571/>"
+"434","            <fileNumberInfo fileNumber=811-05962/>"
+"435","            <fileNumberInfo fileNumber=811-02968-99/>"
+"436","            <fileNumberInfo fileNumber=811-02652/>"
+"437","            <fileNumberInfo fileNumber=811-04526/>"
+"438","            <fileNumberInfo fileNumber=811-04681/>"
+"439","            <fileNumberInfo fileNumber=811-06093/>"
+"440","            <fileNumberInfo fileNumber=811-05445/>"
+"441","            <fileNumberInfo fileNumber=811-05972/>"
+"442","            <fileNumberInfo fileNumber=811-06083/>"
+"443","            <fileNumberInfo fileNumber=811-02687/>"
+"444","            <fileNumberInfo fileNumber=811-03919/>"
+"445","            <fileNumberInfo fileNumber=811-58431/>"
+"446","            <fileNumberInfo fileNumber=811-09005/>"
+"447","            <fileNumberInfo fileNumber=811-07239/>"
+"448","            <fileNumberInfo fileNumber=811-03916/>"
+"449","            <fileNumberInfo fileNumber=811-07175/>"
+"450","            <fileNumberInfo fileNumber=811-02554/>"
+"451","            <fileNumberInfo fileNumber=811-04098/>"
+"452","            <fileNumberInfo fileNumber=811-01530/>"
+"453","            <fileNumberInfo fileNumber=811-07803/>"
+"454","            <fileNumberInfo fileNumber=811-22619/>"
+"455","            <fileNumberInfo fileNumber=811-05628/>"
+"456","            <fileNumberInfo fileNumber=811-04474/>"
+"457","            <fileNumberInfo fileNumber=811-01685/>"
+"458","            <fileNumberInfo fileNumber=811-22114/>"
+"459","            <fileNumberInfo fileNumber=811-05340/>"
+"460","            <fileNumberInfo fileNumber=811-07443/>"
+"461","            <fileNumberInfo fileNumber=811-07043/>"
+"462","            <fileNumberInfo fileNumber=811-04570/>"
+"463","            <fileNumberInfo fileNumber=811-21478/>"
+"464","          </fileNumbers>"
+"465","        </director>"
+"466","        <director>"
+"467","          <directorName>Sarah Bloom Raskin</directorName>"
+"468","          <crdNumber>N/A</crdNumber>"
+"469","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"470","          <fileNumbers>"
+"471","            <fileNumberInfo fileNumber=811-01766/>"
+"472","            <fileNumberInfo fileNumber=811-05972/>"
+"473","            <fileNumberInfo fileNumber=811-03916/>"
+"474","            <fileNumberInfo fileNumber=811-04474/>"
+"475","            <fileNumberInfo fileNumber=811-02554/>"
+"476","            <fileNumberInfo fileNumber=811-05962/>"
+"477","            <fileNumberInfo fileNumber=811-06083/>"
+"478","            <fileNumberInfo fileNumber=811-09005/>"
+"479","            <fileNumberInfo fileNumber=811-05340/>"
+"480","            <fileNumberInfo fileNumber=811-02687/>"
+"481","            <fileNumberInfo fileNumber=811-04098/>"
+"482","            <fileNumberInfo fileNumber=811-05445/>"
+"483","            <fileNumberInfo fileNumber=811-01685/>"
+"484","            <fileNumberInfo fileNumber=811-00834/>"
+"485","            <fileNumberInfo fileNumber=811-02968-99/>"
+"486","            <fileNumberInfo fileNumber=811-02368/>"
+"487","            <fileNumberInfo fileNumber=811-07043/>"
+"488","            <fileNumberInfo fileNumber=811-22114/>"
+"489","            <fileNumberInfo fileNumber=811-04526/>"
+"490","            <fileNumberInfo fileNumber=811-05628/>"
+"491","            <fileNumberInfo fileNumber=811-22619/>"
+"492","            <fileNumberInfo fileNumber=811-07443/>"
+"493","            <fileNumberInfo fileNumber=811-07239/>"
+"494","            <fileNumberInfo fileNumber=811-02652/>"
+"495","            <fileNumberInfo fileNumber=811-01530/>"
+"496","            <fileNumberInfo fileNumber=811-03919/>"
+"497","            <fileNumberInfo fileNumber=811-00121/>"
+"498","            <fileNumberInfo fileNumber=811-07175/>"
+"499","            <fileNumberInfo fileNumber=811-04570/>"
+"500","            <fileNumberInfo fileNumber=811-04571/>"
+"501","            <fileNumberInfo fileNumber=811-04681/>"
+"502","            <fileNumberInfo fileNumber=811-58431/>"
+"503","            <fileNumberInfo fileNumber=811-06093/>"
+"504","            <fileNumberInfo fileNumber=811-07803/>"
+"505","            <fileNumberInfo fileNumber=811-01027/>"
+"506","            <fileNumberInfo fileNumber=811-21478/>"
+"507","          </fileNumbers>"
+"508","        </director>"
+"509","        <director>"
+"510","          <directorName>Emerson U. Fullwood</directorName>"
+"511","          <crdNumber>N/A</crdNumber>"
+"512","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"513","          <fileNumbers>"
+"514","            <fileNumberInfo fileNumber=811-01685/>"
+"515","            <fileNumberInfo fileNumber=811-04570/>"
+"516","            <fileNumberInfo fileNumber=811-07803/>"
+"517","            <fileNumberInfo fileNumber=811-07175/>"
+"518","            <fileNumberInfo fileNumber=811-01027/>"
+"519","            <fileNumberInfo fileNumber=811-04571/>"
+"520","            <fileNumberInfo fileNumber=811-22114/>"
+"521","            <fileNumberInfo fileNumber=811-04474/>"
+"522","            <fileNumberInfo fileNumber=811-02968-99/>"
+"523","            <fileNumberInfo fileNumber=811-09005/>"
+"524","            <fileNumberInfo fileNumber=811-02652/>"
+"525","            <fileNumberInfo fileNumber=811-05340/>"
+"526","            <fileNumberInfo fileNumber=811-04098/>"
+"527","            <fileNumberInfo fileNumber=811-05972/>"
+"528","            <fileNumberInfo fileNumber=811-05628/>"
+"529","            <fileNumberInfo fileNumber=811-06083/>"
+"530","            <fileNumberInfo fileNumber=811-58431/>"
+"531","            <fileNumberInfo fileNumber=811-02687/>"
+"532","            <fileNumberInfo fileNumber=811-07443/>"
+"533","            <fileNumberInfo fileNumber=811-03919/>"
+"534","            <fileNumberInfo fileNumber=811-03916/>"
+"535","            <fileNumberInfo fileNumber=811-05445/>"
+"536","            <fileNumberInfo fileNumber=811-00834/>"
+"537","            <fileNumberInfo fileNumber=811-01530/>"
+"538","            <fileNumberInfo fileNumber=811-05962/>"
+"539","            <fileNumberInfo fileNumber=811-04526/>"
+"540","            <fileNumberInfo fileNumber=811-02368/>"
+"541","            <fileNumberInfo fileNumber=811-22619/>"
+"542","            <fileNumberInfo fileNumber=811-02554/>"
+"543","            <fileNumberInfo fileNumber=811-00121/>"
+"544","            <fileNumberInfo fileNumber=811-21478/>"
+"545","            <fileNumberInfo fileNumber=811-07239/>"
+"546","            <fileNumberInfo fileNumber=811-01766/>"
+"547","            <fileNumberInfo fileNumber=811-04681/>"
+"548","            <fileNumberInfo fileNumber=811-06093/>"
+"549","            <fileNumberInfo fileNumber=811-07043/>"
+"550","          </fileNumbers>"
+"551","        </director>"
+"552","        <director>"
+"553","          <directorName>Deanna Mulligan</directorName>"
+"554","          <crdNumber>N/A</crdNumber>"
+"555","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"556","          <fileNumbers>"
+"557","            <fileNumberInfo fileNumber=811-02652/>"
+"558","            <fileNumberInfo fileNumber=811-07239/>"
+"559","            <fileNumberInfo fileNumber=811-07175/>"
+"560","            <fileNumberInfo fileNumber=811-03916/>"
+"561","            <fileNumberInfo fileNumber=811-03919/>"
+"562","            <fileNumberInfo fileNumber=811-02687/>"
+"563","            <fileNumberInfo fileNumber=811-01685/>"
+"564","            <fileNumberInfo fileNumber=811-01530/>"
+"565","            <fileNumberInfo fileNumber=811-04474/>"
+"566","            <fileNumberInfo fileNumber=811-22114/>"
+"567","            <fileNumberInfo fileNumber=811-09005/>"
+"568","            <fileNumberInfo fileNumber=811-00121/>"
+"569","            <fileNumberInfo fileNumber=811-05445/>"
+"570","            <fileNumberInfo fileNumber=811-02554/>"
+"571","            <fileNumberInfo fileNumber=811-01766/>"
+"572","            <fileNumberInfo fileNumber=811-02368/>"
+"573","            <fileNumberInfo fileNumber=811-07443/>"
+"574","            <fileNumberInfo fileNumber=811-22619/>"
+"575","            <fileNumberInfo fileNumber=811-06083/>"
+"576","            <fileNumberInfo fileNumber=811-00834/>"
+"577","            <fileNumberInfo fileNumber=811-04570/>"
+"578","            <fileNumberInfo fileNumber=811-02968-99/>"
+"579","            <fileNumberInfo fileNumber=811-07803/>"
+"580","            <fileNumberInfo fileNumber=811-04098/>"
+"581","            <fileNumberInfo fileNumber=811-58431/>"
+"582","            <fileNumberInfo fileNumber=811-06093/>"
+"583","            <fileNumberInfo fileNumber=811-05628/>"
+"584","            <fileNumberInfo fileNumber=811-05972/>"
+"585","            <fileNumberInfo fileNumber=811-04526/>"
+"586","            <fileNumberInfo fileNumber=811-05962/>"
+"587","            <fileNumberInfo fileNumber=811-05340/>"
+"588","            <fileNumberInfo fileNumber=811-04571/>"
+"589","            <fileNumberInfo fileNumber=811-04681/>"
+"590","            <fileNumberInfo fileNumber=811-01027/>"
+"591","            <fileNumberInfo fileNumber=811-21478/>"
+"592","            <fileNumberInfo fileNumber=811-07043/>"
+"593","          </fileNumbers>"
+"594","        </director>"
+"595","        <director>"
+"596","          <directorName>Peter F. Volanakis</directorName>"
+"597","          <crdNumber>N/A</crdNumber>"
+"598","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"599","          <fileNumbers>"
+"600","            <fileNumberInfo fileNumber=811-04526/>"
+"601","            <fileNumberInfo fileNumber=811-06093/>"
+"602","            <fileNumberInfo fileNumber=811-04474/>"
+"603","            <fileNumberInfo fileNumber=811-04681/>"
+"604","            <fileNumberInfo fileNumber=811-07043/>"
+"605","            <fileNumberInfo fileNumber=811-07239/>"
+"606","            <fileNumberInfo fileNumber=811-03916/>"
+"607","            <fileNumberInfo fileNumber=811-07443/>"
+"608","            <fileNumberInfo fileNumber=811-04570/>"
+"609","            <fileNumberInfo fileNumber=811-07803/>"
+"610","            <fileNumberInfo fileNumber=811-05972/>"
+"611","            <fileNumberInfo fileNumber=811-02554/>"
+"612","            <fileNumberInfo fileNumber=811-03919/>"
+"613","            <fileNumberInfo fileNumber=811-02687/>"
+"614","            <fileNumberInfo fileNumber=811-02652/>"
+"615","            <fileNumberInfo fileNumber=811-01766/>"
+"616","            <fileNumberInfo fileNumber=811-00121/>"
+"617","            <fileNumberInfo fileNumber=811-04098/>"
+"618","            <fileNumberInfo fileNumber=811-58431/>"
+"619","            <fileNumberInfo fileNumber=811-09005/>"
+"620","            <fileNumberInfo fileNumber=811-05628/>"
+"621","            <fileNumberInfo fileNumber=811-22619/>"
+"622","            <fileNumberInfo fileNumber=811-22114/>"
+"623","            <fileNumberInfo fileNumber=811-00834/>"
+"624","            <fileNumberInfo fileNumber=811-01530/>"
+"625","            <fileNumberInfo fileNumber=811-02968-99/>"
+"626","            <fileNumberInfo fileNumber=811-01027/>"
+"627","            <fileNumberInfo fileNumber=811-02368/>"
+"628","            <fileNumberInfo fileNumber=811-05445/>"
+"629","            <fileNumberInfo fileNumber=811-04571/>"
+"630","            <fileNumberInfo fileNumber=811-05962/>"
+"631","            <fileNumberInfo fileNumber=811-05340/>"
+"632","            <fileNumberInfo fileNumber=811-06083/>"
+"633","            <fileNumberInfo fileNumber=811-01685/>"
+"634","            <fileNumberInfo fileNumber=811-21478/>"
+"635","            <fileNumberInfo fileNumber=811-07175/>"
+"636","          </fileNumbers>"
+"637","        </director>"
+"638","      </directors>"
+"639","      <chiefComplianceOfficers>"
+"640","        <chiefComplianceOfficer>"
+"641","          <ccoName>BRIAN DVORAK</ccoName>"
+"642","          <crdNumber>002651639</crdNumber>"
+"643","          <ccoStreet1>100 VANGUARD BOULEVARD</ccoStreet1>"
+"644","          <ccoCity>MALVERN</ccoCity>"
+"645","          <ccoStateCountry ccoCountry=US ccoState=US-PA/>"
+"646","          <ccoZipCode>19355</ccoZipCode>"
+"647","          <ccoPhone>XXXXXX</ccoPhone>"
+"648","          <isCcoChangedSinceLastFiling>N</isCcoChangedSinceLastFiling>"
+"649","          <ccoEmployers>"
+"650","            <ccoEmployer ccoEmployerName=N/A ccoEmployerId=N/A/>"
+"651","          </ccoEmployers>"
+"652","        </chiefComplianceOfficer>"
+"653","      </chiefComplianceOfficers>"
+"654","      <isRegistrantSubmittedMatter>N</isRegistrantSubmittedMatter>"
+"655","      <isPreviousLegalProceeding>N</isPreviousLegalProceeding>"
+"656","      <isPreviousProceedingTerminated>N</isPreviousProceedingTerminated>"
+"657","      <isClaimFiled>N</isClaimFiled>"
+"658","      <coveredByInsurancePolicy isCoveredByInsurancePolicy=Y isClaimFiledDuringPeriod=N/>"
+"659","      <isFinancialSupportDuringPeriod>N</isFinancialSupportDuringPeriod>"
+"660","      <releaseNumbers isExemptionFromAct=Y>"
+"661","        <releaseNumberInfo releaseNumber=IC-26436/>"
+"662","        <releaseNumberInfo releaseNumber=IC-9664/>"
+"663","        <releaseNumberInfo releaseNumber=IC-19184/>"
+"664","        <releaseNumberInfo releaseNumber=IC-11645/>"
+"665","        <releaseNumberInfo releaseNumber=IC-9205/>"
+"666","        <releaseNumberInfo releaseNumber=IC-8676/>"
+"667","        <releaseNumberInfo releaseNumber=IC-9001/>"
+"668","      </releaseNumbers>"
+"669","      <principalUnderwriters>"
+"670","        <principalUnderwriter>"
+"671","          <principalUnderwriterName>VANGUARD MARKETING CORP.</principalUnderwriterName>"
+"672","          <principalUnderwriterFileNumber>8-21570</principalUnderwriterFileNumber>"
+"673","          <principalUnderwriterCrdNumber>000007452</principalUnderwriterCrdNumber>"
+"674","          <principalUnderwriterLei>N/A</principalUnderwriterLei>"
+"675","          <principalUnderWriterStateCountry principalUnderWriterCountry=US principalUnderWriterState=US-PA/>"
+"676","          <isPrincipalUnderwriterAffiliatedWithRegistrant>Y</isPrincipalUnderwriterAffiliatedWithRegistrant>"
+"677","        </principalUnderwriter>"
+"678","      </principalUnderwriters>"
+"679","      <isUnderwriterHiredOrTerminated>N</isUnderwriterHiredOrTerminated>"
+"680","      <publicAccountants>"
+"681","        <publicAccountant>"
+"682","          <publicAccountantName>PRICEWATERHOUSECOOPERS LLP</publicAccountantName>"
+"683","          <pcaobNumber>000000238</pcaobNumber>"
+"684","          <publicAccountantLei>5493002GVO7EO8RNNS37</publicAccountantLei>"
+"685","          <publicAccountantStateCountry publicAccountantCountry=US publicAccountantState=US-PA/>"
+"686","        </publicAccountant>"
+"687","      </publicAccountants>"
+"688","      <isPublicAccountantChanged>N</isPublicAccountantChanged>"
+"689","      <isMaterialWeakness>N</isMaterialWeakness>"
+"690","      <isOpinionOffered>N</isOpinionOffered>"
+"691","      <isMaterialChange>N</isMaterialChange>"
+"692","      <isAccountingPrincipleChange>N</isAccountingPrincipleChange>"
+"693","      <isPaymentErrorInNetAssetValue>N</isPaymentErrorInNetAssetValue>"
+"694","      <isPaymentDividend>N</isPaymentDividend>"
+"695","    </registrantInfo>"
+"696","    <managementInvestmentQuestionSeriesInfo>"
+"697","      <managementInvestmentQuestion>"
+"698","        <mgmtInvFundName>VANGUARD CONVERTIBLE SECURITIES FUND</mgmtInvFundName>"
+"699","        <mgmtInvSeriesId>S000002837</mgmtInvSeriesId>"
+"700","        <mgmtInvLei>ST110J2JWP7JTCF0S416</mgmtInvLei>"
+"701","        <isFirstFilingByFund>Y</isFirstFilingByFund>"
+"702","        <numAuthorizedClass>1</numAuthorizedClass>"
+"703","        <numAddedClass>0</numAddedClass>"
+"704","        <numTerminatedClass>0</numTerminatedClass>"
+"705","        <sharesOutstandings>"
+"706","          <sharesOutstanding sharesOutstandingClassName=Investor Shares sharesOutstandingClassId=C000007767 sharesOutstandingTickerSymbol=VCVSX/>"
+"707","        </sharesOutstandings>"
+"708","        <fundType>N/A</fundType>"
+"709","        <isNonDiversifiedCompany>N</isNonDiversifiedCompany>"
+"710","        <isForeignSubsidiary>N</isForeignSubsidiary>"
+"711","        <isFundSecuritiesLending>N</isFundSecuritiesLending>"
+"712","        <didFundLendSecurities>N</didFundLendSecurities>"
+"713","        <paymentToAgentManagerType>N/A</paymentToAgentManagerType>"
+"714","        <avgPortfolioSecuritiesValue>N/A</avgPortfolioSecuritiesValue>"
+"715","        <netIncomeSecuritiesLending>N/A</netIncomeSecuritiesLending>"
+"716","        <relyOnRuleTypes>"
+"717","          <relyOnRuleType>Rule 32a-4 (17 CFR 270.32a-4)</relyOnRuleType>"
+"718","          <relyOnRuleType>Rule 12d1-1 (17 CFR 270.12d1-1)</relyOnRuleType>"
+"719","          <relyOnRuleType>Rule 17a-7 (17 CFR 270.17a-7)</relyOnRuleType>"
+"720","        </relyOnRuleTypes>"
+"721","        <isExpenseLimitationInPlace>N</isExpenseLimitationInPlace>"
+"722","        <isExpenseReducedOrWaived>N</isExpenseReducedOrWaived>"
+"723","        <isFeesWaivedRecoupable>N</isFeesWaivedRecoupable>"
+"724","        <isExpenseWaivedRecoupable>N</isExpenseWaivedRecoupable>"
+"725","        <investmentAdvisers>"
+"726","          <investmentAdviser>"
+"727","            <investmentAdviserName>Oaktree Capital Management, LP</investmentAdviserName>"
+"728","            <investmentAdviserFileNo>801-48923</investmentAdviserFileNo>"
+"729","            <investmentAdviserCrdNo>000106793</investmentAdviserCrdNo>"
+"730","            <investmentAdviserLei>JOAJT0QKF9HWVYTX5K56</investmentAdviserLei>"
+"731","            <investmentAdviserStateCountry investmentAdviserState=US-CA investmentAdviserCountry=US/>"
+"732","            <isInvestmentAdviserHired>N</isInvestmentAdviserHired>"
+"733","          </investmentAdviser>"
+"734","        </investmentAdvisers>"
+"735","        <transferAgents>"
+"736","          <transferAgent>"
+"737","            <transferAgentName>The Vanguard Group, Inc.</transferAgentName>"
+"738","            <transferAgentFileNo>084-00772</transferAgentFileNo>"
+"739","            <transferAgentLei>5493002789CX3L0CJP65</transferAgentLei>"
+"740","            <transferAgentStateCountry transferAgentState=US-PA transferAgentCountry=US/>"
+"741","            <isTransferAgentAffiliated>Y</isTransferAgentAffiliated>"
+"742","            <isTransferAgentSubAgent>N</isTransferAgentSubAgent>"
+"743","          </transferAgent>"
+"744","        </transferAgents>"
+"745","        <isTransferAgentHiredOrTerminated>N</isTransferAgentHiredOrTerminated>"
+"746","        <pricingServices>"
+"747","          <pricingService>"
+"748","            <pricingServiceName>JPMorgan Chase Bank</pricingServiceName>"
+"749","            <pricingServiceLei>7H6GLXDRUGQFU57RNE97</pricingServiceLei>"
+"750","            <pricingServiceStateCountry pricingServiceState=US-OH pricingServiceCountry=US/>"
+"751","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"752","          </pricingService>"
+"753","          <pricingService>"
+"754","            <pricingServiceName>ICE Data Pricing and Refernce Data LLC</pricingServiceName>"
+"755","            <pricingServiceLei>13-36687789</pricingServiceLei>"
+"756","            <pricingServiceIdNumberDesc>TIN</pricingServiceIdNumberDesc>"
+"757","            <pricingServiceStateCountry pricingServiceState=US-NJ pricingServiceCountry=US/>"
+"758","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"759","          </pricingService>"
+"760","          <pricingService>"
+"761","            <pricingServiceName>Thomson Reuters Markets LLC</pricingServiceName>"
+"762","            <pricingServiceLei>20-4530702</pricingServiceLei>"
+"763","            <pricingServiceIdNumberDesc>TIN</pricingServiceIdNumberDesc>"
+"764","            <pricingServiceStateCountry pricingServiceState=US-MA pricingServiceCountry=US/>"
+"765","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"766","          </pricingService>"
+"767","          <pricingService>"
+"768","            <pricingServiceName>ITG Analytics Inc</pricingServiceName>"
+"769","            <pricingServiceLei>41-2190282</pricingServiceLei>"
+"770","            <pricingServiceIdNumberDesc>TIN</pricingServiceIdNumberDesc>"
+"771","            <pricingServiceStateCountry pricingServiceState=US-NY pricingServiceCountry=US/>"
+"772","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"773","          </pricingService>"
+"774","          <pricingService>"
+"775","            <pricingServiceName>Markit North America INC</pricingServiceName>"
+"776","            <pricingServiceLei>13-4153988</pricingServiceLei>"
+"777","            <pricingServiceIdNumberDesc>TIN</pricingServiceIdNumberDesc>"
+"778","            <pricingServiceStateCountry pricingServiceState=US-NY pricingServiceCountry=US/>"
+"779","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"780","          </pricingService>"
+"781","          <pricingService>"
+"782","            <pricingServiceName>Markit Group Limited</pricingServiceName>"
+"783","            <pricingServiceLei>549300HLPTRASHS0E726</pricingServiceLei>"
+"784","            <pricingServiceCountry>GB</pricingServiceCountry>"
+"785","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"786","          </pricingService>"
+"787","          <pricingService>"
+"788","            <pricingServiceName>Bloomberg Finance LP</pricingServiceName>"
+"789","            <pricingServiceLei>5493001KJTIIGC8Y1R12</pricingServiceLei>"
+"790","            <pricingServiceStateCountry pricingServiceState=US-NY pricingServiceCountry=US/>"
+"791","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"792","          </pricingService>"
+"793","        </pricingServices>"
+"794","        <isPricingServiceHiredOrTerminated>N</isPricingServiceHiredOrTerminated>"
+"795","        <custodians>"
+"796","          <custodian>"
+"797","            <custodianName>State Street Trust Company Canada</custodianName>"
+"798","            <custodianLei>549300L71XG2CTQ2V827</custodianLei>"
+"799","            <custodianCountry>CA</custodianCountry>"
+"800","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"801","            <isSubCustodian>Y</isSubCustodian>"
+"802","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"803","          </custodian>"
+"804","          <custodian>"
+"805","            <custodianName>State Street Bank and Trust Company, Boston</custodianName>"
+"806","            <custodianLei>571474TGEMMWANRLN572</custodianLei>"
+"807","            <custodianStateCountry custodianState=US-MA custodianCountry=US/>"
+"808","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"809","            <isSubCustodian>N</isSubCustodian>"
+"810","            <custodyType>Bank - section 17(f)(1) (15 U.S.C. 80a-17(f)(1))</custodyType>"
+"811","          </custodian>"
+"812","          <custodian>"
+"813","            <custodianName>CLEARSTREAM</custodianName>"
+"814","            <custodianLei>549300OL514RA0SXJJ44</custodianLei>"
+"815","            <custodianCountry>LU</custodianCountry>"
+"816","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"817","            <isSubCustodian>Y</isSubCustodian>"
+"818","            <custodyType>Foreign securities depository - rule 17f-7 (17 CFR 270.17f-7)</custodyType>"
+"819","          </custodian>"
+"820","          <custodian>"
+"821","            <custodianName>The Hongkong and Shanghai Banking Corporation Limited, Sydney</custodianName>"
+"822","            <custodianLei>2HI3YI5320L3RW6NJ957</custodianLei>"
+"823","            <custodianCountry>AU</custodianCountry>"
+"824","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"825","            <isSubCustodian>Y</isSubCustodian>"
+"826","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"827","          </custodian>"
+"828","          <custodian>"
+"829","            <custodianName>Skandinaviska Enskilda Banken AB (publ), Stockholm</custodianName>"
+"830","            <custodianLei>F3JS33DEI6XQ4ZBPTN86</custodianLei>"
+"831","            <custodianCountry>SE</custodianCountry>"
+"832","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"833","            <isSubCustodian>Y</isSubCustodian>"
+"834","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"835","          </custodian>"
+"836","          <custodian>"
+"837","            <custodianName>State Street Bank International GMBH</custodianName>"
+"838","            <custodianLei>ZMHGNT7ZPKZ3UFZ8EO46</custodianLei>"
+"839","            <custodianCountry>DE</custodianCountry>"
+"840","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"841","            <isSubCustodian>Y</isSubCustodian>"
+"842","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"843","          </custodian>"
+"844","          <custodian>"
+"845","            <custodianName>The Hongkong and Shanghai Banking Corporation</custodianName>"
+"846","            <custodianLei>2HI3YI5320L3RW6NJ957</custodianLei>"
+"847","            <custodianCountry>JP</custodianCountry>"
+"848","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"849","            <isSubCustodian>Y</isSubCustodian>"
+"850","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"851","          </custodian>"
+"852","        </custodians>"
+"853","        <isCustodianHiredOrTerminated>N</isCustodianHiredOrTerminated>"
+"854","        <shareholderServicingAgents>"
+"855","          <shareholderServicingAgent>"
+"856","            <shareholderServiceAgentName>The Vanguard Group, Inc.</shareholderServiceAgentName>"
+"857","            <shareholderServiceAgentLei>5493002789CX3L0CJP65</shareholderServiceAgentLei>"
+"858","            <shareholderServiceAgentStateCountry shareholderServiceAgentState=US-PA shareholderServiceAgentCountry=US/>"
+"859","            <isShareholderServiceAgentAffiliated>Y</isShareholderServiceAgentAffiliated>"
+"860","            <isShareholderServiceAgentSubshare>N</isShareholderServiceAgentSubshare>"
+"861","          </shareholderServicingAgent>"
+"862","        </shareholderServicingAgents>"
+"863","        <isShareholderServiceHiredTerminated>N</isShareholderServiceHiredTerminated>"
+"864","        <admins>"
+"865","          <admin>"
+"866","            <adminName>The Vanguard Group, Inc.</adminName>"
+"867","            <adminLei>5493002789CX3L0CJP65</adminLei>"
+"868","            <adminStateCountry adminState=US-PA adminCountry=US/>"
+"869","            <isAdminAffiliated>Y</isAdminAffiliated>"
+"870","            <isAdminSubAdmin>N</isAdminSubAdmin>"
+"871","          </admin>"
+"872","        </admins>"
+"873","        <isAdminHiredOrTerminated>N</isAdminHiredOrTerminated>"
+"874","        <aggregateCommission>0.00000000</aggregateCommission>"
+"875","        <principalTransactions>"
+"876","          <principalTransaction>"
+"877","            <principalName>Merrill Lynch, Pierce, Fenner &amp; Smith Inc.</principalName>"
+"878","            <principalFileNo>008-07221</principalFileNo>"
+"879","            <principalCrdNo>000007691</principalCrdNo>"
+"880","            <principalLei>8NAV47T0Y26Q87Y0QP81</principalLei>"
+"881","            <principalStateCountry principalState=US-NY principalCountry=US/>"
+"882","            <principalTotalPurchaseSale>744970722.24000001</principalTotalPurchaseSale>"
+"883","          </principalTransaction>"
+"884","          <principalTransaction>"
+"885","            <principalName>MUFG Securities Americas Inc.</principalName>"
+"886","            <principalFileNo>008-43026</principalFileNo>"
+"887","            <principalCrdNo>000019685</principalCrdNo>"
+"888","            <principalLei>K5HU16E3LMSVCCJJJ255</principalLei>"
+"889","            <principalStateCountry principalState=US-NY principalCountry=US/>"
+"890","            <principalTotalPurchaseSale>146989273.25000000</principalTotalPurchaseSale>"
+"891","          </principalTransaction>"
+"892","          <principalTransaction>"
+"893","            <principalName>Deutsche Bank Securities Inc.</principalName>"
+"894","            <principalFileNo>008-17822</principalFileNo>"
+"895","            <principalCrdNo>000002525</principalCrdNo>"
+"896","            <principalLei>9J6MBOOO7BECTDTUZW19</principalLei>"
+"897","            <principalStateCountry principalState=US-NY principalCountry=US/>"
+"898","            <principalTotalPurchaseSale>194361580.85000002</principalTotalPurchaseSale>"
+"899","          </principalTransaction>"
+"900","          <principalTransaction>"
+"901","            <principalName>Mizuho Securities USA Inc</principalName>"
+"902","            <principalFileNo>008-37710</principalFileNo>"
+"903","            <principalCrdNo>000019647</principalCrdNo>"
+"904","            <principalLei>5493004GRDTUI7EMIZ82</principalLei>"
+"905","            <principalStateCountry principalState=US-NY principalCountry=US/>"
+"906","            <principalTotalPurchaseSale>189086903.23000002</principalTotalPurchaseSale>"
+"907","          </principalTransaction>"
+"908","          <principalTransaction>"
+"909","            <principalName>Citigroup Global Markets Inc.</principalName>"
+"910","            <principalFileNo>008-08177</principalFileNo>"
+"911","            <principalCrdNo>000007059</principalCrdNo>"
+"912","            <principalLei>MBNUM2BPBDO7JBLYG310</principalLei>"
+"913","            <principalStateCountry principalState=US-NY principalCountry=US/>"
+"914","            <principalTotalPurchaseSale>209953641.41999999</principalTotalPurchaseSale>"
+"915","          </principalTransaction>"
+"916","          <principalTransaction>"
+"917","            <principalName>BARCLAYS CAPITAL INC.</principalName>"
+"918","            <principalFileNo>008-41342</principalFileNo>"
+"919","            <principalCrdNo>000019714</principalCrdNo>"
+"920","            <principalLei>AC28XWWI3WIBK2824319</principalLei>"
+"921","            <principalStateCountry principalState=US-NY principalCountry=US/>"
+"922","            <principalTotalPurchaseSale>406804499.71000004</principalTotalPurchaseSale>"
+"923","          </principalTransaction>"
+"924","          <principalTransaction>"
+"925","            <principalName>Wells Fargo Securities, LLC</principalName>"
+"926","            <principalFileNo>008-22947</principalFileNo>"
+"927","            <principalCrdNo>000007665</principalCrdNo>"
+"928","            <principalLei>VYVVCKR63DVZZN70PB21</principalLei>"
+"929","            <principalStateCountry principalState=US-NC principalCountry=US/>"
+"930","            <principalTotalPurchaseSale>274633080.94000000</principalTotalPurchaseSale>"
+"931","          </principalTransaction>"
+"932","          <principalTransaction>"
+"933","            <principalName>Vanguard CMT Funds - Vanguard Market Liquidity Fund</principalName>"
+"934","            <principalFileNo>N/A</principalFileNo>"
+"935","            <principalCrdNo>N/A</principalCrdNo>"
+"936","            <principalLei>1I6HV0TLSTR3A4XQ6L78</principalLei>"
+"937","            <principalStateCountry principalState=US-PA principalCountry=US/>"
+"938","            <principalTotalPurchaseSale>1994020232.50000000</principalTotalPurchaseSale>"
+"939","          </principalTransaction>"
+"940","          <principalTransaction>"
+"941","            <principalName>J.P. Morgan Securities LLC</principalName>"
+"942","            <principalFileNo>008-35008</principalFileNo>"
+"943","            <principalCrdNo>000000079</principalCrdNo>"
+"944","            <principalLei>ZBUT11V806EZRVTWT807</principalLei>"
+"945","            <principalStateCountry principalState=US-NY principalCountry=US/>"
+"946","            <principalTotalPurchaseSale>692845628.30999994</principalTotalPurchaseSale>"
+"947","          </principalTransaction>"
+"948","          <principalTransaction>"
+"949","            <principalName>Jefferies LLC</principalName>"
+"950","            <principalFileNo>008-15074</principalFileNo>"
+"951","            <principalCrdNo>000002347</principalCrdNo>"
+"952","            <principalLei>58PU97L1C0WSRCWADL48</principalLei>"
+"953","            <principalStateCountry principalState=US-NY principalCountry=US/>"
+"954","            <principalTotalPurchaseSale>560190703.92000008</principalTotalPurchaseSale>"
+"955","          </principalTransaction>"
+"956","        </principalTransactions>"
+"957","        <principalAggregatePurchase>6823198905.26000020</principalAggregatePurchase>"
+"958","        <isBrokerageResearchPayment>Y</isBrokerageResearchPayment>"
+"959","        <mnthlyAvgNetAssets>1101841519.57083340</mnthlyAvgNetAssets>"
+"960","        <dailyAvgNetAssets>0.00000000</dailyAvgNetAssets>"
+"961","      </managementInvestmentQuestion>"
+"962","    </managementInvestmentQuestionSeriesInfo>"
+"963","    <attachmentsTab>"
+"964","      <isLegalProceedings>false</isLegalProceedings>"
+"965","      <isProvisionFinancialSupport>false</isProvisionFinancialSupport>"
+"966","      <isIPAReportInternalControl>true</isIPAReportInternalControl>"
+"967","      <isChangeAccPrinciples>false</isChangeAccPrinciples>"
+"968","      <isInfoRequiredEO>false</isInfoRequiredEO>"
+"969","      <isOtherInfoRequired>false</isOtherInfoRequired>"
+"970","    </attachmentsTab>"
+"971","    <signature registrantSignedName=VANGUARD CONVERTIBLE SECURITIES FUND signedDate=2019-06-24 signature=Christine M. Buchanan title=Treasurer/>"
+"972","  </formData>"
+"973","</edgarSubmission>"
+"974","</XML>"
+"975","</TEXT>"
+"976","</DOCUMENT>"
+"977","<DOCUMENT>"
+"978","<TYPE>GRAPHIC"
+"979","<SEQUENCE>2"
+"980","<FILENAME>vgconvertiblesecurities1x2x1.jpg"
+"981","<TEXT>"
+"982","begin 644 vgconvertiblesecurities1x2x1.jpg"
+"983","M_]C_X  02D9)1@ ! 0'_____  #_[@ .061O8F4 9      !_]L 0P 0PP.
+M# H0#@T.$A$0$Q@H&A@6%A@Q(R4=*#HS/3PY,S@W0$A<3D!$5T4W.%!M45=?
+M8F=H9SY-<7EP9'A<96=C_]L 0P$1$A(8%1@O&AHO8T(X0F-C8V-C8V-C8V-C
+M8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C_\  $0@
+MB 3 P$B  (1 0,1 ?_$ !\   $% 0$! 0$!           ! @,$!08' D*
+M__$ +40  (! P,! ,%!00$   !?0$ P $$042(3%!!A-180<B<10R@9&A"
+"984","M-L<$54M'P)#-B<H()A87&!D:)28G*DJ-#4V-S@Y.D-$149'2$E*4U15
+M5E=865IC9&5F9VAI:G-T=79W>'EZ@X2%AH>(B8J2DY25EI>8F9JBHZ2EIJ>H
+MJ:JRL[2UMK>XN;KP\3%QL?(R<K2T]35UM?8V=KAXN/DY>;GZ.GJ\?+S]/7V"
+"985","M]_CY^O_$ !\!  ,! 0$! 0$! 0$        ! @,$!08' D*__$ +41  (!"
+"986","M @0$ P0'!00$  $=P ! @,1! 4A,08205$'87$3(C*!!1D:&QP0DC,U+P
+M%6)RT0H6)#3A)?$7&!D:)B<H*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E
+M9F=H:6IS='5V=WAY>H*#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6V
+MM[BYNL+#Q,7&Q\C)RM+3U-76U]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_:  P#
+M 0 $0,1 #\ ] HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB
+M@ HHHH **** BBB@ HHHH **** BBB@ HJ&YN$MHO,<$C..*J?VQ;_ -R7
+M\A_C42J0B[29482EJD:-%9XU>W) V2\^P_QK0IQG&7PL)1<=T%%%%42%%%%
+M!1110 4444 %%%% !1110 4444 %%%% &;KS;-,9LXPPYKE_M!_YZG\ZZ7Q)
+M_P @B3_>7^=<=7F8SXUZ'J8-)TWZEU+C]XN93U'>NILKR+RCOF+'=UY-<4OW
+MU^M;MK_JC]:PA7='5%8BDI)'2131S9\MLXZ\5)6;I/67\/ZUI5ZM&HZE-2?4
+M\N<>65@HHHK4D**** BBB@ HHHH **** BBB@ HJK>ZC:6&S[7.L6_.W(/
+M./\ ]=5?^$BTG_G]3\C_ (4N9+J6H2:ND1>*VV:'*Q[,O\ZX/[0OHU=CKNH6
+MNKZ8]GI\PGN'(*QJ#DX.37+_ //ZK_SXR_I7)6ASRNCT<(XP@U-V=^HV.[0"
+"987","M%?E;M6Q;ZI$L9!C?K[5FKH6J#&;*7\JMQZ/J '-I)^5<DJ#?1G5*5&2UDOO-"
+"988","MG3=9A3S/W;G./3WKH8W$D:.!@, 17'VVF7J;MUM(,X[5UULI6VB5A@A /PK
+MTJ$>6FD>9BHP3O!DM%%%:G(%%%% !1110 4456N[^SL4W7=S# .O[QP,T 6:
+M*S1K^E?8$O3?1+;OG:[';NP<' /)JQ8:C9ZE$9;*YCG0==AY'U':@U15.ZU"
+"989","M73[,XN;ZWB/H\@!_*K FC, F#KY17?OSQC&<Y]* ,_6M%BU@0B65X_*SC: <"
+"990","MYQ_A65_PA-K_ ,_<O_?(K>LM2LM0W_8KJ*?9C=Y; XSTS^516NMZ;>7TEE;W"
+"991","M<<EQ'G<@]NN/7\*EPBW=HUC6J15HLHZ7X8@TV^2ZCN)'9 1M(&.1BMZJ.H:O"
+"992","MI^F#-[=Q0G^ZS?,?PZU'IVOZ5JC[+*]CD?\ N'*L?P/--)+1$3G*;O)FE111"
+"993","M3)BBB@ HHHH **** BBB@ KS+XC:5;6-W;W4(?S;MI&E+-GD;>GIU->FUY"
+"994","M_P#%/_F&?]M?_9: (_#OAPUKPU#<S2SQW+;PKALA<,<<>E<_P';F72/$\4"
+"995","M1.0TOV:50<!@3M/Y=?PKM?!^J66G>#();NYCC&0E2PW'YCP!U)KDO#5A-KO
+MBH7*HP@2<W$C8X'S;@,^I- #/&VDVFCZREO9*RQO)&8MR2P[_2NB\4:O+%
+MX=L=*L@QFFM%DF*G[D07G/UP?P'O67\3/^1BA_Z]E_\ 0FK0TO2I$\*:IK%Z
+M ;BZML7^Q&%P/SP/P H 3X6??U/Z1?^S5F:!!)#J^I:[C-M8&5@<\.YR OZ"
+"996","MU3\+W%ZZ7>E:<O[^_P!B&3G$:#=N/'UKT>;08H_LNCVH S54GC<_7)^IH"
+"997","MX'PI:?\ 2^*))M3;S@JF:0-T?H /IR/RJYJ'A;5V\6/-9VGE6YG#QRJRA47
+M(YZ\8]*R?^J'PYKY>\C=$PT,R[?F7\/8@5Z%=>--#MXD=;OSV<95(E)/X^G"
+"998","MXT =!124M !1110 4444 %%%% !1110 5Y_\4_\ F&?]M?\ V6O0*YW4?!FF"
+"999","M:G>27-S)=,[MG EX'T&.* ,CP?X9TC4O#UO=7EF)9F9\MO89PQ X!KL;.RMK"
+"1000","M 06<0Q#G:@Q^/O6=HOAJRT29Y+.2X.Y=I623*]0<XQUXK9H RM3\.Z7JUP"
+"1001","MMQ?6OFRJH0-O8<9)['W-7I;.WFL6LWC!MV3RR@./EQC%3T4 9NEZ%INCO(]A"
+"1002","M;)I  QW%B1^)K2HHH Q]4\,:1JLQFN[0&8]9$8J3]<=:;8^$]$L'$D-BC..
+M0TI+X_/BMJB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@"
+"1003","M HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** "
+"1004","2BBB@ HHHH **** BBB@#__9
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INTERNAL CONTROL RPT
+<SEQUENCE>3
+<FILENAME>VGConvert.Secs.Fund113018.htm
+<TEXT>
+
+<HTML>
+<HEAD>
+   <TITLE>vgconvertiblesecurities11301.htm - Generated by SEC Publisher for SEC Filing</TITLE>
+</HEAD>
+
+<BODY bgcolor=#ffffff>
+
+
+<!--$$/page=-->
+<A name=page_1></A><BR>
+
+<IMG src=vgconvertiblesecurities1x1x1.jpg border=0>
+<BR>
+<P style=text-align: center;>
+<B><FONT size=2 face=Georgia-Bold,Times New Roman,Times,serif>Report of Independent Registered Public Accounting Firm</FONT></B></P>
+<P style=text-align: left;>
+<FONT size=2 face=Georgia,Times New Roman,Times,serif>To the Board of Trustees and Shareholders of Vanguard Convertible Securities Fund</FONT></P>
+<P style=text-align: left;>
+<FONT size=2 face=Georgia,Times New Roman,Times,serif>In planning and performing our audit of the financial statements of Vanguard Convertible Securities Fund (hereafter referred to as the &#147;Trust&#148;) as of and for the year ended November 30, 2018, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (&#147;PCAOB&#148;), we considered the Trust&#146;s internal control over financial reporting, including controls over safeguarding securities, as a basis for designing our auditing procedures for the purpose of expressing our opinion on the financial statements and to comply with the requirements of Form N-CEN, but not for the purpose of expressing an opinion on the effectiveness of the Trust&#146;s internal control over financial reporting. Accordingly, we do not express an opinion on the effectiveness of the Trust&#146;s internal control over financial reporting.</FONT></P>
+<P style=text-align: left;>
+<FONT size=2 face=Georgia,Times New Roman,Times,serif>The management of the Trust is responsible for establishing and maintaining effective internal control over financial reporting. In fulfilling this responsibility, estimates and judgments by management are required to assess the expected benefits and related costs of controls. A company&#146;s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of a company&#146;s assets that could have a material effect on the financial statements.</FONT></P>
+<P style=text-align: left;>
+<FONT size=2 face=Georgia,Times New Roman,Times,serif>Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.</FONT></P>
+<P style=text-align: left;>
+<FONT size=2 face=Georgia,Times New Roman,Times,serif>A deficiency in internal control over financial reporting exists when the design or operation of a control does not allow management or employees, in the normal course of performing their assigned functions, to prevent or detect misstatements on a timely basis. A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the company's annual or interim financial statements will not be prevented or detected on a timely basis.</FONT></P>
+<P style=text-align: left;>
+<FONT size=2 face=Georgia,Times New Roman,Times,serif>Our consideration of the Trust&#146;s internal control over financial reporting was for the limited purpose described in the first paragraph and would not necessarily disclose all deficiencies in internal control over financial reporting that might be material weaknesses under standards established by the PCAOB. However, we noted no deficiencies in the Trust&#146;s internal control over financial reporting and its operation, including controls over safeguarding securities, that we consider to be a material weakness as defined above as of November 30, 2018.</FONT></P>
+<P style=text-align: center;>
+<I><FONT size=2 face=Georgia-Italic,Times New Roman,Times,serif>PricewaterhouseCoopers LLP, Two Commerce Square, Suite 1800, 2001 Market Street, Philadelphia, PA 19103-7042</FONT></I></P>
+<TABLE border=0 cellspacing=0>
+<TR>
+	<TD nowrap valign=top width=2%>
+<I><FONT size=2 face=Georgia-Italic,Times New Roman,Times,serif>T:</FONT></I>&nbsp; &nbsp; &nbsp; 	</TD>
+	<TD width=98%>
+<I><FONT size=2 face=Georgia-Italic,Times New Roman,Times,serif>(267) 330 3000, F: (267) 330 3300, </FONT></I><FONT size=2 face=Georgia,Times New Roman,Times,serif>www.pwc.com/us</FONT>	</TD>
+</TR>
+</TABLE>
+
+<HR noshade align=center width=100% size=2><DIV STYLE=page-break-before: always>&nbsp;</DIV>
+
+
+
+<!--$$/page=-->
+<A name=page_2></A><BR>
+
+<IMG src=vgconvertiblesecurities1x2x1.jpg border=0>
+<BR>
+<P style=text-align: left;>
+<FONT size=2 face=Georgia,Times New Roman,Times,serif>This report is intended solely for the information and use of the Board of Trustees of Vanguard Convertible Securities Fund and the Securities and Exchange Commission and is not intended to be and should not be used by anyone other than these specified parties.</FONT></P>
+<IMG src=vgconvertiblesecurities1x2x2.jpg border=0>
+<BR>
+
+
+</BODY>
+
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>vgconvertiblesecurities1x2x2.jpg
+<TEXT>
+begin 644 vgconvertiblesecurities1x2x2.jpg
+M_]C_X  02D9)1@ ! 0'_____  #_[@ .061O8F4 9      !_]L 0P 0PP."
+"1005","M# H0#@T.$A$0$Q@H&A@6%A@Q(R4=*#HS/3PY,S@W0$A<3D!$5T4W.%!M45=?"
+"1006","M8F=H9SY-<7EP9'A<96=C_]L 0P$1$A(8%1@O&AHO8T(X0F-C8V-C8V-C8V-C"
+"1007","M8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C_\  $0@"
+"1008","M5 %! P$B  (1 0,1 ?_$ !\   $% 0$! 0$!           ! @,$!08' D*
+M__$ +40  (! P,! ,%!00$   !?0$ P $$042(3%!!A-180<B<10R@9&A"
+"1009","M-L<$54M'P)#-B<H()A87&!D:)28G*DJ-#4V-S@Y.D-$149'2$E*4U15
+M5E=865IC9&5F9VAI:G-T=79W>'EZ@X2%AH>(B8J2DY25EI>8F9JBHZ2EIJ>H
+MJ:JRL[2UMK>XN;KP\3%QL?(R<K2T]35UM?8V=KAXN/DY>;GZ.GJ\?+S]/7V"
+"1010","M]_CY^O_$ !\!  ,! 0$! 0$! 0$        ! @,$!08' D*__$ +41  (!"
+"1011","M @0$ P0'!00$  $=P ! @,1! 4A,08205$'87$3(C*!!1D:&QP0DC,U+P
+M%6)RT0H6)#3A)?$7&!D:)B<H*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E
+M9F=H:6IS='5V=WAY>H*#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6V
+MM[BYNL+#Q,7&Q\C)RM+3U-76U]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_:  P#
+M 0 $0,1 #\ ] HHHH ***JZE?1:;I\]Y.?W<*[C[^@_$T 4M8\06NDR1P-'"
+"1012","M-<W,@RL$[GQZGT%6]*U.VU:Q2[M&)C;(PPP5(Z@BLWPSIACCDU:[&Z_OOWC
+MD_\ +-3T0?08JKX)4XU>1%VP/?/Y:@\#'7^E '44444 %%%% !1110 4E+6'
+MXIU>ULX;6R8K>WLHAA8?P^K?@/YT ;=+3(U*1JK,6( !8]_>GT %%%)0 53"
+"1013","MT_5+?4FN1;;V6WD,3.1\K$=<'O6?XIU@Z=9K;6P\R^O#Y4$8.#SQN_#-7M%T"
+"1014","MV/2=+@LXO^6:_,?[S=S^= %^BBB@ HHHH ***S==UBWT33VN[CYN<)&#R[>@"
+"1015","MH O3SQ6T+33R+'&@RS,< DM[B&ZA6:WE26)NCH<@UQMK;:GXTA2ZOI38VN"
+"1016","M&ABC7)D([DGJ/\XK2T#1;[0]8N(EE\_3KA/,W$!2LF>F!ZCTH Z6BBB@ HHH"
+"1017","MH **** BBB@ HHHH **** BBB@ HHHH *Y?Q!(NI^(=/T,N@A_X^9P3RX'"
+"1018","M1?TKIR<#)ZO/-)M5\4^,+_4&DF2W@P(WC?:V>BX/T!- '1^(O$/V%DT_35%
+MQJ4WRI&O(C![G'2M/1]-BTG38;.(DA!EF/5F/)/YUR7\.E^(((=%T]&B>X%"
+"1019","MM/=2DL\KD_,%8G/'4UWE %2SN+N6XNDN;40QQOMB??GS%]?:KE9,WB32X=5C"
+"1020","MTTW&ZY=MF%&0K=@3ZTFL^(K'1B$G+R3$;O)B&Y@O<GT% &O14<$J3P1S1G*2"
+"1021","M*&4^H-<_XC\13V&H6FF:;LU[.P)#<A5SZ#_ #Q0!TE)5;4KV+3M/GO)ON0H
+M6.._H*YQO$DMAI=A;2,L^JW*J6#G BWG@O@>X&* .K9@JEF(  R2>U>?1>)K
+M2^\7&^NF8V]FK):1QQEF<GC=CZ9_2D\9V]]9Z0KZIJDES//(%2*(>7$H R3C
+M^+_Z];GAJULO#GAJ*[O=D$DBAY9''S9/1?7ICB@V-5U:]YT[2#'&>DMZ_E_"
+"1022","M^.C)K1LXK]6WWMS^1_JXHBH!^I))_2C3=3M-5MC<6,HEC#%2<$8(^M<_P)"
+"1023","M/$C0R26FGSK$8>)YMNY@QZ1H.[']* .KJMJ6H0:98RW=RVV.,=NI/8#WJIX;"
+"1024","MCU+1HO[5E:2Y;+'?U4'H#[US.L7LNJZD9H@)K>7R++^&:X[N?55H G\*6
+M=SJNM76O:D#N1C'!&>0GKC/IT^N:[.J^GVHLK&V!W>6H!8_Q'N?Q.35B@!:"
+"1025","M**2@!:*P[OQ-;V]XL*6\\T7G+!).@&Q'/;W_  K;H 9<3QVUO)/,VV.-2S'T"
+"1026","M KSRWMYO&>MF6Y+BV7GCI%'_  K_ +S=<]A6[X\N)7LK;2;1A]HOY0FW/.W_"
+"1027","M  SBMK1-*@T;38[2!1P,NW=V[F@]&BQQJB*%50  .@%+6)K'B6#3Y)+:VAE
+MO+Q!S'$,A<!=Q[9)%5M)\71W\3HUA=_:XLB6**/>%.?7_&@#I:*SX-:L9]-"
+"1028","M>_\ -\N/(DWC!0CJ/6N?NO$NH0ZEI]Q*D5KI5U(442\.RX^^?[HY'% '84"
+"1029","M51T[5K/4U=K21F $ED*Y!S@C/4<'GVK,TCQ&=1UR>S,0%NRE[64?\M%4[6/
+MYYQ0!T-%,66-I&C5U+KC<H/(^HI] !4;S1QO&CN%:0[4!_B.>/P!I]<\UR-"
+"1030","M6\6QVT1S;Z6#)(P[RD;0OX F@#H:*YZ\O;K5M;_LO3IC%;6^#>SH<-GLBGL:"
+"1031","MC\7:M)IMM;Z?9/MN+CC<7 *H.O+=ST% &G/X@TJWOUL9;R-;AF[>>#Z$]!6
+ME7%)X?O-1BM;-M/BTZPAE$LA>4232GW([GFNU'2@!:*** BBB@#&\6:C_9G"
+"1032","MA^YF4_O'7RX_]YN/\3^%<Z\DOA/P1;QP)MU\/I\P9N<X]A@?6MSQ%I=UJNH
+MZ5&@'V.*8RSDGN,8&/?D?C2/ID][XP^V7:'[)9Q#[-SP7/4X]O\ @#(\(6I"
+"1033","MO!#J=ULAM]/5HH8B<D-_&[GUZU2@U>XOYG\J=O/UF<PJFXX@@7C<!Z]?R-;,"
+"1034","M_AB]?4KN*.[6/2;V7SIT7(D)[J#Z&H(/ OV&%9[&]*ZC%*7BE8?*%_ND>GO0"
+"1035","M!=O=T/1-*:]^PAVM )%<L=[,#QD_6LBU&K2Q6\C[M0U!%N+Z51_JH.JQCT"
+"1036","MS\HK5N--\1:M9266HSZ?!!(,.T*,S$9SQG@=*I:1HGB#0HY;6Q33760Y^TON"
+"1037","MW>V1WQZ4 =%JVKV6AV)EN9%4*OR1 _,WH *X]+P:59R^)+_$FK7P/V:$G_5H"
+"1038","M>AQZ8_P[UNVOA&&5Y[G6IC?WDZE6<C:L8/&%';ZT\^#M/-A/;O)-++*@07$C"
+"1039","M;G15QM ] ,#B@#G[^\EDL;>VOGEN%MHQ?7^XXRS?<B]ADCC\:GT*%[WQ#L*J"
+"1040","MR1@7-ZVT8,QY5 ?1>./4&M^#PS:KI-Q97,CW#W1W3SGAW;.0?;%5+;PI-82R"
+"1041","M)INK36MI,0TD80,Y(&#ASTS0!EZ_/;:QXVTVP>0&VMV.X_PL_4KG\%'XTR_U"
+"1042","M<WOB&YCEA%S+92&*QLE7(=SP7;V%=1+X;TF:PCLY+-3#&2R\D,>ISUR:SW\
+M'PVMPMUH=U)IUP!M)_UBL/<-0!2NKJ;PWH:Z=:E9]6G#3RX'9Y9OZ#UJ7P9"
+"1043","MH>GBQM]3,C7=RZ[B9(G/7 ]<]SS5S3OJ0W[:AJ5Y)?7;,6(V+QT^4>F!"
+"1044","M[<5:F\-:;)<O<QI+;S2'+M;S-'N/N <4 4_'&LG2]',,# 75U^[0#J!W(_SW"
+"1045","MKEO#LTWA^]5]84A$L7E@C;K'EN@'8G^M=;8>%;:TUJ;4)7:X.%$ E8N8^.3D"
+"1046","MDY.?RI_B7PQ;>($1Y)'AN(U*HZ\C\1WH Y(:I?Z[K-M:27LH@8>;=1PG8L2C"
+"1047","M)P&')P,9SWI^B374>O):6$TEK;7+B?RY&+%85Y!^;H6_E70Z;X.M]/T>[M$N"
+"1048","M&-S=1E'N=O('H!Z?SJ-_ ]F+:W2YFAFCRLLXY:56&&!]..!Z4 5/$6IW&HZ
+M??3V\S0Z9!\D;Q'#W,N<#!_N@^G7%7-:FN[+PMI\4T[I),\,%S-G!52/F.>W
+MIFD/@B'R%C_M*[(@.;4,05A.<YQWJ=?#$MZQ.NZE-J_PPJ/*C'N0#R: PA
+MM]4N[;[)$5TK3C^Y.,:3ID>H'//<FKFHZXD,OV/3T^VW[#Y8D/>[GL*9%X
+M;M88/LZ75\+;&!+A@H'IZX_&K^GZ;9Z9 8;*W2%<D+U)]SU- ''R6%Q:^-
+M]&GOIO-NKA7:5A]P,%.%4=@.*ZKQ!?R:9HEU>0IODB3*@^I.,_AG--UK1H]6
+M6%O.DM[BW;=#-&>4/T[U37P[<74)AUG5KB]B/6)%$2GZXY/YT <\LZ6?AZ6_
+M@D8Q1X=99.&NKD_Q'/55)X'J/:K,=C:Z;HEA);2I_;32(RLDFYI'8C<!U7&"
+"1049","M?RK<M_FE0J%>*2Y11M1+B0NJ#_9!X%8WBB+2O^F,^G6L<%_< QQ.N2RC^("
+"1050","M@GIQ_.@#O+S_B=:EJ$476F1W 9HGE$:O*!@''\7.3BGZN=7UC4=)N]2@@M"
+"1051","M;::39!'+DJ.A^8=>?PKHO?A6RM=.M+N\MQ)>LOF9<DA<\CCID#%='?6-KJ-
+MN;>\@2:(G.UAW]?:@#DM5O/[)1[.^BEU+475))BH2.!,8' X&.<?B:7R])\"
+"1052","M&6?VI+AKZ^,9CB!<'CJ< ?=7N:Z2+0M+ALGLTL81;N=S(5R?4YI++0-*L&9
+MK6PA1F!4G;DX/4<T <KX(MVN=>O-2CD>2(1;))6/^MD8@DCV&/Y5W=-BBCAC
+M6.&-8T7@*HP!^%/H Y_Q9XB&B6@C@&^^F!\I,9P.[&LW199XM#DMM#L;E[IP
+M7DN;M?+5G(Y(/<^@_,UUYC0R+(44NHP&QR!]:=0!QOA^'Q!I%D+:/1(6+L7D
+ME>Z +,>YZU+HUI)K'B2[U+58566Q(@BC )0$ DL>O7CZUUM% !2T44 %%%%"
+"1053","M !1110 E%4=7U2/2+3[3-!-+'NGRMI*Y.!U([U=C8O&K,C(2,E6QD>QQQ0
+MZBBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH 0"
+"1054","MD $DX [UYZLI\9^,(F$1.FV).2>0P!XS_O'''H*]!=%D1D<95@01[53TO1[#"
+"1055","M1XWCT^#R4D.YAO9LG\2: +HX&!2T44 %%%% !1110 4444 %%%% !1110 44"
+"1056","M44 %%%% ',>)3J-[]HTU+5FBD:$P.D;$'YLN6;[J@8[U#K N&UV*9=.9#!<Q"
+"1057","M$30VK.\D?\1,@[#.-O6NMHH6@,X:&V$%PDMOI]U&_P#:I8LMI(/W!'/\/W?:"
+"1058","MI+6T>RO].C_LV<26UW/ETMR5$;[M@# 8QR/IWQ7:T4 ]?Z]?\SB;..4WET\V"
+"1059","MF/;Q7%E(LD$-DZIO!X!P/G.,_-WSQ2)I-O9Z+IVK6VG$7UNT?G1RQLK2' 0C"
+"1060","M#=\D$$>E=O4$UI#//%+*&9HCE!O;;GU*YP3[D<4 9[6$.G^&WM5CD&V,Y%L'"
+"1061","M#%SZ;.>OZ>U95K96S^'[.:ZL?-O5@2UCBNX. _T8>^2?05UE12012312NN7B"
+"1062","M)*')X)&<?2@E8/!8S1:-%%*OE6X=7V81AG!P?7)R?K6-=VUM)K)80WJ2I="
+"1063","M+*UTUK(S''&Q&5?N?4XY/6NG$$8G:<+^\90I;/8=O;K4E'6X=+'%M97!9E%G"
+"1064","M<?VQ]OWB[\L[?+W=?,QC;MXVY_IYH;F75M:BLA>1/<6ZI#-(DNS>-Q8!F&
+M.>,<>E=;2, RE3G!&.#BETL/K?\ K>YSFAQO'KLR06)LK9+55FC^3!ESP?E)
+M&<?CTSVKI*AMK:&TA$4;$'.,Y)/J2>2?<U-5$A1112&%%%% !1110 4444"
+"1065","M%%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4"
+"1066","M444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !11"
+"1067","A10 4444 %%%% !1110 4444 %%%% !1110 4444 ?__9"
+"1068","end"
+"1069","</TEXT>"
+"1070","</DOCUMENT>"
+"1071","<DOCUMENT>"
+"1072","<TYPE>GRAPHIC"
+"1073","<SEQUENCE>5"
+"1074","<FILENAME>vgconvertiblesecurities1x1x1.jpg"
+"1075","<TEXT>"
+"1076","begin 644 vgconvertiblesecurities1x1x1.jpg"
+"1077","M_]C_X  02D9)1@ ! 0'_____  #_[@ .061O8F4 9      !_]L 0P 0PP.
+M# H0#@T.$A$0$Q@H&A@6%A@Q(R4=*#HS/3PY,S@W0$A<3D!$5T4W.%!M45=?
+M8F=H9SY-<7EP9'A<96=C_]L 0P$1$A(8%1@O&AHO8T(X0F-C8V-C8V-C8V-C
+M8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C_\  $0@
+M?P4 P$B  (1 0,1 ?_$ !\   $% 0$! 0$!           ! @,$!08' D*
+M__$ +40  (! P,! ,%!00$   !?0$ P $$042(3%!!A-180<B<10R@9&A"
+"1078","M-L<$54M'P)#-B<H()A87&!D:)28G*DJ-#4V-S@Y.D-$149'2$E*4U15
+M5E=865IC9&5F9VAI:G-T=79W>'EZ@X2%AH>(B8J2DY25EI>8F9JBHZ2EIJ>H
+MJ:JRL[2UMK>XN;KP\3%QL?(R<K2T]35UM?8V=KAXN/DY>;GZ.GJ\?+S]/7V"
+"1079","M]_CY^O_$ !\!  ,! 0$! 0$! 0$        ! @,$!08' D*__$ +41  (!"
+"1080","M @0$ P0'!00$  $=P ! @,1! 4A,08205$'87$3(C*!!1D:&QP0DC,U+P
+M%6)RT0H6)#3A)?$7&!D:)B<H*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E
+M9F=H:6IS='5V=WAY>H*#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6V
+MM[BYNL+#Q,7&Q\C)RM+3U-76U]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_:  P#
+M 0 $0,1 #\ ] HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB
+M@ HHHH **** BBB@ HHHH **** BBB@ HJM?W7V2#S, _,!R<5G?VX?[D?
+M_?58SKP@[29K&E.:ND;5%9$6M;Y40I& S 9W5JJRL,J01[&JA5C4^$F=.4/B
+M'4445H0%%%% !1110 4444 %%%% !1110 4444 %%%% &3XD;9IH.,_O!_(U
+MROG_ .S^M=-XJ8+I0)_YZC^1KD/-7WKS,4OWAZV#2]F7(KC$R';T8=ZZ6RU$
+M)!CRB>?6N3C_ -8GU%;MK_JOQKD]K.GK%E5X1DM3?M;D7(8A=NWWJQ6?I7W9
+M/J*T*]?#S<Z2E+<\JHDI-(****W(BBB@ HHHH **** BBB@ HHHH **QO$
+M%_J5B8/[.M?M&_=O_=,^W&,=.G4UC_V]XD_Z!?\ Y+2?XU#FD[&\*$IKF31H
+M^-&*Z*I!P?.7^1KA/-D_O&NQLWU#7Y6L]8L6AM@OF!EB>,[@0 ,GV)JT?!VF
+M>MP/^!C_  K<'4?,CLI58T(\D]SBTGE#+\YZUHPWEP$P)6ZUTH\(Z:/FG_
+M .^Q_A4B^&+!1@&;_OH?X5B\+)]$:O&468MEJ-VBOMG8=.PKLQT%9<?A^RCS
+M@RG/JW_UJU!P*[*4>2B<&(J0J-.%HHHK0Y@HHHH **** BBO.O%'B?Q'I"
+"1081","MMX;=U@M%<%H_+ =BN2,DG//% 'HM%>=SZIXQ?1(+R-5MA$&:5-CNPQRQ!_H
+M*L>$O%]_J$DMA=F*6Z,;-;.PV[V SM;'\_8T =Y17FFM^*?$VG:@+:Y:WMGP
+M&VQ(&&#[G-=5XQU]M#TM3 1]KG.V+(SMQU;'M_44 =#17)>-;O]7L;Z6^F$"
+"1082","MKPD;#LXX/H*Q_7BK4KC4KI]3N/,LTA:65BH CQTQC\L4 >BT5YY9^(];\4"
+"1083","M:R;/39EL+?!8L$#,JCN2>_(Z8ZTEEXEU33O%8TFYNC>V_P!H$!+H W)P/<"
+"1084","MT >B4444 %%%% !1110 4444 %%%% !7F?Q/_P0S:?]>_\ [,:],KS/XG_\
+MABT_Z]__ &8T =EX?>./PA9O+CRUM06SZ8YKSCP3;R7'BJS,0.(R9&([* ?_
+M *P_&NFT[P[JVJ^';2-]=:.RDB4^0L X7TR,_C72:#X=L=!A*VJEI7&'E<_"
+"1085","M,W^ H X+XC''BA2?^>?S-6-6$FN:5J^OWM]G39#8J_\*[P&8#_ #U/I70>"
+"1086","M(_!IUW5UO#>B) BH4\O)(!/?/O6MJ>AQ7?AU]'MF%M%M54.W=M (/3//2@#@"
+"1087","M/VK-INB7T5LGF7MW*D4$?N0<G\,UMWWAW^Q? -[&@#7<BH]PXYSA@<#V _K
+M6EX9\&PZ%=/=27'VF?&V-MFT(._<\FNFD1)8VCD4,C AE(R#VH \Q^&EQ'%"
+"1088","MKLT3D!IH$]R#C\L_E7HATW3TNS>FTMUN,Y\[8 V?7-<I>_#N%KSS]-OWM0"
+"1089","M#N%-VTY['(-7;;PC=/<12:MK=U>QQ,'6+E5W#H3DF@#JJ*** BBB@ HHHH"
+"1090","M **** BBB@ KD=>\&W6NWOVBYU95@K&JVWW5SG&=W/6NNHH R]!TV[TJT%"
+"1091","MK<7JW44:A8@(=A4#UY.:U*** BBB@ HHHH **** BBB@ HHHH **** BB
+LB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH _]D!"
+"1092","end"
+"1093","</TEXT>"
+"1094","</DOCUMENT>"
+"1095","<DOCUMENT>"
+"1096","<TYPE>INTERNAL CONTROL RPT"
+"1097","<SEQUENCE>6"
+"1098","<FILENAME>VGConvert.Secs.Fund113018.pdf"
+"1099","<DESCRIPTION>PDF OF REPORT ON INTERNAL CONTROL"
+"1100","<TEXT>"
+"1101","<PDF>"
+"1102","begin 644 VGConvert.Secs.Fund113018.pdf"
+"1103","M)5!$1BTQ+C4-)>+CS],-C8X(# @;V)J#3P\+TQI;F5A<FEZ960@,2],(#4Y
+M-3$Q+T\@-S O12 R,S4R.2].(#(O5 U.3$W-B]((%L@-#DQ(#(Q,5T^/@UE"
+"1104","M;F1O8FH-( @( @( @( @( @( @#0HX-2 P(&]B:@T\/]$96-O9&50
+M87)M<SP\+T-O;'5M;G,@-]0<F5D:6-T;W(@,3(^/B]&:6QT97(O1FQA=&5$"
+"1105","M96-O9&4O241;/$)04$X0CDR,T,X040R-#E03<T-49%1#=#,T0Q.3%#/CPS"
+"1106","M,$%#04(X,#<Q0S)&,S1$04(W1D(R-#$V04,R,#DR0CY=+TEN9&5X6S8X(#,P"
+"1107","M72]);F9O(#8W(# @4B],96YG=&@@.#@O4')E=B U.3$W-R]2;V]T(#8Y(# @"
+"1108","M4B]3:7IE(#DX+U1Y<&4O6%)E9B]76S$@,B Q73X^<W1R96%M#0IHWF)B9!!@"
+"1109","M8&)@6@<D&)>B'P@P;8;2+#*@HAD(,'!B(J0-Q)(-9$$&LED&#V!.E0 A+<"
+"1110","MD4*PI(L-LB6V'&)@8&2X#60P,C*01_QF7? ,(, ?: PJ#0IE;F1S=')E"
+"1111","M86T-96YD;V)J#7-T87)T>')E9@T*, T*)25%3T8-B @( @( @#0HY-R P
+M(&]B:@T\/]#(#$Q.2]&:6QT97(O1FQA=&5$96-O9&4O22 Q-#$O3&5N9W1H"
+"1112","M(#$Q.]/(#$P,R]3(#4R/CYS=')E86T-FC>8F!@8&-@8)K P,+ $-'&P,N"
+"1113","M +P,3$!1%@:.0SLK0T?&!A7<S1T@)A(:OBAF(%1B8&7*5/-_9N)8!%O1!YS
+MOHQ%YP&&R25S)/*8%H5LC,P7&H#J00B9B#-P<!PN1/9\Z#&\C-P/,#ZI*"
+"1114","M!B#  !B6$](-F5N9'-T<F5A;0UE;F1O8FH--CD@,!O8FH-/#PO3&%N9RC^"
+"1115","M_P!% $X +0!5 %,I+TUA<FM);F9O/#PO36%R:V5D('1R=64^/B]-971A9&%T"
+"1116","M82 Y(# @4B]/=71L:6YE<R Q,R P(%(O4&%G94QA>6]U=]/;F5#;VQU;6XO
+M4&%G97,@-C8@,!2+U-T<G5C=%1R9652;V]T(#$V(# @4B]4>7!E+T-A=&%L"
+"1117","M;V<^/@UE;F1O8FH--S @,!O8FH-/#PO0V]N=&5N='-;-S(@,!2(#<S(# @"
+"1118","M4B W- P(%(@-S4@,!2(#<V(# @4B W-R P(%(@-S@@,!2(#<Y(# @4ETO
+M0W)O<$)O>%LP+C @,XP(#8Q,BXP(#<Y,BXP72]'<F]U< Y-B P(%(O365D
+M:6%;WA;,XP(# N, V,3(N, W.3(N,%TO4&%R96YT(#8V(# @4B]297-O
+M=7)C97,\/]#;VQO<E-P86-E/#PO0U,P(#@V(# @4B]#4S$@.#<@,!2+T-3
+M,B X. P(%(^/B]%>'1'4W1A=&4\/]'4S @.#D@,!2/CXO1F]N=#P\+U14"
+"1119","M, Y,2 P(%(O5%0Q(#DS(# @4B]45#(@.34@,!2/CXO6$]B:F5C=#P\+TEM"
+"1120","M, X- P(%(^/CX^+U)O=&%T92 P+U-T<G5C=%!A<F5N=',@,]486)S+U,O
+M5'EP92]086=E/CX-96YD;V)J#3<Q(# @;V)J#3P\+T9I;'1E<B]&;&%T941E
+M8V]D92]&:7)S= W-R],96YG=&@@,3,W,].(#$Q+U1Y<&4O3V)J4W1M/CYS
+M=')E86T-FC>[%C;3AQ'%/R5?DP>R/3](EE(0(R#%&PK:\61$ \3F, JRR[:"
+"1121","M'4OVWZ?J],Q>8V,8RE1E(>B9WKF]+ETG9I><E1:Y:1,5CDK%U4N*GA5M#)!
+MJV*4U$5BSN/6:=,D45KVSA6T$Y$_$\*N^B5Q?-V<G)<;OJKE766/>7R^T9
+M^VC&R,R+%\W1V43]T<Y677-\WKQ>+._:67-RI,P/NGGS=GCRYNVY,LWD2/7+
+M#UTS.6]7?^+5>=>\^W3?-2\_]J\F?=MWS54K=HO[:G=XR/575]V\1[RZ.6GO
+M?^JF-[>]BL4U/W;UR8'3KCF=M3<KY7QSNICWQ\>+CQ<')CEYIHR)B?:7\OT"
+"1122","MO9O./GWWJELL;Z;M]S+WNKWKFF%&)B;]LNNO;L=\./6^>O9:-V=].YM>'<UO"
+"1123","M9IW2S:3O[GY%G6LR?)61+:?W_6+9_#8$[+.1;%@]OK+V]G)^M;B>SF^:]]/Y"
+"1124","MT7PU7=^?3I>K_N2V7<+%[J+<812_^;D=7K A-),/O_?T_PX5ED#6T6#EZ_YV"
+"1125","M=6&T!C/^O7^L!V.=4=Y8%;U3T8#=)JF$T1K0-57X5)_;I''O9?2QX'T/*FL5"
+"1126","MP/(0K HQJ& SQJBQCVHSFMGG$!\#/ )G6&Q1C(JHCNBMRIYW <'NZ*2#8@%
+M_E'Z@'Z+:*.HT446\8%=1W&>#DF^HI8Q\ .'1C)OA0ECX@U(IY+'HB9XQA#"
+"1127","M0 TU@P1^2&@-Q\1JSP'31R0A=:M+%%2P=TN\WH>/1A0*<'A^>(76SAQSOX"
+"1128","M\+CGX+X7,(:O+;*^UHGB0$C?;OB)&>.%CD%Q,YULDY2;X+Q&:NC).>12FY"
+"1129","M&NIJ.!H3$@10%W8JAR0+%#AA<+3/)LIS+\4+:P*$@*)8*PG%8>-K<:J]7-Q
+M1Q%XIQL(H+>%'* ;#X(A W>F8>]T4%O_2$'9/_WH'D&_!A&^3#-LB9D0\/
+MP=#D&IS8AG W T^U_W? ^X?.4$^;*/R88/@[(8/#RE$9Z$'9 3[!F,ESN*
+MF^+3BEORMN*BPP;%+<+Y+U/<@ZJGSQ3> ^,&Z<WY>DM>Z5W=/M5FS_5^#G
+M*3!5:*W V0N^J0)3R:C &/^6 N/4$-AIHL U5V=+G8_L,@@<.PQYV8R8*R,"
+"1130","MB0J;LHB7ITBCLZGVF4.)S0*FAX4^@D%-CB<48$=%?Z1 DM!/Z_ -9H+-BK"
+"1131","MP-4^V_#-%)B;NU^!TS^BP&[X&CN]OGY:@6W=YSU(L7)BW(L1E0\;!!\W?'B"
+"1132","MJL#ID0*3$X$\CWI7@7-Y[ID7GJLXY!/^R]4X./%[/H)_4V?.?B:J)^07[]?
+M?L7G5XFO_T^*+\CE(%*!(J;9LT;$)4'\+(3*0TP$. ;RN8,..#SG2(FB(O'"
+"1133","M]D<+0EN*6A'AC#Q64%Q-J\=FH/@&B-X]B<QF@X$,;'!K%UN:C!5#G2Y
+M@WP4(K3%: MAP9DB6RT!R%B2.(]0^.S8.?@):BRE#-G@@!+SD U;R&\B$54H
+MC!)>H$(QLO6JLH5$CVAQ5@G/HQQP/2+ (3(R;9R((\*7=V_$=0&&,&0$I2Y"
+"1134","M6*9THL=ME3/'>UW+[:'13)LCRQTH5Z94N<P5HK].%TG/(5)C6'182$H81VM9"
+"1135","MP53(RO!0;!X$- W1X=?W8,.(6)J1!!%G=68EI6&J$KG;#^KG$@DG .<G"
+"1136","MUCGY^H8:<8RP9<N^A^?T=[H9+;^D >5 X^!%[14B*38!DFQ#1)GY,1#,#:Y
+M=FX'S#'I+#LHIX0]D \8/T[\$FY!*+&%R/T8&?$ TEB\3FD'9$7D[Z4XG(%/
+M)OS/F5F DUIYZO[=MG-KSX='OXEP  N)>5$#0IE;F1S=')E86T-96YD;V)J"
+"1137","M#3<R(# @;V)J#3P\+T9I;'1E<B]&;&%T941E8V]D92],96YG=&@@,3(S.#X^"
+"1138","M<W1R96%M#0I(B9162W,;-PR^[Z_ D9S)4GQSMY/)C7'C3-QQZEVVH/C@RS)
+MME)+ZTCKJ/WW!4BN+*E.IK[L P!#R#PD<.F&)RLN\7M9-K!V[>#DZZ;3._G"
+"1139","M,[@:-.TC7 ^&P_9ON*IK83P$IT2HM (E\<-+ \%;H;U&N_'33??/XQP&'^:3"
+"1140","MV7P-@R;^74[N%JM)MVA7\.[=\'0$Q6 TEC#=@ 383%?%H&DD*&ANBUK4'DJ)"
+"1141","MBOC5A[2B@F99,.#-U^+]!7GX >!AVW7M\@BS#L)8A.R%-K6X)70VNX#/FO;
+M[J> FT8EA*444EIHID ?!IHMU!EQANNTL);@7K%+7F)HMN9E+0);3'EIA&5S
+MKOYY66%P@DO+9ITI I9E>WO>:E8^\1+=,@VI#)LA#*'[[9]Q]]O&0#GS[%
+MH):]0;UET* ZI&>M8#K-6N7O'0L/I+7N-JS WPPQC_V#34L0C )ZBY4LLI1"
+"1142","MHFTV6\1</!H@0 :*7S<?QDK1M7S?#.T/>L8!5M:RI(IT4/BFNF.02@]#3
+M8Q""!9KJ\2P/3*'<,+C@I2=X,RA]]Z&0Q/SPZA*=9%E<^RK'F35E\26A.+
+M+3'*@M,^/'#')C/,,*91Q?]';N.FF&R#Y5#T/O1SPFD[,6MTQVKN(TB;$S%]
+M+; ,V(.Y.6N*[O*Y>J88+IZQ&HT#'SV]6'Y=5Z%U5X;\.+=F4V)JR@E()"
+"1143","M94-RV\1_D(M$QA\82D)3155S&/I*Y*OOD@9BT9<;(U U)8)C)P/9?J3W(
+M\1DZ3%%\'\7&*+L8E-LNB&G.Y=@]IRK$$M^F#P*E0S[V3]3RN' VE18G/Y<"
+"1144","MU^TV;^-6\))J\9BZ:3M-6*(TCH;RJ&WC.UC_.A9]YXU><:558]C\+3)2#)U
+M[.$5MGH9[8L$:0]#PGP_?\C;8.I.? .MY,@*DM4&AP=O)5E/VM2*[26E!*
+MT:NLC:@=K.?%G[!F\&O2.QWFR*J;5W7FIH<DR$S''*)R: ;TE1U#TLY;//I"
+"1145","MLAB<+R6<ML7G5U%\<-CY@)XT.L6W$C4$+3S&> W#?Z9#2<-HC)M9>9PD815A"
+"1146","MA_'HMT+!5]R>CW E05]+F&$Y\)\24Q E<4AEU-\3(/$],02& </A:V01MSN
+M=]SG-\0=_* IN8O1^2DN>CYK]%[K'H[P47^HR@I?@==.U#J=.;]3WVJDK=S,
+M1.QMFKPUL7279PBR\#:9P#F-6,56:6)GN=_WW(3(Z$0&+]IDX<Y]/)Y4@J.R
+MS1T**R+9361;1=9.N*Q=Q[.MM^V]$[%J!!9/E\!N$I2''5U3&$OS:7$IG!G"
+"1147","MI&'5O3 G&AWXA+-*D7U>[WKT=VGXB:\T]@%;])B61XR#(RG]_@BGEKW<;:?:"
+"1148","MV\Z>B0R>P3I$_C7FQTMUOS3?,*90[NX:,K$W-L5I9.\03W4J.A;AGJ?MB)6("
+"1149","MI^\0)9:U$R39=3R'9HG.H;WE5%2\'F)7%8B8>&IQ+*WY<]-_&: .1G15>)"
+"1150","M9T?C=.BGT,]QTK(D;1]F^QZ30?88<>1N87]PNKA,</OK/LP=GJ!/R6V\+O5A"
+"1151","M1RFQ53R)OW-_X+N+E.YP<SUZNN$59OH0S_$>;K*>$K=C9ZWC9ZL<_+T4^V2
+MIU[#Q6=/%,\CB*-F$+CG/ZD&TS>4OA7@ $ O=*+0T*96YD<W1R96%M#65N
+M9&]B:@TW,R P(&]B:@T\/]&:6QT97(O1FQA=&5$96-O9&4O3&5N9W1H(#$P"
+"1152","M-3(^/G-T<F5A;0T*2(F<5DM/W# 0ON^O\-&62(@39Y-((E'*U&)@M1M+\ !
+M6 )44%!8H/S[SM.)8=5*O>PZ\<PW[_DRRZHF+XO:9#[WH3:+Y<P:M_@Y^W2X
+M9V:;QV9K:_-P[V#?!+.]O;L/[PH2K2JSV)^=V ,7\MK^<D4^M^81'EI[Y[(J
+M+^VYRWS(/=TU(G'KJKR#<^9]'NRU*^')@& 9Y98NWD%+F2^M(C7VL']NS0
+M/R N'$B[L?<.,=XC@NH#VW_&O\H.A*]/ H]:K5WA0Q %;WLC+V[@%LT)CAR"
+"1153","MMO@<?:LPF%0:'*^1.56$,F4Q,\A/,$O@ DRW<L9PJ(8:@F0X>12U$;7?CC1
+MCSF=4[02%P$/2?+VP*-@!8 57D!!LBEV;EW6@J\7K@9K=RS+$N:;R^I<Y25*
+MS:F4($DC5P*C4N<_HW10I4E]@Z2UB%V'K71J*1N:?7*3_S3L?DP=7AJ\MCU&
+M&QT=1$7MB(;T!/>^A?+#3FHM-ZG95DMJ*D'<9S$8YAP'TX=>:J=^Z%8:>NK"
+"1154","M*[TX,22&-1KS)DHQ9)3$ )/!P!=:YJ_X[S6V%Y=UHGP/4%AO+&M+*H.IT-?*"
+"1155","M%I2MVFZX6OJD=%F#%QYA&MNSGQR/?9](^FC7NBT)30H<8HDDLE \^85/4K[
+MA>LLC9 713+2Y/)Z=6DO;&Z<0UU!;CUY#0U3F$BI./*V)Y[L %&I$E7I=8
+MC )L]6QD5,=,'S_+NKAP'>VK@@:XP:!T=AK($4/<@U(-JZ@%@'-*K!>K;V#4
+M[%Q>LMRS[+F 4XQHK8A=NSFN.0(^@F2\P)T77P9,?FLY)':!Q=GA%6OMPD,0
+M=R:1&I@8].T[7- .;&@,$62%F5KB#'O.5<FOV!#T+^HQN(!@WQ/L\1Y9VSFB
+M5F+3V/0(WZCJALPOE*S :@5(9UOB6?F#*EF2 !^@I'E95RQS8E]QWN(>4)P,
+M@)JJCA2#DFFC<6_)R'%#C:,A*R-.R-I!6U)DNEN)M-=XHM.I][<\G;@ 4CW"
+"1156","MCVS!R GCZI<129:OZ X2AXK&Z8T!F%ZV,MM,Z%& >=?*C:QMW(:XP9@TE2R3"
+"1157","MY3RER0T0Z];,N%@0TEMCBA*/N9C:9HT3J]QZHXD>VMBEGL)J;^B0>OD$^$C
+MR:TE_C6<(K#8$^\H[_<A1>T $>V:.6!_ <'>;-.V83Q-,SXL6+ 73^/W:GP"
+"1158","M+(U>:P33&LB'T3\^9  VK*-@K0_0@>%FT)X;-S(S)$H_.C@&$!5B,M3[_."
+"1159","MWGT2\?@0U)T8@!YU1LM[6^\]**@ZA,GVC2SFIFLRWVDVI@:07]D+IMJ\#GI
+M4)3V==PE_T%!3O3)3]E!J ^OL*UR^R2DM:*ES\S^0CT@9+&=23=;XT*][[
+MAFBF(Z5 =*3,133TZN:Z^H7A;]R9^2/  (4KD=$-F5N9'-T<F5A;0UE;F1O"
+"1160","M8FH--S0@,!O8FH-/#PO1FEL=&5R+T9L871E1&5C;V1E+TQE;F=T: Y-C ^"
+"1161","M/G-T<F5A;0T*2(F45DM/W# 0ON^O\-&N&I/$SF,EA-2R5*(2J(>]40X4 \M
+M4+(\RK_OC&?&B7?3TEXV:_OS/+^9\?+K+%?+<P4_KZJ86^?G^/]BII59WLZR
+MW.9Y$0#TYU6=Z>35=;K:U/:1E\JDQ6E[@U 8?5HO&WU,^S5 +D!2(MG18#>"
+"1162","MF=Q6^O*>!:Q-AL?JP63>%KH#F'5:?<&EUV&WC)?IKCHVI\O$Y-+63<4F9VAR"
+"1163","M;EWC:>-$[YNLM;4^ #N\/B8]'PW(5(+_<-4;&X%JI](L[H'734:X  BFUU8
+M@T&*=ZZ-0Z=, 2#U,_J-GO6X;#3?6*-C$?D0,*7N5' E<Z5U\U8!I'.K;D
+M+P!J$M33#@OCP-M-P9_[V%5@,XK [$[@Y!J-+\9%)$(!,\CF*ZR?0-^M(I."
+"1164","M0@]V$Z?KJ/O.5YH)4 WBSUYA!QQ3%D>4M6S[HZL:Q%P1:@E6U[I_1J 3"
+"1165","MSQG]O2Q+V/RK202^8 !6;JG'0P*R%U1/A6;G;C+EWK>%A3X,5D<_B0>;WJ"
+"1166","MV%5R\Q80O]9-)D3<K$B@8HS&'D1,M/'T WF7Y$N\Y5L21Y0<@Q2>4U(B*
+M\)D+1_L+%.1BDM$6Y -K?\,PS8'X0>8KK'*)-5]D.=/,'^CH@@M9 S>V*8F)
+MB/RK8_ 8GY)UQ+]B \^K]_B'$2BJ,?U0XE_8-]2-:.HF*SFRKV+V^6GV02B9
+MU=/T T=#\\*;_\?#:L1#3+_/;=N.N_*)CL1T?V9E^2XIJ0&1>.P_OJ+^@[G5
+MU-&DZ:5%/C#,DH76.S^V\.!H7\UVOJG=W9VC_<.%JM3>WN<%[&4$';1-XVO!
+MY[$Q+L P2LMVNN[@?R7QC<$NL-M?Q1#=(>\C)\@%H?@_,X(3.MF6F =2VF%"
+"1167","MI)5/VOF(@XJSJ!%VL.IAZ36*'X2%-LQ;(3*\B1K;2-Y5;P&8D]02K1>'X
+M:&(*<9F&&>MU1[6P.2VP4PW\W:PA>#Y40NT1HX6Y:?M+<IGT<%Y'AFWD.H)"
+"1168","MHXHBO5$]3<HDUD46;S9U]&RB4AR%W,6FCI4?1 <58>!21(PU3&76&A'>E;)
+M($H'1(E=7&(D4Z8%V0'IF_1;XC7\(R(]),ND:CEN+Z%.1<>3\E,3Q**]/$4"
+"1169","MI=^ R9@E416F'<;GHD<!][D.4A\GA9\36PEFQ_0[5JQ.#1@(Z= !.V*72H"
+"1170","MX'-T\K,@7=OB<_-C/^]JC.^_DO 29CZ;AIQ^EO0ZO5GC5X2EHN$77<A8"
+"1171","M2>_: LESME[3^7HM1]?F5/T68 !AJ(  #0IE;F1S=')E86T-96YD;V)J#3<U"
+"1172","M(# @;V)J#3P\+T9I;'1E<B]&;&%T941E8V]D92],96YG=&@@,3 W,SX^<W1R"
+"1173","M96%M#0I(B;Q6/8_<. SM]U>HBW2(#<L?8QNI J1*/=UMBLG,^78/^P6OD]S^"
+"1174","M^R/YGBP[FP52734CBWSD(RF2Q\]755E5K3N>7<%_/]Q85GWM*G>\7/WI_PI="
+"1175","M&;W#S[^A&.7G*0QESYMS*&(L1[_@>'%?PU@.O'P(15]V/$RA$:W;T*OT<ZC+"
+"1176","MVKM34-V'T,K-Q<TJGH#O0B4XIU!GZ/.C?!L]= VB\0[?  Z)P0 /?IGEI_7X"
+"1177","M=+=1+</HG?N8\.X%OC52:B\[]*VK^NZ%ITHFH7R<O?!N8FFFHH_[\ZTO"
+"1178","M/7QI/ Q2 (?OH50#-5Z%[X<)3.:E4H34B C12QCTR MTZT05O#*C!:U_3UH
+M.O0[;NW[G7Z14,^6*(UNM!2J5X^XFY=0J-W;4 QE0OH[2'!%IR:8!$#5G8'B
+M B S46A:\)-L4KDH?$/+]A$>CF+$@HT5).BCAX9M)2?6AK,4NS$U'?Q#0 9"
+"1179","MFC[-L)>QC9;(PZ8&8.O$N\A!0<ZH+;U??#?5*#QLUZMCI[-C3&IB4D)K07,
+M$&8ZE5*D<6\13]*ZD9O#JFX=H0_,:?/.,!5\*7#.!#MQ3)BA.*Y_C'_U<D
+MR4_8^2F#-_8P275;-0C:$U^-AHTQ7NTH11H'M.-I<I,B4>C7!U!P N8^N8
+M8)HQ+?[7#-R+IQW]!1@O4S%/#/1L<19.QW^NZK%LQB&WS(A>22X);MZ47PKX
+M&A&66NMGG$A5K?)5Y6IV6]JH6DOIF#*;4L9<O$Y]?B\_K+L!<)<RU%%!:MI[
+MV@[\-.D*L+Y:Y;9EQ4BC+K-[0[:>4Y]#7^;7_TIG3^808+I-ROR20>)O-IM"
+"1180","MG(A#801Y]_Q3J$NYLOF@ESI3=C&]%ZE*4KHI7!@VMN^0H 3E4([.GJ[%K9,
+MZSW%U&.3*(\R.ZP+^=E-FRCT?FU7Z#UO/'CTKNAW%?=;PV 7TKM=:EXW^U1+
+MOU@UJG6H?9+6FY;PVGLAC6!M-I.H?U,^:X3N&!N\? DXIR)]BO%=8K(@?\
+M=@Z?N5A\,S:[[8/[3VR+<1=>[GJ?+P.]IO>;MZ%,+T76$^+@H#*1%_@?0(T"
+"1181","M6M@[M'M6I+!;*W!0T_A';QV0)DU/HQT;166[&&B!XH6QV%)X+\Z.:R(E3PG;"
+"1182","M00<P*@K^VPW&_+1I-#(-:<MS%_PNJ@@BR-+[U.12]NLU^W7.OK85S?Y)TXD>"
+"1183","MQLD;]0T;B]-B&()VZ'*;;=#5H]AX<:<'D3QH^1GM*6CAG6YM=BI(FT5GEI;-"
+"1184","M2Y.S*UWFF1^49R6L>+A1L!Z$W+\0N]@^OFTUX7M1UA5$=DJX&:_NGFQV0E9
+M64^?P@$3-[+WH[P[#/LW07D$%[=Z6QQ 4Q[$\S/H\NXW5,[KYA2M[376]-0]
+MTGWY$&P8683D;:A ;0+R0*0X[>$>&/W&@-S.C)B#,Q:^.+^$V  *P^^:@T*"
+"1185","M96YD<W1R96%M#65N9&]B:@TW-B P(&]B:@T\/]&:6QT97(O1FQA=&5$96-O
+M9&4O3&5N9W1H(#$P.3D^/G-T<F5A;0T*2(F$5DMO&T<,OOM7\#@#9-?[?B!!
+M#K5S:(  !:J;G<-FY5>A2(E6LJO^^I+\..M9I6DNTLX,'Q_)CS-<?;Q(RK1H
+M:DKR-*]J6JTO;MS>%VGE[GSIAFGG^:1P6]YJW/#%MVGG-MB[\TF7]HZ&:3K*
+M3JF*K3K1MEKQ<S:>[HX!,Q^NAK/AIL);MYQ1\+Q6E0U<Z9U!/K=XPB(T
+MS#%^MXG/6]C9=JF +DU3$% %Z4 9Q$1)807J0?<TV2.3B$-<LNO_FD9B,0
+M _ZODI!&\?8!/,LU[&$!4+8X;K7S,F VB),LM6]SV6%/Z3#L+GH3@6-HX'
+MJQ'YSZN/%UF:916M1DKLZX4RK7A9TNJ:*SXI_L/@)?+#'9O(.9HZK1EQS?8K
+M]GN $#TI![!'@R_<..Y\IC%**=>R):>,2)1)(;[X1!+3BOE'_FL</4@<P=G"
+"1186","M4,WV&$RL)D-V^WUMW,G7A, CFPX:3F-G<""TCJTKLC_S8!]Q-R(/%G$GK!"
+"1187","M6I:^1:R;U7T@<D.I-]4:?\DM2SLE%-;:FKE5P30 [4V 9-$<MVZ-Q(M5R1H
+M,<TD$5YH]POI>Q2[5SH(=FB/1L Z<0V%NJ[-$<F:#[^R[Z&EUA4<1_#VM^L"
+"1188","M:5%A8]965!)4'[P<!0;W,02#SYWL,@O)I!X%7V76R*;$/= GC%OX'#0_@XN
+M3^@LQ ^+.5?E+)1[$5<E:^\7VO:9LSF65T&XQOX#SY0JZTV>*4N%8B!U;\^"
+"1189","M8-Y;)J/<+NI!+TRM19Y02@1B.4.5:SLR:'MH_8/65'&S 'P[8Q&<+O*=<[ZC"
+"1190","MT$1PI#$ !ORW2Q*&[@U*[;@2O6KZT((]?!&CV.AI8F'@]QB]M%@*U[I$*["
+"1191","MNE5ALON H37*A$Z9$&X%;F1&^G;.8)[9P9ING=XYI9=LW7H%>WGU9T'C1#EC"
+"1192","MS(BF<1NU,B>C[4JT,@>W^DO$,Q$WT1MVG[1::OU,V<.1;&BWPE%YCZT[K1*
+MF Y2&'(/MAK=C!Z!JTN*(=>BJI@M#,E<_G ^>AA?68B$ ;V0H+L9M+-T,O/"
+"1193","M/D0 #^?L>H4?NGA/D4Q_QI\-F'<2R#0G*'^]KZ1IK3=^=!7X]\JR<F99*>5*"
+"1194","MK%[AZ9%+:G>/I^ZX94/\-P=I9>TR^2=W.WY0/PTVDF8/.1%7][J;9J53<P$
+M\5K,_@N1N7$Z6DC<WY7A-K?@S9SFAYMAUN?O,;_5%5_Q H),;;+I8S%ID$T7
+M4 \3!IY\$YS@+PP_T7R3VUM.MK*'?Z!HIL$M*RG!:#% Y71;%,4DP]A,D#(,
+M(=-/QJ_EI&11;>#:)B9ZEZNW/#LZS!M#23^Z]E.F(%TQ#F;/P0%HKA7ING$"
+"1195","MY)8#'BV&S)_>40E*'+]P\:V#BRB>3O1RF8>+$4=AKNI[_^F'IXOH&9C3WI&
+M-S;<]47,MP^?KNCB\@]Z]^[RT]7OU]32^_>_7?->8K*OP.E? 08 V@Z&JPT*
+M96YD<W1R96%M#65N9&]B:@TW-R P(&]B:@T\/]&:6QT97(O1FQA=&5$96-O"
+"1196","M9&4O3&5N9W1H(#$P.3@^/G-T<F5A;0T*2(F$5LENU$ 0O><K^MB-8N/V,K:E"
+"1197","M(DD'$!XC WQ(',C+.0#2<P\/=4U:NVNYV).3CMKNV5Z\6:]SZYNC#YS-S
+M]/:+.3EY^_GLX[GIS+MWI^?TKC9SWU5F?7YT5=[ZJJ\MCM'K^S&957>V^\N"
+"1198","M*^TO?J[LDZ/++7^WYH%?E78PUXZO/;NL)E&YT5E#/Z7%EWMZ]O3IBDZ0'7?\"
+"1199","MBCX4^0JE36WT >9._*@H>>LHU>JFATAM_2$>^H$:VJ#[6/76'&JT_<J :,C
+MK$I4:M)HI*(L<:NVHUH(5_7XVU5!GQEF)->/(K6SL*3V9Y7<$:@_.AJ<I'4"
+"1200","M^H;TCE%TP?U+E_4L!4Q$T5_^9P*PZK>*&FA4];])6#!/H AAC&8+]'%Y BI*"
+"1201","M?Y!PW]:?CHJ\*&JSWIA,G_8&_*D;\.?.-9*WEKQ_<J50IN04?G?T;T=?O=XA"
+"1202","M]%IRJF:H<3-W'=DSYOTMN1K$'^3YV/6*VB-=HN!<K=]Z>^,R1D[T;9YA&E+W"
+"1203","M\)G]+=A57^>E;_EY2ZXJEV<>1ZD#O@'!*LF>E +8^(*+DD.H,)J5P8 GPQ#!"
+"1204","MVMDDSV3%^XAI3@IH8.G*J.*S:!%J:_UI'D/:-4H.7HSPE;P4A,?ZE6+*TBK
+M2=5Y01GK&.A>@%X&L71,CU.]\SNUSGKY]P=I[%\G5::IM3B?#U?46I;PMTS"
+"1205","M*\TFY%@8Q(2H->VW0@OPSH!LS+Z_]&<N7\^,0\W#P)V.1%2V@:Y7HK65J2V
+MN/N3Y#JHY@]P ?@?&?52V+_=*&5 I@<A'.#0(*=QS/6D),;#)K*81+M\I[
+M%4$%I#XA[E[CWH+NPOK>SHA(+^RE<*2F((.J,0L@Z:@M0-S4@.$'8)72.A@%
+M]-ZY;$7.H#2!/OQ7.SH)J#%9<\>RE+/.S-^@UE>$_,NJ:8I>DTPJ!2>>];
+MRA.NT#MGVS1G>N<PAW3,Y:^BX?=D],[$[*D6^.+,Q*'X6/=QF-2JYV\(\"
+"1206","ML=^ON*1P:I:YE2!1LQLIU9!F(H$8:B.[X(9./$ ]U0/X8(=_FB1Y5@O/0H"
+"1207","M>W!R]V%R9WHWS._7!'PQS?J\\.4$]WL.@,)Q?NH&*-8!M9K,K]>. =#&B2"
+"1208","M\? [/'6E^=QKZ4B7N0U!4T\N\K*IXGB_!L/3;$=+/#20_6(@BZD7 ]G72]=Q"
+"1209","M(=D!=?ACCF9QC1N%GM,F,<P]X?>VKFYS8&'KKVGWR)IA@K6L]K2?MDDHC0"
+"1210","M+:'^DD*,9PO(',^PI-W_=UTR813HZ#-+W*,L+E%''6ORXBZM_NOU:(RUO*^P"
+"1211","M\XMM)4Z:E?AO2L7:T^T8FD28(O8+\KHCR]V'7FRXUE1H40H,&B>/'=+>/
+M5MK \'G0T9I:82N.8B23=^+2*MW^4IC#V)Y7ZSQ>KI.4#M.:F.S'L,GT..1"
+"1212","MWAD!M%K1J0]27$K+33</3>.T8R35\QJE5DK8;'%7N^F7\# !4C+O7#0IE
+M;F1S=')E86T-96YD;V)J#3<X(# @;V)J#3P\+T9I;'1E<B]&;&%T941E8V]D
+M92],96YG=&@@,3$R,CX^<W1R96%M#0I(B8Q6RX[;1A\[U?,+3. 27/X$G
+M,)!X<T@ (SGHYN1@2Y0M1X\%O0_LWZ>KNX;2:.T@%U&<Z>FNKNZNX>KWFZ(J
+MJRJZU=KQSY.K7!'+V#1N=7OSP=^%INS]%,1PX<?'4,2JC'X\WH>B*UOO3J%H
+M94$->N\VMCQR>UQC>^F3]4'.Q[+SNU7@_\6BEH.Z6-(-A]#T:3_HYC7_A J"
+"1213","M.3*'I+E%KOW1X81 <-S?A6(IZX=Q;P;/<.C4TZ?0RDF-0\ LL1+Q$XIR2Z]
+M<S_C9,]#APP1$[5SC+PW#MP3LO,C5_\)12^/XQC^7I'H-A'=@N@/B-L9#QW"
+"1214","M[8C1V[B8J%D#F4#%A!LBRB-WPFE<2GO.ZX?$:[U:X0;D.WOPI1^>FM,E&]"
+"1215","MFT^:Z2:H%1>=\(*RBF_Z4M-[1!<Z:7I4/U)#3:?23,[MTG;6+B<XJ/T6V%NM"
+"1216","MH&SZ[4Z)76-3@.O+J&0= _I*-X9Y(VI!L/(J=$*++INEE00K@Z[T@,E FFH4"
+"1217","M(S.5)&J4!G@<(YRL-&; DQ,Q)U.^/H:&Z<G^(6+^M+Q^##14!A?[+\[@(:"
+"1218","MB6$G1KSPUOO/VDF:*+*6E0=8-_ MA_]%YU Q[/VIJ&XDN]8V ET.(-%KZA_
+M;!58M/.)Y(P4W?D4T#%,Q4A0XDM+:$AEIFM]#DM'$ZU)*?V0IS/B #0<9'E"
+"1219","M(\Y31@HB-=IE>QTU./2NK'*7U>@-JU!1A:<&(F8@2YIM#01P'2GFGLNH2)/
+MVS/A.B#D)^\P\W.7]*8FO[UE_Q-0+*\J8\'LERV0=10YGUS6/B_:OV?1M7_"
+"1220","M:MUE@IA_2=+WHCM]'\&@ARK#E8<BOTLD5H4B\U4$K'6;A=]QK'A#,DD6AN^
+M3'EC+7#FQGHF26TQ:^WEI>8W8UA]O8EEM8$;:2O[D>!$/V:SXTXK%1A6JL/"
+"1221","M&G87>J6UT]0[20DM\HP]7BY++;95MH:<AMY:;JEWVZ6*_&4>E5#:RC$C:#Z
+M]?T[=_/Z3_?FS>OW[WZ[%0OW]NTOM[*H\R>#D.;AAR?J= +9-S,/S4NU_N-A
+MM![-_R/1UU&K])#AC:A62R04TQ9';+6U?J[$55,MCPF#MM0TVI$F'I9$ 6
+M6M=VKNM*&.G0J .:''&:Y.JONJZU VS5F6MX7B23,XB6&XRS]#/QF9VVKO3"
+"1222","M8UAD^-T6%5$9[G0R3($B?=(;X@\,8+ZD&P?IS!Z;IXR%HXF!Y\EFDP VNAC
+MB.32&3,GS9P,F8)T<UYN;R$/\M;19V+2+%@+=Z=]]4!G1&2!$MG?NZ/3)]UF
+MULTRIIFE&E!'Y7M@,5ND&<NNX5R^.;I):Z9</]Q9!OUD6F>77A(LW;&1YV67
+M268H!WT)/-&C7VPCQ4J3+*R,U<*8XM0#::)4^X!O!1&?ULBN+$;+[A.XH"
+"1223","M;P3&/;*2:VL2PJP(6XLV2[*R:%O?^<XX8\>;70<-N<JJE-ULDQG\\*OHZD*9"
+"1224","M3CG>^:NHL\T2*W[5X ! +5NJ88-F5N9'-T<F5A;0UE;F1O8FH--SD@,!O
+M8FH-/#PO1FEL=&5R+T9L871E1&5C;V1E+TQE;F=T: W-S$^/G-T<F5A;0T*"
+"1225","M2(F$5,E.W$ 0O<]7U+%:PL;N]BHAI, @)9%(./B6Y& P,R% 0/8 RM^GMI[Q"
+"1226","M:(AR\=)=RZM7KZK[O,@@R=.\**%;+K[AZLZ%M,'?+DMK[%WBY;/&Y?PN=[*
+M^0.?>(31)7E.QK<NQV=7T/63^]%1W#3+/'0WD-C7&U1IUE:003=0IM'YM, -
+MA:+7G4NJE'-YRK5V)0)=Y$5:XD]7,A*S@T<4$;SM4MJ,Y![<KMV-2&X=0&!"
+"1227","M GA4^^C.YYKWCKQ:[*D(*EYMZ?U&^'.VHF=O9_<4L35D>C--4G(3?S73X<*
+M9CAPOF &FA$FP]BS2:TF!?9Z:PX3,,3)X/9:#8-DJAES@Q,7S%2AG9G]7]
+M!\Q32='T<&54GM-AB1\89XU?Z85GS&.-J:L10+O&'<NX68EV*XJ#6_;1)04E
+M>^+.,UF>FTY?KR[85Q3#$1'9(KS1;V97H$(RYPV'*D0T@T:=WY.LAJT!6:^D
+M%\'D1UK,N7O\UYK%.RJ]92PX:;F@QFHFXJJ$IJ#*G6F@(^@5CB\<*D1W@_O=
+M>\\'[5[8.ZSFI2'BB[X7<C$4.P'+1X,I]6JH,Q[M,-H:K^OTDH)#:MY+2S3"
+"1228","MXO]#JF0\T\#L&CA:RGFX-4_.;.YC<T3B&GBC1\) @U$VK),0=(D89MT&@EDB"
+"1229","MSM(U$8,25))@2B:3-.V-32FFC3Q(.XH(YP#Q(:'UG%2RY;1B'M';-0N6%.M
+M62OF+*,\:YK0%DT04LDX[#.G358[L 0:U(9\Z@.*K]R3\#F=11W7R6[+\0M"
+"1230","M;,701'G5P?LRJB7.3@3#OU9QH'$JVKB+=WLJ8%PA3!M+1SH_6ZMQ+\+!:MV&"
+"1231","M>&>Y\FJ-B_6>:]%E+SN*%BKTT\'^,8CS!63M9TGM#8'R$;6J(W$M*]!DIEWF"
+"1232","M$0#K;AQ@,UC!%_;.#QT>1065Q&NV4@D<Q6,F9)1QWWF>+SK-.4B-#:_7@M8K"
+"1233","M5Y;7:5T:X\1)]VMQ<7D.B^,K.#DYOCS_M(0\P.GIV9(.$S/>U3[SN.@6\%>"
+"1234","M 0!V0ZD^#0IE;F1S=')E86T-96YD;V)J#3@P(# @;V)J#3P\+T9I;'1E<B]&"
+"1235","M;&%T941E8V]D92],96YG=&@@,C$V+TX@,3X^<W1R96%M#0I(B6)@8)SAZ.+D"
+"1236","MRB3 P);5U+D'N08&1$9I<!^GH&-@9D!#!*3BPL< P)\0.R\_+Q4!@SP[1H#
+M(XB^K LRU,>+V!-+B@J =('@-@H);4X&4A_ >+,\I(H#AC I MDI0-9H/4
+MB62'!#D#V1U -E]):@5(C,$YOZR*#,]HT3!T-+24L$Q)3\I52&XLK@D-;=8"
+"1237","MP3,O.;^H(+\HL20U!:@6:@<(\+L7)58JN?FYB8J&.D9D>AR(@ H+&LSR'@"
+"1238","M,&(4.X\00X#DTJ(R*).1R9B! 2#  $G&.\-F5N9'-T<F5A;0UE;F1O8FH-"
+"1239","M.#$@,!O8FH-/#PO1FEL=&5R+T9L871E1&5C;V1E+TQE;F=T: R-3<T+TX@"
+"1240","M,SX^<W1R96%M#0I(B9R6>513=Q;'?V_)GI5L,-C#5N L :0-6QAD1T$40A)
+M $20DC8!4%$!11%1(2JE3+6;71&3T6=+JYCK0[6?>K2 _4PZN@XM!;7CIT7"
+"1241","M.$>=3F>FT^\?[_<Y]W?O[]W?O?>=\P@)Z6JM=4PP-UJ#/2HS%%A448J0)
+M  ,*( (1 #)YK2XM.R$'X)+&2[!:W G\BYY>!Y!IO2),RL P\/^)+=?I#0!
+M&3@'*)2U<IP[<:ZJ-^A,]AF<>:65)H91$^OQ!'&V-+%JGKWG?.8YVL0*C5:!
+MLREGG4*C,/%IG%?7&94X(ZDX=]6IE?4X7\79I<JH4>/\W!2K4<IJ 4#I)KM!
+M*2_'V0]GNCXG2X+S @#(=-4[7/H.&Y0-!M.E)-6Z1KU:56[ W.4>F@T5(PE"
+"1242","M*>NKE :#,$,FKY3I%9BD6J.3:1L!F+_SG#BFVF)XD8-%H<'!0G\?T3N%^J^;"
+"1243","MOUFWL[3D\RYGD'\V]M/^=7/0J >!:OS?JWMM(M (RO!,#RYEN;R_L ,/&^"
+"1244","M';[XSGWXIGDI-QAT8;Z^]?7U/FJEW,=4T#?ZGPZ_0.^\S\=TW)OR8''*,IFQ"
+"1245","MRH9ZB:OKJHVZK%:G4RNQ(0_'>)?'?CS>7AG*<N4>J46C\C#ITRM5>'MUBK4
+M!G6U%E-K_U,3?V783S0_U[BX8Z\!K]@'L[R /*WP#ET@!2M W?@=[T+962
+M!S+P-=_AWOS<SPGZ]U/A/M.C5JV:BY-DY6!RH[YN?L_T60(H (FX $K8 ^<"
+"1246","M@3L0 G\0 L)!-(@'R2 =Y( L!3(03G0 #VH!RV@'72!'K >; +#8#L8 [O!
+M?G 0C(./P0GP1W >? FN@5M@$DR#AV &/ 6O( @B00R(UE!#I KY 7Y0V(H"
+"1247","M$HJ'4J$LJ  J@520%C)+= *J ?JAX:A'=!NZ/?04>@$= ZZ!'T%34$/H.^@
+MES TV$>; >[P;ZP&(Z!4^ <> FL@FO@)K@37@</P:/P/O@P? (^#U^#)^&'"
+"1248","M\P$!K1QP1(2)&)$@Z4HB4(7JD%>E&!I%19#]R##F+7$$FD4?(Y2(<E$,"
+"1249","M%:+A:!*:B\K1&K05[46'T5WH8?0T>@6=0F?0UP0&P9;@10@C2 F+I/:&+
+M,$C82?B(<(9PC3!->$HD$OE$ 3&$F$0L(%80FXF]Q*W$ \3CQ$O$N\19$HED
+M1?(B19#223*2@=1%VD+:1_J,=)DT37I.II$=R/[D!'(A64ON( ^2]Y _)5\F
+MWR._HK HKI0P2CI%06FD]%'&*,<H%RG3E%=4-E5 C:#F4NH[=0AZG[J&>IM"
+"1250","MZA,:C>9$Z5ETM2TY;0AVN]HG].F:_H'+HG74(OHAOIZ^@?TH_3OZ(_83 8"
+"1251","M;HQH1B'#P%C'V,TXQ?B:\=R,:^9C)C53F+69C9@=-KML]IA)8;HR8YA+F4W,"
+"1252","M0>8AYD7F(Q:%Y<:2L&2L5M8(ZRCK!FN6S66+V.EL#;N7O8=]CGV?0^*X<>(Y"
+"1253","MDXGYP/.*<Y=+L)UYDJX<NX*[ACW#'>:1^0)>%)>!:^']UO>!&_&G&,>:)YG
+MWF ^8OZ)^20?X;OQI?PJ?A__(/\Z_Z6%G46,A=)BC<5^B\L6SRQM+*,ME9;=
+ME@<LKUF^M,*LXJTJK398C5O=L4:M/:TSK>NMMUF?L7YDP[,)MY';=-L<M+EI
+M]MZVF;9-MM^8'O!=M;.WB[13F>WQ>Z4W2-[OGVT?87]@/VG]@\<N Z1#FJ'"
+"1254","M 8?/'/Z*F6,Q6!4VA)W&9AQM'9,<C8X['<<7SD)G'*=.IP..-UQICJ+G<N<
+M!YQ/.L^X.+BDN;2X['6YZ4IQ%;N6NVYV/>OZS$W@EN^VRFW<[;[ 4B 5- GV
+MFZ[,]RCW&O<1]VO>A ]Q!Z5'EL]OO2$/8,\RSU'/]ZP5[!7FJOK5Z7O G>
+MH=Y:[U'O&T*Z,$98)]PKG/+A^Z3Z=/B,^SSV=?$M]-W@>];WM5^07Y7?F-\M
+M$4>4+.H0'1-]Y^_I+_<?\;\:P A(&@+.!+P;:!7H#)P6^?@[A!:4&K@DX&
+M_2,X)%@?O#_X08A+2$G(>R$WQ#QQAKA7_'DH(30VMWTX] 78<%AAK#87\/
+M%X97AN\)O[] L$Y8&S!W0BG%G$CHC)2RR)/+]R,DHQRA9U&C4-]'.T8KH"
+"1255","MG='W8CQB*F+VQ3R.]8O5QWX4^TP2)EDF.1Z'Q7&=<=-Q'/B<^.'X[].<$I0
+M)>Q-F$D,2FQ./)Y$2$I)VI!T0VHGE4MW2V>20Y*7)9].H:=DIPRG?)/JF:I/
+M/98&IR6G;4R[O=!UH7;A>#I(EZ9O3+^3(<BHR?A#)C$S(W,D\R]9HJR6K+/9
+MW.SB[#W93W-B<_IR;N6ZYQIS3^8Q\XKR=N<]RX_+[\^?7.2[:-FB\P76!>J"
+"1256","M(X6DPKSG86SB^,7;UH\7114U%5T?8E@2<.2<TNMEU8M_:2862PK/E1*,DO"
+"1257","MV5/R@RQ=-BJ;+966OE<Z(Y?(-\L?*J(5 XH'R@AEO_)>6419?]E]581JH^I!"
+"1258","M>53Y8/DCM40]K/ZV(JEB>\6SRO3*#RM_K,JO.J A:THT1[4<;:7V=+5]=4/U"
+"1259","M)9V7KDLW61-6LZEF1I^BWUD+U2ZI/6+@X3]3%XSNQI7&J;K(NI&ZY_5Y]8<:"
+"1260","MV W:A@N-GHUK&N\U)33]IAEMEC>?;'%L:6^96A:S;$<KU%K:>K+-N:VS;7IY"
+"1261","MXO)=[=3VRO8_=?AU]'=\OR)_Q;%.N\[EG7=7)J[<VV76I>^ZL2I\U?;5Z&KU"
+"1262","MZHDU 6NVK'G=K>C^HL>O9[#GAUYY[Q=K16N'UOZXKFS=1%]PW[;UQ/7:]=<W"
+"1263","M1&W8U<_N;^J_NS%MX^$!;*![X/M-Q9O.#08.;M],W6S</#F4^D\ I %;_IBX"
+"1264","MF229D)G\FFB:U9MFZ^<')R)G/>=9)W2GD>KI\=GXN?^J!IH-BA1Z&VHB:B"
+"1265","MEJ,&HW:CYJ16I,>E.*6IIAJFBZ;]IVZGX*A2J,2I-ZFIJARJCZLJW6KZ:Q<
+MK-M1*VXKBVNH:\6KXNP +!UL.JQ8+'6LDNRPK,XLZZT);2<M1.UBK8!MGFV"
+"1266","M\+=HM^X6;C1N4JYPKH[NK6[+KNGO&\F[T5O8^^KZ$OO^_>K_UP'# [,%G
+MP>/7\+;PUC#U,11Q,[%2\7(QD;&P\=!Q[_(/<B\R3K)N<HXRK?+-LNVS#7,"
+"1267","MM<TUS;7.-LZVSS?/N- YT+K1/-&^TC_2P=-$T\;42=3+U4[5T=95UMC77-?@"
+"1268","MV&38Z-ELV?':=MK[VX#<!=R*W1#=EMX<WJ+?*=^OX#;@O>%$X<SB4^+;XV/C"
+"1269","MZ^1SY/SEA.8-YI;G'^>IZ#+HO.E&Z=#J6^KEZW#K^^R&[1'MG.XH[K3O0._,"
+"1270","M\%CPY?%R\?_RC/,9\Z?T-/3]5#UWO9M]OOWBO@9^*CY./G'^E?ZY_MW_ ?\
+MF/TI_;K^2_[<_VW__P(, />$\_L-F5N9'-T<F5A;0UE;F1O8FH-.#(@,!O
+M8FH-/#PO1FEL=&5R+T9L871E1&5C;V1E+TQE;F=T: R-3<U+TX@,SX^<W1R"
+"1271","M96%M#0I(B9R6>513=Q;'?V_)GI5L,-C#5N L :0-2P)B^P@B$)(0@A+""%A
+M%P01%5 4$1&J5LI8M]$9/15UNKB.M3I8]ZE+#]3#J*/CT%I<.W9>X!SUM)V9
+M3K]__-[GW-^]]_U^]]YWS@. +DW1:*MA%@!56H,^,S$66Y1?@)$F  PH@ A$
+M ,@5M;K4K(1L@$L6+\%J<2?P5A  3Z^;5@N*7I& ;^/[$5.KT!3Y..<X!2
+M5:O N1/GRGJ#SF2?P9E74F%B&#6Q'C\@SI8F5L^S]YS//$>;6%FE5>)L.K-.
+M6:4T\6F<5]<953@C*3AWU6E4]3A?Q=FETEBEP?FY*;9*):\% *6;[ :5H@QG
+M/YSI^NQ,<X+ #3U>]PR3ML4#483)>25.L:]1IUF0%S5WA@HM!0,295U5>J
+M# 9ANEQ1(=<K,4EUE4ZN;01@_LYSXIAJB^%%#A:%!@<+_7U$[Q3JOV[^2IEZ
+M.T]/,N9Z!O$OO+7]DE_U* #B6;PVZ]_:2K8 ,+X2 ,N;;VTN[P/ Q/MV^.([
+M]^&;YJ7,8-%^?K6U]?[:%0*'U-!W^A_.OP*O?,^'U.Z-^7!XE2E<F.E 3/5"
+"1272","M35%=66W48[4ZN4*%7\ZQ+\Y\)?/X9VI*E7I55H\(A>?,HU6C;=;J]08--5:
+M3*/]3TW\C6$_T?Q<X^*.O0:\(A_ NL@#R#\N )1+ TCA-GP'>M.W%$HN2,>?
+M>0[WYN=^3M#/L\)]IJ56HYZ+DV1F8PJCOFY^S_19 @*@ B;@ 2M@#YR!.Q "
+"1273","M?Q PD$TB =)( UD@WRP%A &:@>E /6D [Z (]8#W8!(;!=C &=H/]X 8"
+"1274","M!Q^#$^#/X#SX$EP#M\ DF 8/P0QXEY!$$2&! 7LH(<(%?(_*'Q% D% ^E
+M0)E0/E0,J2$M9(1:H!50#]0/#4,[H-W0'Z&CT GH''0)^@J:@AY WT$O802F
+MPSS8#G:#?6$Q' ,GP]GP$E@-U\!-<>\#AZ1^%]\&'X!'P>O@9/P@_A600@
+M-(2/.)1(Q(D#2D E%]$@KTHT,(J/(?N08<A:Y@DPBCY 7*!'EHA@J1,-1"
+"1275","M*9J#*M :M!7M18?17>AA]#1Z!9U9]#7! ;!EN!%""/((L(:D(]H8LP2-A)"
+"1276","M^(APAG-,$UX2B02^40!,80H)>83RXG-Q%[B5N(!XG'B)>)=XBR)1+(B>9$B
+M2&DD.<E ZB)M(>TC?4:Z3)HF/2?3R YD?W(N8L)7>0!\E[R)^2+Y/OD5]1
+M6!172A@EC:*D-%+Z*&.48Y2+E&G**RJ;*J!&4+.IY=1VZA!U/_4,]3;U8U&"
+"1277","M<Z*%TC)H&MIRVA#M#[3/:5.T%W0.W9,NH1?2C?1U] _IQ^E?T9\P& PW1C2C"
+"1278","M@&%@K&/L9IQB?,UX;L8U\S&3F2G-VLQ&S Z;739[S*0P79DQS*7,)N8@\Q#S"
+"1279","M(O,1B\)R8TE8<E8K:X1UE'6#-<OFLD7L-'85NY>]AWV.?9]#XKAQXCE*3B?G"
+"1280","M \XISETNPG7F2K@*[@KN&/<,=YI'Y EX,EXYKX?W>]X$;\:<8QYHGFO>8#YB"
+"1281","M_HGY)!_AN_%E_$I^'_\@_SK_I86=18R%RF*-Q7Z+RQ;/+&TLHRU5EMV6!RRO"
+"1282","M6;ZTPJSBK2JL-EB-6]VQ1JT]K3.LZZVW69^Q?F3#LPFW4=ATVQRTN6D+VWK:"
+"1283","M9MHVVWY@>\%VUL[>+M%.9[?%[I3=(WN^?;1]N?V _:?V#QRX#I$.&H<!A\\<"
+"1284","M_HZ98S%8)3:$G<9F'&T=I8Y&QQV.$XZOG 1..4X=3@><[CA3G<7.I<X#SB>="
+"1285","M9UP<7%)=6ESVNMQTI;B*7<M<-[N>=7WF)G#+<UOE-NYV7V ID F:!'L%M]T9"
+"1286","M[E'N->ZC[E<]B!YBCPJ/K1Y?>L*>09YEGB.>%[U@KV OC==6KTO>!.]0;ZWW"
+"1287","MJ/<-(5T8(ZP3[A5.^?!]4GPZ?,9]'ONZ^!;X;O ]Z_O:+\BOTF_,[Y:((TH2"
+"1288","M=8B.B;[S]_17^(_X7PU@!0$M 4<?@VTM0%;@M\*]!W*#4H%5!)X/^%1P2
+MK _>'_P@Q6D..2]D!MBGCA=WO^/)00&AO:%OIQZ(NPX#!#V,&P?X8+PRO"
+"1289","M]X3?7R!8H%HPMN!NA%.$/&)'Q&0D%ED<^7[D9)1CE#QJ-.J;:.=H9?3.Z'LQ"
+"1290","M'C'E,?MB'L?ZQ>IC/XI])@F3+),<CT/B$N.ZXR;B.?$Y\</Q7R<X):@3]B;,"
+"1291","M) 8E-B<>EQ*DR=(-TALR.YEMELVDQ22MSI=#(].2MY./F;%,\4?<JQ5#@U"
+"1292","M*75CZNV%K@NU\?30)HL;6/:G71!>DWZGS*(&>D9(QE_RQ1EMF2>S>)F%67M
+MR7J:'9O=EWTKQSW'F',REYE;F+L[]UE>7%Y_WN0BWT7+%IW/M\[7Y!\I(!7D
+M%NPLF%T<OWC3XNGH,*NPNM+!$L:EIQ;:KVT<NDG1<PB>=&A8D)Q7O&>XA_D"
+"1293","M:?)1^6R)K.2]DAF%1+%9\5 9K1Q0/E!%J/I5]THC2OM+[ZLCU!O5#\JBR@;+"
+"1294","M'FDDFF'-M^72\NWESRK2*CZL^+$RK_) %;FJN.JHEJ.MT)ZNMJ]NJ+ZD\])U"
+"1295","MZ29KPFHVU<SHD_4[:Z':);5'##S\9^JT=VXTCA5%UDW4O>\/K?^4 .[0=MP
+MH=&S<4WCO::$IM\UH\V*YI,MCBWM+5/+8I;M:(5:2UI/MCFW=;9-+T]<OJN=
+MVE[1_I<.OX[^CN]7Y*TXUFG7N;SS[LK$E7N[S+KT73=6A:_:OAI=K5D]L29@
+MS98UK[N5W5_T^/4,]OS0J^C]8JUH[=#:']>5KIOH^[;MIZX7KO^^H:H#;OZ"
+"1296","MV?U-_7<WIFX\/( -= ]\OZEHT[G!P,'MFZF;C9LGA_X-I0%:_DR8N)DDF99
+M_)IHFM6;0INOG!R<B9SWG62=TIY GJZ?'9^+G_J@::#8H4>AMJ(FHI:C!J-V
+MH^:D5J3'I3BEJ:8:IHNF_:=NI^H4JC$J3>IJ:H<JH^K JMUJ^FL7*S0K42M"
+"1297","MN*XMKJ&O%J^+L P=;#JL6QUK)+LL*S.+.NM6TG+43M8JV ;9YMOW:+?@"
+"1298","MN%FXT;E*N<*Z.[JUNRZ[I[PAO)N]%;V/O@J^A+[_OWJ_]<!PP.S!9\'CPE_
+MV\-8P]3$4<3.Q4O%R,9&QL/'0<>_R#W(O,DZR;G*.,JWRS;+MLPUS+7--<VU
+MSC;.ML\WS[C0.=ZT3S1OM(_TL'31-/&U$G4R]5.U='65=;8UUS7X-ADV.C9"
+"1299","M;-GQVG;:^]N W 7<BMT0W9;>'-ZBWRG?K^ VX+WA1.',XE/BV^-CX^OD<^3\"
+"1300","MY83F#>:6YQ_GJ>@RZ+SI1NG0ZEOJY>MPZ_OLANT1[9SN*.ZT[T#OS/!8\.7Q"
+"1301","M<O'_\HSS&?.G]#3TPO50]=[V;?;[]XKX&?BH^3CYQ_I7^N?[=_P'_)C]*?VZ"
+"1302","M_DO^W/]M__\#  #F//\#0IE;F1S=')E86T-96YD;V)J#3@S(# @;V)J#3P\
+M+T)I='-097)#;VUP;VYE;G0@.]#;VQO<E-P86-E+T1E=FEC94=R87DO1&5C"
+"1303","M;V1E4&%R;7,\/]:71S4&5R0V]M<&]N96YT(#@O0V]L;W)S(#$O0V]L=6UN"
+"1304","M<R R,S(^/B]&:6QT97(O1FQA=&5$96-O9&4O2&5I9VAT(#$Y-B],96YG=&@@"
+"1305","M,38S,].86UE+U@O4W5B='EP92]);6%G92]4>7!E+UA/8FIE8W0O5VED=&@@
+M,C,R/CYS=')E86T-DB)[)=[3!1'',<'RDM C/BH^ A4FQB+A6@:6C4I:*L8"
+"1306","M4DTT:D(TJ5)-?06#]9%JHZC5EJ*QB6FT%:U:Q6I-8R.)%C0:ANKIJ(1WVBK
+MT0HBK0\4*MWN[>[,SMSM'3URM\/)]_/'[LQW9L??Y];='0@!
+M                 & '6GNB95=G ]9H[@G0W9Q/B37@V>Z[.)\#S;C^>;
+MLHOS(9X\*\M5\F17Z!L\>6I4R*[0-[3H>5!VA;X!GO ,1.!I42[0M_0HN>5"
+"1307","MY1PK)\NNM[6TZE2(;O>UN*E9\ ^K?$9R 3W@&(O$9R 3W@&(O$9R 
+MSW;M622[WM;BI6==N4:>[+*]QDM/@PK997M-ZSP#[S&%)SSAV7:!)SSAV7:!
+M)SS;ZOZV7V[N<G>X'_' RLFRE2S)\'!G<F47YT/2X0G/ *2]>'IZ#ZV679P/
+MB4UU2UJ\[.(          +0U>DS,SD[7FQT'OC$DN;/7*\1.6IN3+$81_=/G
+MYZ]=-7FP]ZOY@Y#!XIN*HJR7VU'CBVX^$11FJYN&R+,Z3)T]O:RDA\WA;(D"
+"1308","MZ6!924G)D45ZK]/\:G6%ICU=V7ALYMYS#Q2-YJM%TV)L$/%$[U%K?WNFE[.;"
+"1309","MA$T[JU:ML0;4Q)&+2ZJUL-+8?2ZX$-ZLD?O3C>N*@W7^S$+KBDYS)L%N.)"
+"1310","MFWG@CEE*X8B?A-*N)CH*SCM>:T9GF.=G1K)#[\ZE,S*U[I2+M'^_^)CQNV7)"
+"1311","M,-3Y0/J?R;> J6J.R']A81Y#J-S#<_9=,9&1V\%[36LZ4NRC';C1$F6AQ6"
+"1312","M//.E.\^@HS1Q]MRF=I8PS0Q^J#I2DB897UY<7%S'JKKP<W'%^:><UL-^)#HK"
+"1313","M]ZL?CMQS\AS-ICA[YA,RJ(%VE@I#S8-E>6H<IG7LCU9[D4E?-)NBGQISMHB>"
+"1314","M'4Z[]1Q#0H_3]JDP84@9)\&.$51!RR@TDJG_L,JJH_1HL^BYT/PEG#PK(\@L"
+"1315","M.M0X0AA2E)$VJPF8GM_2:)VID:HG!8)GWSIS@I/G.-+W/ATJ$X>4NUWL-1.Q"
+"1316","M\.Q9SS06ZHGHN</4=/+\CI <-K1:'\HVNL\R[15SPL*3%+-:=^N!X#FZR9WG"
+"1317","MHX&$%+*A]_6AE_=I[Z7:F?9Z.6/E:7YOJO3]#>_9[0^U<>)WT5/;#S5,(B2\"
+"1318","MBEW+7CN)62M6O9M@JY4K5IXI[$UT3]^P\I[KU?/CX>=%SYWT!L;]S3S?DF#C"
+"1319","M'BO/KO1[J?SUHA9PGBF.#VP^N2YXSG0T-SE:B>;W=[C],AZP\NQTFV8W.VH!"
+"1320","M\PPAI>KI5N>0&[QGTD.U=5+;[@PR'UZIGTL7K#QC:VAV_ 4M8)XDU7%:2B)Y"
+"1321","MSZ BM=&4ILWD[N=T3;NL?)\Y0G-UND!]3P5Y=CL5,60*-YSD:-A?(%Z/6>"
+"1322","M^?;+>,#*<RJK=8(>4,^CQS'=XC@F=:HG@N,2R,NLVM_#;+?QCU6GE_3J+ZG
+M'E#/FGKU\!$1/ =<4T_;@^FU>YAG\Q2[73QAX1E=[1P5*:_A!#.<W/72^KQ"
+"1323","M9 Q;;X8YLSK69A=/6'B.896.-1+><XPC8)X;-ZB'IA1SO5[F!U19(?Q+87UD"
+"1324","M_D=V]0PJI<F)/B/$NU-S#SO/Y8/2SC%YQOSGT\P8R[SZM<;X>/.UP]/Z;!"
+"1325","MTZ%TDNG9,$@+F*>#[X/Y!2-.F2.-:_IH6=AK^>IN\7-[C*PQ/7=I_9Z;6)6S"
+"1326","MV33,T\/>,\+W<454QYQO\&?Q?F+5NZM;':TV\C]/)2<//2]0K85>I!M3F*>
+M5XQ7^=Y.\5YR4S^#QJ.#78Y66%Z*DU\?;>&<9.8I_&W%N?YK\5VG7M$>9:Y"
+"1327","MSK0/SI/CX>8$?A+U/-#!$S/3ZP6G7W#9<6:K1G1_G;QA(7GK?)E \1)W^@#
+M=^-H$%UKS#T88KEJMZ67^15K#\^)]ZM%RW#/9^J$K#G9,\:_'N<RZ>V<;)6<
+M5!:$3IOG2++G]GW;J?T57N/G3E;>?K(K@]')OBE=*\P/7?Z?O&0\+VLLFU
+MVM\^C\#S^0*>SQ?MQ9.4^?&[TF:('[WD#O6L7IC66W8]_B%\7XVXX[M3VDUV
+M3?X@^I[+WO8EV37Y@ZC+C4\%&NMD;[?]0G#_I%<%DA)#9=<$
+M                 /^#_P08 (UM[<-F5N9'-T<F5A;0UE;F1O8FH-.#0@
+M,!O8FH-/#PO0FET<U!E<D-O;7!O;F5N= X+T-O;&]R4W!A8V4@.#<@,!2"
+"1328","M+T1E8V]D95!A<FUS/#PO0FET<U!E<D-O;7!O;F5N= X+T-O;&]R<R S+T-O
+M;'5M;G,@,C,R/CXO1FEL=&5R+T9L871E1&5C;V1E+TAE:6=H= Q.38O3&5N"
+"1329","M9W1H(#0Q-S4O3F%M92]8+U--87-K(#@S(# @4B]3=6)T>7!E+TEM86=E+U1Y"
+"1330","M<&4O6$]B:F5C=]7:61T: R,S(^/G-T<F5A;0T*2(GLUPE0DV<>Q_$W;ZB["
+"1331","MHR*'* ;B;$7!L^NM;*TKJ*5V5] 916FWMK:SH.R.7;RV;ET59T51(6YIJQU0"
+"1332","M%P6K0(+*H20 I509 [@!GN,Q!WD@,1+I/$F5AD03[!E[>\/_,;YBI=?2=
+MI]]Y^[P__PP
+M                                          !3UO6\K5.40[,UW.]L
+M*5%+:]62FMY#OU*MECY02^^II?=[[L6SQUW*ABYE?5=[;5>GG.I3!V1UU-X6
+MGYXI/CU#?&86'39;_+V3Y.S2MH2]\EM'Y,F'>^]?\N3]\A0'>8J=/(7]:O9H
+MRL(=JJH0U>-@57F 6I)%]:D#LCKJLB1AR5AR1G%]%@H7,EX2[RY(,$_R21
+M>JS/CA.IAPG^'((_C> [O9HCFK)XC^K)&6VZ)]#KE^I3!V31J=O0N=(+*_N/
+M%KH=06C3;>@\Z8\>1,H1(NU$/]%MR-(1WV6]-PBZ;F%TO.+A^_.+9!&NA&I"
+"1333","M1_5&J^OV,%_IV^W'35A:FFVYAM-<A=]G5%]ZHLYQ49HH,.HH-31(>F&FT'"
+"1334","MIXH..!AO4T0'WI9&^2H$P7JC13M%I.X@^-.UK<+[UI0I2P6U?G:U?JS:G?;#"
+"1335","M=.CQ=MI)+Z-N@_1&&T2D>1/\6;U?MMM:5(*!76[[.MVV=7M9@_3H<?;;6^H
+MVV B;0O!=^@3+71KFDRB6SW1ONJV9)^JYJRJ&J5[2BW+H?K4 5GT[Y9#I&WM
+M/]J7W;;G;E$6[U46[U(6;.]L2:;ZU %9-.\6?:GY:3_$^HL6NC5-=.X61?LE
+MP9]-\*?V'RW<$TP3ZK9^-[M^MWW]GLG#=.CQ]K!E43N>980H^$':!1-\=#WX
+M5-ND_FCAN\PTM1>E5OE85?E85FVS-MI\KO_;&F\6:?S2'O22ZO%T>Z:Q;A
+M(8U9HVU2S_6@=[=%?MIH@U7E 6I)%M6G#LA2Y65;L!+-S!*-S*--D_CKV[_"
+"1336","MV*8@B\83V@6.:_W!1ANDP6A?=OO\\<G.YAN=37&=(MX+11G5IP[(0MT*/9E
+M3URXR6PXK_Z 93-G0E.0C68GQK>&L@86+71KFD9(MW!/,#$CI5OX+C,M(Z7;
+MDGVJFK.J:I3N*;4LA^I3!V0I'HV(;MMSMRB+]RJ+=RD+MG>V)%-]ZH L^<,D
+MX2;H%M!,(S\I?0FC;#->MIGZ. >O6[@GF)@F?E*T+2-M/E;J:5;F17V?@]4M
+M?)>9EB9!$L^.$66#)<_!2S<.WW2A6]3KELNXNVQ8=SNM MZ*F[6YX]'CT1
+M3YO/+/_(3#C\[KHDN^VH5-+LU&Q:LG=+F4]U:<.R.K9+5K,)#QSJ2;=<B\S"
+"1337","M]*4VE(/W+1BX_^M6EZY@3-O'3/7@_G0_1<N9^V;#?UU0]CM/:I/'9#5MUM=
+MNG'3<8$+,WT5,WWEH$_@RLSZ8*BZK3RN%F=3?>J K-=V^S)=)QQ%E;&:F;%J
+M<(?^EI_6#$FWU9SV[(CG%2*J3QV0U5^W:-Q)>,(L9N;[=.]6LV</UBH+O8A;
+M^UJ/)CZ[6T7UJ0.R]'2K29>%W_BM-MW!?.L._OMVFE+HUYZ3($_(;XO-4Y4W
+M47WJ@S]W?XOW=6:T;/;:43FVT3ZM_+X,GE\?MO5A]M3#8K2[=^!F:NVZF"
+"1338","MF^;=:_2AE_F]/S#+O,STK,'?LB5D0O._;33CC']ZGJ6X/=WP[C@I[DP1AWXD"
+"1339","M#<\B;A43207RN+R.ZE:J3QV0-9!N=>E>GX8GOH,GSC&\A)EXG.,;[+HCGC0#"
+"1340","MOS>/J6>%;F.%ZRQ*/;1SMRC?9%WS%_8 -K'NRW=%OA>;]O*:#\0V_S.V>3^O"
+"1341","MQ?^Z//8AU0</2!E@MYIT[33U#L9B6'B</9XQA:EG.?-&YR\Q?[18NT7FA<LL"
+"1342","MRS^T-;PU5I7K743;(T7;+C1XAVOF$U[_2=A33C+5!P](&7BW@S>N/1X_&<^<"
+"1343","MRM2SAPM'%[QKGO\[[9S-BU985GA,,CQWZRK/%2+?.TNZM;PQ7GQMZE4'SP@
+M!;H%= 3= CJ;@$=0;> CJ!;0$?0+: CZ!;0$70+Z*@Q-3'* KLR#HNR--IB"
+"1344","M)F(\-G0+!I$D[T'F!M>,#2Z9&UV-M9O.#EQ;Z!;0C##D6 3V\MT;;:UY_:)Q"
+"1345","M[?J]B@Q%MSX7&KS#-?,)K_\D[DGF>I# J003RI*@OQ+@@Z5!/L;9<7'T<_#
+MVI^:%09\E;/S<[3$A6RN+:._;N,,=KMH3(]NQQ:Y6 VDVW)WJRK/E2+?2'%(
+MJBPR2WKAKC3\CNS*_?;[E50?/#%Z/=;]*9%W7;_^<J6QO(?@M2?S]#<^_]
+MI=WF+AZ3_ZK;1\YCBUVM*]:Q#'>[UK)JDYO(]Y(L\B<%OY1(*9+?R.^H$5-X
+MX, HF@1)/#L&E]7O_\3?=)?'].I65I+_X*\?HR4NL?SOB79[=-3M];5G(^
+M4WR&K\RKH?# @5% MX.!KM;14VE,.0H6O+RZ13>$Z07LQ0I1412@3P^3_6X"
+"1346","MF<(#!T8QV-UJOONT'VA)RQR[N^5.PF(F8.@?-;/!KEABL=:8@*5O.7.PO/EX"
+"1347","MWCS-<N<RIU_5?;!N#(W<_T3KG[KL<?RAB\N2,(RY F/VJ[ERF*R5<)&@\<"
+"1348","M&/3BN5+X76#QR4.Z<GJN*/! #2\2_9[&M!M&_RXKMS?_0Q]NXV9P$ASFY_[
+MU;:<G9]G_^VSO'_XHG\KY/A7?W-8SQI# YK.'GVYL*,MX8'BRT'B'T\:V*5C
+MDNB+\H0566+6JQ0/R74K417NXJZ_R; L Z9-/8WHZZ,?4U=ET9A&1M<M+]'"
+"1349","MTIJ5WI(E0#^-LN9,P;.ZZNYGZ-MM]'CL]N;5%6&GT.4!_7I=0@QU)P2&HXXV"
+"1350","M6=Q,*Z[M:^X 45;8G3]]. 3/H)**=3WS_[@TVD;S).CK+,G9X;:76^9&5X'["
+"1351","M\L(C?Q^QP T,ARZ?>W[%A5;]OUQ[77EZQI>Q! \!J 1U&W\3N>+19KC^O6"
+"1352","ML]N[GZX=@F=0U#W1=9OZGN,U6^P:NM]MT OU&WB3*NKVEIT2V3CU]F:;KDL
+M/'ZV#>K'Z$M?[Y+MMU7X30!16=;>6-_ZX$X9Q[^XQ_E[/B=-1;!PGGCL?N>"
+"1353","MKI6GCY=S_(NA6]'79;.,'2Z2W,:10#;?HHAI<YXS\L_ 8;CV7CW$FO^5XS"
+"1354","MRJZ,P]#[O&16Q7*$09^G1-\^'* _US'J:,QC&6&.9IAWN^[1',,T]HNJV#"
+"1355","M;D%O,IGLU^,LL-ZLF=@>:T8\&[\Y&;_:Y]YKE'%9V/7)9HV)O)O>F[U7K5CM"
+"1356","MZK)LA<LX*ZON9_CXLZV_[)?OS%-W'$<Q[GC&)1UPV*WC(IDCX0D2>&9]35"
+"1357","M2&+,,EUFP+(0).D3(MG$$-)_:RLT0!.LBR3+,!HM*44&11M3#1@$3/1AXTC
+MT4=+C(N/%I^(1DG,OEZA0VD/-(/?=?=YQ9C@7>5RWW=^_?UBL=LS,_'9VW_/
+MQUF_)Y 7ZK:@X/UN$RIRLW[2<*/%J>NEG3%39N*FRO^T(_2G5]+?JHX:Z@X"
+"1358","M^X^;D3/G^FT_NSRGWRHO+T_^=I/)Y//YW!Z/U6X/#V&]A7=(=)M0FI/UXW*]"
+"1359","MM.\-B\7>%#? OWS)TZ7OU-RW:NZ;3[F&SSFWEO\]5>?7EPNG_^=7'=^MY4\4"
+"1360","M9'V5PX6O1<[U][M<KM-INO5X/':[?3(;N$=:W:;H,_).J'A D7\I-BD;2M7
+MD<ME<ZGO7-EYM.3M ON;CF\OY+[.Y_0Y7-Z_G^(BD4C_.KH-HEMXUSJ[3=B:
+MG?7]9UQ5[MIWTBK=7/#V?'?F\ZHXO+Y%/=P'+J%C_1!W7XH37;6)ZG6Y&2W"
+"1361","MT6CT_OW[T]/3LZ+JZNKD5;U>7UM;2_4:C<:.C@[6[PGD94.[E8;U%CX:NH5,"
+"1362","MA&XA$RTN+F[9LH55MQ,3$^?/G_=ZO3TB@\& ;ID+! (FV:NIJ1$$@4FWI+*R"
+"1363","MDEHM+2W5BU0J5?*2Q6*Y=^_>S,S,U-14/!YG/4P%<3@<K'KX']!JM2TM+;0("
+"1364","M.YU.K+>;B39LK(>?V>B+@+X1:)\0H58#U-!T.WZY>;FIMMFTV%M9&2$]3 5
+M!-VNAT:C.73H4%M;&RVMZ>ZIKZ]G/4P%0;=KHE<T/CX>#H<CD<C1HT?3W4;G
+MM8</'[*>IU*@6VD<QTU.3MZX<8..76-C8Q+=DH&! =;S5 IT*XVZI676[_=;
+MK=:NKBZCT2AQL]/I9#U/I4WTA+=]O?WNUPNG\\GL;\E?7U]K.>I%.A66J);"
+"1365","MV@!XO=ZS9\\>.'! XN;Y^7G6\U0*=N-Y_FK5Z^>/'G2;#8W-S=75%2DN[.E
+MI>7-FS>LYZD4Z%;:RFZ;FIIH?ZM2J=Z[1Q $VC_,S<VQ'J:H%MI*_<)/2*#"
+"1366","MP9\JM5J*>;6UE:WVQT(!%@/4T'0K;25Y[+3HO+R\N15VN[2II>2MMOMP60"
+"1367","M]3 5!-U*2W3K]_NM5JM#5%96EKR:Z+:[N]OC\5RY<H7U,!4$W4JC;J^+AH:&"
+"1368","MAD55557)JWOV[*'#6D-#0UU=G<_G8SU,!4&WTMM/*%;:=@GR!.ZE29]+C.9
+M3+3,4K0XEVTR=L-W<H3NI6V_F['QL98#U-!T*TTGN>CT:C9;-ZW;Y])5%A8"
+"1369","MF+Q*A[*[=^_.S<W=N7.'UMN!@8'7KU^S'JDBH-LUV6PV6F^[NKI6K[>UM;5T"
+"1370","M*&ML;-RY<R?]2&VSGJ=2.!P.=D5DC*JJJM;6UM[>WIZ>'H/!D/QWC4:CT^F2"
+"1371","M/QX\>)#U/)4B$ CLVK5KQXX=>KV>_J:O119=I*!2J?2K,'Q01 2ST /ENX>
+M=+N9Z$!!)PM:3.CHD9>7MYDQ2*!EK4?4O4QN3[@:;1M8#U-!XO'XU-34[.PL
+M'4#4:C7KX2^AXX]I&:UC$Q,3<GOU8X<.<)ZF H2# ;M=GMG9Z?5:I7/:D;'"
+"1372","MG\0YR+-LHY\P)R?GHS^KU6H/'S[\^/%CUL-4D,SJ=N/VMWOW[CU^_/CV[=O7"
+"1373","M_Q&.XVC+75]?W];6-C(RPGJ2RI(1W=(3.AP.F\W6V-BX>_?NXO^:3J=K:FH*"
+"1374","MA\/T-NB76BP6^M(W&HTE)25%147I/G+LV+'1T=%0*'3QXL5;MVZQGJ2RR+Q;"
+"1375","MM]M-A[)'CQ[]*?IK8]!7_,+PNJ7\_3ITR=/GJ3[R(L7+S9_7I#0T=%!\O^"
+"1376","M_?MK:FH$06 =[)+JZNI9T?3T=P68_V20'9DOMZZ7*[>WMZ7+U^R?D\@+^@6
+M,A&ZA4QT^?+E]O9VI]-YZM0I^71K,!AZ1%ZOU^_WHUMX#QU\!@<'AX>'+URX
+MD)^?SSK8)45%13^(S&:SQ6)96%A@_9Y 7F*Q&$4;#H>I7G0+F:*OKZ^NKJZR
+MLG+;MFT\S[,.=@GV2#A^?/GM+*QCC0%G,M PK-GS]1J->M(4R@K*W.(K%9K"
+"1377","M9V<GNH65J%M!$%A'F@*MMP'1I4N70J'0JU>O6+\JD)'%Q44ZE\W(SX,'#UB_"
+"1378","M&P"
+"1379","M             %CRCP # 'HO[,-F5N9'-T<F5A;0UE;F1O8FH-,2 P(&]B"
+"1380","M:@T\/]#;VYT96YT<R R(# @4B]#<F]P0F]X6S N, P+C @-C$R+C @-SDR"
+"1381","M+C!=+T=R;W5P(#DV(# @4B]-961I84)O>%LP+C @,XP(#8Q,BXP(#<Y,BXP
+M72]087)E;G0@-C8@,!2+U)E<V]U<F-E<SP\+T-O;&]R4W!A8V4\/]#4S @
+M.#8@,!2+T-3,2 X. P(%(^/B]%>'1'4W1A=&4\/]'4S @.#D@,!2/CXO
+M1F]N=#P\+U14, Y,2 P(%(^/B]83V)J96-T/#PO26TP(#0@,!2+TEM,2 V
+M(# @4CX^/CXO4F]T871E(# O4W1R=6-T4&%R96YT<R Q+U1A8G,O4R]4>7!E
+M+U!A9V4^/@UE;F1O8FH-,B P(&]B:@T\/]&:6QT97(O1FQA=&5$96-O9&4O"
+"1382","M3&5N9W1H(#$P-#0^/G-T<F5A;0T*2(F45MMNVS@0?==7S,)5#3O$H&B0.TD
+MNRU0H$&$W8>@#XXMIREB.ZLHV^;O=X877Q*WZ+[8XG#FS)DS0TK3KIJ\'\:[
+MU7PQPMNWD_?C.%]\[9=P/>FV#_!E,IUN?\!U,)X:*P4IM4*E%2B\=) XZW0"
+"1383","M7J/?U=/-^/S0P^3/?K[L!YAT<?5Y?GNWF8]WVPV\>S<]FT$UF5U)6#R!'A<
+M;*I)UTE0T*VJ((*'6N)&?,HIG14M=.N* >^^51)J)91UT)UER_DGPOQ)=/M"
+"1384","M.&[7NRJ,4<)YT(TP%JLP)@@OL0K\;_51$1?;[?BK(K011AFH&P0,TTKIB,]
+MA/=8 !GV[,Y_3V-C1+ A@'=2:E196M%$WR#(J#%_1^1_ZD(S95(I:1H;8/B"
+"1385","M22FD@Z&O_H8->DW^P&;</E;)P3>--4 =B'Y()C@+F9?6OE3)FA8K*O)A[6$
+MLVUUF;MP<7?[-/14XJ?9AS.$R6PN,1.UTX$+7F#WM,;Y<5!3 UZ3B;N4W-M(
+M!KT<KD+;QJ%P4OI&@7,>*2-#;3,7=<#ELIJBZI]W7%3A<G+*O'82\(QNV8="
+"1386","MM\*QK]R(AMWA;V/O%9&M R9XI-B#^C1LBVOC=!L&'EMA65 OFWTQ4# /\V2
+M:<,E6K);SU4V+,E@HB$_0@Z.R(K=IP0IYWVR/?-:,UAECP$R:F*+4&A$(G6+
+M<2G+JM!<XZ9E<XK/0:FXO+^A+%1&]#A@B*8GW'/XD.D18\AAJ\3 '3.(Q4_1
+M8@M\1!T*XZXXW4C/!N>R&!*@@.I$N1J+O@O[@M%1%?SVZY81F)K10499_"
+"1387","MZ3[FR\,8NCRNV0SYN7WY!/ O-SDC=55YW$\BW7'C3QJ%SQVHGBOZM4+(/
+MJ?%'.E,U:9PD ORL\6]:%_D.2BI\#_5YTA 1^8OOU9^C@.!TJV*85X,8EP
+MSNN RQ_$LE24,KX0^;#-LWV;%5NCB9QHV!P[.A'E$5C]D^0)]@<G:=X]F*R"
+"1388","MY)%[=GCP0H;:C\X.?9EZ+Z2TTWPZ*>G[X O,QMLNJVO,<1AR!+&+4:5?#<<
+MWPQYUD2 4N0:9XBE+0_/ =Z@Q:WE*$_$C5M:BD3MPM@CTEGO=IM4RC!)NX
+M&RN+ZYMXT?20O4F+:%@>[>.=8**&BFANXC*GV?1P&DSB7[@=12>IKS9F>>Y"
+"1389","M*;!SQGE ,6,!& 6%P$,:PP5!!^RHQM]5;)2-JS:=$;0N$Q(\E#'Z:3<32&4
+M@ON+/)!)4U)3XVCVS2OWJ@'%[LN%WN=???2GPXP)>#P.CCM:H]=7W]V[%W="
+"1390","M[[OZG2M.C=[-I*9ZCZ^HCYPTG&]0(T\CH^AF&W!EV3.H=*X:.IION$='T.E&"
+"1391","MD/'TY?WP0E%L]R_U;'9Z1L^3:N('S7\# #6QT8)#0IE;F1S=')E86T-96YD
+M;V)J#3,@,!O8FH-/#PO0FET<U!E<D-O;7!O;F5N= X+T-O;&]R4W!A8V4O
+M1&5V:6-E1W)A>2]$96-O9&5087)M<SP\+T)I='-097)#;VUP;VYE;G0@.]#"
+"1392","M;VQO<G,@,2]#;VQU;6YS(#(S,3X^+T9I;'1E<B]&;&%T941E8V]D92](96EG"
+"1393","M:'0@,C Y+TQE;F=T: Q-S8T+TYA;64O6]3=6)T>7!E+TEM86=E+U1Y<&4O"
+"1394","M6$]B:F5C=]7:61T: R,S$^/G-T<F5A;0T*2(GLEWM0%54<QQ<N%Q0BP]4
+MA*+$E%%CR-<8V  ^>EN1S6B:K[%0,Q1[^6A\39:OG-(TM28%#?./?*3F,*-F
+MIB(RXH ""A&B$6A(H9D$*-O=W7O./N[N)?R>R]^/W_</>=W?N?<W^?NWMVS"
+"1395","M# ,                              (#[B(BO4[>JD_K-,*.+<QZQK#:S"
+"1396","MC2[.>0RYHZWYIM'%.0]HWB^:4XTNSGDXTLS=M7OWOC5>1I?H#!QI\EPP&UVB"
+"1397","M,VA2,P>:[@,TH>EV0%,@V^@*G4*3FM4[TW=0=J[S,;K@EM&DIIRJ *,+;AG-"
+"1398","MUSS-[K@E@%-:+H=T(2FVP%-:+H=T(2FVP%-:+H=T(2FV]%,S5*CZVTAS=2\
+MGOQ&4E+2M/%FH^MN)LW4)+8!1M?=3%JF>=G=_J+0A8T71-H0A.:K@DTH>EV"
+"1399","MFH^UQ-(UM^ZFI=M3-=BV<7I2\W'-%S'S!>WSDF]T<<[#G*.MF>.*YZ5E0!.:"
+"1400","M;H>Y4%NSL.UH>FW)/*%!YA8OHZL#          #TP==B,=_;L$/V<>\PWJ$
+M!]S;LDXD[*FUYXN+1W--_]CYZ?OW;)P2KLP)C4V('Q$F]B-&Q,?')\2UMW6?
+M2NK^FE.>\F$L)=6[L^MK/[CPJ%/$[NT9O7_CW[)&94LQU2&5E4R I4K>Y
+M,TR1B<M^K.B[]!8IQ(A;P#?\_RB@>\=[8-FX=MJV1%+G]DK&CX:\?_);6\
+MRHSZ35):IH7/\.[S?LXM$DNA$^<*@8;^?*\=F;A&.UZ@%50-E1O-9'1&55B"
+"1401","M(8V+US;(*LN.M*;,/'=;$DHA,[N5X%ZFV:Q+>%7_I\XK(A,N/K5XCJA51EM
+MA'/]U*KQD;E&3CJR3!;9)$4,G,#JZY9W\?:&W23Y!\*9R+K;>T,@R05FBI,"
+"1402","M89C/5#5?)#^)4K,NRGIS*B$_W(?^#-.?:-8/-$HS<>&^1_7$H?\M.7S5O\@
+MO49+ YGN0YZ>/#_]KES3KX!D*#6K@QF?G\G@!FZ(:K+O&:7)$5A#RAC/]P<?
+ME'@FCD]R&TJ1>A/H0E*S:,>S'(R5O,P-R1JKM1;34K(#5+&9%@6B=J?BN$
+M^LDU@R]I:DY@HNC5L9D?$C47ZFPFPTZ3\<ZG%E?\^8A\P/Q=U!H%OHR*^C8"
+"1403","MR_R0J#E*9S,9]IK,--$BF@_(-<,J-#7',CYY9.@6?\TR TD_RU]?,3DJFF*("
+"1404","M'<,'Y)HK14N%YEZ&Z4N?O26^_%#'#*%;WD=?+P4JFIXGJ$8R'Y!I1G!;BO.W"
+"1405","M99K>%[G.:>N.;AR=FFD25C/'+LLX_EWR@SI[*5#19+ZDM2[F^S+-[=;CR>&U"
+"1406","M,LTNUZSM&NY\+:%3#^IMXA U3?I,L.U1I9K/<E=E8N\[,LU57'L!UUI/I^[1"
+"1407","M7<41:IKS:*U+^;Y$LRNW23_$#))ICN)Z>_B+-)5.-6YSIX::YEQ:J_#F)=%<"
+"1408","MQ!WBF2%2S?:EUM;U4#YU*YV:;3+ 1A,US0]IK1/Y/M6<WO&J]7.7AUSS<VOC"
+"1409","M[@1AZ@8ZM3Q0?QEMU#3I'ZQ1>$NDFI.YG0'WCBG5',XUTFU3Q5M00Y3^,MJH"
+"1410","M:>XCH:K.?)]H-FZZ9/W<RL@T@\Y9CZ=;5,G44UVNNXN#E#1]+]0GN% -6L"
+"1411","MLWY4/\!(-*/,!ZR'2]W(W+YT;\<>T]G$(2J:Q(%EWQ(]*+E^$2:4M?S;>XP
+MCB[G0]_1V(88?4T<HJ))_YK7N@@!J68N?QT3S;^2N>F;).LM$U.SS-(O\DCP
+M;GT;3>PU0Z^1R!I;1*+9.)R/$,U_RJT?92&2]:(;1,]-XLW6-'3_69FUSMAI
+M^F600%&P+4>BN5V(B-<UR]8FR!9<);G SSPC/#Q[OWNFD<TR\D$J:@K/R(#=
+MI%__),D1-6LCA8A4<[E\08_#$D\V:U9<W,PC-[GF*=?0G.;MU_WQ)?FD>_T%
+MFB-JKK=%))HGE=N 2'JCEG/:-30K\@I_%XLJ&B#F4,V*KK:(J)G=V6[)_E=5
+M-5WD;,HX\(@DAVHN(1&J61>GLN;(<OL%;^P8V.HN#E#3K$X;*<MYU!8O#2*1
+M&)*Z0'71T,T-\A5/SNC5JA9-(FJ>/7RVH+CH?&;ZK)Z*G%X%O_#,H)'HBWR@
+MY& [C65C-A?4VM;],R_M%2.?)3RBYEC&Y&<)]%7),5F+!9+4) R8NG@I;VP"
+"1412","M7[^18R9.&O_\H @CMP4$M:U[&P2:;0EHMB6@V98(K!&?FVT5S\CGUM!MV9'7"
+"1413","M!W<RNJ!6(?+TW_*M9^EZ#Z-K:@5B66Y1KXLM19#[33SVJ)FR*R4V3+FC/$T
+MNB8                              ,-^$^  0'S\O.#0IE;F1S=')E
+M86T-96YD;V)J#30@,!O8FH-/#PO0FET<U!E<D-O;7!O;F5N= X+T-O;&]R
+M4W!A8V4@.#@@,!2+T9I;'1E<B]$0U1$96-O9&4O2&5I9VAT(#(P.2],96YG"
+"1414","M=&@@,C(T,R].86UE+U@O4TUA<VL@,R P(%(O4W5B='EP92]);6%G92]4>7!E"
+"1415","M+UA/8FIE8W0O5VED=&@@,C,Q/CYS=')E86T-O_8_^X #D%D;V)E &0
+M ?_; ,4 # @( @(# @(#! +PL,#PX-#0X4$@X.$Q,2%Q02%!0:&Q<4%!L>
+M'B<;%0G)R<G)#(U-34R.SL[.SL[.SL[.P$-@H,@P.# P.$0X.# T1%!0/"
+"1416","M#Q$4$!$8$1 4%!,4%144$Q05%145%145&AH:&AH:'AX>'AXC(R,C)R<G+PL
+M @T*@P*# X,# X1#@X,#1$4% \/$100$1@1$!04$Q05%103%!45%145%14:"
+"1417","M&AH:&AH>'AX>'B,C(R,G)R<L+S_W0 $  __P  1 #1 .<# (  1$! A$"
+"1418","M_\0!H@ ! 0 !! (#              <% 0($!@,(0H+ 0$  @( !P
+M        !08! @,$!P@)@L0  $! @,#!PJ'           ! @,$!1$&$B$3"
+"1419","M%#$S<K'1!R(C,D%14V%QD@@)A46%Q@9&B0E)B<H*2HT-38W.#DZ0D-$149'
+M2$E*4E155E=865IB8V1E9F=H:6IS='5V=WAY>H&@X2%AH>(B8J1DY25EI>8"
+"1420","MF9JAHJ.DI::GJ*FJLK.TM;:WN+FZP<+#Q,7&Q\C)RM+3U-76U]C9VN'BX^3E"
+"1421","MYN?HZ>KP\?+S]/7V]_CY^A$   (! @0*:<           $$3$#!!*1!2$R"
+"1422","M05%2<8&QP08' D*$Q05%A<8&1HB(R0E)B<H*2HS-#4V-S@Y.D)#1$5&1TA)
+M2E-455976%E:86)C9&5F9VAI:G)S='5V=WAY>H*#A(6&AXB)BI*3E)66EYB9
+MFJ&BHZ2EIJ>HJ:JRL[2UMK>XN;KP\3%QL?(R<K1TM/4U=;7V-G:X>+CY.7F"
+"1423","MY^CIZO#Q\O/T]?;W^/GZ_]H # ,   $1 A$ /P5
+M                              #_T)4
+M                         /_1E0                           W.V
+M*4>,L2R3S2,RW59#N=]9OLU!C>)KPYPF,S#8D3$FEJ54<C-9=8C>1Q&&P6
+M(Q56A%51=S(EWTQTH'=;ZS?9J#&\37AQ?6;[-08WB:\.<*+@RM7-E2\ ;Q1L
+M=Z;%'P1TH&7FCF=;F>?.7+;](12[MIM%995B219V2BJF(.88;$18J))H&JBD
+ML:T.$F@D@D:*1*&2Y  #8:@          #_TI4"
+"1424","M     -[B@_=KH-FO0K].W]O3=D) YJYBMLUY4*=-YA3B2+<7783XGUHE'$6
+MHF*Y*J&AUPY].W]O3=D%.W]O3=D.!3IO,*<2*=-YA3B2,$G$JS$.<LSL4S1R
+M/HV=-/6W%HW:LMM.Y&5LY;55):)*HY@SF!QO#8)!TG73B%OG;M%555&66VF4
+M25:F@A68JC!XZ=/$1AE96T6C+;C%0NR=15&,*?0][H0RWGK;YIEFDYU%>*
+MK2HDK,LE$Y]E'$&RZ+0Q4DE)0B(C,E551%L^RJ229FBB3F:[D3L0EX*%&=
+MDXBJ Q;H:[A4(:;@\'>O666J3G55AE6D19&:B@3TD669MA,V223,S)$U#5
+M(R<S?1'L1A),(R))WLZH  XXT        /_3E0
+M    W.:M8K;->4LFCJK6*TE>4*EGEOKB,<51,S83XEUHEG!C4)C/J'7#D@XU
+M+/+?7'(955915MJ(1IHF0EE1SXNJMNM)7'8'55,5E*XZ_%U5MUI*X[ ZJIBL
+MI7'*L9=_')LTN_P0X4T&)#&.J&$<X:(B6Z:#$AC'5#.<-$1)AP&:3%O<H 1"
+"1425","M3/.I]3@0 !+CE        #_U)4                          -7=KLUI
+M#N%.'V8U.GL6NS6D.V2')L\1&:I/:$PX(3DQGU#KAY*</LQJ>=F$PB=2SU
+MJ$MQQ)#SLHLZET.1211>;81(G@<ZPV%,LM(R]:2C<K R3$9Q@C#*(_:J$"
+"1426","MMU@8>#HLZU=3GLHLZEV(<)-! S=*+8AA-!$UT2-](ARJ>PN$X%X0\5XZ>V8
+M\8:D5EIEJ@J+0J%0Q,U$415!8BA+^#01RZ>,TG.ML,HC22MLHM&Z*9!RBTLQ
+M0Q^E>>.:]%OCL+H7Y\8))PM%$F&Q%(I&)8E'8<DSS#0)A)FT(JDPDW-0G@
+MQ-  <Z*Z        _]65                    &6B)&5I>>DQY4R:,2)5"
+"1427","M2H-&*A$Q T55%5'-=8U1QF68\4[&18K2U-*LBJJ+D9+J&\CM<Z[MS/$==VY
+MGB#JDJV\2K;SEXHK3V'JB1B]%5C9_6CM<CN2H9X@ZNKY[+:[6[J;)5MX.*P6
+M!$I54VI51V465LYCE&<9XV;:%$(EM#4LDJJJI9B64&ZEGN8VMW4UI=]<1J[E
+ML38#BJ$\$.5:TGL;<QOIP_2H>-W<MB:TZA-Q6[N:L3Q@-)/!-AAK2>QMS'EI
+MUDHH^>7<U8FC<*A+QE6'CUMME:EEIII4XE3Q@R1$2SD#4D;N;<  !@"
+"1428","M  #_UI4                                                  /_7"
+"1429","ME0                                                  _]5
+M                                              #_T94
+M                                         /_2E0
+M                                    _].5
+M                              #_U)4
+M                         /_9#0IE;F1S=')E86T-96YD;V)J#34@,!O"
+"1430","M8FH-/#PO0FET<U!E<D-O;7!O;F5N= X+T-O;&]R4W!A8V4O1&5V:6-E1W)A
+M>2]$96-O9&5087)M<SP\+T)I='-097)#;VUP;VYE;G0@.]#;VQO<G,@,2]#"
+"1431","M;VQU;6YS(#0V-3X^+T9I;'1E<B]&;&%T941E8V]D92](96EG:'0@.#,O3&5N"
+"1432","M9W1H(#8S+TYA;64O6]3=6)T>7!E+TEM86=E+U1Y<&4O6$]B:F5C=]7:61T"
+"1433","M: T-C4^/G-T<F5A;0T*2(GLP3$!    PJ#^J6<-#Z
+M                                .#4!!@#:LS4(#0IE;F1S=')E86T-
+M96YD;V)J#38@,!O8FH-/#PO0FET<U!E<D-O;7!O;F5N= X+T-O;&]R4W!A
+M8V4@.#@@,!2+T1E8V]D95!A<FUS/#PO0FET<U!E<D-O;7!O;F5N= X+T-O
+M;&]R<R S+T-O;'5M;G,@-#8U/CXO1FEL=&5R+T9L871E1&5C;V1E+TAE:6=H
+M= X,R],96YG=&@@,C0P-#8O3F%M92]8+U--87-K(#4@,!2+U-U8G1Y<&4O
+M26UA9V4O5'EP92]83V)J96-T+U=I9'1H(#0V-3X^<W1R96%M#0I(B>R75 4"
+"1434","M9Q;'YP;FP&$4+4^,(G@ QCLI8Q%%Q85U5TPE7A%1P.S6>@06\5@1+UB-R!++"
+"1435","M>%%4J4RB,=Z[%:BQKC&+<NUY' 54#F,403,(,,,UTQ/]W[=;[II8!2S)=,S
+M3/]J;/MXG[[O?>_]O_<1Q%L&QW%TM5@LK_F*4S//X%M>C6E6<2 *=^/,0K
+MBH*O%!Z&U^18>'=C(PO$Q(2T;6BXC%MCW>X\K@(K VW;=O5Z>KJ]?4$+[DT"
+"1436","M[*)HVY+:PY%K/(X%6T4M%CPG)S<@($@@$ D$ J%0/'OVG*-'LYJ;FVV.XG$%"
+"1437","M*+6PH 6W4* W5575BQ<O6?+II_>*B[GVSH&PV9#0!P.^9'@ZHM<W[-W[MW[]"
+"1438","M^@O:X^$A3TI*!M6EDXIK7WGL(YCC.3F]V[]T!NK%NWOK75Q*U[C@/$QZ:T"
+"1439","MP@G![A[Q.!;LW&AI:=V\>8M<KJ%5NCIJ9%*/*#=E4IE!PX<9J.*D +1U[S"
+"1440","MV!M&<B%A*BL?CQD3B+)(I%LV+IU63FVD&'@#P)T*IJQBQ7?_A7[LF\Q?_
+M^=.3G\FOUL,K[JN#N1 <W/+UJW;%0JEM:UU5\;'K;MRY8<M2=M42C627_0R"
+"1441","M,/#=LK)R@MK*40VBO[GVW3FP?<Q\Q2'4,4%:8K%@X*K1V+A\>32DQ-BQX\K*"
+"1442","M*F@;)YA(-T+-'T*@T]5MW+2Y;]]^<H7*2]-GPL3)^[\ZQ++B<5&8U3>;S2DI"
+"1443","M?W5W]P]G3!^TOES_T 5AC[]\DO=G- P:'K%8DEBX@:3R430;0^7WCL/%@J<
+MAH!VB'K#G!H<')R:!4%>\9T[4R42*4H(L5BZ=V\ZUZYQ23O])!_(Q^?/JR/F
+M?R1HC\I3??+4*?8HON-U-9BJ1_?GSIWW\%! ;@P?/N+JU6N,#;I>OOR]C\\[
+M5C6>,.G)DZ<$GS_!IL_?.$D-FL;_[[G+OWGTA&29/?J^FII:PGGJ<8R)O"
+"1444","M%V8;92)06UL;&;D<XC-P@,^:U?'AX;^32&3HT=O;6ZO5$JQ\<,V@N3*PXNA@"
+"1445","M.'7J-I'Q!I-W[2T=81F#XV+N[/D$4:39_<W)-<.>RD,%T-NKYX\:*@H*F
+MI@;=8QA&.(GJ@HOE%94??C@#,D$D$A\\>(2@^EZGF$)WP#ZY &O6KH7PH-^*
+MJ)4_/WE>5'A_[F_G0=!&C$#]S%6; WE<!)VN;N&Q0*!$.6#NI=W^MY]Z UA"
+"1446","M30FDMV:HMK-GST$;+!2*4U)2N?;:^8#B,AH;UZ_?X._O'Q,3B]HAZKUS2*Z%"
+"1447","M\O%DWAFIU!W4 VFO7M] M*6**\)>NY<O7QXZ=&CPX,%4>1@73,Z+$S0^9$"
+"1448","M1<9$+8L6D40MY0D&?/GG4>SN,BI*=G2,0R:'%7_>GSA@8C0>L 54>H#2.K"
+"1449","MZ?'CQ_[^HR!GMFQ)YMAII^7X<:U<KD0Q1,&LK/R)L(:::[>Z CPTF?!=N],%"
+"1450","M0BGR'^V_N;EY;=]QC&Z$71&=3J?5:N?/GR^7R\FN1@6M$<A]Z3:%5)U93)9
+M=G8V#.0EMV=#:B@< NF%KJFIG3IU&F3%^/$32TL>LHT)^OB#;AH:&F;,F F6
+M0D)G/COO#%M7'C7R&GWRRT&!H@H_<^<4&A[V5@<H4@ITMI265X6$1< *
+M9G9T* GA^$64F]=1G+9 4$T-C:BSC8X.%BA4+ U5JWN$[W\LS]\MBIJ6>R,"
+"1451","MZ:'#AXU4*;VHT)%J'!X^MZZNGN EMZ>#LR#(IL64FKK+PP/MRX)>O;S.G/D["
+"1452","M8\8VAI=W[_YW\& ?LA462U)34SF:@7-S^?+W?G[^5#UZY>6=9@3-8>JNHQML"
+"1453","MUQJ-+2MC5XE$$H& ;-6V;]]!VS!'(0>9A9VHKZ]/3T^?/GTZZEI5*I52J02Q"
+"1454","M#0F9E9R\]?2ILV:S=0LS&IO*RRHS,[/D<A78:#1]OOWV$K?^\]@-IHJN7[\^"
+"1455","M8, @R(&E2Y>9S1C[*^J'V8^'#Q^!]@8574I*A>..S<ZW<LI4]Z':(\>'7#O
+M7C'AT$T.3K6O;>Y]G7U<*G&G_0^\?[^$L43)0@FOX%J9\Z<.1-_OW[CQLW
+M'@DONO_@@VDE)0]L#D&GAL3$#1*)#$;MWW_0SC[SV)\.#55R\C;Z$.1U[=IU
+MMEF'&T1<7!Q(KDKE>>S8L<X&/*\'[5E4BVC=X/1Z ]%I11P&Y!2&?@0EINAZ
+M_U[I\&'^E.]D#NS8D8)AUAT9W$=ZPJG#=N7&C1M^?GZPE&*Q2*E4P<H&!HZ]
+M<R>?MFH[4:+N!<)475T='#P=!F[;MI/#*?#8#:;&;]VZ'13T+JS^FC6?,STM
+M6P38:A 1$0'&WMY]+UWBST1O#AG#IT^KF!97+E=F97W=]MD159=L7)G>M4[W
+M,C;FC^\4@,9E57EX.=B FCN=_MP#3+@H H*HJ,A$@K%<-^KE]>1(T?!"
+"1456","M$D6%+BCK#QX1)TYH?7W]A@_WS<KZ!OY5+J;8R>8ZC 8C$N6+(54F3+EO8</
+M'[%MV#?,XZ)%BR#+9LT*K:RL((BV+.+I#,X/69F'G5S\X CQHUNKBXA&L'
+M.P+K3%_1RD*72S[OV[??S4T!SD^8,/'6K5N=QO9\W6F&!L;2^LMN0&A/I?:"
+"1457","M1A5[]J2WMK:+6Q8[7\X!+.YN>7FS?_<N5/0U-3,V61X[ A4QY4K5]5J#4H5
+MD4A\X,!7[$\V[?5Z_>S9H9!IZ]8E,BVQ'1UW)CH<%E EQL2LA#)%?U:O7FTV
+MF[CUT94Q\HX;VUQ;]^^,V9,(#B/A4C(X-PT,Z\6^BPE=.Y*C5:NCVJ0MY"
+"1458","M%8E$&S=N-IDP>E!GO64+;[M_W+ZSX>$ M,B-C4VAH;\!_0P,#PM+:4_V:@C
+M>%-45.3K.P+J;O?N+^ 3W^6^!G8P#09#1,1'$/A0X?FY^<S-MPYV!F<.=<P"
+"1459","MSE=7U\Z;-Y_9+*9-ZZJJB(<SO-NA-Q[+.1D,<R2EW=ZX, AE-Z*T0_Z6\3:
+MM7&HIBACHLO , :N$T/7QMKBRF3N5+*(DI*2WD0YT]+2T%9.*<:PPL(BPI7Z
+MG/\/=GN7;LV:- 0*,_HZ&BVC2/%$#K;-L_1WWO3TJE&SDI\? )CRIV?W0I."
+"1460","M]:(V.'GRM+=W/WKW$=*J*UBQ(L9H-!*T.+]A8&@[G#I*\*U+#V?3ILU009,G"
+"1461","MOU]<7 (O+52ZV,R8ZNKJT-!0&!(9&04OF8[(;FX[%TQD, R+CX^'+E$JE6JU"
+"1462","M6OA..)SDH@3 +H-,S8T?9EQX)VAOHS>3IHTI:+\,6EGL39^/1';DGONW$5?
+M7S^(@T*NZM]_D% @0?>C1P<\?%AF'4E*[IMH+OLT@5'_'2^Y/9FFIJ:PL+E4
+M^;OMVO4%O,19=!YRX<*%WKU[HR$RF=OY\Q<)EMYVE6 ]M3[@+T?Y>?G!P0$"
+"1463","M0+7.GAVJU^L)4K4PQPL.J0#,DFY+3I7+E0*JGT-7C49SZ=(5VJX';[4V)/?F"
+"1464","MS5LC1XZ!%12)9.%AOQ\_;C*Z5ZN]LK._05LJ\>L[$,K20FUSO.3V--K.B52M"
+"1465","M'#Z2J51ZHH3Q\1EV^_:=5XUB=FN#H3$Z.A;R;<&10:#L>O_CM9BS%K/;4\"
+"1466","M7PDSZ996TZK5:U&EHNA))+*<'UM8F%U.!9*ZS#J#;J^\KB!:&IN+2NO*'WP
+M/W+9LQB,I/]9BNZ>PMM9YO:W+]?,G#@$$IOK2WNPH4+S68SX0+GF@[!?_#@"
+"1467","M47#P=H&0C<WQ:R980L7+)5*W='SQQ\OZ+(<>%R-#OE34%3H-W(D%%%D9%1+
+M2ZM->YPJ>WAS^'FIZ<:V:/KCS_^F^BJZ%@*3V#H!.IPO9P]8*)^(B>WCW>_"
+"1468","M_[%?+5!-7&F8!$(2$H,$ 7E(45Y29TBJ$A;15N!1DO%UE/%X\I+%+M'3Q$?
+MJ%T?/8+=Y2@K4#V(MKK:B@@(B%11ZZ/RTBH65)2'8LR* @!0I+)[)VYR39
+M! VOLAWAN%.YLZ]__T?W___4.'.SBY81UIJ16!'(=SK=R]>I7*I7=NG4G"
+"1469","M.SLGY? /D>LW_GU%L(.CTR>!;5/ZP'?@@LH&=SE?:9<G/.E^([2I4N709DA
+MY>KKZY\^G8&^-7Q+'+.QL5$@6*#(.CJTL-#5,;O_;33:%#RXN\\H*A\L]*."
+"1470","M8! 051*IL3ODZ#WL-F<M+1T]?EP)H+73#8LW)R'!V=X?+EP>I4W1W&.:1
+M^4H0K]P(7^K1V,5O 7$?$548OBK0#0LQS15)ZVM+06%A:?./$SR'=A8>'C
+MQKW#X8RBP 8&'#VQ>]O:^M E62-R/N!#'&VQZK<GTZ<Y/.-P49T'& P;=JT"
+"1471","M^OIG?5Q_J #+@CC >,>.'4J^U?&:.?M4:L9,SUE@/&&\_;5K-U!%O+S-SCX
+M*LA9N[JF9L[<CZ'_>'O/??&BJ;M/X. _4FC>(9POJVM?6GI']KL6%W].#Q\"
+"1472","MS;8M.R[_>OW>@T=BL:1?#C)40&@;Q&Q 0 !1*>KIZ?]\\A2*QR=QD=$I[FQH"
+"1473","M^%]IZ=W=,;%>7A_R^6.(8-?79]K8V/CX^$1$10D[+]^_7I7*Z$VZ/2TS/'"
+"1474","MFEDI*EP:QK?6UM9Y>7G]LOB0 *1<,+A[]ZZ5%52%CKW]NVFG,H.#PL'8D&>4"
+"1475","MFIJFG*QH3]ZDQ,89"",6[O/EU=!BR3)^A1#\Q.3<WS\3$%/H;@\&,C]]/
+MF4#Z'$_;__G+O )B\7S\/@@.&3-@P>5E&9M>(,XZ?GSY]EL-D&;TV?,?JL
+MITP&X=K4W'HF*W?3INB @,^=)KH8\OC$)P8&W*E3IZU:M>;BQ4L-#0T='1T:
+M-^H7Q<)%'CVJ=';^&[XY74^/!;TE.#A8)I/U?8NA D5]4ETE$,R'AC V-MFW
+M-V'7SAA]!F;0H*!0U<D(?KT5[OVVH1?!102F6S^<DD@=*'Y@D\E$BDQA? 6"
+"1476","M8OW+EZ\X.[O 4@?\^?KZ-38^)Z^F*I(*Y7ZW)P[&;.376^[=>]@JZ@ !V^_%"
+"1477","MV)L%P76DX^_H(I?FIN;%R]>3)GKJY>3.R_X+S&YTTWHI23YV.CT\(#5L]
+MV_MCGJ$Q,9.FPW!T<!9\XA\>'G'LV'&AL$Y[>?IXG):6EG7KUH&*&HAA9FHU
+MQWL>J')M;,9?NG2Q+XL/?IU!\?M[>VAH6&$45:&11P\D&)J:@'&4US=*RHJ"
+"1478","ME#.AN35V+2/H!V@DG%[4;]W-UYZ7>K*CPAF$=76SO>?@):O^H4.'B440K#/
+M.BEBS?S\?%=7-X)O^7Q^9F9&]_M2*?=I;9V?[P(NUVC9LE!16R>J26_# '(2
+M\$<4TR&BH.*$A$1RB<OG&R<F';B0?RDY.25PV7)3,W,#SB@:G4%,8#*Y+I-<
+MPU>N :%=7O9 U-HFD<@HVPW<$>!C4E(BD\G.Q3NNK51^8O!./(R$B)1#)
+M @P2J$=Q>GHZ,!DTC86Y-:AOI[K-P.UHDI65W=U7(Q@(0&J22F4(3C.0K+3_
+M7%-UU/4*@LQ^ *1J*3D9F[NN2M7KE97/U9.UC8$Y'(9I%S0G)I;6 &WX?%&"
+"1479","MY^6=)W9$\/]$YWCTZ%$[.SL=$M:N70LJY!XY6%5ES8GCJ<?^>[+Q>2LB ^J2"
+"1480","M#C//).R(W7%[R1#H#-@O?_[9X.7U(=0>G4X'=RYWE*V=HX7E.TP6AZQ;P]'&"
+"1481","M\WP$X:N^.G @N;3T#[&X4VTC[-XC'],> YXBM345$M+2RA5<%#XM[OV&+ -
+MQX^W*RHJ0H=ITJ2 .""H]I4=HW-XF[<L&6^X#.H&=!Z='8.\P0T>$#VNJJJ"
+"1482","MFMC8[TI*?D=5H^_5GU,&&M9'Y&0.OW7K]O;M.Y<L;2W=[2VM@'7].F>.3EG
+MB;)*.ZDQ+FUO[P@-68E7K32:#LW??R%@<I34%Z&8I[7&Q^\?.W8LYFHT&O2Q
+MD)0AH8&;0ZH#L!$JE<(I5)I9)AZ:+D0R&D\Z6D'.%R>;@:Z?BE2Z/ID9G6
+MB&_LYN;^=634V;/GA,)Z2N>$*FIF%8<9( 798N+BQT<'*!LGIY>^1>N>,["
+"1483","M4D9$Q#]@B8MJZV]#$A0-5U143)X\6<&Q*]=\GY3,T,,:EH +RHKJ_9RMJ
+MIQ'T+Z"",S//L-F<A0L7=72(T6[H;L?@0\3):7**[2+_0!.IV>ZNKKIJ,'!"
+"1484","M82*(TYZ(C!%X65DYX&T\;V.QSV PKUZ]2IY4657MYR>@TW6)C:RLK&)C8]K:"
+"1485","MVBAGT2:Y$$P.: -1NN5@]\\>R@8S(_E$[1V=(!?_>/28G9T#SK>Z\)4:F9F
+MZ3//;WWDIH*HJ:F9IFTJW:%;0NL.<G966/CTW?A53^5*XLZ'5M;V]]^*P4
+MRV1R'>R=[]PN(PM<L]A!7('!V(S*BI*3P\+$SI--V+UVMFS/@)CU_?<[]^O"
+"1486","M0!6M@4S=6/H7Y- K!Y\S;(?L^>816@QKY/W1;01E*I5/-\T*'B U%;^^;H"
+"1487","M;8:&1C *N*.,G)Q<S,W'X34JWO<%AX&J57O9P=\OOYQ7+ @8@(:UNKZ^?H6%"
+"1488","MA8 E[I26[X[9,_D]%7HW,S-+2SO]VA-IWD^A*:Q2PR\YY:W6D@]2R%%JV5E:"
+"1489","M6G;@X*' 92LF3+ #N5A9W^K2Z5CD<@QX'\WU34PX!BLH[U3PX)RN!H6QRC)
+MV<CH3_%) X9&QO+X6 R,YGLO7OC:VN%<[SG@<>XN'BE, B6/+%V:<C;3AV4"
+"1490","M$K>HJ&C,F#'0@@P&B\O!HL;4U#P]_0QI_D#89014*%6-C3=LV(R1(9>7FYNG"
+"1491","MQ5<8VMO%E94U3Y[42B12^(8Z$[\7%A6O JA*:I-^J?^R__>JVZIG;GKMT\"
+"1492","MGH*$ITR9M;ID?#1T5O(C$JC8>QM;&RR*.!+1P=GXG>0W$U-3?W]_;.SLY7R
+M=QWD+_$Q.5Z6(WV);JWYB'V@@5YQ</*ZNK'RA5DD&?D<F5^5(1F5Q)I:^\H"
+"1493","M*KYY*.4'MZG3R>JE@_)(%]2W(+71]/4--JS?VMS42A&P=^=-1E(I7=_/W."
+"1494","MB9].EI3<4AQ,<U6,)7P$D6)'4+[-RLHQ,3&#8H<$A[]\*=JY\ULP-C+BW[MW"
+"1495","MG]BN%]+V%J\U/8*G*(VSH//T#!3*W;1I,PP0W(AZ4#/1T5N5<U^?=]0=C_S8"
+"1496","M'\J$;@G]4\4ZL.[69@EUD09G$B'DB8N+PZLYO'CQU%E)4 N493SL7M+2^N1
+M(S\N61+HX3[SFVV[.L525)-= &[?ONWBX@*M;&# V;KUF^;FE_56-RY:-'G"
+"1497","M\-6D29-J:FJT%ULHK'=R>A>G E!ZT2#?4L!@,-W<W,&Y2DI*1*1ZJDU2SM@
+MZ&L#*U<V?:AS]U-1$@72'8E[W\PR]/3J[R\'/]0BGNU3&E6L**,^++YI2@K"
+"1498","M^UQ(:+B=G0.;;4!P+4ZS&.5;8/[W#D^=<(&BGA].13%$*#;71^UT7&B,W 8
+M)R?GY.3#+2TB.%G3&C)\$02^+2N[[^&A2!8SIK]?5?7DT<,:T+N!Q]6K(]Y0
+M]+UVTU=S<N]S&<-&P46%I;0@GB88'84!;4UCY5+DY*P:\0$5>OJA/V8P3)
+M(>5J7*U'6UD^FO#_/4@)'GQXL72I4N!+5@L5D9&AO(M0F18LLS/GC6$A(2Q"
+"1499","M6&PP?YJ'U]4K-U %B:DD%SHKZ\/# R$_F]K:YN8^'_NJS2JJ2P)*X$L!,(F
+M @904#QNIUM%! &75F&D/3(R(*VRJL@?1L%N$83!441$!1FUZ<9E5'!!/*UB
+M:!1;$#<6'466$<0=01MA9)&P9>%-Y=V7YR4)D$$][9DZ(>=Q7^7>JKI57WV5
+M*I%(#ENPUNZ.AP='1L;&PFU!0 ?)[<@QC(9J:]O9&$Q>M*D*:M7!QTZ=*2J"
+"1500","MZA'^*[%8C/FNV$W^+Z07A_>DI&04G/CXG>@M0EU4.%+R<B72WG\_?'3L^(EE"
+"1501","MWCXCC$?A/8O%TH8/&>/A9*BI]=AM.SZ5N:B0Z5OHZ.C8M6O/#+N9!F0&!J.
+M*PLHI45_,7AHJ6EQ=\_D,J'$2;7V[#XOY]*;;F9EY>7G%IS+[4\M'34 J"
+"1502","MA<[JL+#OY7,*B(SBFIGQ2TKN8FIJE4 O5>&*[94N>2SW5'X&%2E]E>_>-1<6"
+"1503","M%A\Y<K2RLI)Z1T']0!LJP*S*5U^(&,R,C*TM67$9M2H4145%=@K15QJ:'CK
+MYQ> +M%NAD-I*:[\8>B [[=O0=-?4U-VR^;FYI<N79:_I8Z.C8U#@RHH;-RX
+ML:>G1WVS 5'ELY(& H3P\/;-V]G90D*BXJ!)D'QXOK <M/3TU>M6A41$5%3"
+"1504","M4X.;\>7<17^+(1^ 4FX:5-D1D:F4-@YZ*]$8NF&#3^@FXJ)V4KN WDKQB>U
+MAH:FN!T)DZ=\A=%:F?#YEBN6^\9NB[<P'TW&60,'P(*&P06P(_T2RJE*I8
+M+-FZ-19F$]1+-;4X&@PF/&EJLJY>S2/ZN2D\\5)34YE,-K(S:$TPK'1U=7EY
+M><._OKX!,%5]K,6?2Z0XZN+L9<@BSQF)B\N?4*6@2P3GY-S65ESD-VP[_Y5"
+"1505","MI -^!CF%-N/77W/<W9=7V R65.G3KUSIT3^=I -%=CLX\>/\_/S6UM;U7?S
+M<PMM0VUM[8(%UB>GIZ(NA3V3( K-S<%B--8)+7KEU'ZV3)4/[250N+EY#"
+"1506","M@P&:5M9C3YT^HW ZP.,8J[%H*RY75R 0J&]Y<W.K@X,C:MQR C8\,S-3I9>$"
+"1507","MC/RT J3S>#RYCUZ-C4UT$%1QIR]1#A\^K*.C_;S>/I)2?L&-?O=NQ9O[^7(
+MY;2TD^0:.M&;?3]^_:R\H=K@T,T-9DXV%I;C]T<$77_;ADHBY>TM'10YV-
+MP6@4(>$A/3TB(A/ ;D$%G^XD77KPM@L+GFM6EZ>*]R7>#)(R#4Q,7OPH(Q0"
+"1508","MQ7+Q*GOQXN7TZ3.0%V/&6-^__X @>3YDEZZN7DY.SB<P]_-(?[QMR!&FHPHQ"
+"1509","MF3AQB*Y')#0S?0.NJC$$8N93-24?&=GU,/_9B24G#C.KW;QQ!U9$A75W=<"
+"1510","MW$Z85?&$]/'QZ>Q$! /'6Q53TP$R9/=W3VX7!T_/[^ZNKHA&_:9Y.S97XR,
+MC,$[#H>;FYN+%M&MX?=26EKJ[.Q,CYSIZ:B*;F:E/Q0+E=6/C0P, )-4S.^"
+"1511","M()O*=I%(4EW]Z/8M&!F.V\YP0&0&_EQ=%S4U-:F? P</'F(RF0ARD3WCQHVK"
+"1512","MJJI24$.;2222R,@H0 SZ$K6UP<W?B#XSD;JBK*M,[Q5:SP#Z Q[TP3:12)25"
+"1513","ME<7G\VD7/#R6*7.V7DS@W[*RB@D3)H&RD:%)1<5#0MX9X>%ZP<UOYKF.'C,."
+"1514","M*2JQY'&9IY_6;9_WX_558]0Z8 #*U?XDV\9,) R&%KPI*6EA; +':+0E/$'
+ME>M$/S&OJZM?OMP'0;J%A=7//QTYFYDUWF8R<G;]^K#V]O:!XP;QCHB(1/IZ
+M>OH9&6=A$2@!<')8\?</% K;E<_]0P1E!V8,639RZ19UM[2VEE=4 J^0ZP_Q
+M%/@6+*AJ%&AP24&!05#J/M:HGKW 4KCT)%_&A@:H5;F)KNVK-;)!8-;D_?
+M_H@]4 IO7C>$A(32&0[Y!@;# YO-3DM+(S4ED,(DR*@H-[1.OTI,W$MO%12T
+M%O*G/S?_I]8S!%$^XO'CIS0W @(@.F5P$)-*U=65MK;VV.MQ[>C Y]M(850"
+"1515","M0&3*#0UO/3R\D*;M#/N;MXHN7LP&#K-DR9_-S2U93&UYI<MDYDR'^_=+B?X3"
+"1516","M0.&.H&<Y.3D-ZRO1T=$JJQ[ :N_>?R!R.(RD:\-D@ZK6J5,9ONK#)3R,RT2
+MB9CNJGA4\5:+!&KGWKU2@2GK*R2I8:O!IV@&:!GH\>/6I@8(P$3X,!FM'"
+"1517","M7(*R20J.)R8FZ>K*B+W'4@J?:>9C.YVZ2GT#XUF.<V.VQ-ZZ5=+3+<9WJZFN"
+"1518","ML;&90/8U36UM'2:3,TPVEHZOKJZBO::;LCK%VRMO0_AOX=]GSY[Y^/@A>ZS&"
+"1519","MV/QVY5I;:^=WWK[4BI4UM&^BWVNB'O+R\G@\/?**-?S\ CH[N]O;A:ZN;K!B"
+"1520","M;&R2EY??WPY_A,CN%F&$5/J!';:]%YX^<V:EK^_L.7.-1HST]?5__ORE1#+T"
+"1521","M$0QR8-6J-61,9'P#Z&YY>:7Z)N*W*I9(7];67LJ]?%&0[>*Z2)Z*LFUU]?3."
+"1522","M73A/*!'UUC9A7?V;NOK?W[=30*%<+_2-(5= ?YKT(W#2!(6]OVF39%LMC9:
+M24A(0$8I&F5TDG42T(0I0 ),V7*5QH:%,OB<KD7+EQ0Z:,Z?R10F]+5WUB
+M8C*Z$> #N;E7B+Z5BP1ZA*>G)XUOMK:VJ.XPD>(NIZ3\1-)7&0758+ -C4P9
+M6AP%D-08SAQO,S$R(NKERU?$8.6 8Q3P/1Z/AV]E;FY>7%Q,J&+F0F[8;A"
+"1523","M;1-8-YO-)1NHYK%C:0H!&3AHLMZAD:3GW\].CH&VE-$1 1^+GY]R.97K^H/
+M'CS\[;=+K*W&P]$.]HYHVE7G?FF=YN9F%Q<7.FSP-V'Y'O_>M#?K] #&&9A"
+"1524","M,1K])'GO 5I!*!3NW)F@I<6&%S;C)YT\G?GZ]>\*H49['#^:QF2R4<$Y4!)
+MLF;-VKYG]1*8+QT=';6O:D%J:FK$(A'N""Y2K%1>U-:ZNR]%PPZ?;WG^7+:H
+M1QJQ*9K#05U2 R8:A8 H^UM?_V;A0E<4H*E3IR.(WK4K44M+-@K!:-G6UJ9F
+MV#^+]/;!(WD0 ')E4(86SU_(]EJVG*=G@<VM(RG3Y\-^=CFYI9ITVP1UP:
+ML7W[#K*)JQ4$/%80O?CX!#N[F3HZ/!:+P^7JXG4,?[-F.6W?OG-SU);(S3%_
+MB]FV>T]RTM[]/KZ!]@[.3L[S5JP,NM/5P7418O%Q7>C-F_1U0'?-6#@34\_"
+"1525","M:]NWR[D<F60R>FIE(Y4%]?7UQ\IZ3D[HT;MYX\>2;?BI!#KDR 700&K@:>"
+"1526","M -!-\F29A8L6+6YJ>J?23;QRAQSJ <*H$$](SHD3J?$-AHZ>GAY%>3FYN9R
+M.!1FFIJ:%A86$OV#U?/G+YR=YT'TM3D6%B,'3G2DJ<W@L6&9F@(%'?^_(5N"
+"1527","M;HMAT#MP( 65!FY2?WOVR@E25U=7<' P(JM(X#D\/%Q$%KA\!ZJ<PJHN1)D
+M[NSYT=%_-S$Q@V<C(^.K5_.5PZ+R7-RJHJ)BP!P^WX(^W<[.OJJJ&C.2 F=
+MYN3DY+ESO^%H<_$BBHR,$HL5:?  (I'T[MNW'[48TNOA/=$/6*5^KV]%/&+"
+"1528","MB]N!3G1S<W_ZY 5Z6U__.C0TE)X*+2W'7KERC3Y**I4@X@ [='=)?%<&8H=
+MW@YGL=@G3IPB$Q+)3)WY7Z\;6R0>:OZ];/GC//P='IZZ^GQ6Z/>_+D*7YW
+MH&%[]=OWGA_MX+**Q/^N5\$W5W2C3]$:I-XJZ]O&!*ROK'Q/_A=*+LL%DNV"
+"1529","M;-F*-ODO[U4%=5YA6=A@!E &)8!%!H1&$RBE$1<*@(N4>+(* B1*R*H**@"
+"1530","M<@R0@&O< @@6!4D0MX0#RHBHH,VI*RY5%#1J0RL&-1I1M@'9A>'U_N_.O'D,"
+"1531","M2]73]C\<SIO__>_^=_WN=P$3(*]@4Z%H@.F)M!5'Z8T;-ZBWFRS^5ZLGY%)J"
+"1532","M\Y5TL-YT*@M.GG%P_ BT-38Q]YGM#YQ_R& ;#N%[@TZ=*GR?VGYY\^?M[:V
+M0<](I1_>NT<HKIH\**E>I+&W!%BW;I4N7QX.8P[*$0CTX#_\_. #.P@0W8AY
+M=(;@ V$TAD9B,,1HD*FIF25^Y3IZ'. DI2DH)<WSB?SKUVZ.&3V>V&XLCH[Y
+ME(4[SUYL@ Q!V[,RCI D4'F C16 %)]/4-3L63&=%EIZ5U*E?,:@: PEOD$"
+"1533","M=X_X^(V.CDX<>K M+#S3V\;_0U:PD[:^7N'G-Q=] D-9?GX^<P;TIX&+Z -S"
+"1534","M'\.R &_W[%%1)F;LU1*>GW_RFHP..K33\9>O'!=GE=X]%C!D<,YN;EY%RY<
+M?/'B!33-UK8VUE?X-Q#N,?^A?.SL[!BPI:G1$*2:]!FEFF]3U=4U_BKKN!,]
+MI]XI>W!<?M*89A& D\ _J;Z:2X]+>];XS9NWU)R!$#]D?;#BXC9TONFD6' '
+MP^#>O6DL*LZSE S1U278Z^;F7EW=1[?M;P&.(5GE\3?.8 D)26W^U28T1;F"
+"1535","M1R>G#^ETU3UT\$?<K*]O6+)D*3J-Q].52 :#'4&!P< *T'7,'_RLJ*AT<7%%"
+"1536","M)].+& L)7U553:F8L)*YKKFE9?6:*%.Y)I6R-<1T/VE4ZO1,WD.^1.^<B4>
+MUA<:IJ=GUM8T;MRP5:C3VO(CX]?W]343/VGTB@J.@OYAG( K !L87/W[E2A"
+"1537","MD'D;=NVLZ]^>\__-SF/-N1BUJE^'/GAJ+/S&%)<UG_8EY%56UO?V-CL[S\'
+M=F#*R,S,>K\[JZJJ9#(9E\O#&,;$Q'9T,+1$J366]J$R[?,#!PX!)</HBT0&
+M\^;-CX_? ,_N$R8-=VQXUN:\:J8 #Q/G/39QDW?9!V :L^[<+&XI*0T(G*M"
+"1538","M2$0X>$Q><IVK'=='^GRLKN3'#SQ)+Z=F=B6UL[HT!65I:.C@XZX:O8N/2T"
+"1539","M3<IZ4IBL?FXL>Z>'I]QN;J1$5%M;4SV$H&0,&O61('50 ]R<_+@JKES S W
+MF,&6;>/[^?:=%COQ]NW+8 K$U]>OKJZ.TJ!6%P(7' 96R4#<KEV[H(BTY+#U
+MA]$26#U]EK]D<5A^_IGHZ$T__53<OS*JW!NX(IA7145%AH9&:G7(FCQY,F27
+M6@*D5$/8A<5M4XD(B>'.XW\^2ZATS\8/) %-Z\Z=22/,EKU\W[=]_ -LE"
+"1540","MW LMWL+$GH*G<^<&3-F8IGC\<>53U<L7P5$FO'MHC^'[DO/-!63C@\,7Z%H
+M'#!$FM7:VCYSI@PO10JAKR^4RX\/HI%\)!:O7HM7FT_3%I6>H^8T-@2M3::"
+"1541","MQQ/@_OSYP=]L38 ';YFLM;658O4+%'7B1 %T857#(&C/9<@&I8)<<JR]_4U^"
+"1542","M?H',QT]?J'S?+B%2XK%PW/BRY<OV4IVLU3-SLZ&NN 0:FH2%[_IZM6;X-#"
+"1543","M!#HB^D(!= <,*\4S-[! @[LZ^N/]SHX.-V^74:1OEQB;R^%G<F3I_[^.V%-
+M .\:Y']+[[,.=[_%5[W/L""VF_V:;45IV;WQXR=:60V5^004%!0Q+8@8#Z'"
+"1544","M\'QQX>FB=]%7LY*3D_7T]- S,&!>O7J-N1T)%4-.^K0%UI4KURPLK%#L&$.
+MAPX=@>I.3$R 4GI<*!PL*S4 C(0#AD:+([][=+6J):6MH@E)C#RY8M;VA0
+M,*^>/'GJ[8WIS?&1^>$X@\Z!H76EJAUS^7R!N;FE'LU8N!SNFL@OZVI?9^S+
+M(E_Y &K5J\TBMD#H;6P(19$Z?O2X\K>6EO8IDZ?A%;FYQWJ9 G<GI0,'OV
+M[-C8V(</'[Z?JP=8[+QM:6GV\,#^PI%() !ES!D:M91H^/KUZPT-53-%4% 0
+M]RT<Q!WBHN+K:T)JX<*'>[TL:&AJ5 H/GPDAVUK=Q>,I9HD9$OJCWJ!C&E
+M,BDI&=D+ERYJ/I^?DI+D%7FY.G319@,1H;&V3\>A9WKU_]N;^^( )*1D4&?"
+"1545","M[U+# %D/'U945#Q2WTCA^-70T%A8=-;+:SJ3O2 S]/A<P7J,8KSI_'CGOSV
+ME+:,@.2BQ6$,^(B$!I&144!:#AW,UN'I\KB@[>X!'*C%NB]?NF9E::,VEA)"
+"1546","M=>N^Q):GY3<EO?YNKI:*I72SM$!3@+<IJVU?5G8*K7W^%E6]J%NY,@I^"
+"1547","MI*:FL85@2%I;.\)71.)Y[&OP\/GGTU^]>J7Q,_T)#^#C$P9>QT<I!LV;)XW
+M)X@>,SF!@0N;FYL9B[I9O I&!@P'E\,/71I^7'[*==0XM1@N3+(U-;6],T'+
+M43!-Q,5O$.BJ0O-UW$;8K*E5S/8ETPU,H,57KO5P+%$ *K,'R<156]?PCU_^
+M>>[\I>B8KU>$1WR?>1!^XBO(UJYN)?MJ[85BU1*K:P &%J7XC! 9EX-AV'
+M)\\[.7SXQV O<'OHB8PRK:TMHT>3><K=W?WY\^?]^4'+)\Q_Z^IJ:FVMK8<"
+"1548","M]22X8,%=6/MNW-UJ^<(>-.E1-#K7+<NF@GKZ5-G\:27UXP1(YR?/2.-[/#A
+M'R022^17I.1U1%[39NW=^]W]!^6,^?_M+048PU%E)Z>H?)2=9V_OXI_3IDR"
+"1549","M[?%CNH+4HU-E9>6H43AD:<9)2\G@74E_J?SU24>[<N8,@M7AX:L ,QG#X1G("
+"1550","M/(]'D,%[EB_LWF[;S?4$3_/SLZA<P#H@@K?% I%:&@HD[T+%@0QZ3HP WS7
+M!:*@;).2$@T,#- /.W;L9 J6?9U<GF]L;(+ZN+JZEI>7]Q=H?(PAH2$J,J&"
+"1551","MCC5 8EQ</+!$M?SWL8*17U-3Y^DYB1T(%Q<7C5$\3 ;R$A*D\&!GZ!FUNW"
+"1552","M;D<,L;8>_.A1!:6.+WY54G+;V=EES)AQ>7G'NVBJ ;N_E%?X^0<8FYAP-(M("
+"1553","M$/!UA;J&/(Z*,1H;&Y^_> %O:7S=MC8JAL<GKTQ-S1,3D]O;.P 9 N8M@!T="
+"1554","M';W<W*,4J^[Z<2;Q56=G=UAH.&VL !%L[-CQ;-#AZY.ZNZ=^\7%5Z% U#*[
+M-V_>@HJ-'.'R\%^_PE9*\AX^3T]7(+24V*Z/W]+\NKVEN6.X=*29J:2T] Y^
+MA7B+0EZ\>#EVK!L=11[&$6R4R^5:Z0&E&;$JN\2ZAM$1*S&G@7C'NR(320Y"
+"1555","M.7F,75A+2E5!/9XZU8LVC3?!;=+R91$V-G8H1V(Q9&E(V*M7-6^3#X#;0^T<"
+"1556","M\$-GYT_N_OR@J;DMX[L#(H-!QB;BC._WXWGDY'W64'U]@UQ>L#1LA9N;IZVM"
+"1557","MG8&1F(GT,'NG;=L3JFOJM;EKSYRG\53=[&IJ-V[: HGT1Y=/=^Q,5#0T8+1
+MD,NX%\E#=TK*'A,3,[@H*'!A@Z*)%JUJ!.GI:4*A$+C!SIT[NQCB.^!BYHZ.
+MCHZTM#0# Z0E?+H&!3DY1]FQZP],:. EKUXW-<?$QHE$1(BWMT]YN:K[Y!TK
+M,#.U2$A(HDA^=@8'+U27@!A:K?<L/_PI\YGS['D5Q:IV:/WX*C@X&'X8OO("
+"1558","M_+&:7%W'7+Y<C#YA%#MQ(M_,S%Q=Z>38T*%VR)U@_?7L.0,1X8&+%BUF0^ZS"
+"1559","M9\_=_TU[M8!3E:YA-K9<]MYE5,BE4A2ZC$+DDM0<J4XC<D0]T\R15*9T4J+3"
+"1560","MN!35.:.)T.U(T4.C.IDY1B,RTV@T#NF*,EW<1M(FL=DBUOG^]:VU+%MU>DYS"
+"1561","M_L>SK/VO__+]W_?^[_=^3L[0+Q:-VK\O_G+A#^N#-F%E!_FWI.07G%(Q^O6
+MK9NNKJZ\JPTUA:2@H( :2B;OV;AUBHJ*1K), BYM:WM.48K<#FZQMY^+8Z#&
+MS,[.?LN:^PI*3$P,!BD)X$@)B8&,$#Q8/]^9O]@8&#(954M+>WSY\_C)RYE"
+"1562","M !)24@YCO$0B<6YN'G0V-[=X>Q!JZZX>&?M=/FKGB%+S1U=6-_145U69F
+MTYAP2$;[^WT:&[MOY\Y=0>3TE+38Z)B34PF !YFS[:Y?;<2I_Q47&IKYPCC"
+"1563","M#0V-T]+2H9R%SDOYET>-)/;8V-C=O5N%9WKM,?DN O(7BTB,!(1RE32UM+_^"
+"1564","M>I#!X%%=57,@_M 4<XN9,ZWKZQMP5GEY.6Q-.U\U//R+?MJ M31U:VB((R-C"
+"1565","MN[O[:FN;8F/_+A'KQD3'*1 (-KABTZ=]R*48:-[>WLCVW-4FYRHH<K GA9+A"
+"1566","M.).DI&3(+-!97]<P>[8==Y<X-'\1,H_'49(UM4='(P26EE-57V.G9..SEB6
+M-JUS<G(Y0P8&7I.;N!ZIM&W-FL\$*JIT+E-S=G$%@>J^:E0I::6:-8L6VGK"
+"1567","M<VK(168F5E7?!\%SZ5+A\>.IBQ8MED@^4!K25 ;?5(0'ODJ$*5UR>7)*2EQ<"
+"1568","MW/ JCWNI;VA<Z;>*MXX@?.=.] G'M .LCUT* DAZN3HVE!'%.I_&BZ>_CP"
+"1569","MD;4UD;B^OKY2J?1-:!F.'%PY.CIZQ(@1: %6@H$]/2,X0![[3KP['W9^T5D
+M#+B49B&=[[YC]W@S72BF9.C2_N+#OB9DY,#-$CO(EBRY(^@[!\]?+SFDP!U"
+"1570","MH0:H$K<%[MEGSPZP:X+#T20K*ZN\O'Q.$;FY+:RHN*%PD#:DB5+6?@1!.KJ
+MCL&L >U%>P=*7$U-;2A7^<<Y<>*DGIX^606ZYA.--?6DD $8:10*(R,C)++"
+"1571","M>SA70B7HY>4]-.Y$?&9E95'_!\H%.>WGYX>[@-D7+GRC<&2T*S[^*R$IV8C("
+"1572","M\?'Q[>CH>.V:_#L8$[,;0X+@]^ZNKHHZK^GUW=IP*5TKE0F)$13KH?'8BR7
+M*![RT]/3Z6*'M/7K-\*LER][MV_?H:Y.< @XOW;M%S2<LP=H64-#Z=LW;JM"
+"1573","MKX_HBFYY_ZE39XV-254B$8_:&Q??U257,DO[V)L[-[2?Y>]ZB>47UQ<[N P
+MG]YES+%C)W ,^,UCT5(:^2K1T;M9,_O?Q+J8.VIJ:H!(.=(#E\)90))Q(W-S
+M+]K:V*NJ$D3-F/$A%GHP%4Z*!YEE;7_G#JE*?KQ2@EE@QDR;F[>JBJ^2I 4"
+"1574","MCC VF?3@X6.*939^@$*BPC;*^/NVMIB+N'B # R/2-SLIDY37?JAQ(/<X8!
+M[#5I9P8&K&?5'\4/?/ZE0GW]<4J,!F/X34M3'/#GH.O7*_BNP/_#782=A85%
+M<!-I8E0!]75-0;)3J *4$$&X^.NH;$I(3')=?X#0U-2$R@S5AJ50.3'!V=
+M .=A8>%!01O,S:>BO)\W;_YO3<UQ>_>KT-P.LI-O#)?H<W*^M;.SYPQ ?(X>
+M/18*D*''(>WTZ=/:VD2D39YL_OWWEQ0&9&1DPG1M+=&U:Z44HY#?2>CV]O8>
+M.'  J=+4U&S,&#TV8RHG)Z<H&#R\<<GWV/'C8HD.=X-01C8V_K;88QFL:D*"
+"1575","M?MZX<0L*3!SC[K[XT:,Z7$0FZ]J].U930ZQ$5Z!558P\+BKZ$002C195\UH
+M(7B?.'%2>7D%MSL: (P!.@UO*^U&HJ^@@,)A=74-H:';@1OAZ\<?>[:UM7&6
+M5U96SIGCP,X2<+&8-&DR*/#V]A<46VI!.WKT.+(Q( ?I*9&G ;/DR=/\EWQ"
+"1576","M>Q%O:FHJEUH#V,SXK<=M75U5 ?X1@]/0/4Y&^2'-C]XD6'A\=2Y ? /U2."
+"1577","MI:7E.(Q7V?WO1VAM;75P0-6M3%\K ?A-P9+:VEI;6ULT&RX1@O;,F6P='5WL"
+"1578","M# @(0-3QC8F(^M^-3 P FQ0).[R_7]+Q&I71T<OX6*3,;R+3UI8!AR;]_^"
+"1579","MU<V-&F!BLJV;>$]/2^QOZ#@LJH*>B$:9E966LM:]>2R:<25%14<S=51:H
+MJ:EOV!#<U/2$<S40+% !VJRNK@5^P(D='3(79S?:0<+$!$*#-V]7VM@2I^F.
+MUO]7;GYK6X?G<A^<.,?>J;-31@T+/50E@'6[0ET_?U7M[9*^;%+2SNEK\^4"
+"1580","M,WXK5^$Z%,D4#^;.=<+^7;NB^8?#?U=^*G9A+%=F[X7 P<$Q.?EP*R-*!Z'R"
+"1581","M%L  : ,#U].2 #E60=Z)A=#)LK*.L/A@L-GX+H-_,O(G='7UP_B_OAQ'3B0
+M(EIQ8.W:=?@9_)Q^*M/(<#S^W+$C7 %R0'10CUA86.$ )R<7+Z\5( YQ\8R,
+MTPJ6/WOV;/IT4CJ)1**DI36.0R>6EJDP1M#X*OKO(6=,HQ./_?U+4TJ;0T/"
+"1582","MWZFM+8*Y4Z98Y.<7K%CQ)^Z,1XX<XV/L+=>PL+#0V-@$I[FY?5171[BTH:%^"
+"1583","MU:K5T!,1L8NBQ4] 0[N')65C;K#49I;PD)51>. .R&A>WHZ>F%SJO%/TLD"
+"1584","M(_E^'S?.&!2+PN[@_TV;0G D!!2C602&!B4F7GFX,%$9^=YF/O@C,7%/W-1
+MD,ED_O[^2HS>(_P (LK2<MKFS2&EI:5RN1Q'TDF8>MHB=?\#?5655?W]/XF+
+MVR<6XX[*0D)O%]_P:BW=W='4]M:CKISIT[_$#@+N#2B(@(#LQ143'OLC+X
+M122X'D=')QJ:^OY7U&_O<\I+EZ\B)[!6V-E-?W9LU9J*%-MV;*%%B?*H-Z!"
+"1585","M2*'GWKU?P?-X%A 5UZ]?9^UA7/KD2;.]_5SZI*HA(7_!G'[DR#\T-248[DV;"
+"1586","MMO;(^^A)'/('%&2JK+,[^/.MD=ABJ>G%Q19V-_=+5^YDB!!+)9\^64\.)8U
+M^-6 (FMS11CUX,%#+W1F=[>*^!42S?]O;V149&TWF9?%WNZ2.7,_2>G7U.
+M;ZPAB>S$J965-;U] YM#MN&P3S];U]M''3F:JJ$I9B8N7X%Z7J&UMW=X>?EP
+M?AX_WA3K DX@P:TT,F)NI:7E=! \W-R4E.H-L>.U><)&,;RIRVM\]T^HN>I"
+"1587","MH W+EGD>/GST[MVJ02\,Y7^%QE4!5ZY<&3ER\ HKTXVE<;+RQHT;^1/OW;N_"
+"1588","M>M4:-36BG8Q-3$&PC=;5HT>2P5!]\ <#_8(&QI5!D[#>4().V)<:KG,S$P4
+M[= @P<0'[#\97H$O+JU1*%LYP[=Q[ULXN+] OQ609 @P(1UA8!%UPJ5SX"
+"1589","MY[?LC'X.*OQ]N7*#HB]U4% 0J'U8=M2H#T!C0==[Y-N 3T%L=B _#[^#'
+M-3$97\+(;*9Z!75:77T?>D9XP&A&1D90T6&=M*FDK>6IZU+%B^#KXZ.SO7U"
+"1590","MC=!34G)-1T<'(X5/P+#[I 3@6K09LR>]!]Y 5!' 5_LH$P5,AE$ 6A4,CA"
+"1591","M8<X<^[2TDW/\,8->H]^J:RJL;2804YD9ME0WP3AYHK</7OV\-W[_@W8'F@?
+M;9LZU>+A6^PGY,6^#,O+T]7EY&%UM:S&QN;@$-DLN[GS]OAJ;!F9V<7P*RL"
+"1592","MK-S&QHYCB>#@SW\7@_DM-#24S6*$O;]A_5J :LI7</5CM+6[6RU2:E(N11[
+MG;C,ZE,E.1PCF&<8OS%)F05)RG2&F'F?F. <SI:G&+<1X$A4G@UQ*TT5Q"
+"1593","M)M=*32Z1TI!UWK6^M?Y613/C.?_#;N__LM;W?Y?W>]_/MW!MNW9^?KZ9F1FU"
+"1594","M2C'W;N_@:[Q\)C >@?:64?) !U$-EM8]$96%!0T-_>0;B)[IPY 74L).?
+M)*1MD7WG1WKZ3-SONYLK/L5%Q5S4LB.'3NA5J.TM7Q\)C8TRDE.;R-A&%!
+MADDH$S+;T='QRA51+- &9 ATAU@7??J=_S&/5JNJ'DR8\#'-+P_ER5C&R6Q+
+MJ[[XJ1GJ?/._M^KK&]T]:(,.Y&?2=\GM/$P60(+Y^4UAH0Q:&,QLY'@>\M3#
+MPT-ZB'YL['9V_-APY*9$!8V I.ZFMD-DCLK-D!QB8J8  <RUNE&5945)["
+"1595","M^V_G #WKU:N6J5.GRNM7J\W@T\/9^?WJZFHZ!1(^=^Y\6C-76YPZ?28GYQPB"
+"1596","M):63UL2)OF@TM+FQ\86W]T3:;&=G#\JJ4IG1SSESYH%=RXOQXL4\)Z<AM(KV"
+"1597","M =# ),!$1X='/V@KNJ \N@$!VA_=/0:V:5XY#QY,M/@N^8_OY_>UK?PXM
+M94N;9L0>B-H,#0VE9ZI4/1@6K5H531'4US=(3S_&_0X8.77J-!6^GI[^NO4;
+M:?+^_4HP*'-S=7KZ<9H)@IFZ>'EY?WKK]3Q6P3M)EC<PLWZ=!Y61XX<55%Q"
+"1598","M&S.7\JZHU6I6B3 I*&C1EU_&[]JU!W@>$A+BY^?GXC*<0)7 EJ$NBZN!@=+1"
+"1599","MT2DP, @5*G?N7/G[.WM:8^AH5%86,3MVW<ZI@V-FMI':]9N-.NAAD2*6;L)
+M,_'Q.Q2#@5H'#ITB&N+*G]TR,\;S=NW 1GDKN8UF@WKERYZN+BPJZ)SHZL
+M@\^AL J;F[NR)F(B)7AX9';M\>!\$,5:C1_'CUZG. </@IH;86%/[V#M9V/"
+"1600","MV;-G_'2I5J #.1DU MR)B @0*M58VJ#!MO8]&6!B(E9]^3)$ZYM_E=4W(+Q
+MM =]&5*NN?G7&3-FTHR)<0]@)CE2L@*O>TD%(C!5/L=NW;H]?CRAD-:2D.5L
+M/RP$JE#I969FRL/1CJ[(?^[=FVQF)B:G6FV>D9$A;>/H77 UK797&NW8\4_F
+MGX2$O<;&II@'T2TI+J]Y\,C'>S*?2/K*[Y+V8</E2P7V_0?1V4&#'LKJ]IY"
+"1601","MF&P 2D .B !E;G$Q[S*]O:6%TOM'>@O&D*'.964WI+<G,4'JZNK.X(X!&;^
+MU5<[N^HIA8+BT]O,K.?QXR?D'N ZQ01I _\=E$G04R*YE2BN5M>N^F!?E&]"
+"1602","M>UOEYXN*!LT7U42V!2]>BIGUZS8+^E1$:T NF -M/GPXG3@/'H4,]_:>1 ?!"
+"1603","M]O/SKW$2/^$$5C9BQA:16<G65=?W\ :G[.S^D=^;5(]:!8H CD%RPI*0'F"
+"1604","M:/&MOS><+#M%FJ@-Y#)'W;AQ<^K4OU+C4J5L;&Q4E=ZO7AQ)F!]KU__X'."
+"1605","MW<L)S=3?WY^.V/:U*RDM$ZY3#^D'EV[9$BO9>=W)::@$GKH[=_Z+C0&0N4(
+M53C!DV];NSZ'68@E(PE52($2$?KK:-U2=BI;6+RIRE3IB$6.3G9=75ULI3@"
+"1606","M/R'QO+Q\:#\28./&S8=FG#OMRX6>'C,QE\ X]=NB0,5J<D[^O9LQ<!EZ>G"
+"1607","M!Y[?KC8[\5C'\5I0893SH%B]- EVT:._/#.G7ML9W/S2T -PA<5M=K:VE9V
+M987$\SL;2%&@,3J7$/?N*2FI[V9P)Z.XN'C@P(%A0!1M0'X[!7TEHJ*CL[
+M.WD9LDM DJ#C0[5Q7'N&D)BXEQJK03>CA&^3,'/F3&ZO7B*'_'4:W5UC;?
+M!9$@E]V+_[)M6RSM5RBZ'DX[1@M-32_PZ.([2Q8\'?Y>UF;Z(@S1X\>DR0M"
+"1608","MKWFW;HWE1*[(KSY[]FS^_/G,[4JET<&#:7005,3;VYOFT1 Q$[8\4J'#@YNS"
+"1609","M\_ZND?3#@[.W/FK#<&Y_GS1I08\]Y0C7-5=2TGIC?_?_7JU<(J/G16A/,O"
+"1610","M@O)C_^'D9$Q'=%HWBLL+.*D]*/'HC7 PU)!\76D-##ZX8>,=DYX4\*\EAI<
+MZQ*JC]X%0UBLH3VCH]>B[YB:J@3G*'6L/G1HX?>WF)).@QPO%]9<_[90>'
+M@9*3^<'22CZT4=>-!D:&I:4E-RK%R]>='5U=^W:+45--,[YZR)*4^ QXP9
+M6UY>3I-963F6EE;TA,C(2/( <P4^B4)WT=5/_7X?NQ$\1ET;W3DA(;'U\F)Z
+MMVG4S(#$Q1&*D3DI.3F</Q)21D*2O/C(S,M[BW=0 0^O<?0$=&CAI=4UL'
+M-1$4&*Q0*'Q]_>[<N4O;-F_^@KD.?:VT]+ID*L] J\WO7CYP8C1@@_#:34Y"
+"1611","M.54B>UI2&FC3/W0?H4Q$]8J? P8, K6SLK*F5@)LJ:VMDYLJO\>>/0G 9+Z$"
+"1612","M#;I'1$0A@=D2:XZT_]Z]2F\?L8$.&S;\[IVJRLIJBJ_@I6[[]GW/=4#I/SKH"
+"1613","M5&-C8U14E'19;=P],'#A_OT'T](.'SAP (FZ<-'BN7,[.WX/'1S\T!'DPK_
+M;0.N4@-3,!^EX4NQWYP7<I\PN+K*RL=S;X;6/9LF44#GP:&9E<N')DSQ)"
+"1614","M+[I\^;)*I=(2(9?J$817%]$,#OZLH>$YUX%-87+*U&ET'QN;_B7%?%MGW$A
+MT(N+VR%WXQM';6V-N[L['8$#;]RHX/@N_V+KEFVF)KP]MK;]KE\O?^-#VO';
+M,V?^,WBPD^1>+<B*QX^?<K($2TE)0>T3U%!YX@@M[=GS#2VIU3V+BHI!( V[
+MBQ@8M6HU-I25E4,:D%N0TEE9V9));:SB#QH:L3#WL;:C&U$I82Q<N(@L[-)5
+M^?77_P951BY!H]%^].L#!\0N0.7?W-P,J6MK8R>L=QDQ<HR%A345[)(EH:WN
+ME6+9P<$BY+)Q[]Y]QCQEC55[S9H8M+FK5Z\QSA 7%\_Q]/M;I=) <)=Y8F+R
+MK=OW7=T\Z0CR W],3$QS<\]Q?-NJ6K9L>??NAL@9=W?/DR=/@?W2H\:-&P?2
+M(@]B=O;9P8X@>]I]^MAF9IYFYH6&KJ C??O:7;M6*%T0<,3?XN'#QTY.&K[
+M]0U34_;3C4^?RG9Y_R^85*G,01KA,6&^Y77+*[E/Y/F#'KI]>[Q*Q0,^2.PG
+MG\PL*BJ2;\-G3$P,^0<L(V@@V/;C[MW*R$,R?AITZ9?S?\I,B):6TNA-K?("
+"1615","MS3U/>]27%W=6(I\,+G0JQ?O>9>,F925EXQV/$]A&?]ADT<3XQ+APS1T)-A"
+"1616","MK8O+!Q'A*V/6;E@9&>WU\40#I:$ K?P#34W,@H.7Y.<7U-;^PBH1%03EQ8D0"
+"1617","MVFIP8V,3F@[8(\'>#>/^OIGTK;V<A*4,C PF4V<N_ITX8-&S:Q&4]/SP</"
+"1618","M'G_3W-U/IJ:FE:NC-33TY,@2T>AZ )*@+NC4EBQ\!$W54=&K/[Y9[[$D&\S
+M9GRJT0P;/GS$I$F3Y\V;'[SX,T@87U__Z=-GA:]8]<7GVPZG'2<QA<[BZAJ"
+"1619","M#2LKR]S<7#%G7K?\7XWH*# TM*2!1IF/'E2SXGT3WQ^7%P<VC&[RBW( _1"
+"1620","M7[JEIHITHET42DO+'!P&T?ZQ8]V?/'Z6GGZ,=3USL]YY>9=D5DCHU/9>7EY
+M)I)B\O6=TOB<S\DA&13XQXT8+]QDO)/0/P/W+DJ)3P?)F@K:2E'>%D('3V
+M;.[@P8[T3,(*M+F:![]PO 0HU6C$E 8-!CD!#-)/%'AA83'V;-WR/]*K!:K&
+M= WOG=K)U#3L72F46!AUYLSIHMI10KHI<K_D5A&&+J=:AH5RKU3,\>XY&.
+M@\F0TS@S&A%R%-5J.6Z3-#(NE6X(7;7/\__OOS^_+=;@7?_:Z]_?_UW>[[T\
+M[_,R*JZ3FIHFOA33!&@V8H2K10Z,KW,S*-BM9.3DRF1M;5UO;U]O3Q]6?H
+MXN(*Q-; SN^^^Z>1D3'F:&MW]_'QSSM3,'GR3)IO9M8O-_>4V#6OF$<P. >Y
+M[&M;6\>B14NHWV1*@F'A44\><*EVZ5+10,'#J+QG3MWH_>QMQ]&?T'[+U^^"
+"1621","MYC-N D^SM?B*S&D>'AY)U6'+EE1*WH4+%R'EDY/7\QTHOW;YJ86Y,*%PA$N
+MG*'DBMX9N_<RQ8%LC';.F3._I87 $Q2W@^(& .7IX<-Y4*HU?]X=)=96?\&"
+"1622","M.&/$U+1O:NK7:B-T\KG3\7JHU-34()XG39J_,4J+R_OM+]]4_NPEKXREJOB
+M>H&M5(5U=&2'1(SZ35)3\UI'$X1.-3JSRXC :U2F4QO[9KUS<VM- =<MU\_"
+"1623","M@8Q]])%!5M8Q42 )\O.)DYZ>OCUZ?Q7&.>>RD,%F3MW+G,6 @SA2C/OWZN>
+M'1HHR.P7V=GY\S,(ZTM;?1UV[;MO*.AOVYZ^C<:YSQ_WG;T:+:%Q0 &S[>
+M?J@(75ZMMK8^+O:KGI\HU.FC;6_O,''B9(7FF6EI;6Y=IWE<>/'Z>DI!@8
+MZ*L5(SZO)4XK$'*$)6H*U^B)HAX-(Q 53V/C(X1*6WM[4]-3U!'@0^<KO$/5
+MTM+V^><VM%O__OU!./EAQ$S[ARC/$@UPRK1%'41>:TPH*RNWLW-@QE<H3$+#
+MH_YB0R/2H.%+2TMJE?S^K?;E<MP[OKZ=.2)5^$U=4_'NGFSC;Q'>??U1P"
+"1624","MXZZ4$\C7V3-G=72$Q(R)^1(C-Z[?<G)TH1$_OPG5U0_9T7S]Q4][I]JM;5U
+MQ<6E\^8%&AN;B'PD0;&[>_<N<\0/AX\IG;@]]?0,>/HJ!1HD)2;3-M'1*^DX
+M&QL;X@,HES02'A:-OU>O7+>W<U([:$!AH= CB*LY:$!@8#!E*.8@*@#/$IYL
+M XK9O7-S3W?KQB6[E,,LH<89&GX2$1%15E;&_$(OH'G6UM8T1^DT\F;9G>QC
+MO\P.'9R=)7RUP1PW?BU7,.NT.N%JH-_7G1J;GB%N#KI)N'))%@T:R<O7[YL"
+"1625","M9264T924#5%1R^D='0$8T=*EH1022#I5Z5R1'5U#1965%0X.' !8VUM!? !
+M@QHY<A1-YCR[ZDNFX=5K9:X<'$E,S<S_OFT7T3R2D)#%=!R(V>G39\21S-[W
+M[=O'-(^/7VUK:X]W(^/>/QS)@@M45&XX-+L0.[=NY>1D>'JZMJC1P_:(20D"
+"1626","MI*JJJHO@Y.7@P8-L9D)(@M,>L0_[:WM\^?'\1[5AMU6<+QENZQL?$(/]H0"
+"1627","M-CEPX!!K@@P,#';NW%E964G\O[Z^X<2)G.CH%02#B(V(B$@8!X,]>_94F[U;"
+"1628","M;QG2>3!L6/9[NX>,IF MW:V#D5%Q6)S%1>7].DCP#O:C8:&1G:UAS4-:Y+6
+M?SKD,RWI2\:($K!H\1<7+Q4U/7T&N'KVO!F[X/V_%PIGS Q 5&..>;\!GEO"
+"1629","M<;TF&3Y\.(O>#Q3TC^!++')$HH6H\/+R 0<[<N1H>7EY6UN;^+[O)%C<GSF
+MS #B&^^W%5O(UN(E/CZ>7<''FX'82PJ-6[ +.CDIP1P>/7ZZ+#2*1DS-^EXH
+M*% )?(,#J;JZ.O^)$Z5:A&\@.]HIZS=NW['+@+<5W^9(-FS83)M3G_*ZAL1X
+M#A\^S!WY<JXGW\Z.<S>65M'C_>CQ5T<9QW= @])M[3T],='1UYDO/2.P0%
+M:&R?/>, 'W0K,G*Y@0$Y$=V35__^'D\A07EZIX##0Q,>5#3A^HHN*IH*_O
+M!'XKZ=JU*5>O7'-T4*HWUT)2,/;%S-S>_@+WI; $>?[QQ__8V-BI;2Z=-&EJ
+M04$A-*FIJ>5[,2F?4U+2%OB\9\\^W$O#=Y65=\:,&<ONM7?/O]I:5<[*4:'+
+MHHJ++KNZ(!F8SMLS][]M74-I-6;!/NC*_'WG]2MVTN*B_W/G3LO#K8'#QZX"
+"1630","MN;G15Y0M,[.^-!F-+9BA@8$A3VZU;'QLF-'!BT'FE&7E)0A+]@('00N6/."
+"1631","MW$:=OU&V>C1PJ6&.3@U/6UF0;)[]S\L+2WY;6'DY2QD7B/P*A<7:B6T-G0"
+"1632","M@<9_E2#LT\D]ZGK.+U=UWKY3F9249&MKR_HX0T/#F)@8A/%;+%986 C^0_,]"
+"1633","M/#R?/'DBUD<LC!LC-L@L?!<@185BNX&0KUP1:Z3HS0 $QC$WM[UM?/T] X(
+MF#UFC+M<+I!&!-+JU4F$ V%AX2P&]/4_WKY])_HUMH]>\II$'0=Z)&??T&X"
+"1634","MKIJK Y$B(H04!HCA%/0=6[>D181'C_>;KOC:*27I^_6K6D>'M[L'-SRW&^"
+"1635","MXZ=,G>XWWC\H:,'4:3,LU'T')#4U/2XV7B(2F-3/S^_*E2MOL>0[6YG;&Q*
+MFP\=:KUZ=>*Z=2F;-FTY=BSI*24<8,WR1_!3)H#T%ZU:E5D9/2-&V4JD5O?"
+"1636","M3VV-3DJI%!##PGS Z5-GU5.$_4M+0:4^4[O&,#O[.V\5%32NW<?RFND (HX
+MVQ-]%N)< &I%DJMK^]X4U,S&J%^<^.FS4R9UU&7[WNYD8R,W6H$D!H;F^$A"
+"1637","M34Q,S%#'56K$UE@.8A 7%R>3R<3.!ZVRLOH3[39A_$0LS,O+ \FDK._>76_9"
+"1638","MTK]^NVT7Q:J=W;#JJKJ;-RO@5EKOX*\>_>^BF?. P<.HF!V=Q_KX$#\EMO6
+MRLH:S%/#VLZ-6O6Z>IR? ,+<W).JEZI8MPO6C!\PL.S7^*WW+B\ETEFYE$-"
+"1639","MRYL6!&COIIT^K2 PH*2)8M#C11FO^2<QM<S9\Y96@JY()/U0>+3-FQ8W=N"
+"1640","M;MZI4V=_+;MUZ];MVY6_YY^_ &:5FIHV??K,P8,_%66*-EJ#BHK?F(_(PD#F"
+"1641","MD)%=@ C3<=QVEA-%U=/<(3#/)553IZM'M5%4=Q&QL;W=R$$C!]^JPI4Z8)"
+"1642","ML,)-YGI;E*%GSY_7U==/\)_(=-BT>0N=#H8<'!RLKZ_/@G#OWKUJQ5XVA T-"
+"1643","M#3DY.?OW'_#P\&*&E?!T]^+%XBX3X>;-\D6+%_?MUX\=*I?+@X*\O/S*9Z[
+MY ,D34U-4Z=.I56([9*2DBZG,;E]^PX,0O>6<(5 ;_.FK84%%\_DG<,3';6R
+M.X]RNKKZ\E[&DC<+2G]R<@JA.()MT*#!+ R0:$.&##4R,F&3>_62;]RXB1%I
+MN@LK >7E%:%79ZBKV_H/V%::>G_, U=V+AQOF]1B0Y*2%@#Q+M_OPHPA>[&"
+"1644","MQL8V)&31]]]GPOOBTS]0T*J Q 8'+P#2WKGS^UMFOA]:E3)#]Q-O)R]%Q<7
+MJQL3R:Q9<]K:VC4FQ,3$LNB=-FU&<[- EE!DE<KA-.[IX5%?7T_C9\^='S1X
+MB,@;7$I2/HK%WMX1'G_+76@,C%I;6X>V86N'.3J#?(J30ER#6EM;@;<:QR$-
+M:VMKX^*$$CS*;6QB8I*I*94,CC8D)JX%QG^=_BV- '^RCF;/FQM$?T$#D,ND
+M6%/34ZW1* KKP@*.K6!)(C BQ>+0D(6$_A;6%@>/_X3?:JNK@D/CY3+%6^*"
+"1645","M8: N@ M #:>@ZFD8)RLK6Z$PPK1N6C+ <E!@B+.3BX0K)9,>-3[FS=()U/T_"
+"1646","M^]456.ZAG>U2TD7E:+:=!Q*+CL;$15+[HLRC8E%H=LV'#.%<&8,&8U5*AJF
+MACG+63B<,QE2=DF7K6)*N213)$D7-8:IE-*-U#[/_K_]?_WM+B[CK'76.N==
+M>^UV__?^[_=][^5YGQ>,44-](,<J7TM31T=[\*B18RQ'CQUC-=[0T$1I6^(-
+MY#-RF^S%;6KX#@K:HZ*(A2H+L*1!R$&8\8D\6T#C\_,5W8Y.557,>HT9T
+MLY]]YF=@(+^%J>DPD$:0KH*CT5'1^?EY86$A B%-NQCN64^GQ\>'L[U1E55"
+"1647","M541$Q.S9L\E I!07Y,]8:Z'G6G%X^+<9Z9?!]SM()JAH>%V=C.HFKZ^OH.#
+M0UI:&ATH9'WP ;KD[^]'#[9AP\;PGL]U2 /'Y;NWQ]A;S^3<R@YO1^DK:>G"
+"1648","M:ZBO9Z2G*T\#G4$&B.R+NW2E77BC5:6XYC8R1T[4$M'7W^PE965AX?'F3,Q
+M-+O$8K&*BL(<T[RZW(O\ <_)R+ACZ$41_*PNKH6E)BB-%]= Z/HM*GV%Q-3"
+"1649","M&AI>T'=!^,C(\%/1H^VHOP9,07 P1\?,3IZ5<X-T;[>_[DR1,E=_7JG#\N"
+"1650","M]$;,C\[N_[ZG06[0NP/,>YKE>G[[]NULC%2!2#(6ZX@ ;+XG@8&R]<2))Q"
+"1651","M>N6F39O(DI6592[3Y0OOW9\Z;3J-!#*4]5DCF .%O;:1H:ZD3!R\O[Z=.G"
+"1652","M_1_U\I5,3:V!BFI3E:<7@IZ4+.7>1<8)*/[NVQ?&#*U=(A*)@L+L1H;>YZA
+MD6C*QAH:A(>#T:G[^6UDD A*2F%/-?4'&AA,0K\D,EG5215??USNNF1(S]T"
+"1653","M!P$-?*S2:5IJ 7TW[-GSWEYBLU,AQ.]Y<M7Y.;>HA&4R1ECAT1RP=EY*?(6
+M::RG-QB?H4--'1QFLF,%\1O/PN)/N%1F9E9Q\8/FYF8<DM!L* S6-[88/HJH
+M39X\A6Q!I;:V[M#!2)'(=HC1,#Y?N>NQQ:\&=L1!3L3%M[V]@SEJ+_-46%@8
+M?9%^.-%8U57'T 08.?.W40?>;)Y<P!/@;<D&7BC1EGFY?T^L3,'7)OSYX]
+M1U_?@+VU*B8(XN1QL8FW8^J>#T@8-NS9W6MK:U%1?>@_?.FC6+L@(BX\<+
+M89!!DF[/!VGK ^5(T,D3Y -H<$! 0%)24D5%!3>I:*7T564)1<PGI SX\HV"
+"1654","M-J*]>X,3$R\F)1B=HB)B46^'3H4R6&2*H:&0TQ,AO6, O)'[/N7IL968OG5
+MR\X[!?<.?W]D[]X0A/[8L1-Q<>>+BHJXLZ1$(M'5U27>1@('7@2=0<Z??CP"
+"1655","M#Y0%,0#2PJ1?\&RTM(ROOXZZ(LOOCQZ].\88Q\\>-A33<:0C>+BDMA88*["
+"1656","M9\\WY\[%X5]*H64L6F]^\<QL-?#R#A-A/S@LJ_WWI%>@3BM@Q%JK2?[?5=Y
+M_ORYDY,39:6EA:9U[A'/7;L&6HF#U?O7I%3X:OQ,1$PM_P?2#BX._5-9^X
+MK2#*9F;F**MK1V#2GQ2*>O$&Q(3DT#V2)[@+0#1W;N]<P-(86&1G_\65>G
+MH4?GH]8W*MR8V,CF%)H:!A;!0IQ='3$<Z)36EKNXN+*734Q,4&FH7Z)0DW-"
+"1657","M,T?'66SA*V31HL4 !QH1?-^__P#U158%@A$[=P:R&,BW$4Y:N7(U*(VNK@%;"
+"1658","M3>ISG!:4E)01TJDJ:ZNOJ#@+M@O$OC\^7A0T\K*JO3TR_/F+>>$Q!D9B9"
+"1659","MPUJUR@-XQ>M,#5U-2T38U,WM^4W;MP@.S ?&=VEK*Q,*DT/SL +%VR9*F["
+"1660","M^QH8F3%CINO2Y?Y^FX.]C+3B@*:YLR9#U;63\X4%!0P$->%%ES@A1TTH+5K
+MO1\]JB+Z8,LK5[KS6(@FL'#DR-]D\A)NQMS4$W]Z%='$*:ZN;NI\3?P>8F0"
+"1661","M5/'V]A$*A4IJZ%F+%SM?O)C\Y,G3U-1+8!'@9L;&INKRCJ.FJJ(!7FUN/AQ3"
+"1662","MS*1)D[V]?4^?/IN?7\%,J[T7[.8IW;OWJ.IV=7+<$& *C)PT!=TD/I$O#?"
+"1663","MPV,-H@S.C\$'H30W&VYJ*KV%BZ8OS@X.*RBO)+=M9\]%=+0T.#JZLIN*A?L
+MNWJU9U34]\BBQX^?]#A_QQNO\TYW_^^1#W[._]#%B5FT=3L[.S8EAN3DY,@X
+MD-O:VN;IZ4E6#0R,@):<57D$T48!:$3!VGK<1Q]_HJVMPV/&D^#@T*:FYF^"
+"1664","M@NFP,W[LQ.LYMP XV[;]E3OZ(?< W?'Q)Q+29$?BLJ*J]>S?GII[/'_W%J"
+"1665","MAKTCEZ6HJ#($:?3H[[Z+BI?$@[BVM;5A#$3F9V5E8<BRL+  KZ;ZAH:&@8&!"
+"1666","MY>7E7#>6E)1BG@73,#4U<W%QCHN+P^LR!@F)PHD3)VF7X3'$]?KU7.HTVD4O"
+"1667","M74KW]]^\9<M65#?>_>JK0!4.2G<5FM'0'3LR\LJ9>\H]^[=]_+R,3(:TC\0
+M@46O_W0CJ#5+P@'H79KE#S@U8V-+QH:7TYHN)18V,3$\3Z1-LB#5CXZ$I"
+"1668","M*:FR-S&$O+R\K5NW.CJBK>BS!^FZNY/3/(*W+-F0@?O153Z?OVM78%O;2V+J"
+"1669","MYLW<R9-MZ2KBXN.S;NZ<^>@OU*; W,)SK>\OM^\\*Y#\^K+%:!\'AZK0=BJ
+MJVNX9Z^J>GQ)FA$=??;HT>/'CYV22B]E9EX%QRXK*V]I:7O7N!ASH$_3Y[\"
+"1670","M)W*XKU.AOUA:6KN[KT;YH+(6R6Z&L__YR%WIIW*[^F^EEWX]S8=9*/$G.+"
+"1671","MCT] P?(8Y@^\Q8_UZS>@N_5Z2$;>DIYU<M.\_[M_*.+ZOR4'@.I0-)(;F#$
+M>_SX-QE+U_'CSIV[ !RRZN+R$18LZJP !K,)E<7-OKZ?EI7)T> G.P; O.1"
+"1672","M>#)AO$B:FD%>J:NKW[5K-QV%2,'JZ.@!U<>,&2L43A0(++0'Z:KQY?Q94TM["
+"1673","M^@P'D6BREH)+R'?1T-$OD@D6K5JU;IUZ]:L62,0+AY/F#  &]O[]345 *G"
+"1674","MLNXC#\C5E2M9UZY=;VAX3E=I_C0WMT1%'9X[=]ZD25/<W%9D9%SFZL@X*=?6"
+"1675","M]@H@1G[7UM;O#S]D96F-N_#5-#' CACQYV4?KTA.DM)>%,*RY34,,=)I=*-
+M&S?:VDXU-#3&K5FNKPKZM&#!0F!^5E8VCM&[(>89 \*O^ZDX !18'_';LF5N
+M=75U?9Z,(W!F34T-)6]O:+G@N!96EI]_KE_;FX>?9WX_/;M_&G3IJ-].#@X"
+"1676","M1D9&M;2TR#A)F)U]?=%Y]&CQBQ<L.1T=$Q+\\O?G];E9-\,0[W]A+O#_\V"
+"1677","M._L:G5YOY>;O^'*WG9T#G]_5%@6X;Z^OA*)I+Z^_FT._T&$SCY^7>@_>!
+M70\>;,B3#XS::$; 833-V%A):6EY4U/3V]OD6.YD9Y8.NHBG[>T=BQ8M87S.
+M!WM1808,@##73@_;;PFY_Y?.?GW5\59#2$^C;.R2DI(Q!)&\!?DD54!K(3KZ
+M-%/F/#4U/ID$N:\3TARC$M<;NGLO+2ZNI9H @TN7\X$;RPL+*+ODN^(B /C"
+"1678","MQHW7T!C0%SU0UQ@@%-J<.O6OFIK:7W_]+2+B(,GG_D5;6]O=W2,^/KZ]_;72"
+"1679","M:;FHV\V)3!-14@#WJZRL).! []W1T<[ 5[?FSLWN^_<?@'!F96;?NG6[N+BD"
+"1680","ML;&9Z[2^HL!QB\(@^1#!S(M6-0*9)($LZ<B4E(2 0*U=8^XUZ'&.L59KCQ"
+"1681","MZNPA,!(2$HJ>-7.F(QES6#48?ZV48#WY#T+SXX^G_\U^N<7$485Q?'=VZ89+"
+"1682","M+:@I#=V(&A,(5M-DVY06?0 26S0A:6+2-!I?&HS%!VH?5-0''P@TB*:Q$BDF"
+"1683","M)3;0V!:)6E*7!*%HA5@3!:1*I)8%<NEM%AN678N?C-GSN'LS'27K(4%^7Z9
+MW3U[YIR9[]S^YW\J*ZN:FKZ$P2Y(VGP[8*S1F_O;W[_F+GMP*W)VP,#-Z>G"
+"1684","M[QHBET2^GY?2HZ-C< ZJJOJPIJ:VL;&IO[^?C10S#'P#:<?*M ![IO701,3P"
+"1685","M9 +$W]7UTX4+%]O;.SHZ?H>02?4^!NXY_.-W1O2&[06+%LXC\#.Q8:"
+"1686","M7Y,^[U[<VO#&TR^L_H6%G)!4$#084AV['CZ1LW;K*[)%%144%T#(Y^/M^P"
+"1687","M0L^JZIBJES[?%A?%XV^\N7ES\H,I#[W\TBNCHWZM) R[:'JOQ.?# CQ=\UE>"
+"1688","M[G/N[8\E):8DQF]Y-/V)79[L _M?J/S@HV^]+6-CXWQUF,E'C[[N\>S9^G!:"
+"1689","MG-,%>SML\0Y'7$)HMOM+B@H*TM;6UM#7VC0@25G^34-O!')$ES@Y+E^J.:"
+"1690","M+,IR$%17RQ!)%9*@?\-U>-BA%EK_&_$\=6Z=*FV^3T& 6?!&%8WJ-;DY 37
+M&S+UQA:2J^@.-ERCB.I::@C-T3O<U$;9E*D;=5H^,GP;EYXB\7VE=^_RGVEN
+M NOS>W<%+\XAES9GR+0T3P'K#9K,X<'!H:RLI\BQ B[MX&.#=:$8)\-_E%SS
+M*&P05E9RKUW[>>=.#PQ965DYN\6*U=;6$LD]<J1H;FZ>KR@K;&ZHWW?NW&W[
+MKN/JU:ZY65*,C+X8.I]EDJFM'<[AW+K=V_/[I6\N?]GX]:^_]/C]$_],SX1&
+M&Z(88_Z)*VW?UWQZ&KS9R9,?@_WV>EO 1,W,\+4D)C6<I6$B)O$QD#5!,R4K
+MC5+HE&<+7V)5:$6#0(5(J&*UB!2Z1@SCPN7(A@(6#Y#-?BE<:3XJFK,BO6&"
+"1691","M<?KQ>F79+K.F-XHTX(BWXU,5TD^%P/DB_0O43G+SC2^T9PP*1)Q\N&VRS 8
+M_+-E2&SKY%M'&LL. OQ8\,O*3 0.';LN+8H[9K8JGJ[94L*+ %%WRN-&TVT"
+"1692","ML''9:*RLY *=G9UE964^GT\QS9R1D9&BHJ+BXN*^OCYVUW!FB7I\(U8TO&7Y"
+"1693","MCXTB&&1MLS'ME@5GS]8G)R=K%M=NHQP\^.+_&*L0T,B8Q ]@\4BB=G96=A8
+M%<7NB (LIH,_/G7[MU[-+UE<FMS.N/JZCZ/=6A(! R'+Y(VVU=1%$F:W3)7"
+"1694","M1!!D=?!Z6U-3TS2A!9-K=S@<D/)X=@T-_:W@JESS& RMP<&:TZPBR&], D:0"
+"1695","M#8RZZ)HO>5.W;@>9=3B<=HWX^/A3ISY!K5W[&!2592HF^36CX'Z*(/<;6%)6"
+"1696","MJTK6Q%8B!=Y[]WW![K39!$%0OT%[PL+IZ>G5SU8Y/Y@*:>HK@@2$ZC#(9<R
+M.#C\;$ZN3<6A2:[=Y7)55U?'.DP$09#_ ?1(26W/^?,7$Q(> *6UVQUP@?)F
+M9F9V=W?'-DH$09!UR9*?)7\D11-;25*SYA<1:^^IEE<FZ:W B1*2DJP6 L
+M8T80!%FG+$FN1^FP(JWI<WM3J>2:X?OC(R,GIX>A7I@ZH@1!$&09647-!0
+M747;K_RX+R<79%80X+(3X2TO+]?KZ<0L< 1!D/5'B.0N6A#PQ>/I#^NZ:T#"
+"1697","M)!=,+GSR\_.GIJ84-+<(@B!1 O(IJ795DIAI'9\8S\IZ4M59N[!IDTL0G)&
+M1'W].5/U$*%&$ 1!P@*""6*K&U=)RSI3=\;E<FF2PA$<@\=.CP_OVJCI*+
+M( BR?%2#JZ<T\?1/C.?EYQ&]%00[_$(Z.WO?]>M_6%5'R440!%D^(+FBK-M<
+M53SKSS7$)\2#S(*[M6ELVY;6W'SY'M51<A$$09:/!X7U%91/TI@,?#6V^^"
+"1698","MP24N%[Z3DI).G*@,!JD3EE%@$01!HD;F;>J@;WC_@>=M'#DYS_3W#RBZ)/K
+MC'\%&  ><&NL#0IE;F1S=')E86T-96YD;V)J#3<@,!O8FH-/#PO1FEL=&5R"
+"1699","M+T9L871E1&5C;V1E+T9I<G-T(#$X+TQE;F=T: Q-C4O3B S+U1Y<&4O3V)J
+M4W1M/CYS=')E86T-FC>1(T]\(P&(3_RHVZF(1:BU 15$$P5([^(%#;5]+"
+"1700","MH8E30?_O4D=7(Z#N^=.1. 02\0(O9&($W9QHS:0;=LH,+*4?!CM7?EY^>
+MV&ETG=(T2.F1+. ARBM+ 8Y^1>4ZFA74&^M@7CCHAGKRXBL%M6IP9*E!/CX[
+M52.KZ_L= M__9Y/R]M[PJ>MR_6&=8)5Y(\6_,'.;&]*(^57@ $ ]NLXK@T*"
+"1701","M96YD<W1R96%M#65N9&]B:@TX(# @;V)J#3P\+T9I;'1E<B]&;&%T941E8V]D"
+"1702","M92]&:7)S= S.#4O3&5N9W1H(#<X,B].(#4P+U1Y<&4O3V)J4W1M/CYS=')E
+M86T-FC>W%9-;]I %/PK[]@>RGZOO5*$%-)$;9,2%(AZ0#DX9$NL@(T<(X5_"
+"1703","MWUFO35HI/G0JNV%T>Z^&;^/\1IAB9-(*+4D4I)6D7 DG2#)R2A.4I5V)%D"
+"1704","M$2(5)6%34Q)6AE(M0:+4@9N0,YID2H(+Q#B@M81P(4!7 FB $I@\20I@!H(
+M%66 1)* Y,@ A6T%/.D(*>!E]#SW!'&GH&^J *B[PT]&S*24,O 5E#+W&:
+M=C,-+0<SPE#3UG#6D4Q<$S2)6G@A B\2#(Z1P8I'T:@IE0-T !38.@
+M&H8MJ2!J4+E*@-#3/$;VH/G6^AIX2>AAXZ*PV2LM S3A%2D!9%G)RPRS
+M3C=LDE6^J&>5]V$8O^Z,_4M]Z7<DV4VY\E^S31A4)GM-IY-ZVJ[:.)NRK(>"
+"1705","M#H/J7#4:H7,!T+@&1 090470$4P$&R&)$%5T5#%1Q405&>DRBLFH(J.*CHR
+MJLBH(AN5.S;!L)KLIVSJ%S'A\7;]/ _3:+#.)K8YNRT*,HZJ_.R8---5K#3"
+"1706","MJLZ_9XN:3=@HOU_EY;+*-H^[L#@OZFK'SAZSJF87^7);>?8QSW^WB^K<G.6
+M;;KE>?$ <<_&X><[7M=?2Y6>>&GCQE:W$:/RVJ=K=@GR:ZW=3B-6$ ^9,O
+MMW6[W-X_+ZI\LU]N?/7SQ@S3')4OH0YV6SSX:J\T'/[^N=W-NXFIGH,+HPBO
+M9AC=)?$PQ]:Z2Q+M0&.CXMCZQQC!;O*BN6[\_&'V^G[-WFQLQW/M#S9DZ=;"
+"1707","MGNK)4RU/]^3)EF=Z\D3+LSUYO.4E?7C7-X%<WZK\CHOEE_+!\^NJMG]/WLZ
+MPMLS=VZ@#,?=;>P@Q2=B@$6S@ZTN7OE3U;9PJ]QC;+1JEP\M8VT9F_B0XU,"
+"1708","M^%L3L/JHHP\0U5%+'R#*HYX^0!1'37V R(^Z^FVB<4=M?88'O7U 6)W&:5]
+MB=W-Y/H2.^>(OM8Q>^OT]8[IO/ZFL=TYA']W//_71E_X#1\UD]7^;)@7[;/"
+"1709","M^(>R^VOBSW#_^>J-\!\# #Y@S38#0IE;F1S=')E86T-96YD;V)J#3D@,!O"
+"1710","M8FH-/#PO3&5N9W1H(#,V,SDO4W5B='EP92]834PO5'EP92]-971A9&%T83X^"
+"1711","M<W1R96%M#0H\/WAP86-K970@8F5G:6X](N^[OR(@:60](E<U33!-<$-E:&E("
+"1712","M>G)E4WI.5&-Z:V,Y9(_/@H\>#IX;7!M971A('AM;&YS.G@](F%D;V)E.FYS
+M.FUE=&$O(B!X.GAM<'1K/2)!9&]B92!835 @0V]R92 U+C0M8S P-2 W.XQ"
+"1713","M-#<S,C8L(#(P,3(O,#@O,C,M,3,Z,#,Z,#,@( @( @((^B @(#QR9&8Z"
+"1714","M4D1&('AM;&YS.G)D9CTB:'1T<#HO+W=W=RYW,RYO<F<O,3DY.2\P,B\R,BUR"
+"1715","M9&8M<WEN=&%X+6YS(R(^B @( @(#QR9&8Z1&5S8W)I<'1I;VX@<F1F.F%B"
+"1716","M;W5T/2(BB @( @( @( @('AM;&YS.GAM<#TB:'1T<#HO+VYS+F%D;V)E"
+"1717","M+F-O;2]X87 O,2XP+R(*( @( @( @( @>&UL;G,Z>&UP34T](FAT=' Z"
+"1718","M+R]N<RYA9&]B92YC;VTO>&%P+S$N,]M;2\BB @( @( @( @('AM;&YS
+M.F1C/2)H='1P.B\O<'5R;YO<F<O9&,O96QE;65N=',O,2XQ+R(*( @( @"
+"1719","M( @( @>&UL;G,Z<&1F/2)H='1P.B\O;G,N861O8F4N8V]M+W!D9B\Q+C,O"
+"1720","M(@H@( @( @( @(!X;6QN<SIP9&9X/2)H='1P.B\O;G,N861O8F4N8V]M"
+"1721","M+W!D9G@O,2XS+R(^B @( @( @(#QX;7 Z36]D:69Y1&%T93XR,#$Y+3 Q
+M+3$U5#$V.C$Q.C0V+3 W.C P/]X;7 Z36]D:69Y1&%T93X*( @( @( @
+M/'AM<#I#<F5A=&5$871E/C(P,3DM,#$M,354,38Z,3$Z-#4M,#<Z,# \+WAM
+M<#I#<F5A=&5$871E/@H@( @( @( \>&UP.DUE=&%D871A1&%T93XR,#$Y"
+"1722","M+3 Q+3$U5#$V.C$Q.C0V+3 W.C P/]X;7 Z365T861A=&%$871E/@H@( @"
+"1723","M( @( \>&UP.D-R96%T;W)4;V]L/D%C<F]B870@4$1&36%K97(@,3$@9F]R"
+"1724","M(%=O<F0\+WAM<#I#<F5A=&]R5&]O;#X*( @( @( @/'AM<$U-.D1O8W5M
+M96YT240^=75I9#IE-V-D-# V,2UB864X+30V,&8M8F4W,BUE,F4S,6-B-S,Y
+M-#@\+WAM<$U-.D1O8W5M96YT240^B @( @( @(#QX;7!-33I);G-T86YC"
+"1725","M94E$/G5U:60Z9F-D-S,Y-#<M8V1C9TT-C)E+6)E,V0M.34V,3(Y8C<Y8V-C
+M/]X;7!-33I);G-T86YC94E$/@H@( @( @( \>&UP34TZ<W5B:F5C=#X*
+M( @( @( @( @/')D9CI397$^B @( @( @( @( @(#QR9&8Z;&D^"
+"1726","M,CPO<F1F.FQI/@H@( @( @( @( \+W)D9CI397$^B @( @( @(#PO
+M>&UP34TZ<W5B:F5C=#X*( @( @( @/&1C.F9O<FUA=#YA<'!L:6-A=&EO"
+"1727","M;B]P9&8\+V1C.F9O<FUA=#X*( @( @( @/&1C.F-R96%T;W(^B @( @
+M( @( @(#QR9&8Z4V5Q/@H@( @( @( @( @( \<F1F.FQI/D%N;BU-"
+"1728","M87)I92!2:6-H87)D<RU2:71C:&EE/]R9&8Z;&D^B @( @( @( @(#PO
+M<F1F.E-E<3X*( @( @( @/]D8SIC<F5A=&]R/@H@( @( @( \<&1F"
+"1729","M.E!R;V1U8V5R/D%D;V)E(%!$1B!,:6)R87)Y(#$Q+C \+W!D9CI0<F]D=6-E"
+"1730","M<CX*( @( @( @/'!D9G@Z4V]U<F-E36]D:69I960^1#HR,#$Y,#$Q-3(R
+M,#DQ,SPO<&1F>#I3;W5R8V5-;V1I9FEE9#X*( @( @( @/'!D9G@Z0V]M"
+"1731","M<&%N>3Y0<FEC97=A=&5R:&]U<V5#;V]P97)S/]P9&9X.D-O;7!A;GD^B @"
+"1732","M( @(#PO<F1F.D1E<V-R:7!T:6]N/@H@( \+W)D9CI21$8^CPO>#IX;7!M
+M971A/@H@( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"1733","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @B @( @( @( @( @( @( @( @( @( @"
+"1734","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( *( @( @( @( @( @( @"
+"1735","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( H@( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"1736","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @B @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"1737","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( *( @( @( @( @( @( @( @( @( @( @"
+"1738","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( H@( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"1739","M( @( @( @( @( @( @( @( @( @( @( @( @B @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"1740","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( *( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"1741","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( H@( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"1742","M( @( @( @( @( @( @( @( @B @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"1743","M( @( @( @( @( @( @( @( @( @( @( @( *( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"1744","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( H@( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"1745","M( @( @( @( @B @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"1746","M( @( @( @( @( @( @( @( *( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"1747","M( @( @( @( @( @( @( @( @( @( @( @( H@( @( @( @"
+"1748","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"1749","MB @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"1750","M( @( @( @( *( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @"
+"1751","M( @( @( @( @( @( @( @( H@( @( @( @( @( @( @( @"
+"1752","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @B @( @( @( @"
+"1753","M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @
+M( @( @( @( @( @( @( @( @( @( @( @( @( @( @( *"
+"1754","M( @( @( @( @( @( @( @( @( @CP_>'!A8VME=!E;F0](G<B
+M/SX-F5N9'-T<F5A;0UE;F1O8FH-,3 @,!O8FH-/#PO1FEL=&5R+T9L871E
+M1&5C;V1E+T9I<G-T(#4O3&5N9W1H(#4T+TX@,2]4>7!E+T]B:E-T;3X^<W1R
+M96%M#0IHWC(S4S!0L+'1=\XOS2M1,-+WSDPICC8W  H&*1BR%C]D,J5/V
+MQ/348CL[@  # 7<#/D-F5N9'-T<F5A;0UE;F1O8FH-,3$@,!O8FH-/#PO"
+"1755","M1FEL=&5R+T9L871E1&5C;V1E+T9I<G-T(#4O3&5N9W1H(#$Y,].(#$O5'EP
+M92]/8FI3=&T^/G-T<F5A;0T*:-YLS4$+@D 0AN&_LK?T8.Y8&48(DG1*D#IT
+M7G<G'(GQI7HW[=!1(?.[\?SY6NEU7:;5I/O6:)J&)+&*$ZDNV-N#$YDK<]
+M89SN^'8WPS-JA2P^C$?I>1IQQWQ'&4,7-)YXJ$.*ZDVFH=  *\@!EJM$KV=:
+MSSZK]Y,5[HQ7;;UOS!5% :@+BSJSN#AMV/UC\B_3KO)8G <=_A6U($Z,?(,"
+"1756","MT%S'Z8DGL1@<NAZ'RC+= &+NQ? @P 6%I,9PT*96YD<W1R96%M#65N9&]B"
+"1757","M:@TQ,B P(&]B:@T\/]$96-O9&5087)M<SP\+T-O;'5M;G,@-]0<F5D:6-T"
+"1758","M;W(@,3(^/B]&:6QT97(O1FQA=&5$96-O9&4O241;/$)04$X0CDR,T,X040R
+M-#E03<T-49%1#=#,T0Q.3%#/CPS,$%#04(X,#<Q0S)&,S1$04(W1D(R-#$V"
+"1759","M04,R,#DR0CY=+TEN9F\@-C<@,!2+TQE;F=T: W.2]2;V]T(#8Y(# @4B]3"
+"1760","M:7IE(#8X+U1Y<&4O6%)E9B]76S$@,B Q73X^<W1R96%M#0IHWF)B  (FQNB7"
+"1761","M#$P,3,I @B4*2' < A*<^440I(Q%\!L9B!!',>D.!O 7$G@P@9H%[)>T 6"
+"1762","M P,CC&#\A\(=0033>9#W&0 # #3M@F6#0IE;F1S=')E86T-96YD;V)J#7-T
+587)T>')E9@T*,3$V#0HE)45/1@T*
+
+end
+</PDF>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+"

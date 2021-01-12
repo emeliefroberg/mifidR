@@ -1,0 +1,1669 @@
+"","V1"
+"1","<SEC-DOCUMENT>0001752724-18-000353.txt : 20180913"
+"2","<SEC-HEADER>0001752724-18-000353.hdr.sgml : 20180913"
+"3","<ACCEPTANCE-DATETIME>20180913142610"
+"4","ACCESSION NUMBER:		0001752724-18-000353"
+"5","CONFORMED SUBMISSION TYPE:	N-CEN"
+"6","PUBLIC DOCUMENT COUNT:		2"
+"7","CONFORMED PERIOD OF REPORT:	20180630"
+"8","FILED AS OF DATE:		20180913"
+"9","EFFECTIVENESS DATE:		20180913"
+"10","FILER:"
+"11","	COMPANY DATA:	"
+"12","		COMPANY CONFORMED NAME:			AB SUSTAINABLE INTERNATIONAL THEMATIC FUND INC"
+"13","		CENTRAL INDEX KEY:			0000920701"
+"14","		IRS NUMBER:				000000000"
+"15","		FISCAL YEAR END:			0630"
+"16","	FILING VALUES:"
+"17","		FORM TYPE:		N-CEN"
+"18","		SEC ACT:		1940 Act"
+"19","		SEC FILE NUMBER:	811-08426"
+"20","		FILM NUMBER:		181068610"
+"21","	BUSINESS ADDRESS:	"
+"22","		STREET 1:		ALLIANCEBERNSTEIN LP"
+"23","		STREET 2:		1345 AVENUE OF THE AMERICAS"
+"24","		CITY:			NEW YORK"
+"25","		STATE:			NY"
+"26","		ZIP:			10105"
+"27","		BUSINESS PHONE:		2129691000"
+"28","	MAIL ADDRESS:	"
+"29","		STREET 1:		ALLIANCEBERNSTEIN LP"
+"30","		STREET 2:		1345 AVENUE OF THE AMERICAS"
+"31","		CITY:			NEW YORK"
+"32","		STATE:			NY"
+"33","		ZIP:			10105"
+"34","	FORMER COMPANY:	"
+"35","		FORMER CONFORMED NAME:	AB SUSTAINABLE INTERNATIONALTHEMATIC FUND, INC."
+"36","		DATE OF NAME CHANGE:	20180108"
+"37","	FORMER COMPANY:	"
+"38","		FORMER CONFORMED NAME:	AB INTERNATIONAL GROWTH FUND INC"
+"39","		DATE OF NAME CHANGE:	20150123"
+"40","	FORMER COMPANY:	"
+"41","		FORMER CONFORMED NAME:	ALLIANCEBERNSTEIN INTERNATIONAL GROWTH FUND INC"
+"42","		DATE OF NAME CHANGE:	20050516"
+"43","</SEC-HEADER>"
+"44","<DOCUMENT>"
+"45","<TYPE>N-CEN"
+"46","<SEQUENCE>1"
+"47","<FILENAME>primary_doc.xml"
+"48","<TEXT>"
+"49","<XML>"
+"50","<?xml version=1.0 encoding=UTF-8?>"
+"51","<edgarSubmission xmlns=http://www.sec.gov/edgar/ncen xmlns:com=http://www.sec.gov/edgar/common>"
+"52","  <headerData>"
+"53","    <submissionType>N-CEN</submissionType>"
+"54","    <filerInfo>"
+"55","      <liveTestFlag>LIVE</liveTestFlag>"
+"56","      <filer>"
+"57","        <issuerCredentials>"
+"58","          <cik>0000920701</cik>"
+"59","          <ccc>XXXXXXXX</ccc>"
+"60","        </issuerCredentials>"
+"61","        <fileNumber>811-08426</fileNumber>"
+"62","      </filer>"
+"63","      <investmentCompanyType>N-1A</investmentCompanyType>"
+"64","    </filerInfo>"
+"65","    <seriesClass>"
+"66","      <reportSeriesClass>"
+"67","        <rptIncludeAllSeriesFlag>true</rptIncludeAllSeriesFlag>"
+"68","      </reportSeriesClass>"
+"69","    </seriesClass>"
+"70","  </headerData>"
+"71","  <formData>"
+"72","    <generalInfo reportEndingPeriod=2018-06-30 isReportPeriodLt12=N/>"
+"73","    <registrantInfo>"
+"74","      <registrantFullName>AB SUSTAINABLE INTERNATIONAL THEMATIC FUND INC</registrantFullName>"
+"75","      <investmentCompFileNo>811-08426</investmentCompFileNo>"
+"76","      <registrantCik>0000920701</registrantCik>"
+"77","      <registrantLei>549300N0VE6F056LTL63</registrantLei>"
+"78","      <registrantstreet1>ALLIANCEBERNSTEIN LP</registrantstreet1>"
+"79","      <registrantstreet2>1345 AVENUE OF THE AMERICAS</registrantstreet2>"
+"80","      <registrantcity>NEW YORK</registrantcity>"
+"81","      <registrantzipCode>10105</registrantzipCode>"
+"82","      <registrantstate>US-NY</registrantstate>"
+"83","      <registrantcountry>US</registrantcountry>"
+"84","      <registrantphoneNumber>9142597719</registrantphoneNumber>"
+"85","      <websites>"
+"86","        <website webpage=www.abfunds.com/>"
+"87","      </websites>"
+"88","      <locationBooksRecords>"
+"89","        <locationBooksRecord>"
+"90","          <officeName>Brown Brothers Harriman &amp; Co.</officeName>"
+"91","          <officeAddress1>140 Broadway</officeAddress1>"
+"92","          <officeCity>New York</officeCity>"
+"93","          <officeStateCountry officeCountry=US officeState=US-NY/>"
+"94","          <officeRecordsZipCode>10005-1101</officeRecordsZipCode>"
+"95","          <officePhone>6177721818</officePhone>"
+"96","          <booksRecordsDesc>Custody and Accounting Records</booksRecordsDesc>"
+"97","        </locationBooksRecord>"
+"98","      </locationBooksRecords>"
+"99","      <isRegistrantFirstFiling>N</isRegistrantFirstFiling>"
+"100","      <isRegistrantLastFiling>N</isRegistrantLastFiling>"
+"101","      <registrantFamilyInvComp isRegistrantFamilyInvComp=Y familyInvCompFullName=ALLIANCEBE/>"
+"102","      <registrantClassificationType>N-1A</registrantClassificationType>"
+"103","      <totalSeries>1</totalSeries>"
+"104","      <isSecuritiesActRegistration>N</isSecuritiesActRegistration>"
+"105","      <directors>"
+"106","        <director>"
+"107","          <directorName>William H. Foulk, Jr</directorName>"
+"108","          <crdNumber>002326508</crdNumber>"
+"109","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"110","          <fileNumbers>"
+"111","            <fileNumberInfo fileNumber=N/A/>"
+"112","          </fileNumbers>"
+"113","        </director>"
+"114","        <director>"
+"115","          <directorName>Robert M. Keith</directorName>"
+"116","          <crdNumber>002309907</crdNumber>"
+"117","          <isDirectorInterestedPerson>Y</isDirectorInterestedPerson>"
+"118","          <fileNumbers>"
+"119","            <fileNumberInfo fileNumber=N/A/>"
+"120","          </fileNumbers>"
+"121","        </director>"
+"122","        <director>"
+"123","          <directorName>Michael J. Downey</directorName>"
+"124","          <crdNumber>000000000</crdNumber>"
+"125","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"126","          <fileNumbers>"
+"127","            <fileNumberInfo fileNumber=811-04710/>"
+"128","          </fileNumbers>"
+"129","        </director>"
+"130","        <director>"
+"131","          <directorName>Marshall C. Turner, Jr.</directorName>"
+"132","          <crdNumber>000000000</crdNumber>"
+"133","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"134","          <fileNumbers>"
+"135","            <fileNumberInfo fileNumber=N/A/>"
+"136","          </fileNumbers>"
+"137","        </director>"
+"138","        <director>"
+"139","          <directorName>John H. Dobkin</directorName>"
+"140","          <crdNumber>000000000</crdNumber>"
+"141","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"142","          <fileNumbers>"
+"143","            <fileNumberInfo fileNumber=N/A/>"
+"144","          </fileNumbers>"
+"145","        </director>"
+"146","        <director>"
+"147","          <directorName>Nancy P. Jacklin</directorName>"
+"148","          <crdNumber>000000000</crdNumber>"
+"149","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"150","          <fileNumbers>"
+"151","            <fileNumberInfo fileNumber=N/A/>"
+"152","          </fileNumbers>"
+"153","        </director>"
+"154","        <director>"
+"155","          <directorName>Garry L. Moody</directorName>"
+"156","          <crdNumber>000000000</crdNumber>"
+"157","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"158","          <fileNumbers>"
+"159","            <fileNumberInfo fileNumber=N/A/>"
+"160","          </fileNumbers>"
+"161","        </director>"
+"162","        <director>"
+"163","          <directorName>Carol C. McMullen</directorName>"
+"164","          <crdNumber>000000000</crdNumber>"
+"165","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"166","          <fileNumbers>"
+"167","            <fileNumberInfo fileNumber=N/A/>"
+"168","          </fileNumbers>"
+"169","        </director>"
+"170","        <director>"
+"171","          <directorName>Earl D. Weiner</directorName>"
+"172","          <crdNumber>000000000</crdNumber>"
+"173","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"174","          <fileNumbers>"
+"175","            <fileNumberInfo fileNumber=N/A/>"
+"176","          </fileNumbers>"
+"177","        </director>"
+"178","        <director>"
+"179","          <directorName>D. James Guzy</directorName>"
+"180","          <crdNumber>000000000</crdNumber>"
+"181","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"182","          <fileNumbers>"
+"183","            <fileNumberInfo fileNumber=N/A/>"
+"184","          </fileNumbers>"
+"185","        </director>"
+"186","      </directors>"
+"187","      <chiefComplianceOfficers>"
+"188","        <chiefComplianceOfficer>"
+"189","          <ccoName>Vincent S. Noto</ccoName>"
+"190","          <crdNumber>000000000</crdNumber>"
+"191","          <ccoStreet1>1345 Avenue of the Americas</ccoStreet1>"
+"192","          <ccoCity>New York</ccoCity>"
+"193","          <ccoStateCountry ccoCountry=US ccoState=US-NY/>"
+"194","          <ccoZipCode>10105</ccoZipCode>"
+"195","          <ccoPhone>XXXXXX</ccoPhone>"
+"196","          <isCcoChangedSinceLastFiling>N</isCcoChangedSinceLastFiling>"
+"197","          <ccoEmployers>"
+"198","            <ccoEmployer ccoEmployerName=N/A ccoEmployerId=N/A/>"
+"199","          </ccoEmployers>"
+"200","        </chiefComplianceOfficer>"
+"201","      </chiefComplianceOfficers>"
+"202","      <isRegistrantSubmittedMatter>N</isRegistrantSubmittedMatter>"
+"203","      <isPreviousLegalProceeding>N</isPreviousLegalProceeding>"
+"204","      <isPreviousProceedingTerminated>N</isPreviousProceedingTerminated>"
+"205","      <isClaimFiled>N</isClaimFiled>"
+"206","      <coveredByInsurancePolicy isCoveredByInsurancePolicy=Y isClaimFiledDuringPeriod=N/>"
+"207","      <isFinancialSupportDuringPeriod>N</isFinancialSupportDuringPeriod>"
+"208","      <isExemptionFromAct>N</isExemptionFromAct>"
+"209","      <principalUnderwriters>"
+"210","        <principalUnderwriter>"
+"211","          <principalUnderwriterName>AllianceBernstein Investments, Inc.</principalUnderwriterName>"
+"212","          <principalUnderwriterFileNumber>8-30851</principalUnderwriterFileNumber>"
+"213","          <principalUnderwriterCrdNumber>000014549</principalUnderwriterCrdNumber>"
+"214","          <principalUnderwriterLei>0000000000</principalUnderwriterLei>"
+"215","          <principalUnderWriterStateCountry principalUnderWriterCountry=US principalUnderWriterState=US-DE/>"
+"216","          <isPrincipalUnderwriterAffiliatedWithRegistrant>Y</isPrincipalUnderwriterAffiliatedWithRegistrant>"
+"217","        </principalUnderwriter>"
+"218","      </principalUnderwriters>"
+"219","      <isUnderwriterHiredOrTerminated>N</isUnderwriterHiredOrTerminated>"
+"220","      <publicAccountants>"
+"221","        <publicAccountant>"
+"222","          <publicAccountantName>Ernst &amp; Young LLP</publicAccountantName>"
+"223","          <pcaobNumber>42</pcaobNumber>"
+"224","          <publicAccountantLei>0000000000</publicAccountantLei>"
+"225","          <publicAccountantStateCountry publicAccountantCountry=US publicAccountantState=US-DE/>"
+"226","        </publicAccountant>"
+"227","      </publicAccountants>"
+"228","      <isPublicAccountantChanged>N</isPublicAccountantChanged>"
+"229","      <isMaterialWeakness>N</isMaterialWeakness>"
+"230","      <isOpinionOffered>N</isOpinionOffered>"
+"231","      <isMaterialChange>N</isMaterialChange>"
+"232","      <isAccountingPrincipleChange>N</isAccountingPrincipleChange>"
+"233","      <isPaymentErrorInNetAssetValue>N</isPaymentErrorInNetAssetValue>"
+"234","      <isPaymentDividend>N</isPaymentDividend>"
+"235","    </registrantInfo>"
+"236","    <managementInvestmentQuestionSeriesInfo>"
+"237","      <managementInvestmentQuestion>"
+"238","        <mgmtInvFundName>AB SUSTAINABLE INTERNATIONAL THEMATIC FUND INC</mgmtInvFundName>"
+"239","        <mgmtInvSeriesId>S000010094</mgmtInvSeriesId>"
+"240","        <mgmtInvLei>549300N0VE6F056LTL63</mgmtInvLei>"
+"241","        <isFirstFilingByFund>N</isFirstFilingByFund>"
+"242","        <numAuthorizedClass>8</numAuthorizedClass>"
+"243","        <numAddedClass>0</numAddedClass>"
+"244","        <numTerminatedClass>0</numTerminatedClass>"
+"245","        <sharesOutstandings>"
+"246","          <sharesOutstanding sharesOutstandingClassName=Advisor Class sharesOutstandingClassId=C000027975 sharesOutstandingTickerSymbol=AWPYX/>"
+"247","          <sharesOutstanding sharesOutstandingClassName=Class K sharesOutstandingClassId=C000027977 sharesOutstandingTickerSymbol=AWPKX/>"
+"248","          <sharesOutstanding sharesOutstandingClassName=Class A sharesOutstandingClassId=C000027972 sharesOutstandingTickerSymbol=AWPAX/>"
+"249","          <sharesOutstanding sharesOutstandingClassName=Class C sharesOutstandingClassId=C000027974 sharesOutstandingTickerSymbol=AWPCX/>"
+"250","          <sharesOutstanding sharesOutstandingClassName=Class B sharesOutstandingClassId=C000027973 sharesOutstandingTickerSymbol=AWPBX/>"
+"251","          <sharesOutstanding sharesOutstandingClassName=Class R sharesOutstandingClassId=C000027976 sharesOutstandingTickerSymbol=AWPRX/>"
+"252","          <sharesOutstanding sharesOutstandingClassName=Class I sharesOutstandingClassId=C000027978 sharesOutstandingTickerSymbol=AWPIX/>"
+"253","        </sharesOutstandings>"
+"254","        <fundType>N/A</fundType>"
+"255","        <isNonDiversifiedCompany>N</isNonDiversifiedCompany>"
+"256","        <isForeignSubsidiary>N</isForeignSubsidiary>"
+"257","        <isFundSecuritiesLending>Y</isFundSecuritiesLending>"
+"258","        <fundLendSecurities didFundLendSecurities=Y>"
+"259","          <isFundLiquidated>N</isFundLiquidated>"
+"260","          <isFundAdverselyImpacted>N</isFundAdverselyImpacted>"
+"261","        </fundLendSecurities>"
+"262","        <securityLendings>"
+"263","          <securityLending>"
+"264","            <securitiesAgentName>Brown Brothers Harriman &amp; Co.</securitiesAgentName>"
+"265","            <securitiesAgentLei>5493006KMX1VFTPYPW14</securitiesAgentLei>"
+"266","            <isSecuritiesAgentAffiliated>N</isSecuritiesAgentAffiliated>"
+"267","            <securityAgentIdemnity isSecurityAgentIdemnity=Y>"
+"268","              <idemnityProviders>"
+"269","                <idemnityProvider idemnityProviderName=N/A idemnityProviderLei=N/A/>"
+"270","              </idemnityProviders>"
+"271","              <didIndemnificationRights>Y</didIndemnificationRights>"
+"272","            </securityAgentIdemnity>"
+"273","          </securityLending>"
+"274","        </securityLendings>"
+"275","        <collateralManagers>"
+"276","          <collateralManager collateralManagerName=AllianceBernstein L.P. collateralManagerLei=0JK55UGWSWNF3X7KLQ85 isCollateralManagerAffliliated=N isCollateralManagerAffliliatedWithFund=Y/>"
+"277","        </collateralManagers>"
+"278","        <paymentToAgentManagers>"
+"279","          <paymentToAgentManagerType>Revenue sharing split</paymentToAgentManagerType>"
+"280","        </paymentToAgentManagers>"
+"281","        <avgPortfolioSecuritiesValue>1342842.22000000</avgPortfolioSecuritiesValue>"
+"282","        <netIncomeSecuritiesLending>96851.65000000</netIncomeSecuritiesLending>"
+"283","        <relyOnRuleTypes>"
+"284","          <relyOnRuleType>Rule 32a-4 (17 CFR 270.32a-4)</relyOnRuleType>"
+"285","          <relyOnRuleType>Rule 12d1-1 (17 CFR 270.12d1-1)</relyOnRuleType>"
+"286","          <relyOnRuleType>Rule 22d-1 (17 CFR 270.22d-1)</relyOnRuleType>"
+"287","        </relyOnRuleTypes>"
+"288","        <isExpenseLimitationInPlace>Y</isExpenseLimitationInPlace>"
+"289","        <isExpenseReducedOrWaived>N</isExpenseReducedOrWaived>"
+"290","        <isFeesWaivedRecoupable>N</isFeesWaivedRecoupable>"
+"291","        <isExpenseWaivedRecoupable>N</isExpenseWaivedRecoupable>"
+"292","        <investmentAdvisers>"
+"293","          <investmentAdviser>"
+"294","            <investmentAdviserName>AllianceBernstein L.P.</investmentAdviserName>"
+"295","            <investmentAdviserFileNo>801-56720</investmentAdviserFileNo>"
+"296","            <investmentAdviserCrdNo>000108477</investmentAdviserCrdNo>"
+"297","            <investmentAdviserLei>0JK55UGWSWNF3X7KLQ85</investmentAdviserLei>"
+"298","            <investmentAdviserStateCountry investmentAdviserState=US-DE investmentAdviserCountry=US/>"
+"299","            <isInvestmentAdviserHired>N</isInvestmentAdviserHired>"
+"300","          </investmentAdviser>"
+"301","        </investmentAdvisers>"
+"302","        <transferAgents>"
+"303","          <transferAgent>"
+"304","            <transferAgentName>AllianceBernstein Investor Services, Inc.</transferAgentName>"
+"305","            <transferAgentFileNo>084-01187</transferAgentFileNo>"
+"306","            <transferAgentLei>0000000000</transferAgentLei>"
+"307","            <transferAgentStateCountry transferAgentState=US-DE transferAgentCountry=US/>"
+"308","            <isTransferAgentAffiliated>Y</isTransferAgentAffiliated>"
+"309","            <isTransferAgentSubAgent>N</isTransferAgentSubAgent>"
+"310","          </transferAgent>"
+"311","        </transferAgents>"
+"312","        <isTransferAgentHiredOrTerminated>N</isTransferAgentHiredOrTerminated>"
+"313","        <pricingServices>"
+"314","          <pricingService>"
+"315","            <pricingServiceName>PricingDirect Inc.</pricingServiceName>"
+"316","            <pricingServiceLei>549300WIC0TOJ7N7GD54</pricingServiceLei>"
+"317","            <pricingServiceStateCountry pricingServiceState=US-DE pricingServiceCountry=US/>"
+"318","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"319","          </pricingService>"
+"320","          <pricingService>"
+"321","            <pricingServiceName>IHS Markit Ltd.</pricingServiceName>"
+"322","            <pricingServiceLei>549300HLPTRASHS0E726</pricingServiceLei>"
+"323","            <pricingServiceCountry>BM</pricingServiceCountry>"
+"324","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"325","          </pricingService>"
+"326","          <pricingService>"
+"327","            <pricingServiceName>Thomson Reuters Corporation</pricingServiceName>"
+"328","            <pricingServiceLei>549300561UZND4C7B569</pricingServiceLei>"
+"329","            <pricingServiceCountry>CA</pricingServiceCountry>"
+"330","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"331","          </pricingService>"
+"332","          <pricingService>"
+"333","            <pricingServiceName>Bloomberg L.P.</pricingServiceName>"
+"334","            <pricingServiceLei>549300B56MD0ZC402L06</pricingServiceLei>"
+"335","            <pricingServiceStateCountry pricingServiceState=US-DE pricingServiceCountry=US/>"
+"336","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"337","          </pricingService>"
+"338","          <pricingService>"
+"339","            <pricingServiceName>Standard &amp; Poor's Financial Services LLC</pricingServiceName>"
+"340","            <pricingServiceLei>549300U4VWNITEKO2881</pricingServiceLei>"
+"341","            <pricingServiceStateCountry pricingServiceState=US-DE pricingServiceCountry=US/>"
+"342","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"343","          </pricingService>"
+"344","          <pricingService>"
+"345","            <pricingServiceName>Interactive Data Corporation</pricingServiceName>"
+"346","            <pricingServiceLei>13-3668779</pricingServiceLei>"
+"347","            <pricingServiceStateCountry pricingServiceState=US-DE pricingServiceCountry=US/>"
+"348","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"349","          </pricingService>"
+"350","        </pricingServices>"
+"351","        <isPricingServiceHiredOrTerminated>N</isPricingServiceHiredOrTerminated>"
+"352","        <custodians>"
+"353","          <custodian>"
+"354","            <custodianName>Citibank Europe Public Limited Company</custodianName>"
+"355","            <custodianLei>N1FBEDJ5J41VKZLO2475</custodianLei>"
+"356","            <custodianCountry>IE</custodianCountry>"
+"357","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"358","            <isSubCustodian>Y</isSubCustodian>"
+"359","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"360","          </custodian>"
+"361","          <custodian>"
+"362","            <custodianName>HSBC Bank Oman S.A.O.G.</custodianName>"
+"363","            <custodianLei>213800YRPSOSH9OA2V29</custodianLei>"
+"364","            <custodianCountry>OM</custodianCountry>"
+"365","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"366","            <isSubCustodian>Y</isSubCustodian>"
+"367","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"368","          </custodian>"
+"369","          <custodian>"
+"370","            <custodianName>MUFG Bank, Ltd.</custodianName>"
+"371","            <custodianLei>C3GTMMZIHMY46P4OIX74</custodianLei>"
+"372","            <custodianCountry>JP</custodianCountry>"
+"373","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"374","            <isSubCustodian>Y</isSubCustodian>"
+"375","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"376","          </custodian>"
+"377","          <custodian>"
+"378","            <custodianName>The Hongkong and Shanghai Banking Corporation Limited (Colombo, Western, LK, Branch)</custodianName>"
+"379","            <custodianLei>0000000000</custodianLei>"
+"380","            <custodianCountry>LK</custodianCountry>"
+"381","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"382","            <isSubCustodian>Y</isSubCustodian>"
+"383","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"384","          </custodian>"
+"385","          <custodian>"
+"386","            <custodianName>Citibank Europe Public Limited Company (Bucharest, Bucharest, RO, Branch)</custodianName>"
+"387","            <custodianLei>0000000000</custodianLei>"
+"388","            <custodianCountry>RO</custodianCountry>"
+"389","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"390","            <isSubCustodian>Y</isSubCustodian>"
+"391","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"392","          </custodian>"
+"393","          <custodian>"
+"394","            <custodianName>The Hongkong and Shanghai Banking Corporation Limited (Taguig City, Metro Manila, PH, Branch)</custodianName>"
+"395","            <custodianLei>N/A</custodianLei>"
+"396","            <custodianCountry>PH</custodianCountry>"
+"397","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"398","            <isSubCustodian>Y</isSubCustodian>"
+"399","            <custodyType>Bank - section 17(f)(1) (15 U.S.C. 80a-17(f)(1))</custodyType>"
+"400","          </custodian>"
+"401","          <custodian>"
+"402","            <custodianName>Citibank del Peru S.A.</custodianName>"
+"403","            <custodianLei>MYTK5NHHP1G8TVFGT193</custodianLei>"
+"404","            <custodianCountry>PE</custodianCountry>"
+"405","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"406","            <isSubCustodian>Y</isSubCustodian>"
+"407","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"408","          </custodian>"
+"409","          <custodian>"
+"410","            <custodianName>Royal Bank of Canada</custodianName>"
+"411","            <custodianLei>ES7IP3U3RHIGC71XBU11</custodianLei>"
+"412","            <custodianCountry>CA</custodianCountry>"
+"413","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"414","            <isSubCustodian>Y</isSubCustodian>"
+"415","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"416","          </custodian>"
+"417","          <custodian>"
+"418","            <custodianName>Standard Chartered Bank (China) Limited</custodianName>"
+"419","            <custodianLei>549300VGE7QN15BPTZ72</custodianLei>"
+"420","            <custodianCountry>CN</custodianCountry>"
+"421","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"422","            <isSubCustodian>Y</isSubCustodian>"
+"423","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"424","          </custodian>"
+"425","          <custodian>"
+"426","            <custodianName>BNP Paribas Securities Services (Lisbon, Lisboa, PT, Branch)</custodianName>"
+"427","            <custodianLei>0000000000</custodianLei>"
+"428","            <custodianCountry>PT</custodianCountry>"
+"429","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"430","            <isSubCustodian>Y</isSubCustodian>"
+"431","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"432","          </custodian>"
+"433","          <custodian>"
+"434","            <custodianName>Standard Chartered Bank Ghana Limited</custodianName>"
+"435","            <custodianLei>549300WFGKTC3MGDCX95</custodianLei>"
+"436","            <custodianCountry>GH</custodianCountry>"
+"437","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"438","            <isSubCustodian>Y</isSubCustodian>"
+"439","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"440","          </custodian>"
+"441","          <custodian>"
+"442","            <custodianName>Deutsche Bank Aktiengesellschaft (Eschborn, Hessen, DE, Branch)</custodianName>"
+"443","            <custodianLei>7LTWFZYICNSX8D621K86</custodianLei>"
+"444","            <custodianCountry>DE</custodianCountry>"
+"445","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"446","            <isSubCustodian>Y</isSubCustodian>"
+"447","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"448","          </custodian>"
+"449","          <custodian>"
+"450","            <custodianName>KBL European Private Bankers S.A.</custodianName>"
+"451","            <custodianLei>KHCL65TP05J1HUW2D560</custodianLei>"
+"452","            <custodianCountry>LU</custodianCountry>"
+"453","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"454","            <isSubCustodian>Y</isSubCustodian>"
+"455","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"456","          </custodian>"
+"457","          <custodian>"
+"458","            <custodianName>HSBC Bank Middle East Limited (Kuwait City, Al Asimah, KW, Branch)</custodianName>"
+"459","            <custodianLei>0000000000</custodianLei>"
+"460","            <custodianCountry>KW</custodianCountry>"
+"461","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"462","            <isSubCustodian>Y</isSubCustodian>"
+"463","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"464","          </custodian>"
+"465","          <custodian>"
+"466","            <custodianName>Citibank, National Association (Jakarta, Jakarta, ID, Branch)</custodianName>"
+"467","            <custodianLei>0000000000</custodianLei>"
+"468","            <custodianCountry>ID</custodianCountry>"
+"469","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"470","            <isSubCustodian>Y</isSubCustodian>"
+"471","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"472","          </custodian>"
+"473","          <custodian>"
+"474","            <custodianName>HSBC France (Athens, Attica, GR, Branch)</custodianName>"
+"475","            <custodianLei>N/A</custodianLei>"
+"476","            <custodianCountry>GR</custodianCountry>"
+"477","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"478","            <isSubCustodian>Y</isSubCustodian>"
+"479","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"480","          </custodian>"
+"481","          <custodian>"
+"482","            <custodianName>Banco Itau Uruguay S.A.</custodianName>"
+"483","            <custodianLei>549300HU8OQS1VTVXN55</custodianLei>"
+"484","            <custodianCountry>UY</custodianCountry>"
+"485","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"486","            <isSubCustodian>Y</isSubCustodian>"
+"487","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"488","          </custodian>"
+"489","          <custodian>"
+"490","            <custodianName>The Hongkong and Shanghai Banking Corporation Limited (Bangkok, Bangkok, TH, Branch)</custodianName>"
+"491","            <custodianLei>0000000000</custodianLei>"
+"492","            <custodianCountry>TH</custodianCountry>"
+"493","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"494","            <isSubCustodian>Y</isSubCustodian>"
+"495","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"496","          </custodian>"
+"497","          <custodian>"
+"498","            <custodianName>The Hongkong and Shanghai Banking Corporation Limited (Sydney, NSW, AU, Branch)</custodianName>"
+"499","            <custodianLei>0000000000</custodianLei>"
+"500","            <custodianCountry>AU</custodianCountry>"
+"501","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"502","            <isSubCustodian>Y</isSubCustodian>"
+"503","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"504","          </custodian>"
+"505","          <custodian>"
+"506","            <custodianName>The Hongkong and Shanghai Banking Corporation Limited</custodianName>"
+"507","            <custodianLei>2HI3YI5320L3RW6NJ957</custodianLei>"
+"508","            <custodianCountry>HK</custodianCountry>"
+"509","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"510","            <isSubCustodian>Y</isSubCustodian>"
+"511","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"512","          </custodian>"
+"513","          <custodian>"
+"514","            <custodianName>Standard Chartered Bank (Taiwan) Limited</custodianName>"
+"515","            <custodianLei>549300QJEO1B92LSHZ06</custodianLei>"
+"516","            <custodianCountry>TW</custodianCountry>"
+"517","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"518","            <isSubCustodian>Y</isSubCustodian>"
+"519","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"520","          </custodian>"
+"521","          <custodian>"
+"522","            <custodianName>Skandinaviska Enskilda Banken AB</custodianName>"
+"523","            <custodianLei>F3JS33DEI6XQ4ZBPTN86</custodianLei>"
+"524","            <custodianCountry>SE</custodianCountry>"
+"525","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"526","            <isSubCustodian>Y</isSubCustodian>"
+"527","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"528","          </custodian>"
+"529","          <custodian>"
+"530","            <custodianName>UniCredit Bank Austria AG</custodianName>"
+"531","            <custodianLei>D1HEB8VEU6D9M8ZUXG17</custodianLei>"
+"532","            <custodianCountry>AT</custodianCountry>"
+"533","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"534","            <isSubCustodian>Y</isSubCustodian>"
+"535","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"536","          </custodian>"
+"537","          <custodian>"
+"538","            <custodianName>Citibank Europe Public Limited Company (Budapest, HU, Branch)</custodianName>"
+"539","            <custodianLei>0000000000</custodianLei>"
+"540","            <custodianCountry>HU</custodianCountry>"
+"541","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"542","            <isSubCustodian>Y</isSubCustodian>"
+"543","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"544","          </custodian>"
+"545","          <custodian>"
+"546","            <custodianName>CACEIS Bank</custodianName>"
+"547","            <custodianLei>96950023SCR9X9F3L662</custodianLei>"
+"548","            <custodianCountry>FR</custodianCountry>"
+"549","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"550","            <isSubCustodian>Y</isSubCustodian>"
+"551","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"552","          </custodian>"
+"553","          <custodian>"
+"554","            <custodianName>The Hongkong and Shanghai Banking Corporation Limited (Jung-gu, Seoul, KR, Branch)</custodianName>"
+"555","            <custodianLei>0000000000</custodianLei>"
+"556","            <custodianCountry>KR</custodianCountry>"
+"557","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"558","            <isSubCustodian>Y</isSubCustodian>"
+"559","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"560","          </custodian>"
+"561","          <custodian>"
+"562","            <custodianName>Societe Generale Securities Services S.p.A</custodianName>"
+"563","            <custodianLei>549300SAMQW7TYZ1TR74</custodianLei>"
+"564","            <custodianCountry>IT</custodianCountry>"
+"565","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"566","            <isSubCustodian>Y</isSubCustodian>"
+"567","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"568","          </custodian>"
+"569","          <custodian>"
+"570","            <custodianName>HSBC Bank Middle East Limited</custodianName>"
+"571","            <custodianLei>549300F99IL9YJDWH369</custodianLei>"
+"572","            <custodianCountry>AE</custodianCountry>"
+"573","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"574","            <isSubCustodian>Y</isSubCustodian>"
+"575","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"576","          </custodian>"
+"577","          <custodian>"
+"578","            <custodianName>Cititrust Colombia S A Sociedad Fiduciaria</custodianName>"
+"579","            <custodianLei>549300242J3IJCOSGI49</custodianLei>"
+"580","            <custodianCountry>CO</custodianCountry>"
+"581","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"582","            <isSubCustodian>Y</isSubCustodian>"
+"583","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"584","          </custodian>"
+"585","          <custodian>"
+"586","            <custodianName>Banco de Chile</custodianName>"
+"587","            <custodianLei>8B4EZFY8IHJC44TT2K84</custodianLei>"
+"588","            <custodianCountry>CL</custodianCountry>"
+"589","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"590","            <isSubCustodian>Y</isSubCustodian>"
+"591","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"592","          </custodian>"
+"593","          <custodian>"
+"594","            <custodianName>The Hongkong and Shanghai Banking Corporation Limited (Auckland, Auckland, NZ, Branch)</custodianName>"
+"595","            <custodianLei>0000000000</custodianLei>"
+"596","            <custodianCountry>NZ</custodianCountry>"
+"597","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"598","            <isSubCustodian>Y</isSubCustodian>"
+"599","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"600","          </custodian>"
+"601","          <custodian>"
+"602","            <custodianName>BNP Paribas Securities Services (Brussels, Brussels-Capital, BE, Branch)</custodianName>"
+"603","            <custodianLei>0000000000</custodianLei>"
+"604","            <custodianCountry>BE</custodianCountry>"
+"605","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"606","            <isSubCustodian>Y</isSubCustodian>"
+"607","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"608","          </custodian>"
+"609","          <custodian>"
+"610","            <custodianName>Citibank, National Association (London, GB, Branch)</custodianName>"
+"611","            <custodianLei>0000000000</custodianLei>"
+"612","            <custodianCountry>GB</custodianCountry>"
+"613","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"614","            <isSubCustodian>Y</isSubCustodian>"
+"615","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"616","          </custodian>"
+"617","          <custodian>"
+"618","            <custodianName>Nordea Bank AB (Helsinki, Uusimaa, FI, Branch)</custodianName>"
+"619","            <custodianLei>0000000000</custodianLei>"
+"620","            <custodianCountry>FI</custodianCountry>"
+"621","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"622","            <isSubCustodian>Y</isSubCustodian>"
+"623","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"624","          </custodian>"
+"625","          <custodian>"
+"626","            <custodianName>Standard Bank Namibia Limited</custodianName>"
+"627","            <custodianLei>254900K6TJFDYKSQWV49</custodianLei>"
+"628","            <custodianCountry>NA</custodianCountry>"
+"629","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"630","            <isSubCustodian>Y</isSubCustodian>"
+"631","            <custodyType>Bank - section 17(f)(1) (15 U.S.C. 80a-17(f)(1))</custodyType>"
+"632","          </custodian>"
+"633","          <custodian>"
+"634","            <custodianName>Stanbic IBTC Bank PLC</custodianName>"
+"635","            <custodianLei>549300NIVXF92ZIOVW61</custodianLei>"
+"636","            <custodianCountry>NG</custodianCountry>"
+"637","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"638","            <isSubCustodian>Y</isSubCustodian>"
+"639","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"640","          </custodian>"
+"641","          <custodian>"
+"642","            <custodianName>Deutsche Bank Aktiengesellschaft (Amsterdam, Noord Holland, NL, Branch)</custodianName>"
+"643","            <custodianLei>0000000000</custodianLei>"
+"644","            <custodianCountry>NL</custodianCountry>"
+"645","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"646","            <isSubCustodian>Y</isSubCustodian>"
+"647","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"648","          </custodian>"
+"649","          <custodian>"
+"650","            <custodianName>Skandinaviska Enskilda Banken A/S</custodianName>"
+"651","            <custodianLei>0000000000</custodianLei>"
+"652","            <custodianCountry>DK</custodianCountry>"
+"653","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"654","            <isSubCustodian>Y</isSubCustodian>"
+"655","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"656","          </custodian>"
+"657","          <custodian>"
+"658","            <custodianName>Standard Chartered Bank Kenya Limited</custodianName>"
+"659","            <custodianLei>549300RBHWW5EJIRG629</custodianLei>"
+"660","            <custodianCountry>KE</custodianCountry>"
+"661","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"662","            <isSubCustodian>Y</isSubCustodian>"
+"663","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"664","          </custodian>"
+"665","          <custodian>"
+"666","            <custodianName>Bank Handlowy w Warszawie Spolka Akcyjna</custodianName>"
+"667","            <custodianLei>XLEZHWWOI4HFQDGL4793</custodianLei>"
+"668","            <custodianCountry>PL</custodianCountry>"
+"669","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"670","            <isSubCustodian>Y</isSubCustodian>"
+"671","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"672","          </custodian>"
+"673","          <custodian>"
+"674","            <custodianName>Citibank, National Association (Ciudad Autonoma de Buenos Aires, Ciudad Autonoma de Buenos Aires, AR, Branch)</custodianName>"
+"675","            <custodianLei>579100KKDGKCFFKKF005</custodianLei>"
+"676","            <custodianCountry>AR</custodianCountry>"
+"677","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"678","            <isSubCustodian>Y</isSubCustodian>"
+"679","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"680","          </custodian>"
+"681","          <custodian>"
+"682","            <custodianName>Citibank, National Association (Sao Paulo, Sao Paulo, BR, Branch)</custodianName>"
+"683","            <custodianLei>0000000000</custodianLei>"
+"684","            <custodianCountry>BR</custodianCountry>"
+"685","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"686","            <isSubCustodian>Y</isSubCustodian>"
+"687","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"688","          </custodian>"
+"689","          <custodian>"
+"690","            <custodianName>HSBC Bank Malaysia Berhad</custodianName>"
+"691","            <custodianLei>P3RPN9OJFCXUPJWB1Q09</custodianLei>"
+"692","            <custodianCountry>MY</custodianCountry>"
+"693","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"694","            <isSubCustodian>Y</isSubCustodian>"
+"695","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"696","          </custodian>"
+"697","          <custodian>"
+"698","            <custodianName>Ngan Hang Trach Nhiem Huu Han Mot Thanh Vien HSBC (Viet Nam)</custodianName>"
+"699","            <custodianLei>213800H95OG9OHRT4Y78</custodianLei>"
+"700","            <custodianCountry>VN</custodianCountry>"
+"701","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"702","            <isSubCustodian>Y</isSubCustodian>"
+"703","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"704","          </custodian>"
+"705","          <custodian>"
+"706","            <custodianName>Banco Bilbao Vizcaya Argentaria, S.A. (Brussels, Brussels-Capital, BE, Branch)</custodianName>"
+"707","            <custodianLei>K8MS7FD7N5Z2WQ51AZ71</custodianLei>"
+"708","            <custodianCountry>BE</custodianCountry>"
+"709","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"710","            <isSubCustodian>Y</isSubCustodian>"
+"711","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"712","          </custodian>"
+"713","          <custodian>"
+"714","            <custodianName>Banco Nacional de Mexico, S. A., Integrante del Grupo Financiero Banamex.</custodianName>"
+"715","            <custodianLei>2SFFM4FUIE05S37WFU55</custodianLei>"
+"716","            <custodianCountry>MX</custodianCountry>"
+"717","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"718","            <isSubCustodian>Y</isSubCustodian>"
+"719","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"720","          </custodian>"
+"721","          <custodian>"
+"722","            <custodianName>Joint Stock Company Commercial Bank Citibank</custodianName>"
+"723","            <custodianLei>CHSQDSVI1UI96Y2SW097</custodianLei>"
+"724","            <custodianCountry>RU</custodianCountry>"
+"725","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"726","            <isSubCustodian>Y</isSubCustodian>"
+"727","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"728","          </custodian>"
+"729","          <custodian>"
+"730","            <custodianName>Zagrebacka Banka Dionicko Drustvo</custodianName>"
+"731","            <custodianLei>PRNXTNXHBI0TSY1V8P17</custodianLei>"
+"732","            <custodianCountry>HR</custodianCountry>"
+"733","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"734","            <isSubCustodian>Y</isSubCustodian>"
+"735","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"736","          </custodian>"
+"737","          <custodian>"
+"738","            <custodianName>Citibank Maghreb S.A</custodianName>"
+"739","            <custodianLei>5493003FVWLMBFTISI11</custodianLei>"
+"740","            <custodianCountry>MA</custodianCountry>"
+"741","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"742","            <isSubCustodian>Y</isSubCustodian>"
+"743","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"744","          </custodian>"
+"745","          <custodian>"
+"746","            <custodianName>HSBC Bank Middle East Limited (Doha, Ad Dawhah, QA, Branch)</custodianName>"
+"747","            <custodianLei>0000000000</custodianLei>"
+"748","            <custodianCountry>QA</custodianCountry>"
+"749","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"750","            <isSubCustodian>Y</isSubCustodian>"
+"751","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"752","          </custodian>"
+"753","          <custodian>"
+"754","            <custodianName>Deutsche Bank Aktiengesellschaft (Sisli, Istanbul, TR, Branch)</custodianName>"
+"755","            <custodianLei>0000000000</custodianLei>"
+"756","            <custodianCountry>TR</custodianCountry>"
+"757","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"758","            <isSubCustodian>Y</isSubCustodian>"
+"759","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"760","          </custodian>"
+"761","          <custodian>"
+"762","            <custodianName>Landsbankinn hf.</custodianName>"
+"763","            <custodianLei>549300TLZPT6JELDWM92</custodianLei>"
+"764","            <custodianCountry>IS</custodianCountry>"
+"765","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"766","            <isSubCustodian>Y</isSubCustodian>"
+"767","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"768","          </custodian>"
+"769","          <custodian>"
+"770","            <custodianName>The Hongkong and Shanghai Banking Corporation Limited (Singapore, SG, Branch)</custodianName>"
+"771","            <custodianLei>0000000000</custodianLei>"
+"772","            <custodianCountry>SG</custodianCountry>"
+"773","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"774","            <isSubCustodian>Y</isSubCustodian>"
+"775","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"776","          </custodian>"
+"777","          <custodian>"
+"778","            <custodianName>Nordea Bank AB (Oslo, Oslo, NO, Branch)</custodianName>"
+"779","            <custodianLei>0000000000</custodianLei>"
+"780","            <custodianCountry>NO</custodianCountry>"
+"781","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"782","            <isSubCustodian>Y</isSubCustodian>"
+"783","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"784","          </custodian>"
+"785","          <custodian>"
+"786","            <custodianName>Citibank, National Association (Mumbai, Maharashtra, IN, Branch)</custodianName>"
+"787","            <custodianLei>0000000000</custodianLei>"
+"788","            <custodianCountry>IN</custodianCountry>"
+"789","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"790","            <isSubCustodian>Y</isSubCustodian>"
+"791","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"792","          </custodian>"
+"793","          <custodian>"
+"794","            <custodianName>Standard Chartered Bank (Dhaka, Dhaka, BD, Branch)</custodianName>"
+"795","            <custodianLei>0000000000</custodianLei>"
+"796","            <custodianCountry>BD</custodianCountry>"
+"797","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"798","            <isSubCustodian>Y</isSubCustodian>"
+"799","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"800","          </custodian>"
+"801","          <custodian>"
+"802","            <custodianName>HSBC Bank PLC (London, GB, Branch)</custodianName>"
+"803","            <custodianLei>MP6I5ZYZBEU3UXPYFY54</custodianLei>"
+"804","            <custodianCountry>GB</custodianCountry>"
+"805","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"806","            <isSubCustodian>Y</isSubCustodian>"
+"807","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"808","          </custodian>"
+"809","          <custodian>"
+"810","            <custodianName>Brown Brothers Harriman &amp; Co.</custodianName>"
+"811","            <custodianLei>5493006KMX1VFTPYPW14</custodianLei>"
+"812","            <custodianStateCountry custodianState=US-NY custodianCountry=US/>"
+"813","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"814","            <isSubCustodian>N</isSubCustodian>"
+"815","            <custodyType>Bank - section 17(f)(1) (15 U.S.C. 80a-17(f)(1))</custodyType>"
+"816","          </custodian>"
+"817","          <custodian>"
+"818","            <custodianName>The Standard Bank of South Africa Limited</custodianName>"
+"819","            <custodianLei>QFC8ZCW3Q5PRXU1XTM60</custodianLei>"
+"820","            <custodianCountry>ZA</custodianCountry>"
+"821","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"822","            <isSubCustodian>Y</isSubCustodian>"
+"823","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"824","          </custodian>"
+"825","          <custodian>"
+"826","            <custodianName>HSBC Bank Bermuda Limited</custodianName>"
+"827","            <custodianLei>0W1U67PTV5WY3WYWKD79</custodianLei>"
+"828","            <custodianCountry>BM</custodianCountry>"
+"829","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"830","            <isSubCustodian>Y</isSubCustodian>"
+"831","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"832","          </custodian>"
+"833","          <custodian>"
+"834","            <custodianName>Citibank, National Association (Cairo, Cairo, EG, Branch)</custodianName>"
+"835","            <custodianLei>0000000000</custodianLei>"
+"836","            <custodianCountry>EG</custodianCountry>"
+"837","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"838","            <isSubCustodian>Y</isSubCustodian>"
+"839","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"840","          </custodian>"
+"841","          <custodian>"
+"842","            <custodianName>Bank Hapoalim B.M.</custodianName>"
+"843","            <custodianLei>B6ARUI4946ST4S7WOU88</custodianLei>"
+"844","            <custodianCountry>IL</custodianCountry>"
+"845","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"846","            <isSubCustodian>Y</isSubCustodian>"
+"847","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"848","          </custodian>"
+"849","          <custodian>"
+"850","            <custodianName>UBS Switzerland AG</custodianName>"
+"851","            <custodianLei>549300WOIFUSNYH0FL22</custodianLei>"
+"852","            <custodianCountry>CH</custodianCountry>"
+"853","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"854","            <isSubCustodian>Y</isSubCustodian>"
+"855","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"856","          </custodian>"
+"857","          <custodian>"
+"858","            <custodianName>Standard Chartered Bank (Pakistan) Limited</custodianName>"
+"859","            <custodianLei>549300YTOMKUNPUTB551</custodianLei>"
+"860","            <custodianCountry>PK</custodianCountry>"
+"861","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"862","            <isSubCustodian>Y</isSubCustodian>"
+"863","            <custodyType>Foreign custodian - rule 17f-5 (17 CFR 270.17f-5)</custodyType>"
+"864","          </custodian>"
+"865","        </custodians>"
+"866","        <isCustodianHiredOrTerminated>N</isCustodianHiredOrTerminated>"
+"867","        <shareholderServicingAgents>"
+"868","          <shareholderServicingAgent>"
+"869","            <shareholderServiceAgentName>AllianceBernstein Investor Services, Inc.</shareholderServiceAgentName>"
+"870","            <shareholderServiceAgentLei>0000000000</shareholderServiceAgentLei>"
+"871","            <shareholderServiceAgentStateCountry shareholderServiceAgentState=US-DE shareholderServiceAgentCountry=US/>"
+"872","            <isShareholderServiceAgentAffiliated>Y</isShareholderServiceAgentAffiliated>"
+"873","            <isShareholderServiceAgentSubshare>N</isShareholderServiceAgentSubshare>"
+"874","          </shareholderServicingAgent>"
+"875","        </shareholderServicingAgents>"
+"876","        <isShareholderServiceHiredTerminated>N</isShareholderServiceHiredTerminated>"
+"877","        <admins>"
+"878","          <admin>"
+"879","            <adminName>AllianceBernstein L.P.</adminName>"
+"880","            <adminLei>0JK55UGWSWNF3X7KLQ85</adminLei>"
+"881","            <adminStateCountry adminState=US-DE adminCountry=US/>"
+"882","            <isAdminAffiliated>Y</isAdminAffiliated>"
+"883","            <isAdminSubAdmin>N</isAdminSubAdmin>"
+"884","          </admin>"
+"885","        </admins>"
+"886","        <isAdminHiredOrTerminated>N</isAdminHiredOrTerminated>"
+"887","        <brokers>"
+"888","          <broker>"
+"889","            <brokerName>Investment Technology Group, Inc.</brokerName>"
+"890","            <brokerFileNo>8-44218</brokerFileNo>"
+"891","            <brokerCrdNo>000029299</brokerCrdNo>"
+"892","            <brokerLei>0000000000</brokerLei>"
+"893","            <brokerStateCountry brokerState=US-DE brokerCountry=US/>"
+"894","            <grossCommission>16149.51000000</grossCommission>"
+"895","          </broker>"
+"896","          <broker>"
+"897","            <brokerName>Liquidnet, Inc.</brokerName>"
+"898","            <brokerFileNo>8-52461</brokerFileNo>"
+"899","            <brokerCrdNo>000103987</brokerCrdNo>"
+"900","            <brokerLei>213800HSKBBO1GCVRG79</brokerLei>"
+"901","            <brokerStateCountry brokerState=US-DE brokerCountry=US/>"
+"902","            <grossCommission>8960.71000000</grossCommission>"
+"903","          </broker>"
+"904","          <broker>"
+"905","            <brokerName>JPMorgan Chase &amp; Co.</brokerName>"
+"906","            <brokerFileNo>8-35008</brokerFileNo>"
+"907","            <brokerCrdNo>000000079</brokerCrdNo>"
+"908","            <brokerLei>8I5DZWZKVSZI1NUHU748</brokerLei>"
+"909","            <brokerStateCountry brokerState=US-DE brokerCountry=US/>"
+"910","            <grossCommission>4847.36000000</grossCommission>"
+"911","          </broker>"
+"912","          <broker>"
+"913","            <brokerName>Goldman Sachs &amp; Co. LLC</brokerName>"
+"914","            <brokerFileNo>8-129</brokerFileNo>"
+"915","            <brokerCrdNo>000000361</brokerCrdNo>"
+"916","            <brokerLei>FOR8UP27PHTHYVLBNG30</brokerLei>"
+"917","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"918","            <grossCommission>27407.21000000</grossCommission>"
+"919","          </broker>"
+"920","          <broker>"
+"921","            <brokerName>HSBC Securities (USA) Inc.</brokerName>"
+"922","            <brokerFileNo>8-41562</brokerFileNo>"
+"923","            <brokerCrdNo>000019585</brokerCrdNo>"
+"924","            <brokerLei>CYYGQCGNHMHPSMRL3R97</brokerLei>"
+"925","            <brokerStateCountry brokerState=US-DE brokerCountry=US/>"
+"926","            <grossCommission>15789.07000000</grossCommission>"
+"927","          </broker>"
+"928","          <broker>"
+"929","            <brokerName>Merrill Lynch International Bank</brokerName>"
+"930","            <brokerFileNo>8-07178</brokerFileNo>"
+"931","            <brokerCrdNo>000162416</brokerCrdNo>"
+"932","            <brokerLei>0000000000</brokerLei>"
+"933","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"934","            <grossCommission>33457.75000000</grossCommission>"
+"935","          </broker>"
+"936","          <broker>"
+"937","            <brokerName>Barclays Capital Inc.</brokerName>"
+"938","            <brokerFileNo>8-41342</brokerFileNo>"
+"939","            <brokerCrdNo>000019714</brokerCrdNo>"
+"940","            <brokerLei>AC28XWWI3WIBK2824319</brokerLei>"
+"941","            <brokerStateCountry brokerState=US-CT brokerCountry=US/>"
+"942","            <grossCommission>5199.97000000</grossCommission>"
+"943","          </broker>"
+"944","          <broker>"
+"945","            <brokerName>UBS Securities LLC</brokerName>"
+"946","            <brokerFileNo>8-22651</brokerFileNo>"
+"947","            <brokerCrdNo>000007654</brokerCrdNo>"
+"948","            <brokerLei>T6FIZBDPKLYJKFCRVK44</brokerLei>"
+"949","            <brokerStateCountry brokerState=US-DE brokerCountry=US/>"
+"950","            <grossCommission>14142.68000000</grossCommission>"
+"951","          </broker>"
+"952","          <broker>"
+"953","            <brokerName>Credit Suisse Securities (USA) LLC</brokerName>"
+"954","            <brokerFileNo>8-422</brokerFileNo>"
+"955","            <brokerCrdNo>000000816</brokerCrdNo>"
+"956","            <brokerLei>1V8Y6QCX6YMJ2OELII46</brokerLei>"
+"957","            <brokerStateCountry brokerState=US-DE brokerCountry=US/>"
+"958","            <grossCommission>8208.41000000</grossCommission>"
+"959","          </broker>"
+"960","          <broker>"
+"961","            <brokerName>Morgan Stanley &amp; Co. LLC</brokerName>"
+"962","            <brokerFileNo>8-15869</brokerFileNo>"
+"963","            <brokerCrdNo>000008209</brokerCrdNo>"
+"964","            <brokerLei>9R7GPTSO7KV3UQJZQ078</brokerLei>"
+"965","            <brokerStateCountry brokerState=US-DE brokerCountry=US/>"
+"966","            <grossCommission>22277.85000000</grossCommission>"
+"967","          </broker>"
+"968","        </brokers>"
+"969","        <aggregateCommission>174812.86000000</aggregateCommission>"
+"970","        <principalTransactions>"
+"971","          <principalTransaction>"
+"972","            <principalName>Brown Brothers Harriman &amp; Co.</principalName>"
+"973","            <principalFileNo>8-69731</principalFileNo>"
+"974","            <principalCrdNo>000282732</principalCrdNo>"
+"975","            <principalLei>5493006KMX1VFTPYPW14</principalLei>"
+"976","            <principalStateCountry principalState=US-NY principalCountry=US/>"
+"977","            <principalTotalPurchaseSale>167600938.82000000</principalTotalPurchaseSale>"
+"978","          </principalTransaction>"
+"979","        </principalTransactions>"
+"980","        <principalAggregatePurchase>167600938.82000000</principalAggregatePurchase>"
+"981","        <isBrokerageResearchPayment>Y</isBrokerageResearchPayment>"
+"982","        <mnthlyAvgNetAssets>307521136.00000000</mnthlyAvgNetAssets>"
+"983","        <isSwingPricing>N</isSwingPricing>"
+"984","      </managementInvestmentQuestion>"
+"985","    </managementInvestmentQuestionSeriesInfo>"
+"986","    <attachmentsTab>"
+"987","      <isIPAReportInternalControl>true</isIPAReportInternalControl>"
+"988","    </attachmentsTab>"
+"989","    <signature registrantSignedName=AB SUSTAINABLE INTERNATIONAL THEMATIC FUND INC signedDate=2018-09-13 signature=Joseph Mantineo title=Treasurer &amp; Chief Financial Officer/>"
+"990","  </formData>"
+"991","</edgarSubmission>"
+"992","</XML>"
+"993","</TEXT>"
+"994","</DOCUMENT>"
+"995","<DOCUMENT>"
+"996","<TYPE>INTERNAL CONTROL RPT"
+"997","<SEQUENCE>2"
+"998","<FILENAME>NCEN_1904693864641902.pdf"
+"999","<TEXT>"
+"1000","<PDF>"
+"1001","begin 644 NCEN_1904693864641902.pdf"
+"1002","M)5!$1BTQ+C0*)<?LCZ(*-2 P(&]B:@H\/],96YG=&@@-B P(%(O1FEL=&5R
+M(]&;&%T941E8V]D93X^G-T<F5A;0IXG+U=RY8<N7$]WO(K>N<J'W4ZD>^T
+M5C.RI&,='6DTHE8:+YK](&>&K^%TDQY]ANT/%I) * &XFLZB;)!8M5>40"
+"1003","M$8BX\<B?+NK*-!>U^TL?KM\\^_=OQXN7/S];OK[X]O?^PX>7SWYZ-E6M^[-\"
+"1004","MP3]?O[GX^KGM.%\84]7=Q?.[9W4USU,]C<OOYF(T]O]S?S%V?35,%\_?/#O\"
+"1005","MR_'Y#[:/,1=S[#D'7I3M8-K__?#?QTOFZKOFK8_O#U>]E4]=>/A+G[Y+GSY
+MX7AIAQOG9CR\.7;5V)JA.UR%G^]CG^^/4]7T;3.PWG'PB]CP-\>Z&NJ^-N;P
+MVOUNZGZV0]K>8]<-AY^/EV,U=%/3VX]]-9IZ-G9P:GB'9KR.??C:3%U-9IA8
+M;[2T_X@C7H0N?PP_QUG>'^G:FB&T; O_0[48W.X#7UNT'-_M6QE/S9]9Q=,"
+"1006","M3\:6?JON03VWDQWJOY__81=IM+,C0DX9[87[@CK,*2G54S5[TOC6G4YC9N/6"
+"1007","MTU:F'Z?Y\'YYGM',G=O!Y2GJ9K+$00WNCXTEKJEKW /753=.33V)MG?+(_5N"
+"1008","MGW@32XFF&KN!'&9XR9^A&N(7Y8ZL=_7)<YU:^>?W8G-K7_8=N3/^G)=]- 9
+M=_;N]-J^78[$+S0.%#M9-AFJ:3 -'\FOJ#4C/?+<M>;PC9U^ZNV6/*R_NRUY
+M$3^^7N<<^HFF=Q^OPZA\J*_6PVIK1U%A!;&M/0#CV+<?^&3KI@Q3,_IG&<54
+M;V-+OA<K^35C7UFRM^3S_,92R^_H65A_MA=OCJ:R&VVZ0+RF]Y1X22-=FK;J
+M!S><;62IU?[72K4_/GO^;W\_/'?SFV'L^T$0D]T#,UI.K3O/?VT_CX=7K,4M
+MWR]J^]=(#;SM%3O&_&A?L3UXQSZ_CK1QP[Z^!8,1[;0C7\T5I]+0_T9L>6C\
+MM1,#[=A,8@UHY<H O-L=8P7?H#_\9Z0E<9B>0.)S73.N#^WX\*$/>NX^6<DB
+M%4S;\K4RLEZ?>Y@;/L)?(X4^>*H<G+@DJN2\&E88]TK2.MC,%_DQN\:2IB:[
+MEJ:U JQI+(T/1HQUCWJ%?7D;V?(J,LL]9'R^6WBU;(5L#SWK#%:Q$0<EV.O"
+"1009","ML[;JK!1<AAIJV] OH3.!!MS'Z_ [.X/?66U@[AS;/:RC3]/0T@J7SS?L\Z^8"
+"1010","MT+HX-GWM3NV2CNURY?F;13,Q=I.F<0B;-#2,XBI_=73M[._MA?/YC;)*&OO/"
+"1011","MORXB! YHV[>UZSNX:R4( F+IJ<^9<VG /W\?IV<CO[0L1Z:4<RA<CI10;Z>
+M3):LMZ?5F2+SYCSGO@W'RBXO/BU<(1_JP:^K:]FH\&D>%+G%R/<^;BD-,4P;
+M(H!:,&; U&O;=K:M7<\=OL, IS^NV;28)$@W51-8T\21.,N6EY!PD#V#P=S"
+"1012","M\F!]8FC[]\SJ]Q:!7.NVGF<6A*;M1A!B,VP$U]6XGU1,O#O#!G:2Y7:2A
+M%1E5@8I4A)4[Q1)%/N]CHV9&/)GS\005SRP6N%/LVGG_-R=3&#B0>AN<^WX"
+"1013","MN//RT^HB@HLT3>!70L!=&GMX@QW/;^C4B(Y87+*YOSL$OKZ/0N)5I(G;>NQ
+M;O\7QCUM\?\?1_ONZ V%05E/8&:FN@9: !P4?G,G:Y]D[.;#+T=C1=QDXC/;
+M1?RH+)3-\RFJ';P%&R2>],^KU!C&JFY):+&<:LTIC2U;3INL\3*1V'S4IY("
+"1014","M&/$1^H-=@^5/\:B_CYOQ@9U)Z,\V2Y'5;+57IQY.B%E(7UK740LS*B$7J
+M#_(\EK99-+/=+93)O&]>O9,:;'=_Z-M#NL^F,/H_$CND>2%C&W<JGM'AN%
+M>$2+SOY*Z0(L GPC7+#&9H9I?R$UA&ZPQ^<4*G&8;44(<6(Y5*_EC6H=8%%"
+"1015","MS1NEN?&?)WM$DQS&/D(W3T,8I>VT.XFUB!NFV<6YM7(#M7(L6&]7]N^GJC:<"
+"1016","M_VG^3]8TAF%^JEJ#Y?'U+AP<VOB^ I(%/Z[86:BXE)QDOE=:<D8]M^(]20"
+"1017","MT%;1(S0,A$;[C=4NJF:J!WG]AZOB/=0#[-XT#@L;C6<X*UJX;/ 'RX3#5Q$7"
+"1018","MNV;$E5#4PM</BL6 M0/-> #\\_+Q$W?C(>/F1RH*'GRG\<E1_-O9?Z7<\G"
+"1019","M^WK=33,%DZ!W:,D>G,&/P.[RO\65<UID2V/:AY!0SY:Q^VX\KI?Y8[[X>\2
+M2[7)54+C?XKW-+#SC2(\W@J^6:&(INHZ$@F,>C60*&CRJHRF)>X2#M1X\\KE
+M,F%N;>O_Y9-OP?8H2HMXARE-$*O]K-W5UXEVG\J3ZR_$Y:C$<I_+B\Q4?V
+MF1L:S)2*P,1RB(S]XW4O63<P-U8>N)D9NF6;X2$,N^:A-61UN[D$^HU4U@](
+MD2\:_LGE3//*?KFES!!/8/DO@F(/YD#3E3F*/=.'%/6@0X<V\S)%(Z'&3>$Y
+M3KQ;'L>U1UGU-; ^0>BNSZ:G'(1)5RN7'@5:OP5;Y=?E&>,Q$6RT_D T!$
+ML'6 1&4B(&G^*] 4FD:LSPNN4N7=OR\<WQTR/-!8=DJ)EJ$PT1W++N:%T)B"
+"1020","M( +_.C;.B6II0#C*Q)<5<86%%*%P74$;F$P,:&JZ&QIY/5%E@PEFYRDH+T"
+"1021","MB8QI,BT6W3@/2+R@7;63]G;2L9V+H1;'U,\7C')D>-%Z[/P98&!$[D(E%AY
+M/7K,4 ?3?(.XG/^)V_$>D2':&4CBDL/%#1]6M5H5QAJF,XD0R-CX2=Z71<L.
+M9 /S6Z$V&/VK^02&\>#],I4\J$WY13X#-]EVG*1\Y^=MG$X8%QS3YVS/
+M/%[II0<W/=;39U(#6QD,@$Q\&N:8P*4T'6^A3M&*R()Y8IH?Y*W'4U):!"
+"1022","M%/'WGQ1>_AY=\K?<A[P\IQ&LIF@).7>\3J02!'-Y*(]1QT9E/XG;RU8^_Z2
+MVGE+M+5*U6_=.-[Y]J?5JKG[&;U!/%V9A[0=PT\UM%X-U[0'*J1H%(4+_B
+M78H]+SF Q)INB^=QVI3.F2XC?1T(;:?OZQPIED%DP>^3?TS^UPT$%1+7:X
+M+3A6N1XK$PI<%'=P!D_5B=SUL.NT C?-GX9+9T[8(=DSO_$X/@(9<-;1$CH"
+"1023","M1-B*]( %^7AN!U6)1&UW.RPF4QMO#4M )0SV.:UA/\$NRX@P>XC.O_::1%^9"
+"1024","M9F32@&;0#:-LX:S725<XT#=WW.$T%>!@39B$IFQ3BH95E:! ?EH14 51/J$:"
+"1025","M6W[JQ34OF=T+B6A%,) BPHXI(.67D@)2/@ CZ@GKV3*1D(M%:P-PW0 !PH7
+M!GR RQ:^Z[Q-[/D S_V5TJ^@NZ8H OM:XXO$X<E1#O:]! INWJ9PQ5Z?24,"
+"1026","MQ+ !(K938P#<$[))=4GH&^S1S4Q35V,][<<% _KH)X&QD.SW;5M18UX)H(*+"
+"1027","M>5<LEEO7%9Q?+ML?5VMV HOO%+55VT7QAV3L3%O\I)=A/@\:O:%PZXMI6A"
+"1028","M6UMQ&EI,!PE*Q38L+9:K\%ZOI,RN^]QJ"";1D*R+8LR6Z=1=<1,9(!;%'P"
+"1029","MEN(^_+D632W%B1/%*6\L,5VK^%?3+(?;NG ]9U.WR.Z*3-QYY;IN.>R\BAF:"
+"1030","M*[/:9OMI^](]%7@F\>Q%<F-UY]E,>1@+F<QN:8RO'[ L0&K):_AQ#X6O<V(K"
+"1031","MB&+%6BM*^R3:M%OC.M;NFP;(D\A_*P2\4F_^78S)53;!-58UTK6B)F5R!V"
+"1032","MFZW,,DNZ;8V_2$.J0481HU*7J@9!*,!-^M,+X*D@$Y@?\Q,/)QQ_0L,A/7?
+MHP!0> <,_P#A& V\A,\%7KA?!P2S)%H87Y2+HNJ9S+1KIBVZ,])#..&B!0
+MB%[?#H^QX[](Q^*4YK]=505CSS=@MT@R:7&>>>C*!J=08R!GF#0HL*DR)K8^
+MA6P@P:*%BB3JJHP5V>WW$_D'(/5;F%BT=%LS*)CWZ97BA:\O@0D><X/6Y4
+M(M839U)\=8PS2&]]9T.@9W)4INPCU&-S?A(URG?0S(U_,![<0$R0'RWG6J*"
+"1033","M4RC.5E-H+B3B]D #6 <@82&5W&4J1;UGOPN?)WV9XY N@%$ZX%8MHJOZ:%64"
+"1034","M<3$__@Y?)RTZ/A0$X%+;PD^@9/5L/F+H)QTBB$P;& @SM!E4HYIW64U\E-,
+M@D@S1,.[!(*M@ST^UR&L) :8<(5B/7$F*C@B S2'-.[*-52\Q7D8F6'Q36F@
+MMW(,OBUB,<:,D%F!;NH:X&YN,8WS' ]1-\VAWT7SD('7^!G-8N2T*0R$IG%"
+"1035","MJ:O21K&I_4Q\T11*,G9!F? 'W[J@Q3U18=G!=B4?R7NX@Z'AN:'F>3Q6IAO0"
+"1036","M[PKG >1G \P^YE.]1([E_9QD;V<.^P3)&1(^[D2^#N4Z@47>T6*G#B\T,M"
+"1037","MH 5(4RB\ZEKTM?,&BK#M^D(1BX7<!JB426$F_L$\Q4'57M#;U^UO4+;GV
+MR4)54S?#\IP#A(;A%9W>.E!L]R-7[P!XMR1$W?Y^#D+>XNEP!Z[87LI*AJ
+MR/,.+0V<PXC%FB)YH;#@ T!U034S: G2S* M.=_,#&XT<Y8#_:+V!F-G<L,"
+"1038","M6L;$J78&BS.G@9&R.(U33OD^T87Z[;CXYD;>P!1/QE$178#HINWOX2]W'RC
+MBK]G ;A;R)@DV4!%BVAHIZKN VRIB+>29&?KU;:BE+U1B#]-0RZ*J%83O3."
+"1039","M,OU,7QD%3*VE.)'_HYE4V$>@1[+I\D8<<WK-=W1Q&)F#Q7XB1)E4VG=42C"
+"1040","M!/JA\W6K06B>5)BPV15,XE*UQA;#I*=(JSVJ/+BYV!)4G^DF<VL98D$4<4Q4"
+"1041","MZCA^7L7,RE.$VR%+ZO5#;*A)O@6RSW;8R;D6O<M,]OEW6,HP,/ JP!K#,8)
+M,([0V 1IR(.?8EN#R.*2-9-$&JT-2 HF-MCG<_6KNT.Z&J5(I0R-BMQ/Q N"
+"1042","M=ZQO? Q EU*>T-)VV8!YVV0;TZA7=H-$R1*+@9R6@\^Y): ACE!.3<!U>M#<"
+"1043","M:C!(YF7C@2O+9Y@CAYV89>=<7(\J</SO>_ 7WS1CY5XL^Q;)DL^Z)![ZM2=J"
+"1044","MY->2&F(>.GQ+.8F,>:O@>L[H/C.U.UM2'Q\I%A(GN 1IK@/*#Q/ %*<VZ["
+"1045","MQ:3VL4B:UC0GWGXTU8EJ>@&)SF@*L =#Z%9);)14=#*FNY*! JJH9FH3#
+MA>H#36[FDMQI7&G 9[B<J/4[D 2ER 0X-LXO\C-OC26ESIJ^3N6F=B>30<
+M%V$MM%)) E0I2#I@$8CP8Q5#3D$-^;)V.&ZB#0@6&K*:XN[H/6K :KDI#4Q"
+"1046","MP4:U$Z-B@Z%$FO8+%@.B*3$\PAJ<60 !:]W(@.(XVCII#ZH>.+[/X[1#>(\G"
+"1047","MKVT<S=5/K*+^(EVO1J;*H*+MXBY(^]##0HCHW,HB$-_#%@6I]FNW-B#P;!"
+"1048","M%3HV%4ZC$WK+),$I@5E\YAQ-V\!;'@NG%2V!#<4\=#SMNJ,0+CL]B8 (%Z ["
+"1049","MX[;TC!JWA@7N*0 7&A>S6[#(V[ EF)&L 14__#<C2736GWA6(2&N_5(TE$"
+"1050","M(+0]8$XP0N(EA3B\F70ER.,4M 75P[$DU)VNQ8_B2+Z*=;_U0AZ&31ONDD"
+"1051","M*<GV95VU 3Z21%U(?3T/+A:H-(/YM\Q8OY'5A)I/K5N9K%. *=Q2FX'@8](
+MK>BJ/H:%GA_^[]6+/+-^0Q:NV]UK4@ J;5HAU\STDG5<2YM&O^](),P2_?=(
+MA5\?>:4/49Z@E()+6QI-T98UD/AKU#+68V42 >?4@!#O%)U0I48W&9?K@^-!
+MGBP$1FH>;%K--)45P1*_:]G7RF>:3=49)=+T)3L$$'>@5\R T5OK0RE12G%1
+M'SE-IDZC!5 XV5*AF3U4,355$V-!1>Z^;U@(LQ9 9A;,S<:!E=Z@W2%X'F3+
+M[7HZS/?TN\;#$63DWE#%.MBZ5S;?[!(*V)\R>R!?_TQ0)PQ;L=/C#4?,/?F"
+"1052","MR*%:I0/<_LL>)) _.2/XEFTYW1+&ERDCO@'@%@D0EN,X<N-M)SJK!,Z8*[0
+MT\66P&,N[CTU,!> ^]MAZ(KVOKI,K>P?)NPRS=% >7_3.LHQ$,Q&4GR;V*S!
+M$;IP]B7;XY+R7W3F!)(@50P#0S)<_.#;+B3&ONF1X,66:(PW?<J\LBH;1I7"
+"1053","MEF:4H=S^B&>R3DI*F?>:KM3)$T&#<GZ7]#YN94DDKI,L[@4E.'JZ\X.,@T"
+"1054","MJ!=<[BEBB(P04A,)=2/NIM^QC9!7CJK5FF'8ED2N3SV!AJ9@02CL+ OX)_39"
+"1055","MGN0=2J0]:9^?K7X 37!BA@7PJ[QC:A>X[0* M3K2H(E%!9FNKSQ^TZ_#2
+M6*Z:1!E?UOMG+]@]_&XC]1^6R00SIY5(E+SH]L*/\V\*MAR@?(K+Q$RBT1R"
+"1056","M)M^@<I7+3(T9S\FKSR5F4E/]JPATO,ZZ]4D5!*4N.X90><<?T%-L%5?9C6GX"
+"1057","MU&DUTAIDFQ,C*+-,KT_)BJ/OP770B--99H&E2Q[3-#XKB=YC,*1IZ)O *R:
+MYXZ52UU7M)% DQ0J4,H]%8#:.% A-$QQOG([9'.7M^K/W2H[G!5X@7[_,,I"
+"1058","M$H.L O8M-ZQ BZU0ACSRYI'/\HC*\P Y1+KMGD5IVZ:8J9>;N<,O;A^B-IA
+MM)-,8BU QTBLJ&*U_<-GNLG]+*5HKB 2\A2<HMZ[5+IN!#3J@D;,F]P41LH"
+"1059","M31$ +.5%83>+-N1I[I]<Z&Z$8J25 N3V2%@FM\E2-=*%*&1;+R 94^X:;AY
+MI7(\N@@K(K'4G&+T*+ +\#YF1@.)_E?W+3#//4G.V#>O?(1NC\Y8?]^)AN
+MZ%#D-!0:%--+A:=]%2A#U?9)HEP&LY2NL,B@I]:+D?>$58@@R5F-EXDAI"
+"1060","M!HIEO8! K/L0^.BPO%'180#L]047L?(EUNIAK7-8R1P&65PKFT:3ZA[.0@NH"
+"1061","M^<<[<]-]M<RU2M>G\;EHS]1 CTM_32S^*G>8%9$Y_Q$'X!B_-YS4%/548/G
+M]O^YYO%6)6686:^%4?B!6'01EF.(FO;%1ONFYZ;6@UDU(8>K-J/$/QY_>494
+M93;7\BU7:6+Q8A17N9+#YRR-1=G>7 B]*YP ZU8 4Y((1B@0V$<^ KMIV0BL
+M#K$6!7!FZ3\.U5!@?ZS3F:%4[&<PNA)[]>ZXOOF<P[$9'$SSMQ5ZE*JRBJ]"
+"1062","M'GB.%4=5WA-9N'Y@[4#S0LRE@,RRQX7=MHI!@JEWH$CV.;>?:^S4YP2XNT#
+M-)_4L+VK @8ZH3<2^..!OM-LF.8Z,VS7E>#9?V.091E]#<PJ6*PB?#['3'
+MW^,Q6 L,T]T&W:,4EA0^.J/EIJH.92Y=J>YB@CZ9T2D;P]3PE-3BNNMT&Y
+M%M;ZGC!E6MP&N=*YQ/3T9>/C8N@<<YY_TBB7M-0,L$[V_TG]*32V$S?60=R"
+"1063","MH1-1'?@Q<#^7&5$2*&6$:'0F*&!9J]PD%R=%X7WG6A#TC@+LX80FA/+6HDRR"
+"1064","M>E[+ Q90[!@PRO%;#AL=ZYW\(+$<VAAF1S$S'!K04B_H(A7HS85NY_]NY%"
+"1065","MBK/;OOZ[ONKK&21_/JVCDQ;SI*7D+M3W1FU<\$_KVRR)!EI?,0=GJPA:8D@
+M>&CE%5X*E8L>A45$EG*QI%$&=N#81'@/E<A093YQ?I#M)_]'B.*V9=GIEJ#"
+"1066","M0U?C,;DNC#03'*,%TUCW%.$:JVYJ1_$>)G1UGIAN'F=EVY)EO.V1ET-E6D-
+M>(=BZ<I\.F7H-,<R7T:C.Q$*>YM3;;\_82)_C6-VY6,!Q#]C3PS>:\T5 !0,
+M)21AVV/)7KL3RU*LA/&%W\L(WG/P>2,3^)P8]L<@QL4Q)*AQ545'1\(LV)FF
+M.0:04,R4;9X93/]C9P$/C@P'O)@F(.3D(X3=< :*+($:KT90YD./%OSW/"
+"1067","MDD&NAO-MF:F>)N8B6+<!^ C^''T$W'T?KU5'7[X8QD-A""XA9&204GJ]6T"
+"1068","M-%6MQJ4PI7(WRZJ9N]X;M(PP-NIK@^1+=!6OQB.TX9->&X2T8=H7E1*L-4"
+"1069","M9&X<I[QTK< HMTLZ8K7X+.=&K-3Y*TX]VK@TL#YZZ*5B@HZN,R9&O@/N5*"
+"1070","M 7@MAF_+8H\WXEF3Y.MBHH0_5271B1C !=Y'D5NLB)155_$&<,&L=,UD@V*
+MHJM>)C391D$EWT)UD0N<>JO8=<P@ADHZ[Y59'65@# OA3DX/!I5[QSY"
+"1071","M0L@,<&)85>BPAH$.%?#/""<4 ]VI;EQH-U993-R<:/=K:BD-KQ'K]$UO:-2
+M7EXH'+^71%D+QGRHTW4 !0D(:K4X8)C*@*!MAEA%R,_EM/^\O4O=>TCL>Z
+M[0O5L;7H/NJ&,@CB=<%?;XS[JVIW-D'!RC@%7XY76((O2VSC1V6'V&PF*I("
+"1072","M/O3C@*+^-.&TK5D4['EMT$*&*;S$T4/#29F6?LI[PO0[S^ C2LJIDOEP1%[
+M47GX)I95X3 >+YR ]8OK/%#@M\^?_<7^_2?@9$&(96YD<W1R96%MF5N9&]B"
+"1073","M:@HV(# @;V)JC8S,#<*96YD;V)JC$Y(# @;V)JCP\+TQE;F=T: R, P
+M(%(O1FEL=&5R(]&;&%T941E8V]D93X^G-T<F5A;0IXG-5:27==-0P^;-^O
+M>NXE\-S/0_LTE)*>WH*E,>BIV619NR0@;1)X&\ /QC9UX-\KYV!'<G&L65)"
+"1074","MEJ5/LFY^7U/^)KZWS38.UD]>&G61Y]687K]\DD<7!RM?E]9(OQ/F,#CO9/U
+MPRUL=&O&)7K[>&*$N<LM2:LL[5A\+=3:R,5T7:]/5D-7XS;]['L;4K&_1\
+M@V)$:$__>G@Z;CA1D@LUG(X;1:B59C@LDV=Y\F+< #OCN!E.1DF,8%H.NWGY
+M<]GS;K2$*\$UVEV8KPOAHY$2315E;/CHUQE5#EC;B.E'CZ-&T.TM%S!4!'#"
+"1075","MJ&/ /!$>MB3NE3U8-T:)9=JBW2W5OBT<UWG+\[Q<I)R,&TLTUX:AR6@!:OAP"
+"1076","MD/?LM\Z]$TRI#%<2%$XG0ZH?=&U G;# ZK?MLSNYAG#>;%GJ+6?2!O<W)6H
+M(WSRC$?C1A)N.:A^%O6EW/JCR(=%VXX1].[HR!,&>N\.9EW%,V'/T?FX/,
+M^\,S08D!Y]GQE\ZY@B&<6!.K&1QN+^^/PK1D9KA$XU,TGDPME-#^1M,04QR-
+M(%ES,XF6(!J,^>.X<40XK=EP-=$JYB18.\F^&#E$AJ/VYWY/0H+*$R/V\H@"
+"1077","M60_];0D#IHD'LE8+[Y/IQ),L8[V+9%[93G9X,R27X/%8%Y61XR*:663GY8"
+"1078","M#C/G&Q0SPR_!(XUWT[A-,HGNK\FKF./-F-0BP0O!38G3KQHNP]>@P[P0U$;
+MW^EUF2[\KQ#!0<-&W_AU:9P4#(MH\D+KV%QGT2^5OM%<3G!Y XO63>U7RB=^
+MATEW=$_!RS45(DUZTQ_DR10ZMQ*6ZT!J(,I3Y'+KD2OJ;VJ3K@IV$#M=5_)=
+M9Y)+AVBNC6D <'WP/J.VF82V$92$_1.!GP@G^L>WDL^4C<PZ88MBJ165
+MF+1X[,<Z *.$-J)TA!41F+C-&%-<-:^^<$/;#O-DYZ(J,U<RS&0'RW.[B>S"
+"1079","M+!0W1:?SCA]G4K & U9*5<AR.@6YHD0PFX*\!M<HLZW^'(0B<1N[HJ=(JC M"
+"1080","MUO;\!GL;VT8Q)*OG7-X66IYFH^\U[+]9>?(%8=>=HK2;G38X$(K_.1<7;Y"
+"1081","M6-8;0:<JVBLT+L!R$<H-Q42%&_'V$6X4]KLSP/,1CQ \GA0J/ P:BS3H=^TC"
+"1082","M@G<%EVJ[5=YD ?T%PW!XT*HH+A?NCJ+0!W>[G&AEORQ4Y7B1JJH&%BX8T2/I"
+"1083","M>EW*'Z0L(K@=MQ:UB7>O=A*J[G,2P14.CK.&18'B;3L?(XK=:M91+\6DZM#
+MV80;@G H4&F5;>J\>]'(DSU\2\*OIT+.6($8E4T?.H9KW:@?P5 K79^N?_>P
+MO%]J9SPLZV7#^3O]\V>Q'[M@/7G4)IP4-)V3D:!H%<HR_?E9V72+2TR9>"
+"1084","M3^13;IGA! 13-%=4&$6LMID!K&$AX3?$D?Q@R-+>)#*CY>BTGV\Q7\^=5J"
+"1085","M^_7K8>M)F#8*CG+<!I<:)L&+/1!=(;I<^P'S^'I[,G@&1%\*3IJS[U$&]
+MO-HO^:.0*%EQVRMO#G# )5A+SS>'>1TV*Z6ZXHFD*-R/F^IF6M%+E(>S-%>7
+M+>^^6*<?9?,C_@!XNNPY4+5SJ;N5,E%SG%UP(FH<\JQU,K2.T+.EP.XB
+MK9HJU^;M;9?Y7)>*4>:]SGKW&Y7Q 6S5[/U;*HWZ^1O?*G-;19AJ5B73G2',
+M^6YZ#CJF<(RWPGEOD:6=:<3UXODD$X8=_@Q>8A=/ZWOE$Y#:02@]?@(]]V'"
+"1086","MMO\@ @WU &+=M9H1K=708$*T@Y/1XAS82WO \_R'=X6>[]BNY?<DVTB;&L!
+MUUU[V=+3;]-A#YU\ZE9HPFU^R$Q/6G_+O4X3#H39*V$RI$N&U*7UI3023&:[
+M_F%[^YDG[XSR#6*I@37\&JKX#HIURN%.AV9NG&0EU1FTL*A9;_SLL[I2Y[
+M.+4/J995!V(R/XK9:#V373J$'XK*A1OZZ\*TRXK;&1S_.*SOTD QQ)(X\.3"
+"1087","M$L/M]@ JY5'8'-?0F<KZJGN2O.04=2$3#C+*AG^R:K'=9F6E6A>T$V-$VU&M"
+"1088","MPH1 *R3N#;:P$FG>JMK;(=AY1B61**GU$]4H\%W:,[1CQ%*_-&*N_:CK/>:
+M;)HCML %K4,SHT\>H./6+XO%,^TL)^ZDB5VV-XMM[I;$W%3![3>BW[45%AR"
+"1089","MF_>H$''5MLP$.)L7BN29MLK?TWVVNY$X:-,SP9?Z;]%\=6>98F$TW)I<\NF
+M.N[8!V<&!!2S6\@,;S%SQ)CY>98^FD:]8'B-_3Y,>L4%74E#Q3.SH_#I0
+M3X@2%V#M1^P:>6WCJ,LJ<5E/8!:=;<LO2TK/]@5XD(;(\.DTN%(;ZCKU>695
+MUMN-QF8SMM7HO_%V@JCS<IC=95J_.Y22P$?EEW@T0XXJ6-B^G][$T]>_6[X8
+M*F4)E],G0)_B'7!G4S%@G2/3QQ$\>P^X)K*\O_1V <+8WQX$#X<*TI]$!IB"
+"1090","MA7\@HTF\Z_'HRR+C?):$!*(I#P6[(T[XCTN??-:@2KI0Y;<8?.F_K]NIYXG
+M7\'E<R%HCDSC/\!?HG$1<91'F,/SK%<9_13<1]#21>%$YR[*K=^+E> %N$#"
+"1091","M<_SU(/Q[9<7Y356'/>Z3&*L>E6FVZ^P#VAVUD)*>/8=U9K>6%R*2],G\V+"
+"1092","M&E_F?4@?L:-5_'EVBHZXE]WN<]?<JYH,.]WF64I4/7'_)@C'*%HS-#8SK2^
+MRW\(2#<1I'\1>+Q=_0R__P+8H2B 96YD<W1R96%MF5N9&]B:@HR, P(&]B
+M:@HR,#4YF5N9&]B:@HT(# @;V)JCP\+U1Y<&4O4&%G92]-961I84)O>!;"
+"1093","M, P(#8Q,B W.3)=B]2;W1A=&4@,]087)E;G0@,R P(%(*+U)E<V]U<F-E
+M<SP\+U!R;V-3971;+U!$1B O5&5X=%T*+T5X=$=3=&%T92 Q-B P(%(*+T9O
+M;G0@,3<@,!2CX^B]#;VYT96YT<R U(# @4@H^/@IE;F1O8FH*,3@@,!O
+M8FH*/#PO5'EP92]086=E+TUE9&EA0F]X(%LP(# @-C$R(#<Y,ET*+U)O=&%T
+M92 P+U!A<F5N= S(# @4@HO4F5S;W5R8V5S/#PO4')O8U-E=%LO4$1&(]4
+M97AT70HO17AT1U-T871E(#(Q(# @4@HO1F]N= R,B P(%(*/CX*+T-O;G1E"
+"1094","M;G1S(#$Y(# @4@H^/@IE;F1O8FH*,R P(&]B:@H\/ O5'EP92 O4&%G97,@
+M+TMI9',@6PHT(# @4@HQ. P(%(*72 O0V]U;G0@,@HO4F]T871E(# ^/@IE"
+"1095","M;F1O8FH*,2 P(&]B:@H\/]4>7!E(]#871A;&]G(]086=E<R S(# @4@H^
+M/@IE;F1O8FH*-R P(&]B:@H\/]4>7!E+T5X=$=3=&%T90HO3U!-(#$^/F5N"
+"1096","M9&]B:@HQ-B P(&]B:@H\/]2-PHW(# @4CX^F5N9&]B:@HQ-R P(&]B:@H\"
+"1097","M/]2,3,*,3,@,!2+U(Q-0HQ-2 P(%(O4CD*.2 P(%(O4C$QC$Q(# @4CX^
+MF5N9&]B:@HR,2 P(&]B:@H\/]2-PHW(# @4CX^F5N9&]B:@HR,B P(&]B"
+"1098","M:@H\/]2,34*,34@,!2+U(YCD@,!2+U(Q,0HQ,2 P(%(^/@IE;F1O8FH*"
+"1099","M,C,@,!O8FH*/#PO4W5B='EP92]4>7!E,4,O1FEL=&5R+T9L871E1&5C;V1E
+M+TQE;F=T: R- P(%(^/G-T<F5A;0IXG&56:U!39QH^$<CY1BEK.7.*%$RB
+MK4I7:[76[546^^B)1*6XV0D 2@<2$B]QRXVH_N<HU7 ))@!H#C6)!:2EX"
+"1100","M[6*MZ^KJ.JWM3NVVVNIL+W;Z'N;P8[^CX^S.[)_,2<Y[WN\\S_L\[Q,1%3B#"
+"1101","M$HE$LY*T66K3BV_J=2KAZQ(N0L1%SN#F!F!>.75V:DO07JN,^@I'!R @P-=
+MD3,7A,)G3X/C3V?306(1 ?KW1OTA@*C-CTC1Q;U=F+RXL7+_GO+\NCHZ-E
+MRH(G=V0;U29M>K9L(;G(4^OTABQU=LY:V092K=-ITV3IN@)#ADFF4*G4*N&Q
+MW0J=>K]LLU:G-1CT>;*H#2_(7EZV;/F+Y./E>&V6,M<D2]1G*;)E\?IH69QL
+MAUJES<WZ_QL413WS1G::7F50:Q*,Z9M-B3G:W&VZ+*6,HN93.ZF-5 *UB=I%
+M;::V4,NIMZBMU(JB5I!O4UMIW93?Z9V4/'4!DI$A1'&J$JA'H@BA&5B?Z8
+MD3/C1L#:@-% -O!ZT/J@+\0IX@[Q7?I-NH3VHSUH#$U 3<B4!GN,_1!S@MOL
+M#&7\4YL\;*58A8NZWX69O(ESS=&+>>/T*?522_$>>SAC,$(*S?@]=$)M3C/N
+MQ:U'/-UG'?F0*YX(*8E'><BQH#SS+:,0XCQ5V#S^R7DPF DC\ M\7056-D?"
+"1102","MH?(7OC(HA)O ;FZE4W0#I !:0!D< J6?\LD'BEKM&$%XD=IKBU[[,C$Y2["
+"1103","M:4V=Q8'])PTKFUH:FKL<;E;7!@-=AC>DO(5--:8B[25I-3BIE4UMA;\$8):
+M^MO=9Z-WRO4)&DD(E\#%'Q5Y8!Z$PNP ;AF(6(WB0(D2HU>2[D#D;\<NC;<[
+M2JWUTCH[QEAQ^+W.'#]&'_6Z3TQN_7@%'[EH'O\\+_D^F;?.N>]<4$:PE65"
+"1104","M>+D8+VFY);#H@HY;)8GHF:ST?RS_WT/(0!>_\AP29;_)!GI8=U[(6N)'X-"
+"1105","MOS0_>5=_J>P$#9VCD^2-A,EY[A9YV+FW2*@M4$W?-[.E63]UDP^21.2Y:
+M7F-N)7XZ_Q^$WVEHK$,RQ$?2Z>>SFJ78\3/B);Q_C(?T3]/N%K'QN55GW&
+MXG);H<6<GY-GS<5HM_$S8(#MNWC!YS6IVX03>44WK#O+S3R_WQEZD[SB*H@*
+M8V[_SP:A %,'Z*QLM2^IY2PVMM-Q]<4.O$5!//HC_?VFD<P@LO'D*4E'D
+MTO4_\0$)Z3F[=))J.8L;&MM;6IT]KI8>C,;=._DP?K8^(3$SVW6\F)R>4'(=
+M=OKA%:^(6PA/LVGOZ0I2L0IG=^8-%APK]55>15 G+O]G\>C^XYDGY,XD O'I
+MU5'\0G[AUXMA]NU/CMV[+.4=L(ZM@>#.H4]P/^XJ.J*K.UBMKWX'%=,A\W1"
+"1106","MU=P1V.,570/I>0@)N,:M9/EO:9QJM<@K!BOF]Y4;6G!EQ%<N3/RH309QT]"
+"1107","M@YW-99;*JK)RF\1>7&G%-J3K-0WX/1[_Q823J[<FFU(,DMR,,B5>B1)3Q$<
+M$-M\ 'V#<&[0Z G]F7#X*JP/8P;! >=8B#@\4#/2>=L[\A=\S&K WY@E\K
+M80;YFT;QW\K;BO F-!U/,QJ\PYR_MQPQ@U78=LAZ!GACH=^K<G>B/^.N))"
+"1108","M9I6KH\7WC2^%I^(LZ@,Y$E-^9ME&C B+V WG84&Z._0;D(81=V4+P]ME$@^7"
+"1109","M-YMQVB/W*&W6%&%X76XZOM;2BB<1[*+'^X=]1QK+BIHES%5#E\/>&^'O[3]Q"
+"1110","M2NO;^Z[:L'6OH&M>>0Q(/A.'^@F[-[0_N]>@[DP!R(T7X8QOU)<'C>?G>?"
+"1111","MH9G[5'N*OCXM@I^U>ML2;6NF2R_M,7691_-?,Z2I<3)6=A9\GH.8WZUQ]DRC"
+"1112","M\ME=-[7$>Z]^-_[O6SM.+Y!L%Z_-;^@_VM\S)#WU_BCVU \XPTG[4[VNDQ//"
+"1113","MXB'+47T_>GUZ-TN>/]-;FE/.AU0NX:Z6YH[G=)R=G_XNSL:)=ZZ=*#Z7OW"
+"1114","M%'QX[\<N_ZCTT5S@_  $=L/ 3*8A[ JC'G ?36UAIW^WB^6ME5C)/1]$$:"
+"1115","M)Y=8WR@EA$][Z)=JUKP600E]*^'_)HV'B$/_& 4%_#BC(Q%1.C%-/.[O[7I
+MT[L7S.\DAYCLZ$M#KF),+-W7D^;HTOUQG:]S-([H<Q/K@'7[),)S(I<N+"
+"1116","MRRLLN!S;JHOJ$*-KSLRIS8U8MFW'ZFTGY;^D2O^:U6_$^Y$JZ\^3?)3=_(D
+M>C'CXZ,]='-W?4,CKL-'#C55]EDFK/T8_7!I\OMKJN&HCZ1;/M![\ #R]7N.
+M]_99\WHDW?G-!8X4]&B1P\EC,; !C$19RL([:>2O&P!=A<;VOEY7!\SL4N
+M3VN_YX.^]B%\A'OTE&7^%@)<UM0YHV*MF*\05 F?M-FB[$3=G[PT#%-MF9\"
+"1117","M#<$[?32D\5\$@4(\'<L]8'%]K:.FGO1HJF^O\T3<]:?.CRU6[<^3'BC4EJU["
+"1118","M'Q$G<BM'1->%C7:!J/-%B#&*XU>F[=N>A SC_UZ^W#:U2M#1[\^*3$VYZN+
+M2O)PN-[:,22%,S\2&WMQ-[?&>1->$ET5.J@$?2>1Y61OM&/E8WV7E<JM1-^E
+M;CJCSM*&CZ--W!]L:D:&8I\O<V1DP#<RK!U,%18>M\TMNOPD9^Z;V6&'N_9R
+MPV0#V:XIU<09PPBF>;F)'JMLL>!4Q'](9V;F6?48*8N=GTKA+I]@HD^6'K$+
+ML51'KQA+_F9\L'WL DF5<.R9$GM$$ 2K B#H/HO?+2A97T:(^\U#KZL[V(;'
+M$4?$-M[=?J,&>?C?C/3UBNYB_ X2 +JGD%MT17@G)=$GGV@2#U:U%V -FFX@
+M@5:8KZUZC[S<%$7'B(COD%6VW*WL-<$*(_AI#W9VN7-EB?$6!\;OTP@QBH0"
+"1119","M(\1F?7M7:U-W>T=#!T8G'#D['\6FTFK6*>826DM2=C'I75:4_'H]+C#E/
+MHU*%U:(62NTD8:NM+0)ICQ,V49T3FRS)NI3ACL-Q6&Y0[R0+:H)8P\LM. .Q
+MSE B 1)LB\*83R!= +K;)#XMC#$-33]LH;\\=UKY8=$8#H?P>P_A!9\?I\/"
+"1120","MV*,I5&FDB8$=P\YV'T:3WJU\F)0IYB59VV,5!N_'DA#RWR7?R2F<D.P4^V:
+M;);/%QP,,E?P4Q3U'RV;TH4*96YD<W1R96%MF5N9&]B:@HR- P(&]B:@HR
+M,S<YF5N9&]B:@HR-2 P(&]B:@H\/]3=6)T>7!E+U1Y<&4Q0R]&:6QT97(O
+M1FQA=&5$96-O9&4O3&5N9W1H(#(V(# @4CX^<W1R96%MGB<E7@)5%/7OO>)"
+"1121","M(3FGUJ$E/351FU!K:^N(7JV@K1.B5JDRCR*BA#DDS$G(2!*F#0$2(! @S/,\"
+"1122","MBX S3K5JG;5:ZNUP;>MM2V_OW8=UN.][._J]^[[O>WUK?6^M+!:0O?]G[___"
+"1123","M_QO^AX$YS,$8#,8\WQB1,'F-MU@4GF#_>S6UA$$MG4.]Q72G$V8J9[:SWL(\"
+"1124","MJIGSP3PFF.=0NW3)H.E?!W^VT(X\1K&9##Z/GOB)I;(DF*BHE.<WO?S#OA@
+MU:K5__F?]:ZNKD['9/_QC=-N87),5(+3>^B7-&&\6(2)J1L=7)#J^/C8XX["
+"1125","M1<7+)-')3N$1$<((^S;_\'AAG-.>F/@8B42<YO2^VP=.&YR=UZ]!/S9L=3J8"
+"1126","M*A(FB5<[Q21$QB3$I,B<PA,BG Z)A%'A3J+P*$]P&Y13$J2S&FC<TSOW8?"
+"1127","MC!$=2TUV>G%EIX-B5R</)V]A5&I\>-)__0;#L.T>.V4)QW?)Q1%!!]TDPD.["
+"1128","M$R,]W9.B]B1'[TV)\=F7&NO[25J<W_[T^'IZ-A[IO<_<%J]9NTZY_4;S'\J
+MV>RR92N&K<&68<'8(6PW]@X6@GEB[M@6;!VV'//]F#.V+N8-[876X^]A_E@"
+"1129","M^[ 5F_V?8^YH?MQS9B'V#^V %L$[82\ \L ^Q55@@]BFVPO#F)N&(X1
+MVO87(R!S<<68 NQU[#7,4>,@\5@;V#I&!?C84NPI=@.5&?, 1U@C+&5T36'"
+"1130","M-:=CSL_,+<P1AU4.5A:'96;]QDY@/\./XQ/$1N+\*\OF8G/%KQ*OJN9QYD7."
+"1131","M&YT?./_Z@JT+&A=,+UR]$+RV[#73:X]>3WB]P_& XUV.@?/TC>HWKI,+24_2"
+"1132","MA]23)60G>?[-Y6_&OGEFT8I%/5R2NY-[@3O#VPN-R@(;-)^ZE>;X\_3BS@2
+MZ@NXBY0+E2D*>72$K\P%$/O8NU3%W0)*A(-;%16/B@@;W2W%[QK*E<=F/7$"
+"1133","M.;W 7:G8E45(<;2]FST&=[$6S$0&PP:I-ZN8<SXV\@C1FUI]%VZ@+K&36?3
+M$;/J _1[ZHR07)X4!MOPD/3R%HNQHJA<, I?84$K>W516)*!$H>2)+K_/,("
+"1134","M*33CLRI82D(<MD;F$MH'+HA&EJS,J@Q)0_22]1L#LJ,S.R\PPY>L%*NI7&"
+"1135","M8;&A(KL<E/% M=4T7$!8Z6-*OF[2F.60S:=QS7JK**6H,HHH. !18J'7*1,
+M3)4J@0%D%FB+I9YH1P0*>GIR;$=24/7Q\[#Y6<%<VUNKRCK+3!R$//!U9J
+M\3G&EU-P]Q2SDEI&%AM+\\L T5*B!;0^3CPUB@#LPD%C+;B@84*^@A8!<^
+M=J+.T@F(\8;X3P2T$ <>*GF0?5&$%0\N4EO . %E^ ]AYW>&QLL/[.4_PO4%
+MP;(8C6\&>J*G]C;%:F4T/F!2RZ S&>(>E>P-.<#7T+\MW.W'O>4:R)+!<6I"
+"1136","M9G&UK!;PFNIL]>?=3VX.#DR/.B8(A/O!1\1])N/UD+FB8'*]AY^<X.MN>TB
+ML6!F'6J 7C@T V]4ILC9$W#K.DM$%_$Z:Z:64E*\:DLBP;LM)<:[%2I7'+L"
+"1137","MA1;/[,?@ENUO5T]'34GP!@8D0W$MXJ:)9;]E:?+:TL;:@E.=V.=M7=P,738
+M,$GOY+O2WY+/P6A6CX+@""\D-Q_W6 S\TB*.I\3)CND^ 42PLJ1#  <=T/TY
+M']::2JS\$3;$+X=L^-@_;(T W1ZT48O;&-2'< DI*]0&&3)4<IY2'I,9 B:"
+"1138","MSX9UU <L*_T+GD//956S2^Y8K9<  ?ELVC;[ 4M!S<=1R;0MU(861NMWL.(["
+"1139","M)C121TGZ3>=5-)]>\NP]Z @=?_H[Y,-%ZWZDWQHQ.34Q57T6S3KR-X=$9$-
+M VD\>F,+\ MXL>35V[Q[;%.4XM;&,U/8?H4$S[7DG#%:58E+LO+!3F B-*5"
+"1140","MC0JHS_L@A!YM/: G)>!F_.+@1D0O27:8P+:&1=V2,J.HY/C:VD6O8Q^X]Y&
+M..=\7\W)+L$!'#(<@%ZOUFIDZ4G:!$X^'X)%T+6^-W[9\8/^PM>@&O&P<:"
+"1141","M-Z:9,SZH1K18RCZ=5Z4#R4;I<Y4T._0:5SZ?9BDJ314O8! 14E'02$H!67Y
+M+Z=4GPLMT+Y_TV7$3[<NE=.-BHU3IG(YQ=M.$;I06<)^ _CA\'Z9=_J:I"
+"1142","M[E0A#SU34ZNU/]41,D:H/XTLXIR@* U)U>/@4FFOK;RBM**PKQ %5TOQOIR*"
+"1143","M;&MFC;(DGQ*T-_ALR0E9=';I>QA4*$;.$S,?HISI&Y4NIB0(]4V_!MA?)Z"
+"1144","M\M!+<51U(.S)Q%_K%..4ZUT'6 @0#/G,$0R#-A&BN-;4C+4*>#3* P*HJ#"
+"1145","M*X/,AX$K<(G_U-?]4^%:0,\!:]LVG?*^M/\OPI\!9(&?1R\_)F35.W=_(G(!"
+"1146","M/ _@4W.TSW<\_CL F03\Y!E\!;Y[X73:\0%^1YQ5;-M/V'E%56OAEX=U()+
+MCO>F8.K311Q%?4669)O B6 Z#)I#PMFHW'.. C0:#P-A!SG*&!6-7M'OJH,"
+"1147","M77@>KP[MD$[A)IO[E^@ WP7ON;^[4J?L2_,,$#W%#@EQ:M\I7SX,H=9-OY"
+"1148","MGM&[X]MI@F8&[W [[-W3QK>C_9,Z(!X#X-:#5W(D.U'$PX ;WT->&K$_?
+MF7N9@)?9NFO:UJ0.44]H;0 ( H=EPIC#QR2[@2MPNU-$/_QWD6(#?'IAW U"
+"1149","M6?:PJ_<RN P:Q.4;$=@CE3W4O_4PNB;V@;93/C/&1>2]J&7TLOIT#4=SF>]
+M!),>WT9\@TX?!)=)QCZ<\+7OI<$'C<W]ZQ?>TPD9E/7%G@]O7 /I5X*G:"
+"1150","MDQZ0F21/2DF)CCXB\P>AX$AU='O :.RO*,-@NN7YT$FB?WB\[AP@7K2MM)?Z"
+"1151","MVLXR?YNFV)QB%/U-\@@@9M:M?V%?L3#7C8DP.^=5\Y?N]C[+7@.OA,]]#VW
+M]R;-Z*'? @2GBJZ7LA_I2S(1(4UWDISX]C+SX--K&3%C_(=^@YL C0%Z[K'-
+M6PX')GBI-P+BN!JQRLNB0N_+E&-+<HUCPU.8,;6(\QC.4A^3G.?-H:*2B7T"
+"1152","MZZMH!Y0$Q\\W_#!YKFEL1$ COO.1*79G$7*HJ<!]+3HS&(XCZD?-?@N^BL2
+M)&>KM+I4::PZ'L0#26EZ35QKVC7P.<%Y#N>>N?OUE?;8??P%\G2B14=C-\0"
+"1153","M2URQ*]52+ G;>U]M17:A&I^9:)%6P6(>EMU?4]8TZ%/_26AB8+$,%U4WE;"
+"1154","M->X)?9T-=FG4;G:)*+?BKD9-&;A'P.MP :*S,TABZP;@A#V?OTS##'L^G\,C"
+"1155","M<(1LRJW*:P(/P=G2X89+'3V7P>=@2-DG:3T^LK%E#<KB8[I*RKZK*]4-V+6
+M'0>;==KM>@3%3AO^D5%1 >X05)H#RHS)U R77#F\?*5G$(VG*_,+4O@O_4(O
+M'!Z\5P,W]4E?VH8DZ@?X,2EF!]'8T63Z'4!(V,$@O$AORC+FEH$J @*X%G\"
+"1156","MK*IR%Z(>*E+8^F/9HU2)1?K#B,27 N3V!QY2W%Q,Q\N82/8UBFJUA.-;,YP
+M#GR'-=N#OLON_&?9D-.];)?Y!?^\E?&_2FFB5I,5AA+\BV :S)!/01AP$"
+"1157","MZ?4'UAY>BN^URBW@@L$3,4[AB>:BTNRM&7\2F69H1P0#=:JELZTFICPA)3=
+MP8*_(-KV3XU2>4IY+VS&!7BU$<;V%[4XMGR1\!5T?]#<O(A#4[$4E^S?AJ<C
+M)DHWI9JYDE))42)*+ER[T\W9HUGX>:Q *I/)#5FQ:ITD [2+.K!=()#[PZ0"
+"1158","MQ$8N]G\8]N.]ATU#I_E][54=H ]<.3RTTTB3Q5S_@J024 EJ.KN;S25YICPC"
+"1159","ML.66YQ6#7C!@;6_N;+%V@PG0FE6O[!H_>QBLE/_I6$<$-]WJJ*\MD?0K#]Y
+MM8[4F\J')@0<6 2?D1=;ND?;F^2B2GYUM441! ^=&AA\*O_<1_V4*7_Z]*
+M_DXEPPP2E0A7;Y4IMJ+BO(N*TU)D+\W2_[,TS__?TJ ^<M&\P+&]C[85*BO
+M;0(FP'?QQZ!*8=FN)6GK<NHI=;7J.H<3UV!KE\@_,,;\#K)69T-E[(T[-S<"
+"1160","M3'U>7C;@&8V0%.$X&Y.32U,7/*1=Z;3\?QKT,$D['=Z57)()X7%B<.C(DO"
+"1161","MKY/RTQHSZU47B PVQX-V+L=-I84%%D34%;GU!A3 T-*<7;WDP6>37TPD=Q[J"
+"1162","M$=#89^)*12-HY@VTMXQ>:(O94,]_:>:6G&7<F8('$4[7PY_(H=&VJGY 3#1&"
+"1163","MN0OH8!SLU:J\#_=G%^IP0QN$C $_SW\[!;/\.1#H7QX <\RQJB3=#X9/(F.
+ME8$7YAM!$2&S;JC@MDXU+6&3\=VA]OQ;V*M1:TW\[% _!J-636PI4#C [$
+MR$[/F3-!\!\D;9:QAW,L.1:=-;,X!1PEZ _QN(,2-WKSLB&!W]H^7YDG#\R"
+"1164","M?J7Y!C@/QJ7]46WB2DGC0:*>K8-1K%2V02I3I@$MR##*3$>LH>8CJ(R'D2E8"
+"1165","M01_]H'G'>4_!]3T_>$<\!3 U[L'N@D8AH.+EO+)(F(!;$?&9EX'XPN4!S/B
+MJ_<0797F&0U\?:8A4Z\5^AX-R<C6Z UZD 5R\G.-N<09^BQ[<]O1B^-]#:<[
+M^:JRM2Y-A7P(A7-5P6P_U<<A439O3K-^!&%=+.;KG6^+ 7R0Y:\OP2P&MX
+M@54%#MRTFCUVHM-:\4^*=*7V[H%X($PC)2DI8G%=2DMK?5UK2TI] B+T,ZK:
+MM&[JTUJX:M#QUE.H_'419YSR05J6QLY.T6CDZ/+(P9LC*R+-<> H)/')D3'"
+"1166","MR\)! -@ZX@,=/&\+3Q]K%):HBM) ,L%1[ L*W;7!XQQ<$,1/87/&V^AH5AT["
+"1167","MWV:IL )$7]DV?9]B0#> 1!'_]M%O3WROT=Q;@F63X2/@+'%NJ._*B2%I5#>_"
+"1168","M/:XBL=(38>/E]#,^ GMMC'],P_/33B$-(D<%;A=5O; A%Q2NQ1_H_3_ ?_"
+"1169","M:M4?VW'3;L-W%*O*D<N$Q^!Y.N/OJ$\_R@*[?_WTY29)6RPO'6%-PS97=H"
+"1170","MR1-D%CM4@\PH_ GG/* WR-E7<BQ:$$30:AR(LY1*C20U7BT1$1<UY <P(^"
+"1171","MHM]3XF,Y%0H02M!%^$=C@7=Z^RN;F_G#PRP7O#!WHJ:G[%0%#Q65>CC-@ Q4"
+"1172","M4S\JE,PR>J8(59XR9'2+\JT%UOQ2P*LOD:/>7XB#[3E)FG2#5JE3 @70FN2U"
+"1173","MLGIE208:KV3RU+B!E+-PSL7[<)D@<&;['Y4:Z0WUUR$&-*$TFF8P<C8'!Q]J"
+"1174","M-[VM)RPX:Z%RG*[8)G/XI -ZF3U]!RB@6V VUBSE]D&>ANK@=T &?4VZ( L
+M%*+E\X91\%PN_78H5)O1A,-G$1C!DOI \E^$Y%^93=S$Y(\:]?3C\HN]1>
+M-&TFVC5<@*;-'*L62($V5YNM?9^V<-^%)8:*G I0@LQVF:G;B.;-0 7>EVO2
+MCBZ'\^@!;H'!J#?JBF7%NF)0#$SEUE[X!KS+;;U1;&HS$B\IR+6\03IV R3"
+"1175","M1,A *20Z2U4A@MDT' 3DY+C9=4QEQ=/SCQ<@C>[F00\<.M&'C-D%.04YQAR>"
+"1176","M66LT@PB,].@YDL5,,'*#C/&V\)/T6N@/[>U^=;G5T9;S3QK844!<AQF*WU4
+MR>[/*\L&2J#+5K5:-A9P*5<\.PH3I!YY7!$^GL<SSRX3,VQM^FX3]'F!2D
+M+28ME0^*47)44CQAX;*5+H-$4L%<OS!!)0@[$[P[07#Y*2L0]]K]\-W"
+"1177","M7O3KE_9^[9'BCPRH7W<1]#6<WOG8%6Z#C'O=-_KY#4,EH^!72*4?=3_0@7:
+MC0K43DV0X$Y9V>-BM'= BC]YN7?V.'Y$G9:H-)@;]7QM=T8E4EU):HHD?% T
+M;'+M^'K]A'I1;5NH&HI\Y]J1[(@<*0K)&LIY.XFV&*?!0 4,X#=66FDR94
+MJS %WIMMT=3XF:0F:;',F0[AO@\KLDMS2T$I#]1:S%V%:-4^!5Z?:];6!<(E
+M](]<B\BL+$8D;RZW-&CK^=^3VLJ(@L-Q8!G D4EE0-HFOR96SUD+*I!CWC)"
+"1178","M@XR_3C%MJ+[%[+)\2SZ:!SM*E6B<2,2!GU+ED84JK+'B'H7J4G.H'Y M0B0
+M[5[Y^F_TF*V^#8^\V>;^ [CQ=QGE$'/R?E2G66 @%)7S$B@(@N3F>U*AI2
+M>X[:/)$1>;!F9[!'2DUZ?4-M35UA7E&>29!;DF<&)J*YHVY@O#G!CW\0I]=^
+M*M<=%1*<9ZGIRIC8Q1XC89='!FM/7^87!52G#8(N=/GN/H)>APQO?%9FFCI9
+M*<Y, T2TN&M84(AD8[ 'SA_YW_WK8F7 ]C=AJ)4=#](KXT?H-V @]RLXS];<
+M5MF1S[/2&Q1X6VZI ;6<6IV:%)]E4,M4Z<H:KGA(U@7*046YJ2T?Y?FXH@1O
+M Y6J]L,_T,NY-)MV%1W3ZF-S> KXKA47JXO*BTW6\AK!([CP>]JIT%!@  8>
+MD.FS8W.1K-K02=XZS7@Z!3WL'Z:-6D:6&\WVES--)1DA KK8GFV%3Q[*=I(5
+M]R]0E(%^ G;CH,!<:C(UU@]7=0-BIX:*;\(S0 :C;==EE*LN'>^H@I<(6 1"
+"1179","MWC;<63T*B O5$A<!'84#;YW.2X\6B:UX8H&H0%4-^GGP& [G1ES:YA68Z.7'"
+"1180","MEUV(:?8#84L=/$@[N'Z@D!IC,978;>8V@[JU:N,FU,P_1LF7#/S,9E5$*Z0
+MZ ZK> EV*U&<7PA,@!@HR0P7S%;B\5_'?@FYTW .? <NW/[#BH->4<'I?'^'
+M_I,]IQ].?$POH)DA!UP#CM0W\E$N5*>I.;5HH&0,_>7&([C^#',FA-I&TO%I
+M[(FLBT0@:,2OP,?^MR,.Q7V]$9'8U5+>VU]>3?H)&[Y3'RT:>_>34)S7/,."
+"1181","MOC#U[8.!N\%FWNIKWG]_?*GQ\WO\J_O'$R?!9^#4-LM11DW[GBJ*@KX@(#V
+MT,LC%QM[V\\VC7(;!FLL$\7$[.(R4G15VP=.$&/M7:.C75'!/M%'7</X>W:1
+MEVAVM^\%=\_#QY$\$^Z>GSWXK'WXS^<%B*O_3KF3USM/7 :7B(GH_B/1R2DQ
+M<?72GF)3?GXQWU0 0#[BL6*#+E8<Y1=IWS#VE G'D G8&2)*C S=O3%Z!:!?
+M 32G]X-OWAT,:4H]'6>IY&Z]*NZ6W$N^KKD/?@&_ES]IOM)RI:WG]J1='6#(
+M4V8?[4[>'6MKZAV]]>?N7P!\!< W(I__:?K86&)=0(<Z@_NE1W-TRXZ&?67;
+MP0KPCLI%<E#L(8IR\T(!C.CS%?WV_]>IX\21+T\-_:\R^F$IZ0'SKB*6,,+7
+M?R%%28GQ8U)K>U-C:WMB4TBM*Y=63OS5@T##J +[F/3LG_N8=U@H^Y1-LTX"
+"1182","M-C$:?H+E/]D%TH7T!>'RR&@O'R&-O[@^HY-^Y:1/;]BIY$EP@Q7]71/GNM#
+M4S:<3\!P9_@VO8B?DTA.G:!9M) 6ACEMVA3V#Q@!HT] YE/!V S8 S*[(C]"
+"1183","M5<$^9Y82MQ25%1865)NJI%&U98HX@2S03B(U:5D9HRE3GA=F2U6O&/\C-*"
+"1184","MP1A!/;=[$W?JK_+@-\_95)B^!:I*HKT5F4> 3Q:QX8?P=W?/NN_#Q[R?MGR
+MX!W?@-3CD?RX&$6<?'=M%G?@KST=-P$Q=<%[\\>A:S=O$-![:^6FEJ,HGH."
+"1185","M0\$S*&#=?:DQ!XY X1@=W$]T-]5T=*;8H QHGD'7-!2 /$#I#L;FSI>=L
+MKP FV_X'J^W2/WO)$=Y^)+R]B',&KH%?D1=!?6Y#)L&IO9+:[[UG\6;O_3LE
+MZ::&2+ZH6FZROSE6*-.BAU._>/H:?DX.1@TR2X#DYEG$QH3Z^36L)L!.?,
+MS9.-O6<7/SYP?EU0F#PNBB^2*!)3#UFSN8-W3G1>!<2U$V$>48JHI2!216
+M[$U&'.O9]O*Z%_X &'72WO^FQ:!!^C]8C6ZKJZ5NWV50?C,KR5DVVY->4:4;
+MOE%=?@[PH(A-!\\^8UUCP^B99?:W\,J6F04MCN?ON]^%XIN^]Q=QOH7#%$YR
+M'OQ\IGOHQN(G;I=6T(PM^YSWVQ)^7\?G?$MCKJGQ>Q>O?+07LN\!Y__]B!F"
+"1186","MG)[_'5^VG+P3T( (A-A_Y,C^[8&3?_ZL;FCR)'_\ 8JU83)J]/SBR1.#5V\,"
+"1187","MA^WQ%A_Q%O*S<@#(SK$/+!K(A/F0R8!+J;#_AR:=O@C,!D@!O/0IG\@M-[L
+M&K[TK^2DQL3^]\GIHQ[^ 333:RC_&NA;PVZ;^_6K;>9Y\[ZNGC<?P_X=]CUF
+MR IE;F1S=')E86T*96YD;V)JC(V(# @;V)JC8R,C(*96YD;V)JC(W(# @"
+"1188","M;V)JCP\+TQE;F=T:#$@,C$W.#@O1FEL=&5R+T9L871E1&5C;V1E+TQE;F=T
+M: R. P(%(^/G-T<F5A;0IXG.V<>5B4U=O'SYEA'X89$! =<09'2 /$7522
+MD4T1-X2Q&=Q %M%<D,4M4<I*PRS+]DQMM:+EX7%#R[2R?;%LW[5]LVPO#7F_
+MSW//;>I5O>\?O^OZO5W7S.$SW^]]G^59S_%XZ8600@BS:!)&,7%45I_H7^*"
+"1189","MI^)K<OF\LAJ*BP*$D!GEB^H=RBT'#B'QGA!W:IJ9LW[Y9=QX?_1':==;<
+MI574?L!<M,^JKBRK^#&J/0;C?8+DX&HDS ]$S1'$HVX9_6\^B6^XVW'EW7N"
+"1190","M@O(RB@<J0G0OGE>VI9A;%)OM$]'TC&_;%ZEK[T+7UUK%M35^^(#6GU-;67-
+MKR?*GT5[#X;',8(W7%R@SC],U',$76XWB9QF5@G-HA]XETQ4ZRNTEL$7>+
+M>X4B'A//BC?%?_!S<FG@/!%NW61<A.HYW'#UY-V@+C#@MLP%1IP#'GYD."
+"1191","M:\>W9^6^/;FAPWJR+2A*A.E]S89#R/XHVSN.&S*UN&.P%AM6PUOT'M\';SKY"
+"1192","MT,FM9]V#0E$BIHBI8IHH%66X_@I1+6;CSEP@YHIY8KX>S4?=+'Q7(9J!5N5H"
+"1193","MI?D_6RT0-:!6U(L&L0BE!K[.%VEU_6X02Q&62*6BF7B0K%<-/J^%^N9Y:A9
+MIL=+P JQ$D_F(G&Q[E@ILTI<(B[%4ULMUHC+_S&Z_)1K%FO%%7C.5XJK_M:O
+M.R-:CW*UN ;OP[7B.G&]N!'OQ2UBXUG9&_3\S6*3V(QW1JN[#IG-NM-J'Q%/
+MB1WB0?&0V*G?RW+<-;HC?%^J]'M8@WNP'%>XZK0SIONW^-3=6H%KUZZMV7>E
+M2Y_^+0>BWSW46NYBUI%'H.VBB-9]V)];@&\G]>$477Z=?_9_;TN_)/6;X?
+M&T^[,[?HD>;.SOZ=OU[<BAEX&[ZUNZJYV^');=;]Z?E-I]INT>,[Q)WB+CR+
+MK;ICI<S=\%O%/9C;]XD6<3_*G_YT1_J@>$!_<HIH%:K8)K;C2>X4NT2;GO^G
+MNK_*;_/EU5.9W6*/>!AOR*-B/U::QU$XLQ>Y?;[L 3U'\>/B<1:*XJ>$D]C"
+"1194","MA7I./]>$ ?%DXA>TK^?0?2R.1>%6]*,]PKXDM\MXN7 S\1$6(DUND]N,\;"
+"1195","MQ70QW36J8L;T:5.GE'@][N*B2843)XP?-[9@3/[H47FY.=E9(UV9(\[+&#YL"
+"1196","M:/J0P8/2^J2F]$I*[.GL88^+CK1:S*:PT)#@H,  HT&*E%QG7JE#22I5 I*<"
+"1197","MHT>G:K&S#(FRTQ*EB@.IO#/;*(Y2O9GCS)8NM*PZJZ6+6KI.M9161X;(2$UQ"
+"1198","MY#H=RHLY3D>;+GTP*_+<7H=RE'=C]-]0)(>F!$D)*'(S>N.L>AR%)'KI*W"
+"1199","MJ+HYMS0'X[6:PK*=V95AJ2FB-<P$:X)3>CEK6F6O$5(WAEZYPUH-(L2L'58Q"
+"1200","M)N:652@3SVY.;:$!*^>$]GZ6$I0MA*LC^68K9VS6.MH3=G??$6;5<PL30ZO
+M<%:43?4HQC)T:C;F-C>O5B*3E=[.'*7WLD_B<,F52HHS)U=)=F*P@DFG#B5"
+"1201","MP$2KT]'\L\#).X]^<V:FS)<)2K3^+#2K7>*IVX1Z]@+GAC/$]24D:.>RMLTE"
+"1202","M9B)0F@H]%#O$3)LJ7&G)7L50JM7LYYH8MU;3Q#6GNI<Z$[1'E5OJ^UE4':<T"
+"1203","MS72DIN#NZS^)^$&]0S$FE<XLK]:TK++9F9-#]ZW8H[AR8%QEOFO-;>V;AO9E"
+"1204","MI;B(V=IM*/0H:<X:)=J910V0<&C/8':11^_BZZ9$9RNBM-S72TG+S='.RY';"
+"1205","M7)I#)ZB-Y2ST[!8#.@ZW#G38M@T0 X57.P\E-AL/)2FWV5-1I=A+;15X/ZL<"
+"1206","M'ENXO+B]GF=GDJO]I2<5J7W81PN03^BW@O7=E9K;JQ=>7!BB,-CL!F]VM-"
+"1207","MPI&'+V=6!BJL>%QZJ#W1K R'1]H$-\-1?TT=\8X(R)V:.U*J/6-7NT+<&;"
+"1208","M0)]_.6;[YP$Y60T\:R(G'JG.@X?WMJU%H[H=Z.W,J<TT[PC$$#?2?H&^VO"
+"1209","MS].@W0O?@=$C1'N<H[G*F(B9BYP!P^@I[2G&.10QT>%Q5CJ]3KQ#KHD>[=JT"
+"1210","M>ZT_WX(B9T%AB4=_VKZWI/B,B.K3*5)$ JHY,&3C'<Q+MO%CU>-1>GPJ''U6"
+"1211","M=3Y7.YI#G 5%S=K@3M^ PH$9A(L.2LHO6YL>-1!3,P^KFS.OS.FP.O*:R]HZ"
+"1212","MFF8VM[I<S36YI=7#M#&<^17-SB)/ADT_UTF>1MLR[5!1HD 6%&>EIF#MR6IU"
+"1213","MRC6%K2ZYIJC$L]N*/>^:8H]JD(;LTBQO:T_4>78[A'#I68.6U9):X- ;:1)
+M$+T]K;=V$4WZ;4!>D*/R]NDT',AG).BO,U .2OG#,@%4,ZEY[0/'E)<-6XQ"
+"1214","MEMM<1X7V>)9[JYM+O=KD$K%XE/B1BG2.$(K!.:)5&H+E3!G999B<F9I^4PM
+MGTGY(T?C!=#QDK<'&U-:BYU8IW^41-DFOHE$;TM'6T5'L27C1=M2;@%=M"
+"1215","M*BCQ**')6/L#$\>@W2B-4J1'*4WE9=IY+='ZQN<F%_NQ6O+ Z))OA**$4)]
+M(Z!%GMY'>QW1J1S/!@]0[]^$0&GR*MYD[:>V5[]=;8J8K1S&!X[C1F8I!TH"
+"1216","MS=L<Y>ROSTU,A;#$U9J$XMQ$D8<R-H0XF)=N4G XSKS<B:KR4@?N=H H+\*K"
+"1217","M3FMIF(TRE5@2 Y(J=<)LODJA798QT60.4T+[8$#\:-[41YN2@8G!7B^=O!ZM"
+"1218","M]C7 L:V*6>4=-JM]'7 W4%5OG8N^%F-4]6:/J8-4]@F)CF78&713EH?*1C5
+MBCDQOPR+/_4W(>-,Y\XAVAIA\HUQ@++!VI6'X[X;$XO;.K8ZER:<]DE-<6I_
+M.&@OIK#MQHLMO,UG)Y0IR:DI(6=GS7JZN3G$_-<=Z'Z%F$^IEG3DXD\--,3?
+MB8/$22$/A&TY<?SXEM!OM,P9GP M8^DM'<**O5DPYH-5I G\[33RFHX.K58-
+M-3K:#)=L#XV38V!6L;F8S45LFMBL9+.32.;Y6PN9+.,S5(V2]@L9K.(30.;"
+"1219","M>C9U;!:RJ6&S@,U\-O/8S&5S 9LY;&:SJ68SBTT5FTHV%6S*V<QD4\:FE,T,"
+"1220","M-M/93&,SE<T4-B5LO&P\;,YG,YF-FTTQFR(VD]@4LIG(9@*;\6S&L1G+IH#-"
+"1221","M&#;Y;$:S&<4FCTTNFQPVV6RRV(QDXV*3R68$F_/89+ 9SF88FZ%LTMD,83.8"
+"1222","MS2 V ]D,8-.?33\V?=FDL>G#)I5-IMD-N>RZ<VF%YMSV2Q2633DXV330\V"
+"1223","M6P<;.QLNK.)9].-C8U-5S9=V,2QZ<PFEDT,FV@VG=A$L8ED8V5C81/!QLPF
+MG(V)31B;4#8A;(+9!+$)9!/ QLC&P$:R$3XC.]B<9-/.Y@\V)]@<9_,[F]_8
+M_,KF%S8_L_F)S8]L?F#S/9MC;+YC\RV;HVR^8?,UFZ_8?,GFS:?L_F,S:=L"
+"1224","M/F'S,9N/V!QA<YC-AVP^8/,^F_?8O,OF'39OLWF+S9MLWF#S.IO7V+S*YA;
+M5]B\S.8@FY?8O,CF!3;/LWF.S;-LGF'S-)NGV#S)Y@;)]@\SN8Q-OO9[&/S"
+"1225","M*)N];!YA\S;/6QVLVECLXO-3C8[V&QGLXV-RJ:5C<+F(38/LGF S?UL6MC<
+MQ^9>-O>PV<KF;C9WL;F3S1UL;F=S&YLM;#:SV<3F5C8;V=SYF8V-[&YD<T-"
+"1226","M;*YG<QV;:]EL8',-FZO9K&=S%9LKV:QC<P6;M6R:V5S.9@V;U6PN8W,I&][V"
+"1227","M2-[V2-[V2-[V2-[V2-[V2-[V2-[V2-[V2-[V2-[V2-[V2-[V2-[V2-[V2-[V"
+"1228","M2-[V2-[VR%HVO/^1O/^1O/^1O/^1O/^1O/^1O/^1O/^1O/^1O/^1O/^1O/^1"
+"1229","MO/^1O/^1O/^1O/^1O/^1O/^1O/^1O/^1O/^1O/^1O/^1O/^1O/^1O/^1O/^1"
+"1230","MO/^1O/^1O/^1O/^1O/^1O.V1O.V1O.V1O-N1O-N1O-N1O-N1O-N1O-N1O-N1"
+"1231","MO-N1O-N1V=LT@UVSVGV$'7MFM7L,Y&**+E*[#X,T4;229(7:/1S22-%RD@M)"
+"1232","MEI$L5>-'0I:H\=F0Q22+2!JHKIZB.I):2BY4X[,@-20+2.93DWDD<TDN4+OE"
+"1233","M0N:0S:I)IE%4J5VRX%44E1!4DXRDZ2,I)1D!LETZC>-HJDD4TA*2+PD'I+S
+M22:3N$F*28I()I$4DDPDF4 RGF0<R5B2 I(QJBT?DD\R6K6-@8PBR5-M!9!<
+MU386DD.239)%=2.IGXLDD_J-(#F/)(-:#B<91MV'DJ23#$93#*(!AM(,H!&"
+"1234","MZ4_2CZ0O#99&TH?ZI9*DD23G$O2FZ07R3DT=!))(HW9D\1)TH.&3B!Q4#\[
+M27>2>))N)#:2KFK7\9 N)'%JUPF0SB2QE(PAB:9D)Y(HDDBJLY)8*!E!8B8)
+MISH321A)*-6%D 23!*E=)D(U2Z%D  2(R4-%$D2H8OL(#FI-Y'M%/U!<H+D"
+"1235","M.-7]3M%O)+^2_$+RLQI7#/E)C2N_$C1#R3?DQRCNN\H^I;D*,DW5/<UR5>4
+M_)+DY+/23ZC)I]2] E%'U/T$<D1DL-4]R')!Y1\G^0]DG=)WJ$F;U/T%LF;"
+"1236","M:N?S(6^HG2=#7B=YC9*ODAPB>87D96IRD.0E2KY(\@+)\R3/49-G29ZAY-,D"
+"1237","M3Y$\27* Y EJ^3A%CY'L)]E'=8^2[*7D(R0/D^PAV4W21BUW4;239 ?)=I)M"
+"1238","M:FPF1%5CIT!:2122AT@>)'F Y'Z2%I+[U%BLU_)>&N4>DJU4=S?)721WDMQ!"
+"1239","M<CO);21;2#;38)MHE%M)-E+=+20WD]Q$<B-UN(&BZTFN([F6ZC;0*->07$UU"
+"1240","MZTFN(KF29!W)%=1R+47-))>3K%937*9&E,&N52-F0FYA&25&E,%N9CD(C7&
+M#6E28[ 8RY5JS&#(I)&ZKZ<^EU(LDR-J8 LI>Y+2!:3+)I(*DGJ:.A:ZG[
+M0I(:-:8<LH &FT\MYY',);F 9 [);.I733*+SJR*NE>25%#+<I*9)&4DI20S
+M2*;314^C,YM*,H4NNH2&]M*!/3GT^E.I@.Y:91BDB*2222%:K0+,E&-UHXP"
+"1241","M08W67N_Q:O0JR#@U.A4REIH4D(Q1H[$OD/D4C2891<D\-7H%)%>-7@W)4:-7"
+"1242","M0K+5Z9(EAJ5!QE)XB+))!FA1N'/=WD>11EJI!<RG&28&JF]&D-)TM7(49 A
+M:J0',EB-+($,HKJ!) /4R!1(?VK93XW4+JRO&JG-S322/M0]E8Z00I),@YU+
+MTIL&ZT5R#DD22:(:J=VEGB1.&K,'C9E @SEH%#M)=^H73]*-Q$;2E:2+:IT&
+MB5.MTR&=5>L,2Q)#$DT22>2*.H021VLE+201)82<*II8E:AE$RE2$))@D"
+"1243","MB%H&4LL 2AI)#221+@Z+#/M&B<MY?9V2X7]#_@3X#CX';G?D/L5_ )^!C\A
+M_R/X 77?(SX&O@/?@J/(?P.^1MU7B+\$7X#/P6<1L^R?1E3;/P$?@X_ $>0.
+M0S\$'X#W$;\'?1>\ ]X&;YDOL+]I[F=_ _JZ>:[]-7.2_55P/X5<[+]97 0"
+"1244","MO(3Z%Y%[P3S/_CS\<_#/PC]CGF-_VCS;_I2YVOZD>9;] /H^@?$>!X\!5\=^"
+"1245","M?.\#CX*]X0OMCX37VA\.K[/O:^W[P9M8!?R.\$.U&U'W3;D5- *%/0::G]"
+"1246","M0=,R^P.FY?;[38WV%M,*^WW@7G /V KN!G>94NUW0N\ MZ//;= MI@OLF^$W"
+"1247","MP=\*-L+?@K%NQE@W8:P;D;L!7 ^N ]>#> :]+L:XZT/&V^_*FR_<JP6?9U"
+"1248","M87?9KPC;:K_4F&B_Q)AN7R73[1>[F]P7M32Y5[H;W2M:&MVF1FEJM#46-%[8"
+"1249","MV-+X;J,K*BALN7N9^\*69>ZE[L7N)2V+W7L,EXDJPZ6N#/>BE@9W0$-T0WV#"
+"1250","M\:<&V=(@<QIDWP9I$ W6!D>#,;S>7>NN:ZEUB]J)M4VU2FW <*7V<*U!U,JP"
+"1251","MMH[]VVIMW?.@KN6U9FO>0O<=TW+ O?\JGGN.3C!V>FSW-4ML]Q5Z17NRI8*
+M=WGZ3'=9>JE[1OHT]_26:>ZIZ27N*2TE;F^ZQWT^VD].+W:[6XK=1>F%[DDM
+MA>X)Z>/=XY$?EU[@'MM2X!Z3/MJ=WS+:/2H]SYV+BQ?=K-T<W8Q6[03&=\.9
+M)O,ZFMSV0[;CMDA$VQ[;<9HRQ=[5T-O2U=9/:$+G)!EY5=KNIBM,0=C#.X
+MXGJGY%DZ'^S\8>?O.@=T<G7NW2=/Q%IC';'&&.W:8L<5Y^F:F4/:;Y!^K>-B
+MG4EYEAAIB;''&'+M,5)$'HX\%FF,V6<]:#58+-)BZ; 87!8TMT38(PS:5T>$
+MT171;TB>Q6PW&[2O#K,QUF5&1AOQG/)Q7D6D]UD<&>:)I@,+E-F=I[+E-HW"
+"1252","M3QBE0THAK1!C-INES'V/.->J?V#3J0<KTH3BYHQ&3I20B5,4N49)+-*^"
+"1253","M784E2M :1;A+IGA:I;S2VRH-V<5*M/:/OGI\Z;IU(CZK0(DO\JC&+5OBL[P%"
+"1254","M2I/F72[==VA>H(DW>7I=0UUR<OUT?$VOJT_6?Q#)!BU*UI+:3UT]8JTTZ+%("
+"1255","M_L</-8/,J,.GGI/U_]SK__M'_K=/X-__:17:?U88V6&X1%085H&+P46@:P$
+M*T C6 XN!,O 4K $+ :+0 .H!W5@(:@!\!\, _,!1> .6 VJ :S0!6H!!6@"
+"1256","M',P$9: 4S #3P30P%4P!)< +/.!\,!FX03$H I- (9@()H#Q8!P8PK &) /
+M1H-1( _D@AR0#;+ 2. F6 $. ]D@.%@&!@*TL$0,!@, @/! - ?] -]01KH"
+"1257","M U)!D@&YX+>H!<X!R2!1- 3.$$/D  <P ZZ@WC0#=A 5] %Q('.(!;$@&C0
+M42!2& %%A !S <F$ 8 4A(!@$@4 0,+(#WT9@ !((42&1DR=!._@#G #'"
+"1258","MP>_@-_ K^ 7\#'X/X(?P/?@&/@.? N.@F_ U^ K\7X GP./@.?@D_ Q^ C"
+"1259","M< 0<!A^#\#[X#WP+G@'O W> F^-\#KX#7P*C@$7@$O@X/@)? B> $\#YX#"
+"1260","MSX)GP-/@*? D. > (^#Q\!^L \\O:1\##8 _8#=K +K 3[ #;P3:@@E:@
+M@(? @^ !<#]H ?>!>\$]8NX&]P%[@1W@-O!;6 +V PV@5O!1G +N!G<!&X$"
+"1261","M-X#KP77@6K !7 .N!NO!5>!*L Y< =:9G Y6 -6@\O I:)B9)/$_)>8_Q+S
+M7V+^2\Q_B?DO,?\EYK_$_)>8_Q+S7V+^2\Q_B?DO,?\EYK_$_)>8_[(68 V0
+M6 ,DU@)-4!B#9!8 R36 (DU0&(-D%@#)-8 B35 8@V06 ,DU@)-4!B#9!8
+M R36 (DU0&(-D%@#)-8 B35 8@V06 ,DU@)-4!B#9!8 R36 (DU0&+^2\Q_"
+"1262","MB?DO,?<EYK[$W)>8^Q)S7V+N2\Q]B;DO,?<EYOY_>QW^EW^\_^T3^)=_XF9,"
+"1263","MQ_Y2G*PS'@J,$$81+(:*<6*\F/*(,..5CA7#Y(X=,3DY(:G!C^)U-0@'7O@0"
+"1264","M;$BS798 @WE7UZZ9SEV#@M89(_/Q%_CMF<'KL)1GMG_0_E):^P='HX:F'95I"
+"1265","M[Q_YX(CU^Y<BAZ8-./+:D7Y]961I$YTA$X.#K(V:./8= Y28,'#.@_PC!H"
+"1266","M8)*S1X1!SPT</&2$<4#_[@9C-&=&&+18&@_]46*<T!YD6.',G#P@L'M72[0Y"
+"1267","M*-#0+2XJ-2/16C0E,:-/?+ Q.,@8&!+<:TA6CX*YN3W>8Z,CXF-CPH)B8J/
+MC8F/#&Y_-S#B^ ^!$2>R ^:>N-88-'QJ9D_CC6$AAH@H+;N<5W.'9Z0/]G2"
+"1268","MR1I@ZF2-C T)CHH,[Y4SM?VRF&[:&-UB8FBL]G'Z_[VZS5_\Q5_\Q5_\Q5_\"
+"1269","MQ5_\Q5_\Q5_\Q5_\Q5_\Q5_\Q5_\Q5_\Q5_\Q5_\Q5_\Y2^+$ ;?;_B(%D9-"
+"1270","M9%<0!&/\C_T*R'_G)T#TT+_UWW=R3'9T\#?B $'W1XHHW#^#T'YI2H@0Q<7]"
+"1271","M!F77]^VKUPBY7OM?#__'3\B9X3%QK..,A.^WL 1$_(D\*/[WIZ3U]R[L%5Y
+M:,\,2\;/H@L=Z.&OE[^@Z2'+DIM.'&]?&_I-\$Z$H?JUX/,_=% /YPIE;F1S
+M=')E86T*96YD;V)JC(X(# @;V)JC8P.3@*96YD;V)JC(Y(# @;V)JCP\
+M+U-U8G1Y<&4O5'EP93%#+T9I;'1E<B]&;&%T941E8V]D92],96YG=&@@,S @
+M,!2/CYS=')E86T*>)Q54PM0$U<4?<N&S8X-48FI==1DP2^@HHBC%J&67X2)"
+"1272","M(BHX4C\-$B&:#X6(H.BH^(,'?JA:ABJ)^$-T!*NH4[&BJ+56#52DI,HO5$>M"
+"1273","M4YW2]F[FP;0O=EJG,SN[>^]]Y\X]YY['((D78AAFP!R],4=O-:S4>:(@<3@C"
+"1274","MCO 21[+8ZM[MSO,>B;2'GOE@&8MEDLH1G*\OG!\,Q0-AW2#$,DQN27F4)3,O"
+"1275","MRY>817&)RU8'! 4-.%=9LK,F3.%U+Q_*T*T/MN0;A;&TI\<O=&2:=*;K6%"
+"1276","M%#UM-!I6NG&O,R,;$&7EJ9/\\2=4;]&B'68#1D9EIRA/%1 4+(Y,E3)M)7"
+"1277","MR#R#*75MMK!09\X6M,(??I:HR[K?TF$D$+[L7FE)2U*ORHKVVJ(,^I,PH<(
+M343^* %%H_DH!HU&L4B#%J)%* G%HT T%T6B>8A!P]$0J@Z2(!4M[4==S!AF
+M&_/2*\ZKP.LF&\QFL+O8O:9*ZD2G):\BU4R\4&W.Z6VIC'SUGXV&U23NHW
+MB4O:21\G=P=C.Z0XQ<DV1C2#1=E*+-Z]'-GO-GD3&4?*^DW>OW)M8/&&SYU*
+MDL^!#+J\/?WL8F)+ALVWN2VB$W9W#%5<:!;M2L69/GLGU$D5+7\V-G??KUNI
+M59&_.D1!ZHIO'!N^Q!2Y3*6XT.5B[NL;>*$-J;:Q8IKX(URYS>;SZRK2J_7"
+"1278","M5D5BGO@%$PF)).%/!?'P3^UPI #ZNG<QNF?ZJ(Q'[RH%0;!T.O.9\V74B,/
+MJ.DL__2J<4&#BX5C8HV2C OQ)]$DNL<? F#<T]]A-L2%]I(@=7&$\D5C!'F?
+M#$P,#YZTH T4X'O3^?QM$^<BNZAU0H3-][@+KE%&^6(!E6H&.<IE-P\&4,'"
+"1279","M&Q%&!*F5M23&!=AP._AU1/W+JL4^;&/I&2]J%,^O1E&!GO*/HEA4X/G/0$Y
+MR.\\>::2NU=9V\57[<R5YZP[4,1*,X0&.TDH#LSC$D)<5'IHS 9@(FL=G13"
+"1280","M=&/BP\R7&&+QZU^.0!(?Q!4LV6+(-YL2YAKZ0QC@H&'>$CH 2GXW;Z19SFE
+M/I%5;CR8Q+]5 N8X(+2-N=#-B@=@DQ(_WGXE_RM#=]BU (H=.Y$*.YO,?N8'
+MXT#6X0#.3H6UQBY-GX.3\?*CEDOK3FT[572-+W$H2U_=OMN)^?:[FFF%N+H"
+"1281","M4V':KITC0.&MS ]'2P<I/L.;>?.V@Z?*]V-BRI43=+</9N+UV,^8MF*V>J0
+M&$USW](.<:E+*H=NBHSLH79IHG89JJAM\GBERN.58U+<6E%_OHI7-!VO.+;O
+M5C'?)=U8LJUX,T[J6L^><5M2_?^>5K%VREEHD7Y<JBWS2WB \E)9^E#9Q9
+MEP:#3&IG[JV-E3E8/RPE977D<GW9D1S5IO+MY3MJ^:G<'N+C2(21F(</.N^]
+M<:ZX..J8.JQ\Z7Y*X==N5BM>-!C7E1B8JRM+:(@0ZFBU(LI6-.@]$SR.AH
+MS0]] I=<8[IGLY7L/:EJEF[>M:EH ^;3MQRH50/IIB2S*,EU-IAK8QY0;#%"
+"1282","MSNBS=W!NDV2Z?R?W5CYWM(UY_8*%9&JLB?VF%]Q;E?KZ&1A LU.[S?1LW23
+MS3$MXN0VWSH7E%$OYHJGZY6*RX5;=^(=P\T;RH^KX8[TN>8J47ZD79N6H<K.
+MW&(J7,QW<J7?GZMR8KZUSK)$O5:*,W+RXPK(@/R\G6LVS<LR+L4:7I$[X7["
+"1283","M'_<;*J_?5NU+/IY]'1_924G2JD]0*/$EH+U65:#,75#N;C]=4--VI/_ERF"
+"1284","M[OGB\)Z39;S<_>B_B]\)F9YGJ*+><_,]NVR7*I[\>...X[NS^CDJTN])>,(["
+"1285","M-6EQGE <*7V1=T@1I<S/T5E;-0=U> 8O.RSY5I>4?^(ZE?MD:@7FGH9\.IE
+M876O<M2H7DZT2SP?N;52M'O$U59RS@$=[SGWRF1=^V4^/T-^F+GI0IE;F1S"
+"1286","M=')E86T*96YD;V)JC,P(# @;V)JC$T-C@*96YD;V)JC$S(# @;V)JCP\"
+"1287","M+T)A<V5&;VYT+UA64%E-5RM4:6UE<RU;VQD+T9O;G1$97-C<FEP=&]R(#$R
+M(# @4B]4>7!E+T9O;G0*+T9I<G-T0VAA<B S,B],87-T0VAA<B Q,3<O5VED
+M=&AS6PHR-3 @, P(# @, P(# @, P(# @, P(# @, P(# *, P(# @
+M, P(# @, P(# @, P(# @, P(# @, HP(#<R,B P(# @, P(#8Q,2 P"
+"1288","M(# @,S@Y(# @, P(# @, PC8Q,2 P(#<R,B P(# @, P(# @, P(# @
+M, P(# @, PC @, U-38@-#0T(#4U-B T-#0@,S,S(#4P, P(#(W. P
+M(# @,C<X(#@S,R U-38@-3 PC4U-B P(#0T- S.#D@,S,S(#4U-ET*+T5N
+M8V]D:6YG+U=I;D%N<VE%;F-O9&EN9R]3=6)T>7!E+U1Y<&4Q/CX*96YD;V)J
+MC$U(# @;V)JCP\+T)A<V5&;VYT+T]40T-56M4:6UE<RU2;VUA;B]&;VYT"
+"1289","M1&5S8W)I<'1O<B Q- P(%(O5'EP92]&;VYTB]&:7)S=$-H87(@,S(O3&%S"
+"1290","M=$-H87(@,30X+U=I9'1H<UL*,C4P(# @, P(# @, W-S@@, S,S,@,S,S
+M(# @, R-3 @,S,S(#(U, R-S@*-3 P(#4P, U,# @-3 P(# @, P(#4P
+M, U,# @, R-S@@,C<X(# @, P(# *, W,C(@-C8W(#8V-R W,C(@-C$Q
+M(#4U-B W,C(@-S(R(#,S,R S.#D@, V,3$@, W,C(@-S(RC4U-B P(# @"
+"1291","M-34V(#8Q,2 W,C(@, P(# @-S(R(# @, P(# @, PC @-#0T(#4P, T
+M-#0@-3 P(#0T- S,S,@-3 P(#4P, R-S@@,C<X(#4P, R-S@@-S<X(#4P"
+"1292","M, U,# *-3 P(#4P, S,S,@,S@Y(#(W. U,# @-3 P(#<R,B U,# @-3 P
+M(#0T- P(# @, P(# *, P(# @, P(# @, P(# @, P(# @, P(# @"
+"1293","M, HP(# @,S,S(#0T- T-#1=B]%;F-O9&EN9R]7:6Y!;G-I16YC;V1I;F<O"
+"1294","M4W5B='EP92]4>7!E,3X^F5N9&]B:@HS,2 P(&]B:@H\/]&:6QT97(O1FQA"
+"1295","M=&5$96-O9&4O3&5N9W1H(#,R(# @4CX^<W1R96%MGB<78ZQ#L,@#$1WOL)_
+M &2.6-(E0ZM*[0\08R*&&$3(T+]O($F'#F?)NCO=D\-X&SD4D,\<\44%?&7"
+"1296","M:8U;1H*)YL!=^ EO-K%Q>;A!SN-KT_B6 /D!?Z2&!TM:+EW/)'JE3.^]"
+"1297","M$<3NSSH+D[^2VAQ2G6KYRZG5NE@''W8APUGXM*P&D8%$P_\A13;<$N\06["
+"1298","MRDV7F5N9'-T<F5A;0IE;F1O8FH*,S(@,!O8FH*,34RF5N9&]B:@HY(# @
+M;V)JCP\+T)A<V5&;VYT+T]$3DU$1RM45#$U0W0P,]&;VYT1&5S8W)I<'1O
+M<B X(# @4B]4;U5N:6-O9&4@,S$@,!2+U1Y<&4O1F]N= HO1FER<W1#:&%R"
+"1299","M(#$O3&%S=$-H87(@,2]7:61T:'-;(#(R-ET*+T5N8V]D:6YG(#,S(# @4B]3"
+"1300","M=6)T>7!E+U1R=654>7!E/CX*96YD;V)JC,S(# @;V)JCP\+U1Y<&4O16YC"
+"1301","M;V1I;F<O0F%S945N8V]D:6YG+U=I;D%N<VE%;F-O9&EN9R]$:69F97)E;F-E"
+"1302","M<UL*,2]G,UT^/@IE;F1O8FH*,3$@,!O8FH*/#PO0F%S949O;G0O241!45%$
+M*TAE;'9E=&EC82]&;VYT1&5S8W)I<'1O<B Q, P(%(O5'EP92]&;VYTB]&
+M:7)S=$-H87(@,S(O3&%S=$-H87(@,3$V+U=I9'1H<UL*,C<X(# @, P(# @"
+"1303","M, P(# @, P(# @, P(# @, PC @, P(# @, P(# @, P(# @,C<X"
+"1304","M(# @, P(# @, HP(#8V-R P(#<R,B P(# @, P(# @,C<X(# @, U-38@
+M, P(# *, P(# @, P(# @, P(# @, P(# @, P(# @, HP(#4U-B P
+M(#4P, U-38@-34V(#(W. P(# @,C(R(# @, R,C(@.#,S(#4U-B U-38*"
+"1305","M, P(#,S,R U,# @,C<X70HO16YC;V1I;F<O5VEN06YS:45N8V]D:6YG+U-U
+M8G1Y<&4O5'EP93$^/@IE;F1O8FH*,3(@,!O8FH*/#PO5'EP92]&;VYT1&5S"
+"1306","M8W)I<'1O<B]&;VYT3F%M92]85E!935<K5&EM97,M0F]L9]&;VYT0D)O>%LP
+M(TR,#8@.#$T(#8Y,5TO1FQA9W,@- HO07-C96YT(#8Y,0HO0V%P2&5I9VAT"
+"1307","M(#8Y,0HO1&5S8V5N= M,C VB])=&%L:6-!;F=L92 PB]3=&5M5B Q,C(*
+M+TUI<W-I;F=7:61T: R-3 *+T-H87)3970H+T$O;B]C+V\O9]P+V4O9B]0
+M+W(O9R]&+W,O4B]T+VDO=2])+VPO;2]B+W-P86-E*2]&;VYT1FEL93,@,C,@
+M,!2/CX*96YD;V)JC$T(# @;V)JCP\+U1Y<&4O1F]N=$1E<V-R:7!T;W(O"
+"1308","M1F]N=$YA;64O3U1#0U58*U1I;65S+5)O;6%N+T9O;G10F]X6RTW, M,C$X"
+"1309","M(#<W-2 V.#-=+T9L86=S(#0*+T%S8V5N= V.#,*+T-A<$AE:6=H= V.#,*"
+"1310","M+T1E<V-E;G0@+3(Q. HO271A;&EC06YG;&4@, HO4W1E;58@,3$VB]-:7-S
+M:6YG5VED=&@@,C4PB]#:&%R4V5T*]Z97)O+TPO02]Y+VXO8R]O;F4O0B]Z
+M+V\O9]9+W1W;R].+T,O<75O=&5D8FQL969T+W O92]T:')E92]/+T0O<2]F"
+"1311","M+U O12]R+V<O1B]Q=6]T961B;')I9VAT+W,O:]'+W0O:2]S979E;B]3+T@O
+M=2]J+V5I9VAT+U0O22]V+VLO52]*+W<O;]A+V-O;&]N+W@O;2]B+W-E;6EC"
+"1312","M;VQO;B]A;7!E<G-A;F0O<75O=&5R:6=H=]P87)E;FQE9G0O<&%R96YR:6=H
+M=]S<&%C92]C;VUM82]H>7!H96XO<&5R:6]D+W-L87-H*2]&;VYT1FEL93,@"
+"1313","M,C4@,!2/CX*96YD;V)JC@@,!O8FH*/#PO5'EP92]&;VYT1&5S8W)I<'1O
+M<B]&;VYT3F%M92]/1$Y-1$<K5%0Q-4-T,# O1F]N=$);WA;, P(#0X-2 V
+M,S%=+T9L86=S(#0*+T%S8V5N= V,S$*+T-A<$AE:6=H= V,S$*+T1E<V-E
+M;G0@, HO271A;&EC06YG;&4@, HO4W1E;58@-S(*+TUI<W-I;F=7:61T: U"
+"1314","M,#8*+T9O;G1&:6QE,B R-R P(%(^/@IE;F1O8FH*,3 @,!O8FH*/#PO5'EP
+M92]&;VYT1&5S8W)I<'1O<B]&;VYT3F%M92])1$%1440K2&5L=F5T:6-A+T9O
+M;G10F]X6S @+3(S(#<V,B W-#%=+T9L86=S(#0*+T%S8V5N= W-#$*+T-A
+M<$AE:6=H= W-#$*+T1E<V-E;G0@+3(SB])=&%L:6-!;F=L92 PB]3=&5M"
+"1315","M5B Q,30*+TUI<W-I;F=7:61T: R-S@*+T-H87)3970H+TPO02]N+V,O;R]D
+M+T,O92]F+W(O<R]T+VDO22]L+V$O8V]L;VXO;2]S<&%C92DO1F]N=$9I;&4S
+M(#(Y(# @4CX^F5N9&]B:@HR(# @;V)JCP\+U!R;V1U8V5R*$=03!':&]S"
+"1316","M='-C<FEP= X+C$U*0HO0W)E871I;VY$871E*$0Z,C Q.# Y,3 Q-30T-38I
+MB]-;V1$871E*$0Z,C Q.# Y,3 Q-30T-38IB]4:71L92A-:6-R;W-O9G0@
+M5V]R9 M(#$X(T@3BU#14X@4W-T;F)L92!);G1L(%1H96UA=&EC(T@2G5N"
+"1317","M92D*+T-R96%T;W(H4%-C<FEP=#4N9&QL(%9E<G-I;VX@-2XR+C(IB]!=71H
+M;W(H934P,S0V-2D^/F5N9&]B:@IX<F5FC @,S0*,# P,# P,# P, V-34S
+M-2!F( HP,# P,# X.38Q(# P,# P(&X@C P,# P,C@W,C<@,# P,# @;B *"
+"1318","M,# P,# P.#@X-B P,# P,!N( HP,# P,# X-38T(# P,# P(&X@C P,# P"
+"1319","M,# P,34@,# P,# @;B *,# P,# P-C,Y,B P,# P,!N( HP,# P,# Y,# Y
+M(# P,# P(&X@C P,# P,C@R-S8@,# P,# @;B *,# P,# R-CDU,2 P,# P"
+"1320","M,!N( HP,# P,#(X-#<P(# P,# P(&X@C P,# P,C<Q.3@@,# P,# @;B *"
+"1321","M,# P,# R-S4V,2 P,# P,!N( HP,# P,#(U.#$Y(# P,# P(&X@C P,# P"
+"1322","M,C<X,C,@,# P,# @;B *,# P,# R-C$Y,2 P,# P,!N( HP,# P,# Y,#4P
+M(# P,# P(&X@C P,# P,#DP.# @,# P,# @;B *,# P,# P.#<R- P,# P
+M,!N( HP,# P,# V-#$R(# P,# P(&X@C P,# P,#@U-#,@,# P,# @;B *
+M,# P,# P.3$T,R P,# P,!N( HP,# P,# Y,3<S(# P,# P(&X@C P,# P
+M,#DR,C4@,# P,# @;B *,# P,# Q,38Y, P,# P,!N( HP,# P,#$Q-S$Q
+M(# P,# P(&X@C P,# P,3@P,3D@,# P,# @;B *,# P,# Q.# T, P,# P
+M,!N( HP,# P,#(T,C(S(# P,# P(&X@C P,# P,C0R-#0@,# P,# @;B *
+M,# P,# R-3<Y. P,# P,!N( HP,# P,#(V-S X(# P,# P(&X@C P,# P"
+"1323","M,C8Y,S$@,# P,# @;B *,# P,# R-S$Q-2 P,# P,!N( IT<F%I;&5RCP\"
+"1324","M(]3:7IE(#,T(]2;V]T(#$@,!2(]);F9O(#(@,!2B])1!;*$(1 ZCI
+MI3_R.S/W%#]ED%QR*2A$0.HZ:4_\CLS]Q0_99!<<BE=CX^G-T87)T>')E"
+"1325","..9@HR.#DU-0HE)45/1@H!"
+"1326","end"
+"1327","</PDF>"
+"1328","</TEXT>"
+"1329","</DOCUMENT>"
+"1330","</SEC-DOCUMENT>"

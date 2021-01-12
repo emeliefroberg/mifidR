@@ -1,0 +1,871 @@
+"","V1"
+"1","<SEC-DOCUMENT>0000837351-18-000005.txt : 20181211"
+"2","<SEC-HEADER>0000837351-18-000005.hdr.sgml : 20181211"
+"3","<ACCEPTANCE-DATETIME>20181211162413"
+"4","ACCESSION NUMBER:		0000837351-18-000005"
+"5","CONFORMED SUBMISSION TYPE:	N-CEN"
+"6","PUBLIC DOCUMENT COUNT:		3"
+"7","CONFORMED PERIOD OF REPORT:	20180930"
+"8","FILED AS OF DATE:		20181211"
+"9","DATE AS OF CHANGE:		20181211"
+"10","EFFECTIVENESS DATE:		20181211"
+"11","FILER:"
+"12","	COMPANY DATA:	"
+"13","		COMPANY CONFORMED NAME:			LEE FINANCIAL MUTUAL FUND, INC."
+"14","		CENTRAL INDEX KEY:			0000837351"
+"15","		IRS NUMBER:				000000000"
+"16","		STATE OF INCORPORATION:			MD"
+"17","		FISCAL YEAR END:			0930"
+"18","	FILING VALUES:"
+"19","		FORM TYPE:		N-CEN"
+"20","		SEC ACT:		1940 Act"
+"21","		SEC FILE NUMBER:	811-05631"
+"22","		FILM NUMBER:		181229012"
+"23","	BUSINESS ADDRESS:	"
+"24","		STREET 1:		3113 OLU STREET"
+"25","		CITY:			HONOLULU"
+"26","		STATE:			HI"
+"27","		ZIP:			96816"
+"28","		BUSINESS PHONE:		8089888088"
+"29","	MAIL ADDRESS:	"
+"30","		STREET 1:		3113 OLU STREET"
+"31","		CITY:			HONOLULU"
+"32","		STATE:			HI"
+"33","		ZIP:			96816"
+"34","	FORMER COMPANY:	"
+"35","		FORMER CONFORMED NAME:	FIRST PACIFIC MUTUAL FUND INC /HI/"
+"36","		DATE OF NAME CHANGE:	19920703"
+"37","<SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"38","<EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"39","<SERIES>"
+"40","<OWNER-CIK>0000837351"
+"41","<SERIES-ID>S000004837"
+"42","<SERIES-NAME>Hawaii Municipal Fund"
+"43","</SERIES>"
+"44","</EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"45","</SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"46","</SEC-HEADER>"
+"47","<DOCUMENT>"
+"48","<TYPE>N-CEN"
+"49","<SEQUENCE>1"
+"50","<FILENAME>primary_doc.xml"
+"51","<TEXT>"
+"52","<XML>"
+"53","<?xml version=1.0 encoding=UTF-8?>"
+"54","<edgarSubmission xmlns=http://www.sec.gov/edgar/ncen xmlns:com=http://www.sec.gov/edgar/common>"
+"55","  <schemaVersion>X0101</schemaVersion>"
+"56","  <headerData>"
+"57","    <submissionType>N-CEN</submissionType>"
+"58","    <filerInfo>"
+"59","      <liveTestFlag>LIVE</liveTestFlag>"
+"60","      <filer>"
+"61","        <issuerCredentials>"
+"62","          <cik>0000837351</cik>"
+"63","          <ccc>XXXXXXXX</ccc>"
+"64","        </issuerCredentials>"
+"65","      </filer>"
+"66","      <flags>"
+"67","        <returnCopyFlag>false</returnCopyFlag>"
+"68","        <overrideInternetFlag>false</overrideInternetFlag>"
+"69","        <confirmingCopyFlag>false</confirmingCopyFlag>"
+"70","      </flags>"
+"71","      <investmentCompanyType>N-1A</investmentCompanyType>"
+"72","    </filerInfo>"
+"73","    <seriesClass>"
+"74","      <reportSeriesClass>"
+"75","        <rptSeriesClassInfo>"
+"76","          <seriesId>S000004837</seriesId>"
+"77","          <includeAllClassesFlag>true</includeAllClassesFlag>"
+"78","        </rptSeriesClassInfo>"
+"79","      </reportSeriesClass>"
+"80","    </seriesClass>"
+"81","  </headerData>"
+"82","  <formData>"
+"83","    <generalInfo isReportPeriodLt12=N reportEndingPeriod=2018-09-30/>"
+"84","    <registrantInfo>"
+"85","      <registrantFullName>LEE FINANCIAL MUTUAL FUND, INC.</registrantFullName>"
+"86","      <investmentCompFileNo>811-05631</investmentCompFileNo>"
+"87","      <registrantCik>0000837351</registrantCik>"
+"88","      <registrantLei>5493001RN1JJCPOIBO62</registrantLei>"
+"89","      <registrantstreet1>3113 OLU ST</registrantstreet1>"
+"90","      <registrantcity>HONOLULU</registrantcity>"
+"91","      <registrantzipCode>96816-1425</registrantzipCode>"
+"92","      <registrantstate>US-HI</registrantstate>"
+"93","      <registrantcountry>US</registrantcountry>"
+"94","      <registrantphoneNumber>808-988-8088</registrantphoneNumber>"
+"95","      <websites>"
+"96","        <website webpage=WWW.LEEHAWAII.COM/>"
+"97","      </websites>"
+"98","      <locationBooksRecords>"
+"99","        <locationBooksRecord>"
+"100","          <officeName>LEE FINANCIAL GROUP HAWAII, INC.</officeName>"
+"101","          <officeAddress1>3113 OLU ST</officeAddress1>"
+"102","          <officeCity>HONOLULU</officeCity>"
+"103","          <officeStateCountry officeState=US-HI officeCountry=US/>"
+"104","          <officeRecordsZipCode>96816-1425</officeRecordsZipCode>"
+"105","          <officePhone>808-988-8088</officePhone>"
+"106","          <booksRecordsDesc>MUTUAL FUND BOOKS AND RECORDS</booksRecordsDesc>"
+"107","        </locationBooksRecord>"
+"108","        <locationBooksRecord>"
+"109","          <officeName>PRO-FILE RECORD SYSTEMS, INC.</officeName>"
+"110","          <officeAddress1>91-242 KALAELOA BLVD</officeAddress1>"
+"111","          <officeCity>KAPOLEI</officeCity>"
+"112","          <officeStateCountry officeState=US-HI officeCountry=US/>"
+"113","          <officeRecordsZipCode>96707-1820</officeRecordsZipCode>"
+"114","          <officePhone>808-682-6403</officePhone>"
+"115","          <booksRecordsDesc>VARIOUS MUTUAL FUND BOOKS AND RECORDS</booksRecordsDesc>"
+"116","        </locationBooksRecord>"
+"117","      </locationBooksRecords>"
+"118","      <isRegistrantFirstFiling>Y</isRegistrantFirstFiling>"
+"119","      <isRegistrantLastFiling>N</isRegistrantLastFiling>"
+"120","      <isRegistrantFamilyInvComp>N</isRegistrantFamilyInvComp>"
+"121","      <registrantClassificationType>N-1A</registrantClassificationType>"
+"122","      <totalSeries>1</totalSeries>"
+"123","      <isSecuritiesActRegistration>Y</isSecuritiesActRegistration>"
+"124","      <directors>"
+"125","        <director>"
+"126","          <directorName>TERRENCE K.H. LEE</directorName>"
+"127","          <crdNumber>001053119</crdNumber>"
+"128","          <isDirectorInterestedPerson>Y</isDirectorInterestedPerson>"
+"129","          <fileNumbers>"
+"130","            <fileNumberInfo fileNumber=N/A/>"
+"131","          </fileNumbers>"
+"132","        </director>"
+"133","        <director>"
+"134","          <directorName>CLAYTON W.H. CHOW</directorName>"
+"135","          <crdNumber>N/A</crdNumber>"
+"136","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"137","          <fileNumbers>"
+"138","            <fileNumberInfo fileNumber=N/A/>"
+"139","          </fileNumbers>"
+"140","        </director>"
+"141","        <director>"
+"142","          <directorName>LYNDEN M. KEALA</directorName>"
+"143","          <crdNumber>N/A</crdNumber>"
+"144","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"145","          <fileNumbers>"
+"146","            <fileNumberInfo fileNumber=N/A/>"
+"147","          </fileNumbers>"
+"148","        </director>"
+"149","        <director>"
+"150","          <directorName>KAREN T. NAKAMURA</directorName>"
+"151","          <crdNumber>N/A</crdNumber>"
+"152","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"153","          <fileNumbers>"
+"154","            <fileNumberInfo fileNumber=N/A/>"
+"155","          </fileNumbers>"
+"156","        </director>"
+"157","        <director>"
+"158","          <directorName>KIM F. SCOGGINS</directorName>"
+"159","          <crdNumber>N/A</crdNumber>"
+"160","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"161","          <fileNumbers>"
+"162","            <fileNumberInfo fileNumber=N/A/>"
+"163","          </fileNumbers>"
+"164","        </director>"
+"165","      </directors>"
+"166","      <chiefComplianceOfficers>"
+"167","        <chiefComplianceOfficer>"
+"168","          <ccoName>NORA B. FOLEY</ccoName>"
+"169","          <crdNumber>001102287</crdNumber>"
+"170","          <ccoStreet1>3113 OLU ST</ccoStreet1>"
+"171","          <ccoCity>HONOLULU</ccoCity>"
+"172","          <ccoStateCountry ccoCountry=US ccoState=US-HI/>"
+"173","          <ccoZipCode>96816-1425</ccoZipCode>"
+"174","          <ccoPhone>XXXXXX</ccoPhone>"
+"175","          <isCcoChangedSinceLastFiling>N</isCcoChangedSinceLastFiling>"
+"176","          <ccoEmployers>"
+"177","            <ccoEmployer ccoEmployerId=N/A ccoEmployerName=N/A/>"
+"178","          </ccoEmployers>"
+"179","        </chiefComplianceOfficer>"
+"180","      </chiefComplianceOfficers>"
+"181","      <isRegistrantSubmittedMatter>N</isRegistrantSubmittedMatter>"
+"182","      <isPreviousLegalProceeding>N</isPreviousLegalProceeding>"
+"183","      <isPreviousProceedingTerminated>N</isPreviousProceedingTerminated>"
+"184","      <isClaimFiled>N</isClaimFiled>"
+"185","      <coveredByInsurancePolicy isCoveredByInsurancePolicy=Y isClaimFiledDuringPeriod=N/>"
+"186","      <isFinancialSupportDuringPeriod>N</isFinancialSupportDuringPeriod>"
+"187","      <isExemptionFromAct>N</isExemptionFromAct>"
+"188","      <principalUnderwriters>"
+"189","        <principalUnderwriter>"
+"190","          <principalUnderwriterName>LEE FINANCIAL SECURITIES, INC.</principalUnderwriterName>"
+"191","          <principalUnderwriterFileNumber>008-40219</principalUnderwriterFileNumber>"
+"192","          <principalUnderwriterCrdNumber>000023134</principalUnderwriterCrdNumber>"
+"193","          <principalUnderwriterLei>N/A</principalUnderwriterLei>"
+"194","          <principalUnderWriterStateCountry principalUnderWriterState=US-HI principalUnderWriterCountry=US/>"
+"195","          <isPrincipalUnderwriterAffiliatedWithRegistrant>Y</isPrincipalUnderwriterAffiliatedWithRegistrant>"
+"196","        </principalUnderwriter>"
+"197","      </principalUnderwriters>"
+"198","      <isUnderwriterHiredOrTerminated>N</isUnderwriterHiredOrTerminated>"
+"199","      <publicAccountants>"
+"200","        <publicAccountant>"
+"201","          <publicAccountantName>TAIT, WELLER &amp; BAKER LLP</publicAccountantName>"
+"202","          <pcaobNumber>445</pcaobNumber>"
+"203","          <publicAccountantLei>N/A</publicAccountantLei>"
+"204","          <publicAccountantStateCountry publicAccountantState=US-PA publicAccountantCountry=US/>"
+"205","        </publicAccountant>"
+"206","      </publicAccountants>"
+"207","      <isPublicAccountantChanged>N</isPublicAccountantChanged>"
+"208","      <isMaterialWeakness>N</isMaterialWeakness>"
+"209","      <isOpinionOffered>N</isOpinionOffered>"
+"210","      <isMaterialChange>N</isMaterialChange>"
+"211","      <isAccountingPrincipleChange>N</isAccountingPrincipleChange>"
+"212","      <isPaymentErrorInNetAssetValue>N</isPaymentErrorInNetAssetValue>"
+"213","      <isPaymentDividend>N</isPaymentDividend>"
+"214","    </registrantInfo>"
+"215","    <managementInvestmentQuestionSeriesInfo>"
+"216","      <managementInvestmentQuestion>"
+"217","        <mgmtInvFundName>HAWAII MUNICIPAL FUND</mgmtInvFundName>"
+"218","        <mgmtInvSeriesId>S000004837</mgmtInvSeriesId>"
+"219","        <mgmtInvLei>5493001RN1JJCPOIBO62</mgmtInvLei>"
+"220","        <isFirstFilingByFund>Y</isFirstFilingByFund>"
+"221","        <numAuthorizedClass>1</numAuthorizedClass>"
+"222","        <numAddedClass>0</numAddedClass>"
+"223","        <numTerminatedClass>0</numTerminatedClass>"
+"224","        <sharesOutstandings>"
+"225","          <sharesOutstanding sharesOutstandingClassName=HAWAII MUNICIPAL FUND INVESTOR CLASS sharesOutstandingClassId=C000013095 sharesOutstandingTickerSymbol=SURFX/>"
+"226","        </sharesOutstandings>"
+"227","        <fundType>N/A</fundType>"
+"228","        <isNonDiversifiedCompany>Y</isNonDiversifiedCompany>"
+"229","        <isForeignSubsidiary>N</isForeignSubsidiary>"
+"230","        <isFundSecuritiesLending>N</isFundSecuritiesLending>"
+"231","        <didFundLendSecurities>N</didFundLendSecurities>"
+"232","        <paymentToAgentManagerType>N/A</paymentToAgentManagerType>"
+"233","        <avgPortfolioSecuritiesValue>N/A</avgPortfolioSecuritiesValue>"
+"234","        <netIncomeSecuritiesLending>N/A</netIncomeSecuritiesLending>"
+"235","        <relyOnRuleType>N/A</relyOnRuleType>"
+"236","        <isExpenseLimitationInPlace>N</isExpenseLimitationInPlace>"
+"237","        <isExpenseReducedOrWaived>N</isExpenseReducedOrWaived>"
+"238","        <isFeesWaivedRecoupable>N</isFeesWaivedRecoupable>"
+"239","        <isExpenseWaivedRecoupable>N</isExpenseWaivedRecoupable>"
+"240","        <investmentAdvisers>"
+"241","          <investmentAdviser>"
+"242","            <investmentAdviserName>LEE FINANCIAL GROUP HAWAII, INC.</investmentAdviserName>"
+"243","            <investmentAdviserFileNo>801-33016</investmentAdviserFileNo>"
+"244","            <investmentAdviserCrdNo>000104781</investmentAdviserCrdNo>"
+"245","            <investmentAdviserLei>549300J165C0QJS28M37</investmentAdviserLei>"
+"246","            <investmentAdviserStateCountry investmentAdviserState=US-HI investmentAdviserCountry=US/>"
+"247","            <isInvestmentAdviserHired>N</isInvestmentAdviserHired>"
+"248","          </investmentAdviser>"
+"249","        </investmentAdvisers>"
+"250","        <transferAgents>"
+"251","          <transferAgent>"
+"252","            <transferAgentName>LEE FINANCIAL RECORDKEEPING, INC.</transferAgentName>"
+"253","            <transferAgentFileNo>084-05507</transferAgentFileNo>"
+"254","            <transferAgentLei>N/A</transferAgentLei>"
+"255","            <transferAgentStateCountry transferAgentState=US-HI transferAgentCountry=US/>"
+"256","            <isTransferAgentAffiliated>Y</isTransferAgentAffiliated>"
+"257","            <isTransferAgentSubAgent>N</isTransferAgentSubAgent>"
+"258","          </transferAgent>"
+"259","          <transferAgent>"
+"260","            <transferAgentName>ULTIMUS FUND SOLUTIONS, LLC</transferAgentName>"
+"261","            <transferAgentFileNo>084-05829</transferAgentFileNo>"
+"262","            <transferAgentLei>N/A</transferAgentLei>"
+"263","            <transferAgentStateCountry transferAgentState=US-OH transferAgentCountry=US/>"
+"264","            <isTransferAgentAffiliated>N</isTransferAgentAffiliated>"
+"265","            <isTransferAgentSubAgent>Y</isTransferAgentSubAgent>"
+"266","          </transferAgent>"
+"267","        </transferAgents>"
+"268","        <isTransferAgentHiredOrTerminated>N</isTransferAgentHiredOrTerminated>"
+"269","        <pricingServices>"
+"270","          <pricingService>"
+"271","            <pricingServiceName>INTERCONTINENTAL EXCHANGE, INC.</pricingServiceName>"
+"272","            <pricingServiceLei>54930000F4ZO33MV32P92</pricingServiceLei>"
+"273","            <pricingServiceStateCountry pricingServiceState=US-GA pricingServiceCountry=US/>"
+"274","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"275","          </pricingService>"
+"276","        </pricingServices>"
+"277","        <isPricingServiceHiredOrTerminated>N</isPricingServiceHiredOrTerminated>"
+"278","        <custodians>"
+"279","          <custodian>"
+"280","            <custodianName>MUFG UNION BANK N.A.</custodianName>"
+"281","            <custodianLei>OX3PU53ZLPQKJ4700D47</custodianLei>"
+"282","            <custodianStateCountry custodianCountry=US custodianState=US-CA/>"
+"283","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"284","            <isSubCustodian>N</isSubCustodian>"
+"285","            <custodyType>Bank - section 17(f)(1) (15 U.S.C. 80a-17(f)(1))</custodyType>"
+"286","          </custodian>"
+"287","        </custodians>"
+"288","        <isCustodianHiredOrTerminated>N</isCustodianHiredOrTerminated>"
+"289","        <shareholderServicingAgents>"
+"290","          <shareholderServicingAgent>"
+"291","            <shareholderServiceAgentName>LEE FINANCIAL RECORDKEEPING, INC.</shareholderServiceAgentName>"
+"292","            <shareholderServiceAgentLei>N/A</shareholderServiceAgentLei>"
+"293","            <shareholderServiceIdNumberDesc>SEC FILE NUMBER: 084-05507</shareholderServiceIdNumberDesc>"
+"294","            <shareholderServiceAgentStateCountry shareholderServiceAgentState=US-HI shareholderServiceAgentCountry=US/>"
+"295","            <isShareholderServiceAgentAffiliated>Y</isShareholderServiceAgentAffiliated>"
+"296","            <isShareholderServiceAgentSubshare>N</isShareholderServiceAgentSubshare>"
+"297","          </shareholderServicingAgent>"
+"298","        </shareholderServicingAgents>"
+"299","        <isShareholderServiceHiredTerminated>N</isShareholderServiceHiredTerminated>"
+"300","        <admins>"
+"301","          <admin>"
+"302","            <adminName>LEE FINANCIAL GROUP HAWAII, INC.</adminName>"
+"303","            <adminLei>549300J165C0QJS28M37</adminLei>"
+"304","            <adminStateCountry adminCountry=US adminState=US-HI/>"
+"305","            <isAdminAffiliated>Y</isAdminAffiliated>"
+"306","            <isAdminSubAdmin>N</isAdminSubAdmin>"
+"307","          </admin>"
+"308","        </admins>"
+"309","        <isAdminHiredOrTerminated>N</isAdminHiredOrTerminated>"
+"310","        <brokerDealers>"
+"311","          <brokerDealer>"
+"312","            <brokerDealerName>LEE FINANCIAL SECURITIES, INC.</brokerDealerName>"
+"313","            <brokerDealerFileNo>008-40219</brokerDealerFileNo>"
+"314","            <brokerDealerCrdNo>000023134</brokerDealerCrdNo>"
+"315","            <brokerDealerLei>N/A</brokerDealerLei>"
+"316","            <brokerDealerStateCountry brokerDealerState=US-HI brokerDealerCountry=US/>"
+"317","            <brokerDealerCommission>0</brokerDealerCommission>"
+"318","          </brokerDealer>"
+"319","        </brokerDealers>"
+"320","        <aggregateCommission>0</aggregateCommission>"
+"321","        <principalTransactions>"
+"322","          <principalTransaction>"
+"323","            <principalName>BOK FINANCIAL SECURITIES, INC.</principalName>"
+"324","            <principalFileNo>008-35381</principalFileNo>"
+"325","            <principalCrdNo>000017530</principalCrdNo>"
+"326","            <principalLei>5493008UZFTI4G7UQ733</principalLei>"
+"327","            <principalStateCountry principalCountry=US principalState=US-OK/>"
+"328","            <principalTotalPurchaseSale>21055595</principalTotalPurchaseSale>"
+"329","          </principalTransaction>"
+"330","          <principalTransaction>"
+"331","            <principalName>STIFEL, NICOLAUS &amp; COMPANY, INC.</principalName>"
+"332","            <principalFileNo>008-01447</principalFileNo>"
+"333","            <principalCrdNo>000000793</principalCrdNo>"
+"334","            <principalLei>5WUVMA08EYG4KEUPW589</principalLei>"
+"335","            <principalStateCountry principalCountry=US principalState=US-MO/>"
+"336","            <principalTotalPurchaseSale>10673390</principalTotalPurchaseSale>"
+"337","          </principalTransaction>"
+"338","        </principalTransactions>"
+"339","        <principalAggregatePurchase>31728985</principalAggregatePurchase>"
+"340","        <isBrokerageResearchPayment>N</isBrokerageResearchPayment>"
+"341","        <mnthlyAvgNetAssets>162246671</mnthlyAvgNetAssets>"
+"342","        <hasLineOfCredit>N</hasLineOfCredit>"
+"343","        <isInterfundLending>N</isInterfundLending>"
+"344","        <isInterfundBorrowing>N</isInterfundBorrowing>"
+"345","        <isSwingPricing>N</isSwingPricing>"
+"346","      </managementInvestmentQuestion>"
+"347","    </managementInvestmentQuestionSeriesInfo>"
+"348","    <attachmentsTab>"
+"349","      <isLegalProceedings>false</isLegalProceedings>"
+"350","      <isProvisionFinancialSupport>false</isProvisionFinancialSupport>"
+"351","      <isIPAReportInternalControl>true</isIPAReportInternalControl>"
+"352","      <isChangeAccPrinciples>false</isChangeAccPrinciples>"
+"353","      <isInfoRequiredEO>false</isInfoRequiredEO>"
+"354","      <isOtherInfoRequired>false</isOtherInfoRequired>"
+"355","    </attachmentsTab>"
+"356","    <signature registrantSignedName=LEE FINANCIAL MUTUAL FUND, INC. signature=/S/ TERRENCE K.H. LEE title=CEO signedDate=2018-12-11/>"
+"357","  </formData>"
+"358","</edgarSubmission>"
+"359","</XML>"
+"360","</TEXT>"
+"361","</DOCUMENT>"
+"362","<DOCUMENT>"
+"363","<TYPE>INTERNAL CONTROL RPT"
+"364","<SEQUENCE>2"
+"365","<FILENAME>fp0037598_g1aii.htm"
+"366","<TEXT>"
+"367","<HTML>"
+"368","<HEAD>"
+"369","     <TITLE></TITLE>"
+"370","</HEAD>"
+"371","<BODY STYLE=font: 11pt Times New Roman, Times, Serif>"
+"372","<P STYLE=margin: 0><IMG SRC=image_001.jpg ALT= STYLE=height: 100; width: 850></P>"
+"373","<p></P>"
+"374","<P STYLE=font: bold 11pt Times New Roman, Times, Serif; margin: 0; text-align: center>&nbsp;</P>"
+"375","<P STYLE=font: bold 11pt Times New Roman, Times, Serif; margin: 0; text-align: center>REPORT OF INDEPENDENT REGISTERED PUBLIC"
+"376","ACCOUNTING FIRM</P>"
+"377","<P STYLE=font: bold 11pt Times New Roman, Times, Serif; margin: 0; text-align: center>&nbsp;</P>"
+"378","<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify><B>Shareholders and Board of Directors</B></P>"
+"379","<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify><B>Lee Financial Mutual Fund, Inc.</B></P>"
+"380","<P STYLE=font: bold 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>Honolulu, Hawaii</P>"
+"381","<P STYLE=font: bold 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>"
+"382","<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>In planning and performing our audit of the"
+"383","financial statements of Hawaii Municipal Fund as of and for the year ended September 30, 2018, in accordance with the standards"
+"384","of the Public Company Accounting Oversight Board (United States), we considered its internal control over financial reporting,"
+"385","including control activities for safeguarding securities, as a basis for designing our auditing procedures for the purpose of expressing"
+"386","our opinion on the financial statements and to comply with the requirements of Form N-CEN, but not for the purpose of expressing"
+"387","an opinion on the effectiveness of the Fund&rsquo;s internal control over financial reporting. Accordingly, we express no such"
+"388","opinion.</P>"
+"389","<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>"
+"390","<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>The management of the Fund is responsible for"
+"391","establishing and maintaining effective internal control over financial reporting. In fulfilling this responsibility, estimates"
+"392","and judgments by management are required to assess the expected benefits and related costs of controls. A company&rsquo;s internal"
+"393","control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting"
+"394","and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles."
+"395","A company&rsquo;s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance"
+"396","of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company;"
+"397","(2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance"
+"398","with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance"
+"399","with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely"
+"400","detection of unauthorized acquisition, use or disposition of a company&rsquo;s assets that could have a material effect on the"
+"401","financial statements.</P>"
+"402","<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>"
+"403","<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>Because of inherent limitations, internal control"
+"404","over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future"
+"405","periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance"
+"406","with the policies or procedures may deteriorate.</P>"
+"407","<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>"
+"408","<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>A deficiency in internal control over financial"
+"409","reporting exists when the design or operation of a control does not allow management or employees, in the normal course of performing"
+"410","their assigned functions, to prevent or detect misstatements on a timely basis. A material weakness is a deficiency, or combination"
+"411","of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement"
+"412","of the company&rsquo;s annual or interim financial statements will not be prevented or detected on a timely basis.</P>"
+"413","<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>"
+"414","<!-- Field: Page; Sequence: 1 -->"
+"415","    <DIV STYLE=margin-bottom: 6pt><P STYLE=margin: 0pt; font: 9pt Times New Roman, Times, Serif>&nbsp;</P></DIV>"
+"416","    <DIV STYLE=page-break-before: always; margin-top: 6pt><P STYLE=margin: 0pt>&nbsp;</P></DIV>"
+"417","    <!-- Field: /Page -->"
+"418","<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify><B>Shareholders and Board of Directors</B></P>"
+"419","<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify><B>Lee Financial Mutual Fund, Inc.</B></P>"
+"420","<P STYLE=font: bold 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>Page Two</P>"
+"421","<P STYLE=font: bold 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>"
+"422","<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>Our consideration of the Fund&rsquo;s internal"
+"423","control over financial reporting was for the limited purpose described in the first paragraph and would not necessarily disclose"
+"424","all deficiencies in internal control that might be material weaknesses under standards established by the Public Company Accounting"
+"425","Oversight Board (United States). However, we noted no deficiencies in the Fund&rsquo;s internal control over financial reporting"
+"426","and its operation, including controls for safeguarding securities, which we consider to be material weaknesses, as defined above,"
+"427","as of September 30, 2018.</P>"
+"428","<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>"
+"429","<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>This report is intended solely for the information"
+"430","and use of management, Shareholders and Board of Directors of Lee Financial Mutual Fund, Inc. and the Securities and Exchange Commission,"
+"431","and is not intended to be and should not be used by anyone other than these specified parties.</P>"
+"432","<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify>&nbsp;</P>"
+"433","</P>"
+"434","<TABLE CELLPADDING=0 CELLSPACING=0 STYLE=border-collapse: collapse; font: 11pt Times New Roman, Times, Serif; width: 100%>"
+"435","<TR STYLE=vertical-align: top; text-align: left>"
+"436","    <TD STYLE=width: 50%>&nbsp;</TD>"
+"437","    <TD STYLE=width: 50%><B>TAIT, WELLER &amp; BAKER LLP</B></TD></TR>"
+"438","<TR STYLE=vertical-align: top; text-align: left>"
+"439","    <TD>&nbsp;</TD>"
+"440","    <TD>&nbsp;</TD></TR>"
+"441","<TR STYLE=vertical-align: top; text-align: left>"
+"442","    <TD><B>Philadelphia, Pennsylvania</B></TD>"
+"443","    <TD>&nbsp;</TD></TR>"
+"444","<TR STYLE=vertical-align: top; text-align: left>"
+"445","    <TD><B>November 21, 2018</TD>"
+"446","    <TD>&nbsp;</TD></TR>"
+"447","</TABLE>"
+"448","<P STYLE=font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify></p>"
+"449","</BODY>"
+"450","</HTML>"
+"451","</TEXT>"
+"452","</DOCUMENT>"
+"453","<DOCUMENT>"
+"454","<TYPE>GRAPHIC"
+"455","<SEQUENCE>3"
+"456","<FILENAME>image_001.jpg"
+"457","<TEXT>"
+"458","begin 644 image_001.jpg"
+"459","M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)XG((L(QP<*#<I+# Q-#0T'R<Y/3@R/XS-#+_"
+"460","MVP!# 0D)0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1 #1!O # 2(  A$! Q$!_\0"
+"461","M'P   04! 0$! 0$           $ P0%!@<(0H+_\0 M1   @$# P($ P4%"
+"462","M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*"
+"463","M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U"
+"464","M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&"
+"465","MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!"
+"466","M 0$! 0        $ P0%!@<(0H+_\0 M1$  @$! 0#! <%! 0  0)W  $"
+"467","M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!2,S4O 58G+1A8D-.$E\1<8&1HF"
+"468","M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$"
+"469","MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4"
+"470","MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#W^BBB@ HH"
+"471","MHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB"
+"472","M@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ****
+MBBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH *
+M*** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HH
+MHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB
+M@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ****"
+"473","MBBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH *"
+"474","M*** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HH"
+"475","MHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB"
+"476","M@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ****
+MBBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH *
+M*** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HH
+MHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB
+M@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ****"
+"477","MBBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH *"
+"478","M*** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HH"
+"479","MHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB"
+"480","M@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ****
+MBBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH *
+M*** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HH
+MHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB
+M@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ****"
+"481","MBBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH *"
+"482","M*** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HH"
+"483","MHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB"
+"484","M@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ****
+MBBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH *
+M*** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HH
+MHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB
+M@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ****"
+"485","MBBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH *"
+"486","M*** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HH"
+"487","MHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB"
+"488","M@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ****
+MBBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH *
+M*** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HH
+MHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB
+M@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ****"
+"489","MBBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH *"
+"490","M*** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HH"
+"491","MHH **** BBB@ HHHH **** BBB@ HHHH **** BHDN())'CCFC9T.&56!
+M*GW':I:2:>P!1113 **** BBB@ HHHH **** BBB@ HHHH **** BBB@"
+"492","MHHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** B"
+"493","MBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ***
+M* BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH
+M **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@
+MHHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** B
+MBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ***"
+"494","M* BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH"
+"495","M **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBL;Q"
+"496","M9J8T?PGJE_G#16[[#_MD87]2*<5=I(4G9-LV%8,H92#T(/6EKRKP;X0\:IH
+M-MYWBB;3(N8K00+,R*>F2WW?IS^%:VLZ'XITO0]0U%?&]U(;6VDG&RC&[:
+MI;&>V<5LZ45+E4E^)BJLG'F<7^!W]%>#^!_$?B[Q?K[::_B:>U40-+O6WC<\
+M$#&,#UKT5OGBDJ=OCNZ#=B;&,C^=$Z'LWRRDOQ%?VBYHQ?X'9T5Y +/Q9;
+M?$O0-)U_6&O[*25KF!E 1',:LW*@=00/7J.:]?J*E/DMK>Y=.ISWTM8***\K
+M^+_C&_T46FCZ7=>1)<Q-)<.G$BKD!0I_ASAO?BBE3=22B@JU%3BY,]4HKE?A
+M[XD?Q/X4BO9V!NDE>*8#L0<C_P =*UU53*+C)Q?0J,E**DNH4456O[5[VQFM
+MH[J:U>08$\! =/<9!%2BF6:*\1\?ZKXM\$ZE:P6_B6ZN+6XC+QM+''O!!P03
+MMYZCGW]J[7PCI&NZAI&GZQJOB?4'DN(1,+>)8U0*PRN?EY.#6\J'+!3<E9^"
+"497","MIA&OS3<%%W7H=S2%@ 2 3T&>M+7F7Q%75]9\8:#HF@S-#>P(]V\RMM$2DA0
+MQ([<,/?=CO6=.'/*U[&E2?)&]KGIM%<3#X3\6,>=X[N_?98QX_4US'CV7Q
+M9X,TNVO8_%US=&:?RBC6L:8^4G.>?2KC14I<JDK_ #(E6<8\SB[?(]=HKS+P
+MC9>*O$WABSUA_&=U;M<;_P!TMI&P7:[+U_X#FM.[\*>- F;/QU(SX^[-9( 3
+M]1G^5#I)/E<E^(*JVN91?X'=45YG\,AK,WB+Q')X@N7N-0M3%:Y8YC+DXXP"
+"498","M >,5Z945(<DN6]RZ<^>/-:QS>C?\C%JO_7;_P*KI*YO1O^1BU7_KM_\56]"
+"499","M=0&YM)8%GE@,BE1+0'3/<9!&?PKBP?\/YO\V*&Q-17CGQNO&/@U[:XM/$="
+"500","MU<:=.=@:6*/?&X&=I(7!R,D'V-=7X 6\UG1=/U^Z\0ZC=RN&$ENWEK#N&5(*"
+"501","MA<\=<Y]*]&5&T.>^A$:UY\EM3N**X3QKIGB33]*OM7T+Q%?!HMT[VDB1NNSJ"
+"502","M0AVY  ['/2N=^&>L:OXOFO!J7B6_66T:-U@A6)0ZY.<G821D8(&.OO0J-X.:"
+"503","M>B!UK34&M6>NT5RWB^TN+73-0UJ#7]1L6M[9F6*,QF+<!QE64G).!UKF? EI"
+"504","MXL\3:/\ VIJ_B6^M[68D01VZ1J[ <;BQ4X&>G':I5).'/<IU6I\EM3T^BN0\"
+"505","M=1W>GZ%?:W:Z_?64EM;C;$@C:)VSQD%<Y)(&0?PKGO!5AXS\1:<FHZQXEN[:"
+"506","MRGC#0I;I&)&&3R25^48&1USD4*E>'/?03JVGR6U/4**0#@9)P.I[UP/CRRU
+M_2M*U#7M(\27D7E8D:T=$9 N0%XXQU[U,(\TN6]BYRY8\UKG?T5X;X#UOQ="
+"507","MXSU:XLY/%$]JL,'F[EMXW)^8#'0>M>@?\(IXH_Z'J[_\ 8JTG0Y'RRDK_,SA"
+"508","M7YUS1B[?([*BO)M4?QOX4\2Z(;_Q VH:3=7T4#NL*H>6&58 <9&<8)Z&O6:B"
+"509","M=/EL[WN7IS75K6BBN0\4Z+K?V>_P!4TGQ)?6TR1&5+4JC1?*OW0,C..O/
+M)J8Q4G9NQ4I.*NE<Z^BOGWPGXL\9^*/$MII(\130K,6+R>4AVJJECQCKQC\:
+M]QT;3)M+M7AGU2[U!V?=YET5)7C&!@#BM*M%TM)/4SI5E5UBM#1HHHK$VBH"
+"510","M;N!KFTF@2>6!I$*B6(@.F>XR,UY#\0;GQ7X)6SEL_%%W<VMR67$\<9=&&#U
+MQR#^E:TJ?M'RIZF56I[-<S6A[)17D_@!/$WC+29M1U#Q5?00I.8HX[=(U9B"
+"511","M 23MZ?-C'M7JZC:H!).!C)ZFE4I\CY;W8Z=3G7-:R%HHHK,TBLK7-)N]5A"
+"512","MB6TUB[TV2,D[[<*0W^\.0/PKQ ^+/&J>*I]D\12+)#-)91A!V9YQCOC]"
+"513","M:WI4'43L]CK75-JZW/H2BN-_P$4\4?]#U=_P#@#%65KOA_QY8:=+=Z9XOD"
+"514","MO'B0N8'M41F &?E(!R?;BI5.+=N9?B4ZDDK\K_ ]'HKG/ >J7&L^-,O[N4R
+MW$B,)'(Y8J[+G]*Z.HE'E;B^A<9<R4EUBN<\4:3XAOXS-HGB!]/:.(XM_LZ"
+"515","M.LCC)'S'D9X'<<=*\A\'Z_XL\6Z_]@D\3W=LNSS&9%4\;E7 ' 'WJUIT.>+D"
+"516","MFM#*I7Y)*+3U/H&BN(N/!WB9(BUCXXOA. =HN(493['T^O-<C;?$SQ'X5U]M"
+"517","M(\86T<Z*1NGB0*X4]'7&%9?P!_'BB-!S^!W5=0^-6/9:*C@GBN;>.>!UDBE
+M4.CJ>&4C((_I*P-PHHHH **** BBB@ HHHH **** BBB@ HHHH **** 
+MBBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **"
+"518","M** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHH"
+"519","MH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@"
+"520","M HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** "
+"521","MBBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **
+M** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHH
+MH **** BBB@ HHHH *K7^GVFIVWV:]@6>'<K[&Z$J01^H%6:*$[ U<*QO%W"
+"522","M_(EZ[_V#KC_T6U;-8WB[_D2]=_[!UQ_Z+:JA\2]29__0\5^W_(]2?]>4G_"
+"523","M *$M?0=?/GP6_P1ZD_Z\I/_ $):^@ZZ<;_%^1S8+^%\RI<:79W>H65_/'N"
+"524","MK(N;>3<1LWKM;@'!R/6K=%%<ESKL!( R3@O'9=%'CK2/&'B-DWO*YCTT]Q'
+M!S\O^_C'US7?>/-:&A>#=0NE(\Z2/R(%ZY=_E'UQDG\*L^$M'.A>$M-TQ\[X
+MH1Y@/]]LLP_,FMZ<G3CSK>__  685(JI+D>UO^ CR;X(ZU]FUR]T>1\)=Q>;
+M$?XTZ@?523_ ,!KW2OG/4+%?AS\4;-DR;2%XI59N2T3#:__ +./PKZ+!# $"
+"525","M$$'D$5IC$G)36S1G@VU%P>Z8M%%%<AUGBOQW_P/W1/^N<W\UKU'PC_R)>A?
+M]@ZW_P#1:UY=\=_^/W1/^N<W\UKU'PC_ ,B7H7_8.M__ $6M==7_ '>'S.2E
+M_O$_D;-5H]/M(M0FOT@47<R+')+W95S@?J:LT5R7.NP5Y=\<O^18T[_K]_\
+M9&KU&O+OCE_R+&G?]?O_ +(U;X;^-$PQ/\&1O_K_DFND?\ ;;_T<]=E7&_
+MK_DFND?]MO\ T<]=E45OXDO5ET?X<?1%2VTNSL[Z\O;>$)<7K*UPX8G>57:O
+M&<#CTJW116;=]S1*VQS>C?\ (Q:K_P!=O_BJZ2N;T;_D8M5_Z[?_ !5=)7+@
+M_P&_5_FR*>QB>+M!3Q+X8O=,8+YDB;H6/\ #(.5/Y\?0FO)?A)XK.BZH_AN"
+"526","M^5D6[N0(]W'ER8((/U(0?6O=:^=?B?HT_AOQVVHP9$=X_P!LA<C.),Y8?@W/"
+"527","MT85ZV%M-2I2Z['-BKP<:L>FY]$D!E*L 01@@]Z^?P&^&?Q:')73I'Z]C;R']"
+"528","M=I_5*]N\/ZS#X@TRU2# 6XC#%0<[6Z,OX$$?A7GOQLT!KK1[77(@2UFWE3#
+M_88\'\&P/^!5.&?+-TY;/0K$KF@JD=UJ6O'>IOXDU^U\!V!(\]XI;R93PD8R
+MQ4^^ C?E7HUK;0V5I#:V\:QP0H(XT7HJ@8 KRWX.Z?:WD=UXAFN1)JCL]LR
+MXVQ@1XX_ <^]>KU%>T6J:Z?F70O).H^OY'G/Q*DDUS5=$\'6K$->S>Z*]5A"
+"529","M7/\ @Q^JBO0H((K:WC@A0)%$H1$'15 P!7G_ (.7_A(_'NN^*^MK?L%D1T<
+M+C<WOT!_X%[5Z)2J^ZE#M^;'2]YN??\ )!7-?$+_ )$#6O\ KW/\Q72US7Q"
+"530","M_P1 UK_ *]S_,5%/XUZHNK\#]&>6_ W_D9]1_Z\O_9UKW>OG#X7>([;PWKU
+MW/=6]W.LML4VL7F,#N4Y(STXKU27XK:/#$TC:5K>%&3FSQ^I:NO%TIRJW2."
+"531","M3581I6;.KOK/3->A>SN#'<+;SHSHDG,<BD,N<'(/0_0^]:%<'\+M1_MNPUW
+M5]A0W>JR,$)SM78FT?7!KO*Y*D77*^AUTY*<>9=0JGJ_P#R!;__ *]Y/_03"
+"532","M5RJ>K_\ (%O_ /KWD_\ 034K=%2V9\]_/\ Y*+8_P#7.7_T U](5\W_  C_
+M .2BV/\ USE_] -?2%=>._B?(Y,#_#^84445QG8%>4?'3_DZ3_U\/\ ^@UZ"
+"533","MO7E'QT_Y ND_]?#_ /H-=&%_C1.?%?P9&E\%O^1%D_Z_9/\ T%:]%KSKX+?\"
+"534","MB+)_U^R?^@K7HM3B/XLO4K#_ ,*/H%%%%8FP5\WWO_)7]0_Z_9_Y-7TA7S-K"
+"535","MM['IWQ1U6[E1W2.]FRJ#DYW#^M=N5W+T.+&NRCZGTS4<EQ!%-%#)-&DLQ(B
+M1F 9R!D[1WP!GBN+_P%I:1_TM<_P# +_Z]8MKXRMO%OQ0T""UM;JWCL$N6
+M/VE C,[1D=,G  'ZU@J$]6UHC=UX:)/5GHVF:79Z/9SL(?*MP[.$W$@%F+'"
+"536","M&>V2>*N445DW?5FJ5M$%?.OP@_Y'1O\ KW_]J1U]%5\X_>Y@M?&)>XFCB0P
+M8#2,%&?,3CFNO#?PZAR8G^)3/HZO&_CM;0@Z)=  3MYL9/<J-I'Y$G\Z]4FU
+M[1[:(RSZK8QQCJS7@?SKRGQ):W?Q6\46D6D1.FAV09&U1$8DC>5S][H !"
+"537","M[9.!485.-3G>B1>*:E3Y%JV=W\-#,?AWH_GYW^6V,_W=[;?_ !W%=75>QLX="
+"538","M.T^VLK<$0V\2Q1ACD[5&!D_A5BL)RYI-F\(\L4@HHHJ2@HHHH **** BBB@
+M HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** 
+MBBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **"
+"539","M** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHH"
+"540","MH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@"
+"541","M HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** "
+"542","MBBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **
+M** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH *QO%W_ )>N_\
+M8.N/_1;5LUB^+R!X*UTD@?\ $ON!S_US:JA\2]29__0\6^W_(]2?\ 7E)_
+MZ$M?0=?/?P6('CI^>MG)_-:^A*Z<;_%^1S8+^%\PHHJ&ZNH;*SFNKAPD,,;2
+M2,>R@9)KD.L\W\<P77B_QOIGA:PN_LPLHS?7$X7?Y;=$XR.1QW_CK0_X0CQ;
+M_P!%N__  '_P 75;X5QRZK)KGBNZ4B;4KHI&#_  QKV'MR!_PO1ZZ:E1T"
+"543","MW[-=/);]3FITU47M'U\WMT/!OB7X*UC3-.@UK4-?DUC8X@8R0>68U.2#]XY&"
+"544","M>/Q%>F_#?6O[<\#V$S-F:W7[-+_O)P/S7:?QK4\5:0-=\+:EINT,\\#//\
+M?'*_^/ 5Y/\ !'6OLVKW^B3-M%R@FB4_WTX8?4@Y_P UIS.M0=]X_D9\JHU"
+"545","MU;:7YGN%%%%<1VGBOQW_ ./W1/\ KG-_-:]1\(_\B7H7_8.M_P#T6M>6_'8C"
+"546","M[=H@SSY<O\UKU+P@0?!6A8/_ ##[?_T6M==7_=X?,Y*7^\3^1LT445R'6%>7"
+"547","M?'+_ )%C3O\ K]_]D:O4:\M^.1'_  C.FC(R;S./^ -6^&_C1,,3_!D=!\*O"
+"548","M^2:Z1_VV_P#1SUV5<;\*2#\-=)YZ>=_Z.>NRJ*W\27JRZ/\ #CZ(****S-#F"
+"549","M]&_Y&+5?^NW_ ,5725S>C?\ (Q:K_P!=O_BJZ2N7!_PWZO\ -D4]@KGO&?AJ"
+"550","M#Q1X=NK-HT-T(V-M(1RCY!'/8$J ?:NAHKKC)Q=T5**DK,\7^WB!K>\O/#5
+MV2A8F:!6X(<<.OY#./\ 9-=3\19YM8N=,\&V3XFU.0273#K' AR2?J1G_@..
+M]<#\1M/G\'?$.WUZP78ES(+J/T\P']XOXYR?]^N[^'<<NO:EJOC6[C*/?.8+
+M1&.?+@4X_F /JI]:[JB5_KZK\?Z_(X*3=OJ[Z/\/Z_,\P\+W]QX ^(_V6]<"
+"551","MKDS6MSS@%&(P_T^ZWT%>S_$+6WT3PE<?9\F]O+2V5>I=^,CW R?KBN.^,?"
+"552","MA!)K1_$]L#YT0CCN$ X*9(W_ %R4'T%4O E]>^._$&C-?*QM?#UKN8DY$DQ."
+"553","M$8^^ #]4/K53Y:JC6[;_ %#FI.5'OM\SU#PMH<?AWPU8Z6@7=#&/-8?Q2'E
+MC^9/X5L445Y[;;NST$DE9!7-?$+_ )$#6O\ KW/\Q72US/Q#(7X?ZT20!]GQ
+MS]154OC7JB:OP/T9Y=\#?^1GU'_KR_\ 9UKW>O!O@?*B^++Z-F 9[([0>^'7
+M->\UOC?XS^1A@OX*^9@^&?#[>'I-716B^S7E^]U#&@^X&500>/4=!VQ6]3)I
+MH[>%YII%CBC4L[L<!0.I)KD?!?C&X\7ZAJTD5ND6EVK+' ^#OE)+<GT^4+QC
+MOUK&TIWGV-KQA:'<[&J>K_\ (%O_ /KWD_\ 035RJ6L$#1+\DX MI/\ T$U$
+M=T7+9GSY\(_^2BV/_7.7_P! -?2%?-GPFE2/XBZ<'8+O651GU\MJ^DZ[,=_$
+M7H<>!_AOUBF2RQP0O-*ZI'&I9W8X@<DFN9\)>+&\67FJ36T:#2K=HX[>0J
+M0\CE<OGG&!D8XKD46TWT1UN232ZLZFO*/CI_R!=)_POA_\ T&O5Z\G^.A']"
+"554","MC:2,\_:'_P#0:VPO\:)CBOX,C3^W_(BR?\ 7[)_ZM>BUYQ\%)4?P3.BLR
+M7K[AZ95*]'J<1_%EZE8?^%'TBN<\9^)6\-Z3&UJD4NI7<RP6<,F<.Y(&2
+M0< '^7K6QI<UU<:19S7R(EW) CS)&%5RH) R2< UFXM1YC123ERENOF^]_Y"
+"555","M*_J'_7[/_)J^D*^:=5NH+;XK:G<32*L27LX9L\#[P_G77@]Y>AR8W:/J?2U8"
+"556","M.I>'VN_%^BZ[T2&R6:.?(^:1'0A0..S<]NIK>ZT5QJ3CL=CBI;A17&ZUXMO
+M$\9:?X=T2*>7<LFH,X+>3$64<8(^;#9Y]O6NRIR@XI-]11FI-I= KYI^&>D"
+"557","MV&L^*C;:C;)<0B'=L?.,[T';V)KZ6) &2< 5\Z_$@>-#D@9M\#/_72.NO#-
+MJG4:.3$I.I33/0?&GPLTF]T.670K!+748!OC6(G$H'5,XR>Q]<5S_P<\7?9"
+"558","MIW\,7S[5=B]H6XVOU9/QZCWSZU[37A/Q6\(3:'K^)=+5H[>>0/*8^/(FSG=
+M[!CS]<^HHH3]K%TIO?8*\/9256VW/=J*X[P%XYMO%>D1K/+''JD6$FA) +G"
+"559","M&=RCN 3[<UV-<DX.$N61UPFIQYHA1114E!1110 4444 %%%% !1110 4444
+M %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110
+M4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1
+M110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%
+M% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444
+M %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110
+M4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1
+M110 4444 %%%% !1110 4444 %%%% !1110 5PWB2P\<Z_I][I=O'HMG:SYC
+M,K3R,[1YZ<)@$CKQWKN:*J$^5W2)G#F5FSQCPW\,?&7A;68]4L;S17E12I22
+M24JZGJ#\@KU?1Y=6EM&.LVUK!<!\*MM*74K@<\@8/6MBKJ5I5-9$4Z,:>D0"
+"560","MK@_$%AX]\0:3<:;&NB:?#.NR1Q<2N[*>H!V8&>AX[UWE%3?*[I%3AS*S9Q'
+M@C1/$_A>QM='NX=)EL$9V>>>3S!DD]H!YX[<5V]%%*<W-\S'""@N5&9K,N
+MMQQ1#1+:RFD8D2&[E9%4=B-H.:\GTSX5^,M(UV/6++4-&BN8Y#( ))=O.<KC
+M9T()&*]KHJZ=:5--1MJ14HQJ-.5]#+T637)(91KEM8Q2J0$-G*SJP[DA@,?K
+M5N_:\2QF;3XH9;L#]VDSE4)]R 35FBLV];V-$M+7/(?%G@#QKXROXKR^N=%@
+M$2;(X8Y9<*,Y.?D.2?Z5U'A>P\:Z%8VFEWB:-=VENFQ9HYY%=5 . <K@XX'3
+MI7;45K*O*4>5I6]#*-,9<R;OZA1116)L4M5DU**R+:3;VT]UN&$N)BX[G(
+M!YKSCQ?X.\<>-5MDNY=$M((62&.64DL>,D[#FO5**TIU73=XI7,ZE)5%:3="
+"561","MCSKPKH?CGPEI4>F(FB7UHCEES/(K(<D9V8QG)Z=Z]%HHI3FYN['""@K(***
+M*@LYO1O^1BU7_KM_\5725S>C?\C%JO\ UV_^*KI*Y<'_  WZO\V13VBBBNH"
+"562","MLXKXF^$I_%7AV-;&)9-0M9-\*E@NX'AER>!V/_ 171>'='BT#P]8Z7%C%O$%"
+"563","M8C^)NK'\6)/XUIT5;J2<%#HB%3BIN?5E'6=+AUK1;S3;@#R[F)HR?[I/0_4'"
+"564","M!_N5^&/AX\*:'<#4(E2_N9B9 K!L(OC(_$_\  J[BBA5)*#AT8.G%S4^J
+MBBBH+N \4Z/XY\3Z7<Z6HT2SLY7&X^=(TCJ#D#.S Z#/TKOZ*N$W!W2(G!
+M35F>)Z)\*_&OAW5(]1TW5-)BN$!7)DD(8'J#'R*[E1\2U4 MX48CN?M&3^5"
+"565","M=G16D\1*;O))_(SAAXP5HMKYGF^OZ1\3-9TZ2S:]T&&8;)%M&E5F4]1EE/'
+MT-='X'\*Q^$M 6SW*UQ*1+.PY&_:H(!],@X^M=+14RJR<>79>14:45+FW?F%
+M<EXEMO&6IQWVGZ4ND6]G,AC6XGED\S:5PW 4@'D^M=;141ERN]BY1YE:YX7I
+M_P 'O%^EW\%]9:II4-S P>-UEDX/_?OGZ5W\2?$R.-5:3PK(0.7<7&3^0 _2
+MNUHK6>(E/XDG\C*&'C#X6U\SSK7=)^)>LZ9-9->^'[:*5=L@M&F5G7N,LIQG
+M\*W? /A9_7AE;=HWNGE>69HSE23P,$C^Z%_6NHHJ959./)HD5&E%2Y]6R&
+M\:Y6SF:S2-[D(3$LK%5+8X!(ZO+_%_@OQOXT:V-Y-HEM#;[C'#'++U.,DG8"
+"566","M<GBO5J*5.HZ;O'<=2FJBM+8\D\+^!?'_ (1:4:;J>B&&4AI(9GD91W^X#]"
+"567","M#74_\7+_ .I3_P#)FNRHJI5W)WDE]Q,:BK1;^\\T7P=XNUCQCI>I^)K[3IK
+M*Q?S5AM&8*K#D84J,Y8+DD]!7I0 4    < EHJ)U'.U^A<*:A>W4Q-:D\3
+M=(]M]+:,I\TM[*XVMD_PJ#D8Q7D=Y\&O%=]>SWEQJ&DO//(TLC>;(,LQR3_"
+"568","M *OU->[T5=.O*G\-B*E-3XKG!V%G\3K&U2![WPW=[%B2X\XL<>I51DU-,G"
+"569","MQ-DC*I+X6B;^\@GR/S!%=M12]KK?E7W#]EI;F?WG >!/!NL:3KFIZWXCN(;G"
+"570","M4+I51'C;=QG+9X&.BX Z8KOZ**F<W-W94(*LCF_$0\77#2VNA1Z7%!)'M%S
+M=2OO4D'.%53SZ=:\UT?X3^,MU**_L=2TA)HV!YDD(8 @X/[OIDO;J*N%>4
+M%RQ2^XB=,WS2;^\S-%DUN2V?^W+>RAG#83[)(S*PQU^8#%3:MI5EK>FS:?J"
+"571","M$S6TPPRGMZ$'L1ZU=HK+FUNM#7ETL]3Q9OA7XH\.:RM_P&-3AD2-M\8D<H"
+"572","MY_V6&-K<$CKSSP*]0T]URZ@*ZWI$=C,JCYXKA9%<^P'(_6MFBM:E:51>]]Y
+ME3HQIOW?NBBBL38**** BBB@ HHHH **** BBB@ HHHH **** BBB@ H
+MHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BB
+MB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ****"
+"573","M BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH"
+"574","M**** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ H"
+"575","MHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BB"
+"576","MB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ****
+M BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH
+M**** BBB@ HHHH YO1O^1BU7_KM_P#%5TE<WHW_ ,6J_\ 7;_XJNDKEP?\
+M-^K_ #9%/8P-6-I_;=L+XGR/(;CYNN1CI5NP72U66>R'^K&6/S>A]?QI+FV6
+M?Q!;F2$21W?)9<J#D?K6@MK D;I'D:N,,$4#/Y4H4VZDI66[Z:[($M6S*L
+M-/AU*T2]OU\^6;YP&8[8P>@4=N*1;AM)EOK8LTD44'VB$.<D#D%<^F13K*\_
+MLNV6RO8Y5:'Y4D6)F61>V, \X[4):2:F][<S1ML\'V>%7&&\G<1VY-9I+E
+MC[/X^O?9WO\ /_@$]%;<=:Z/;7%M'/?*;BXD4.[.QX)YP!T %-NK66RT;48_
+M.+P>6QA!)+(,<C/UZ4ZUU5;:VC@OH9XIXU-B)F5B.,@@=Z EYJ5CJ'F!HHY"
+"577","MU*6\3J 5&.I[\GUZ55J;C:]ZS]=NO\ P>H]+:;FE:_\>D/_ %S7^58ELUQ_
+MPA:M;L1-Y9.[.#C=S@^N,U8AUA(K-(GMKD72(%\GR6)) ['&,>^:?;07FG^'
+MX(X45[B)060]^<D#WP33<E/9_9>WR_$+W^XI6D6EWZ*^E2-!=(0V\AL\=0W8
+M\5T5<[?O97\#VLYOMY^X1 R,C>I;&/UK9%R4N8K5XY&=H]QD_)Q[^M.@U&
+MZTZ:K;[NXXZ%FN2TLZ(VFP&[),^#O)W^I]*ZVN:TJ6Q@TR*ZL)#,H.XFT9C"
+"578","MU/?%+$+WXWML]_D*>Z+U[;K'9P7VG\-;+O5<G#Q]2IS[5%9W/]OW:SJ&2SMF"
+"579","MX4GEY.Q/L!_.IKR1[R*QLT>-)U_>2;OEQCJ/8GIBHHK0Z'?)]F1VL;@[74"
+"580","M9;RW[-].WX5,D^=-?!I?UZ?+:_R[,'OY#;33[6]OM1>XC+LMP5!W$8&!Z&JK"
+"581","MOLTG6HH9':VB8+$68DKP,CGG&:MVNE6UU>ZA)=VH<F?Y&<'D8'2K&J6B0Z!="
+"582","M06L 4;#A(UZGZI]E+V;E9+XO5[BMI?U*?\([L7=UP,_PLJ?48;:34-)@<
+M$VVR3Y/0*N/>E2YTH1J#8/D 9_T)O\ XFGWMO'>ZEI1:WWV^R0D,G RJXR."
+"583","MU'*G!I<KVV7GU#H02PVEMJ5E'IY9)9'/F)N;:T>#G.:35M*LK>WA:*$J6GC4"
+"584","MD.W()Y'6K%S80V-[8W%E!Y1,WER>4O!4@]0.V0*FUI'DM8 BLQ%S&2 ,\;J;"
+"585","MI+DFI)7_ .&V_4+:.Y6U>RM['0;TVR&,LJY(8GH?<^],UF:'4X/[1W&P:,A
+M0<>9GJP')XJYKZ/)H=TD:L[%1A5&2>12WET]O=;;F R6+H/F6,OM;ON [55"
+"586","M63:6BTZ:;O?R[CDB+3K:T,\=UI<NRW((DC .U_0X/0UG*=+.HZA_:!)D$_R
+M_?Z8'I5F-+>?5K:;3+=XPI)GD$;1H5QTP0,G-,B>U@O[_PV6;R,\^Y&^S%\"
+"587","MC [XK)V:2TW?>VW]?,DUM-6S%J38C]RS$]^OXU;K/6^MH-/>>UF\M&V^7'"
+"588","M58GCHIQZU=AD$T$<H5E#J&VL,$9'0^]=U.4;**[=#5-;&(;>TN=>U 7:E@BQ"
+"589","M;!DC&0<]/PJ33A%%K5Q#9LWV5809$+$A9,\8S[4J:?!=:YJ#W5JLB[8MC.F1"
+"590","MT.<?I4EK:K8ZW)%;QF.VE@#[5!V!P<<=@<5R1@U)2LOB>O7=_@9I:W\S+MSI"
+"591","M)GOOMY)F%W(!]_IGCI5V^,,6@B2P+U\P-+L8ABF?FP3SFH;1[.6]6[LG>1"
+"592","MKJ1@QMB^5)XYQ6@]RR6,<UA;,8DD^>+RBK%.^U3CGO4TTN1WML]D[[@MBA#:"
+"593","M:??QK)H\[6TR')90PS[,#UYQ5Z0G_A)+<9X^S/Q_P(5G:A_9]]$?LEC.UYSM"
+"594","M:.%HRC8X+' [XJY<K-:7ME>R(\JI8IC&NXJ3@[L=QD4XM+9+1IW5[;]OS!$
+MNJDBZTS!(S<C/_?)HL23K6J@DX#18_[XJ*2<:I?V8MDE,,$AE>5XRHZ$ #(Y
+M/-,CNELM:U)IHI]LAC*%(F8'#/(%6YKGY[Z7_\ ;6.^M_ZV+FHZ=:W$<L\L"
+"595","M6Z18SAMQ&, ^AJMHNGVRZ?:7:1?Z08@=Y8]2/K5L7D=[:7(B24%4/#Q,N<@]"
+"596","M,CFDTM)$T2V3&R40@ ,.AQW%7RPE5YDNGZCLG*YA64ND3#RM2#-J&XB0R;F)"
+"597","M;/8C@NBL;>2VMA$\QFD[&;KM[ ^N*S?MMG-(]5LRMR!M<-;LX)]5(!XIV
+MGN^G:9<3-;W'D4F& #+A#@ 8/XG%94'&#Z/3?5/_M[^MR8Z&S12 Y4'!&1W"
+"598","MI:[S4**** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** B"
+"599","MBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ***
+M* BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH
+M **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@
+MHHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** B
+MBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ***"
+"600","M* BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH"
+"601","M **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@"
+"602","MHHHH :L:*Q944,>I Y-.HHH **** BBB@ HHHH **** BBB@ HHHH ****"
+"603","M BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH"
+"604","M**** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ H"
+"605","MHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BB"
+"606","MB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ****
+M BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH
+M**** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ H
+MHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BB
+MB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ****"
+"607","M BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH"
+"608","M**** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ H"
+"609","MHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BB"
+"610","MB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ****
+M BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH
+M**** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ H
+MHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BB
+MB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ****"
+"611","M BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH"
+"612","M**** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ H"
+"613","MHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BB"
+"614","MB@ HHHH Y[Q5K%SIR:=8V#*M_J5VMO&Q7<8TZO( >#M'KQS^%7%\/V?E@2R7"
+"615","MDSXYEDNY-Q]\AAC\, =L5A^-[.YBO]!\0V\$EPFDW+-<11J6;R9 %9@!UVXS"
+"616","MBNIM+^TO[1;NTN8IK=AD21NOYUJ]()Q,EK-J1QGBZVO-(\!WC+J.H>=;72>
+M1<?:W60H\R##%2-V Q7GTS72?V-!#J%I)!?7T<L3-)Y3WLLBRIC:059B/F!"
+"617","MSC@XKG/'NJV6I?#K5)[>4/;K<0Q7(VR%9H]Q4YY .1G_9/UK;\O0](N%U1+
+MD!O+\A0)S)YF]EVA02>20 ,>M4[\GG=_H2K<_E9?J<O=>?)\94TPW^HBQEL3
+M.UNE],J;^>0 W'3H.*T;&*[N/$/B'PP]_=2Z<L$,B2/(6EA#_>CWD[CD X).
+M1[UD:C#!=_'.W@DED0'3,9BF:-@?F.,J0?PK8\*W+Z#K-YX9U5RUW)*UQ9WD
+MGWKZ,_WF_BD7H?8#L*TE\*MV7_#F<?B=^[_X8-9LA:^+_#%E#>:DEO=O<B=/
+M[1G.\+$67)+YX/-;T7A^W@OVN4N]0*OT31R7LSCDJ<J68E3\O;UK(\1R(OC"
+"618","M[P:&=0?,N^?^F)'\ZZXD 9)P!6,Y/ECZ?J;0BN:7K^APOA437?PQDN;B]OI
+M;F1+DF9KR4NDD@7#;LC 4=.O>I_#^FIJ/@G2KNXU348KN>WB<W!U;F0XQD
+M%\')P,=\XJOX,EC/PF+;UVK'>9.>!^\D/\C4WA'0;.^\&>'[@S76^..<?Z7"
+"619","M(R;D(.-A;;C@C&.*UGIS>IE#7E]7Q!$Z>-_#$,=W?1PW<ESY\<=W*J/MBW+
+MP&QP1VHUB%I/B'I%M]KODM[FUG>6**\EC1BFW:<*P ZGI3O$4D:^/O!REU!\
+MR[X)_PF'_UQ5?Q$MG+\1_#\-W(JJ;2YX,I0Y^7'((/8_E2CT]'^HY=?5?H="
+"620","M%9:7%;W-]Y5[=RPRJD;0R74DGE, 22K,Q*DAEX&.@/>N)^&\4NLVFL-J.H:I"
+"621","M<-!?O#&6U&<;4 &!PX]:[+3CI>FW;:;9S[Y;@O=>7YF\H/E#$DDD#)'7UXZ<"
+"622","M<=\(KB%[?Q!$LJ-)_:3OM#<[2!@_3@TE?DD_0;MSQ7J;37][X=\::=I<MU+<"
+"623","MZ5JB.(3<MN>5!G:'ZL,<-WZ'M757$75N\#M(JN,$Q2-&P^C*01^!KD-8C
+M'B3QGHD%D1+;:3,UU>3J<JCX&R,'H6)Y([NS9@BEF(@9))X J)_9?4N'VE
+MT/,/!@N]3^'U]J4^KZD+^'>T=PU[(VPK$K#*LQ4C).01WJ[?:C>:IX?\%ZG)
+M<75M/?WUO%<WN)(ED1E<L,*1P2 ?ZU6^%^GV>L> Y+6Z+2P_:2)(DE90W[N"
+"624","M/AMI&1['BMWQVBV>EZ-?)%BTTS5+>XF$:\1Q#<I( [#</RK>37M7'S_0PBG["
+"625","M)2\OU-[6X=^@7J++/$5MW*R13,CJ0IP0P.<UQ&LXM/A'<7T6HZD+R,;UN#>
+MR[\^;MZ[NF.,=*[#6]3M1X=N)(9HYS<PM';)&X8SNPPJKCKDD?SKG?&UG_9?
+MPGU*T>124C W9ZDR@_UK*END^Z-:NS:[,NZE'/HWB30$TZ[NW6[G>*XMIKAY
+M@T80DO\ .25VD#D8Z\TEVLG_  L[3X!=7@MWL)9VA6ZD$9=74 [=V.A/&,5F
+M>);6PLO[-U'PQ*B:Q+<1)EM+D7,1(W*RYP4QR3VQUK1UY@A^*NEB6:-=+"
+"626","MF W,!D[U/]#^54EI?R9+>MO-'6R1K)$T;%@K#!*L5/YCD5P_AG5CI7@#4-:O"
+"627","M;JXN'@EN3FYN'DSL=E106)QG '%=>VIV8O(+19T>>8,RJA!PJCECZ#D#ZD5P"
+"628","M&EZ2_B/X2:GIMJZM-+<7!CPW!99RZC/O@?G44U[OO;71=1OF]W>S.JT?3)=0"
+"629","MTJVO=9GN9KRXB662,2M''$2,[%12!QG&3DGN:N6.EOIVJS/#<73V<T0_<S3M"
+"630","M(L3@_P .XDC(/3I\M0^&-;@U?28 ?W5]#&J75H_RR0N!@@J>0,]#W%7X]4M)"
+"631","MM5ETZ&027$,?F3!(LG #>A/.!['VS,G*[145&R98N)X[6VEN)F11(7=CT
+M  R37)>!=0U&676-/U>1VO8)TGVR'E$E0.%'L#N ^E:GB.1;IK+0UF,<FH2$
+M.5QN6)!N<@$$<X5>0?O5@:Q(GA#QEIVM7FH32VM]!)9W4D^Q=A4;XSA%4'D,
+M/QJH1O%QZO\ 3^F3.5I*71?K_2-6\UXU3QC_P (_;W#PVEO:BXO)(#B0LS8"
+"632","M2/=_#D9;(Y]Q5N^T!/)$MA/>P74;K(I2[D/F8()5@S$,,CGUK#9AX<^(UYJ
+MEV0NEZU;Q*+LGY(ID&T*QZ*&'()ZFNKU#5K/3+1;BXE7:YQ(I&Z5CPJH,\D"
+"633","MDBB5U;E_KN$;._-_78PA>W7B#Q5J6F07DMMI^F+&LKVQ :65\DJ6(R %'\/."
+"634","M3U&*O7_AY#9L]A<7T%W'\\;I>2$N1SM;<Q# ]#GUKG]/GB\(>,M;356\BPU6"
+"635","M9+FUNWSY9<\,C-T4Y.>>PS77:CJ]EI>GF]N)E\K'[L*P)E8]%3GDGH!1*Z:Y"
+"636","M=M C9I\V^ICB]FUOQ??:4D\L5AIL49G\ARC2RODA2XP0 HSA3U/)[5#XETF^"
+"637","MT[2Y=1\/WUU;7%JC2M 9#-'.JJ6VE7)P20!E<'!/X4[$_P#,?$'5Q?'RK'6
+M_+EMKE^$\U00T9/8G.1GKBNA\0ZS;:582HY,EW-&RV]M&I:25L'  '/)P,],
+MD4W=27+MI_P1*SB^;?7_ (!S&O:L^L>#-!UBVN;BV>[NK57^RW,D8P[ .GRD
+M9YR/PKMYK5)K-K4O,J,NW<DK*X]PX.<^^:\^O]N?#WPHTRV>,RRZ9/#=W1
+M\G EWN!]-Q_*NVGUW3XM(_M-+F.:W9-T1C;<92>BKCJQX  YYHFM%R]V$'J^
+M;LCEGM9)/A5!>C4-26].F)<?:!?3;_,9%8D_-SSVZ5J>$-9N=0L[G2M6;;J^
+MGN8+A<E6D3^&7_@0[@FHM3M_[(^%S6ERZHUMIB0N2>,J@7^=3^)=GO7M];T"
+"638","M61(M:LU_<N3\MQ'U,3^JGMZ'GBFVI)I]6[/^N@DG%IKHE=?UU(=+T<7UIJ=M"
+"639","M+?Z@8_[28$M>2LP1&#!%8ME1D#D<XK\0)+9_$KPWID%_J:65TDAGB&H3X<@
+M''._/:NB\$7SZGI-Y>26TEK)+?2EX)/O1MPI^A!KGO%4B#XP>$074$1R9!/"
+"640","MJ& JH7]HT^S_ )G;V::[K\SM;/2H=-O+F[6YN622-%*7%R\HCVEB2['&<C"
+"641","M/^Z*YWP9JM_<ZYK5IJ$KMYODZA:K)G*Q2K]U?]E=H'USQ6SXFF5[2WTA9=DV"
+"642","MJR_91M/S/!:4CZ(&Y]2*P=<A/AKQ/H6NS7\TT,LATRX:81KM1P2GW%7@,N>
+M?TJ(+F33W?Z%S?*TULOU*GC+^U]/\207FAW5Z\\<7VAK+SW>*<#?N786P,J.
+MP[<#-=#J&HV^N^ [K4K&ZE17LY)HY;:9HV1PA/48.0>Q].14%]<0K\1-,B,L
+M8D:W.$W#)XD[5C>+=/N_T&K:II,#3:7J$,BZA9I_P LI&4CST'_ *$/Q^E*"
+"643","MTN5=27>/,^AT]OH$$WV:XEN[]@EJL:J+V53G)+,S!LL3D=>F*Y?P9#)J>M>)"
+"644","M8+R_U.6*TO6B@4ZA.-BB248&']%'Y5WUG_QY0?\ 7-?Y5PGP[EC?Q%XO.K?
+M\3!SP<\>;-4Q;<9?+\RI)*4?G^1?OW32-7T'0[J]G73;@7!,TD[*TLN041Y,
+MY/#-U/S$#Z5TNGZ>-.,ZQSS20R/O2.61G\K@ @%B3CC..V3BJ6K1:-K=S)X>
+MU2.8OLZQR<;AEAE#UR,<D=-P]:H>HKFR35=,:ZEO+&RN_*L[B5MS%-BDI"
+"645","MGOL)*Y]01VP$]87_ *?F-:3M_2\CJ:***Q-@HHHH **** BBB@ HHHH ***
+M* BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH
+M **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@
+MHHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** B
+MBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ***"
+"646","M* BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH"
+"647","M **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@"
+"648","MHHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** B"
+"649","MBB@ HHHH **** O#?%?_(Y2_P#74?\ H5%%=6%^)G+BOA1V7B;_ )!FC?\
+M7)O_ &6LG1O^0W8_]=T_F***N/P?>1+X_N)G_P1J;_K^_\ 9ZWOB#_Q[:5_"
+"650","MU^I_,445+^.)2^1C>*_^1EN_P#@'_HUV_B/_D7KW_<_J***B7VX_;.%L_
+M^1;U/_KI#_-JZ3P+_P @^Z_ZZC^5%%54^%D4OB7H<QKG_(PWG_78TOB/_D8;
+MW_?_ *BBM(]/0B77U)=$_X\=7_Z]3_,5QNM_PNMOQ_F***NG\;,ZGP(]J\
+M/?\ (OV7_7.F>)O^1=O/]T?^ABBN+[?S.[_ )=_(YCP/_R%Y_\ K@?_ $):"
+"651","M[J;_ %$G^Z?Y444ZWQDT?@/-? /_ -.H?1OZ5T?CK_D'VO_ %U/\J**UG_&
+M1G#^RKX%^_=?05A>(?^1@O?^NE%%./\1DR_A(71O]7J?_7B_P#Z$M;G@/[]"
+"652","M_P#1/_9J***GPR^04OBC\S^*G_'W:?[O^-=)\._^1:3ZC^5%%$_X'#^.RI"
+"653","MJ7_(_P '_72+^0IOCK_D(6O_ %R/\Z**4?BCZ#E\,O4V=-_Y$A?^N#_S->?^"
+"654","M ?\ D;9?]X_S-%%.'PS%/XH'K-__ ,@^Y_ZY-_(UY'X)_P1S;_KHW\S114T
+M?@D56^.)Z=XF_P1;OO^N?\ 45R'PJ_X]+W_ 'A112A_!D.?\:)Z+7E_A'_D"
+"655","M?KSZ_P#LIHHI4OAEZ#J_%'U-SQY]^P^C_P#LM;OA?_D6[/Z-_PA&BBE+^$@
+MC_%99T[_ %E]_P!?+?\ H*UYSKG_ ';[_KLW\Z**JC\3)K?C9UW_D:M/\
+M]V'_ -J?QY]^P^C_P#LM%%..\12^&1S _X_H/\ MG_(5ZEJ/_(+N_\ KB__"
+"656","M *:***VZ'1VD5-3_P18N/^O8_^@UQ?A'_D8H/]U_\ T$T44J?P2'4^.):^"
+"657","M*G_()L_^NC?TKK= _P1?T__ *X)_*BBE+^#'U8X_P :7HC1HHHK WBBB@"
+"658","MHHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** B"
+"659","MBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ***
+M* BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH
+M **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@
+MHHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** B
+MBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH **** BBB@ HHHH ***"
+"660","(* BBB@#_]D!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+"

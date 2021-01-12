@@ -1,0 +1,1171 @@
+"","V1"
+"1","<SEC-DOCUMENT>0001387131-20-004747.txt : 20200514"
+"2","<SEC-HEADER>0001387131-20-004747.hdr.sgml : 20200514"
+"3","<ACCEPTANCE-DATETIME>20200514151614"
+"4","ACCESSION NUMBER:		0001387131-20-004747"
+"5","CONFORMED SUBMISSION TYPE:	N-CEN"
+"6","PUBLIC DOCUMENT COUNT:		4"
+"7","CONFORMED PERIOD OF REPORT:	20200229"
+"8","FILED AS OF DATE:		20200514"
+"9","DATE AS OF CHANGE:		20200514"
+"10","EFFECTIVENESS DATE:		20200514"
+"11","FILER:"
+"12","	COMPANY DATA:	"
+"13","		COMPANY CONFORMED NAME:			World Funds Trust"
+"14","		CENTRAL INDEX KEY:			0001396092"
+"15","		IRS NUMBER:				000000000"
+"16","		STATE OF INCORPORATION:			DE"
+"17","		FISCAL YEAR END:			0930"
+"18","	FILING VALUES:"
+"19","		FORM TYPE:		N-CEN"
+"20","		SEC ACT:		1940 Act"
+"21","		SEC FILE NUMBER:	811-22172"
+"22","		FILM NUMBER:		20877311"
+"23","	BUSINESS ADDRESS:	"
+"24","		STREET 1:		8730 STONY POINT PARKWAY"
+"25","		STREET 2:		SUITE 205"
+"26","		CITY:			RICHMOND"
+"27","		STATE:			VA"
+"28","		ZIP:			23235"
+"29","		BUSINESS PHONE:		804-267-7400"
+"30","	MAIL ADDRESS:	"
+"31","		STREET 1:		8730 STONY POINT PARKWAY"
+"32","		STREET 2:		SUITE 205"
+"33","		CITY:			RICHMOND"
+"34","		STATE:			VA"
+"35","		ZIP:			23235"
+"36","	FORMER COMPANY:	"
+"37","		FORMER CONFORMED NAME:	Abacus World Funds Trust"
+"38","		DATE OF NAME CHANGE:	20070410"
+"39","<SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"40","<EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"41","<SERIES>"
+"42","<OWNER-CIK>0001396092"
+"43","<SERIES-ID>S000042717"
+"44","<SERIES-NAME>DGHM V2000 SmallCap Value Fund"
+"45","<CLASS-CONTRACT>"
+"46","<CLASS-CONTRACT-ID>C000132084"
+"47","<CLASS-CONTRACT-NAME>Investor Class"
+"48","<CLASS-CONTRACT-TICKER-SYMBOL>DGSMX"
+"49","</CLASS-CONTRACT>"
+"50","<CLASS-CONTRACT>"
+"51","<CLASS-CONTRACT-ID>C000132085"
+"52","<CLASS-CONTRACT-NAME>Institutional Class"
+"53","<CLASS-CONTRACT-TICKER-SYMBOL>DGIVX"
+"54","</CLASS-CONTRACT>"
+"55","<CLASS-CONTRACT>"
+"56","<CLASS-CONTRACT-ID>C000132086"
+"57","<CLASS-CONTRACT-NAME>Class C"
+"58","<CLASS-CONTRACT-TICKER-SYMBOL>DGSVX"
+"59","</CLASS-CONTRACT>"
+"60","</SERIES>"
+"61","<SERIES>"
+"62","<OWNER-CIK>0001396092"
+"63","<SERIES-ID>S000053800"
+"64","<SERIES-NAME>DGHM MicroCap Value Fund"
+"65","<CLASS-CONTRACT>"
+"66","<CLASS-CONTRACT-ID>C000169254"
+"67","<CLASS-CONTRACT-NAME>Investor Class"
+"68","<CLASS-CONTRACT-TICKER-SYMBOL>DGMMX"
+"69","</CLASS-CONTRACT>"
+"70","<CLASS-CONTRACT>"
+"71","<CLASS-CONTRACT-ID>C000169255"
+"72","<CLASS-CONTRACT-NAME>Institutional Class"
+"73","<CLASS-CONTRACT-TICKER-SYMBOL>DGMIX"
+"74","</CLASS-CONTRACT>"
+"75","</SERIES>"
+"76","</EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"77","</SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"78","</SEC-HEADER>"
+"79","<DOCUMENT>"
+"80","<TYPE>N-CEN"
+"81","<SEQUENCE>1"
+"82","<FILENAME>primary_doc.xml"
+"83","<TEXT>"
+"84","<XML>"
+"85","<?xml version=1.0 encoding=UTF-8?>"
+"86","<edgarSubmission xmlns=http://www.sec.gov/edgar/ncen xmlns:com=http://www.sec.gov/edgar/common xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance>"
+"87","  <schemaVersion>X0201</schemaVersion>"
+"88","  <headerData>"
+"89","    <submissionType>N-CEN</submissionType>"
+"90","    <filerInfo>"
+"91","      <liveTestFlag>LIVE</liveTestFlag>"
+"92","      <filer>"
+"93","        <issuerCredentials>"
+"94","          <cik>0001396092</cik>"
+"95","          <ccc>XXXXXXXX</ccc>"
+"96","        </issuerCredentials>"
+"97","      </filer>"
+"98","      <flags>"
+"99","        <returnCopyFlag>true</returnCopyFlag>"
+"100","        <overrideInternetFlag>false</overrideInternetFlag>"
+"101","        <confirmingCopyFlag>false</confirmingCopyFlag>"
+"102","      </flags>"
+"103","      <investmentCompanyType>N-1A</investmentCompanyType>"
+"104","    </filerInfo>"
+"105","    <seriesClass>"
+"106","      <reportSeriesClass>"
+"107","        <rptSeriesClassInfo>"
+"108","          <seriesId>S000042717</seriesId>"
+"109","          <classInfo>"
+"110","            <classId>C000132084</classId>"
+"111","          </classInfo>"
+"112","          <classInfo>"
+"113","            <classId>C000132085</classId>"
+"114","          </classInfo>"
+"115","          <classInfo>"
+"116","            <classId>C000132086</classId>"
+"117","          </classInfo>"
+"118","        </rptSeriesClassInfo>"
+"119","        <rptSeriesClassInfo>"
+"120","          <seriesId>S000053800</seriesId>"
+"121","          <classInfo>"
+"122","            <classId>C000169254</classId>"
+"123","          </classInfo>"
+"124","          <classInfo>"
+"125","            <classId>C000169255</classId>"
+"126","          </classInfo>"
+"127","        </rptSeriesClassInfo>"
+"128","      </reportSeriesClass>"
+"129","    </seriesClass>"
+"130","  </headerData>"
+"131","  <formData>"
+"132","    <generalInfo isReportPeriodLt12=N reportEndingPeriod=2020-02-29/>"
+"133","    <registrantInfo>"
+"134","      <registrantFullName>World Funds Trust</registrantFullName>"
+"135","      <investmentCompFileNo>811-22172</investmentCompFileNo>"
+"136","      <registrantCik>0001396092</registrantCik>"
+"137","      <registrantLei>5493007BOSPYEMKSSY03</registrantLei>"
+"138","      <registrantstreet1>8730 Stony Point Parkway</registrantstreet1>"
+"139","      <registrantstreet2>Suite 205</registrantstreet2>"
+"140","      <registrantcity>Richmond</registrantcity>"
+"141","      <registrantzipCode>23235</registrantzipCode>"
+"142","      <registrantstate>US-VA</registrantstate>"
+"143","      <registrantcountry>US</registrantcountry>"
+"144","      <registrantphoneNumber>800-673-0550</registrantphoneNumber>"
+"145","      <websites>"
+"146","        <website webpage=www.theworldfundstrust.com/>"
+"147","      </websites>"
+"148","      <locationBooksRecords>"
+"149","        <locationBooksRecord>"
+"150","          <officeName>Commonwealth Fund Services, Inc.</officeName>"
+"151","          <officeAddress1>8730 Stony Point Parkway</officeAddress1>"
+"152","          <officeAddress2>Suite 205</officeAddress2>"
+"153","          <officeCity>Richmond</officeCity>"
+"154","          <officeStateCountry officeState=US-VA officeCountry=US/>"
+"155","          <officeRecordsZipCode>23235</officeRecordsZipCode>"
+"156","          <officePhone>804-267-7400</officePhone>"
+"157","          <booksRecordsDesc>Records as administrator and transfer agent</booksRecordsDesc>"
+"158","        </locationBooksRecord>"
+"159","        <locationBooksRecord>"
+"160","          <officeName>Fifth Third Bank</officeName>"
+"161","          <officeAddress1>38 Fountain Square Plaza</officeAddress1>"
+"162","          <officeCity>Cincinnati</officeCity>"
+"163","          <officeStateCountry officeState=US-OH officeCountry=US/>"
+"164","          <officeRecordsZipCode>45263</officeRecordsZipCode>"
+"165","          <officePhone>513-534-6721</officePhone>"
+"166","          <booksRecordsDesc>Records as custodian</booksRecordsDesc>"
+"167","        </locationBooksRecord>"
+"168","        <locationBooksRecord>"
+"169","          <officeName>Dalton, Greiner, Hartman, Maher &amp; Co., LLC</officeName>"
+"170","          <officeAddress1>565 Fifth Avenue</officeAddress1>"
+"171","          <officeAddress2>Suite 2101</officeAddress2>"
+"172","          <officeCity>New York</officeCity>"
+"173","          <officeStateCountry officeState=US-NY officeCountry=US/>"
+"174","          <officeRecordsZipCode>10017</officeRecordsZipCode>"
+"175","          <officePhone>212-557-2445</officePhone>"
+"176","          <booksRecordsDesc>Records as advisor</booksRecordsDesc>"
+"177","        </locationBooksRecord>"
+"178","      </locationBooksRecords>"
+"179","      <isRegistrantFirstFiling>N</isRegistrantFirstFiling>"
+"180","      <isRegistrantLastFiling>N</isRegistrantLastFiling>"
+"181","      <isRegistrantFamilyInvComp>N</isRegistrantFamilyInvComp>"
+"182","      <registrantClassificationType>N-1A</registrantClassificationType>"
+"183","      <totalSeries>28</totalSeries>"
+"184","      <isSecuritiesActRegistration>Y</isSecuritiesActRegistration>"
+"185","      <directors>"
+"186","        <director>"
+"187","          <directorName>Mary Lou Ivey</directorName>"
+"188","          <crdNumber>N/A</crdNumber>"
+"189","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"190","          <fileNumbers>"
+"191","            <fileNumberInfo fileNumber=811-23439/>"
+"192","          </fileNumbers>"
+"193","        </director>"
+"194","        <director>"
+"195","          <directorName>Theo Pitt</directorName>"
+"196","          <crdNumber>N/A</crdNumber>"
+"197","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"198","          <fileNumbers>"
+"199","            <fileNumberInfo fileNumber=811-07324/>"
+"200","            <fileNumberInfo fileNumber=811-22507/>"
+"201","            <fileNumberInfo fileNumber=811-10085/>"
+"202","            <fileNumberInfo fileNumber=811-22298/>"
+"203","            <fileNumberInfo fileNumber=811-23439/>"
+"204","          </fileNumbers>"
+"205","        </director>"
+"206","        <director>"
+"207","          <directorName>David Urban</directorName>"
+"208","          <crdNumber>N/A</crdNumber>"
+"209","          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>"
+"210","          <fileNumbers>"
+"211","            <fileNumberInfo fileNumber=811-23439/>"
+"212","          </fileNumbers>"
+"213","        </director>"
+"214","      </directors>"
+"215","      <chiefComplianceOfficers>"
+"216","        <chiefComplianceOfficer>"
+"217","          <ccoName>Julian Winters</ccoName>"
+"218","          <crdNumber>N/A</crdNumber>"
+"219","          <ccoStreet1>105 Candlewood Road</ccoStreet1>"
+"220","          <ccoStreet2>Suite C</ccoStreet2>"
+"221","          <ccoCity>Rocky Mount</ccoCity>"
+"222","          <ccoStateCountry ccoState=US-NC ccoCountry=US/>"
+"223","          <ccoZipCode>27804</ccoZipCode>"
+"224","          <ccoPhone>XXXXXX</ccoPhone>"
+"225","          <isCcoChangedSinceLastFiling>N</isCcoChangedSinceLastFiling>"
+"226","          <ccoEmployers>"
+"227","            <ccoEmployer ccoEmployerName=N/A ccoEmployerId=N/A/>"
+"228","          </ccoEmployers>"
+"229","        </chiefComplianceOfficer>"
+"230","      </chiefComplianceOfficers>"
+"231","      <isRegistrantSubmittedMatter>N</isRegistrantSubmittedMatter>"
+"232","      <isPreviousLegalProceeding>N</isPreviousLegalProceeding>"
+"233","      <isPreviousProceedingTerminated>N</isPreviousProceedingTerminated>"
+"234","      <isClaimFiled>N</isClaimFiled>"
+"235","      <coveredByInsurancePolicy isCoveredByInsurancePolicy=Y isClaimFiledDuringPeriod=N/>"
+"236","      <isFinancialSupportDuringPeriod>N</isFinancialSupportDuringPeriod>"
+"237","      <isExemptionFromAct>N</isExemptionFromAct>"
+"238","      <principalUnderwriters>"
+"239","        <principalUnderwriter>"
+"240","          <principalUnderwriterName>First Dominion Capital Corp.</principalUnderwriterName>"
+"241","          <principalUnderwriterFileNumber>8-33719</principalUnderwriterFileNumber>"
+"242","          <principalUnderwriterCrdNumber>000016330</principalUnderwriterCrdNumber>"
+"243","          <principalUnderwriterLei>N/A</principalUnderwriterLei>"
+"244","          <principalUnderWriterStateCountry principalUnderWriterState=US-VA principalUnderWriterCountry=US/>"
+"245","          <isPrincipalUnderwriterAffiliatedWithRegistrant>N</isPrincipalUnderwriterAffiliatedWithRegistrant>"
+"246","        </principalUnderwriter>"
+"247","      </principalUnderwriters>"
+"248","      <isUnderwriterHiredOrTerminated>N</isUnderwriterHiredOrTerminated>"
+"249","      <publicAccountants>"
+"250","        <publicAccountant>"
+"251","          <publicAccountantName>Cohen and Company LTD</publicAccountantName>"
+"252","          <pcaobNumber>925</pcaobNumber>"
+"253","          <publicAccountantLei>N/A</publicAccountantLei>"
+"254","          <publicAccountantStateCountry publicAccountantState=US-OH publicAccountantCountry=US/>"
+"255","        </publicAccountant>"
+"256","      </publicAccountants>"
+"257","      <isPublicAccountantChanged>N</isPublicAccountantChanged>"
+"258","      <isMaterialWeakness>N</isMaterialWeakness>"
+"259","      <isOpinionOffered>N</isOpinionOffered>"
+"260","      <isMaterialChange>N</isMaterialChange>"
+"261","      <isAccountingPrincipleChange>N</isAccountingPrincipleChange>"
+"262","      <isPaymentErrorInNetAssetValue>N</isPaymentErrorInNetAssetValue>"
+"263","      <isPaymentDividend>N</isPaymentDividend>"
+"264","    </registrantInfo>"
+"265","    <managementInvestmentQuestionSeriesInfo>"
+"266","      <managementInvestmentQuestion>"
+"267","        <mgmtInvFundName>DGHM V2000 SmallCap Value Fund</mgmtInvFundName>"
+"268","        <mgmtInvSeriesId>S000042717</mgmtInvSeriesId>"
+"269","        <mgmtInvLei>549300GLO07YQ7X9FI92</mgmtInvLei>"
+"270","        <isFirstFilingByFund>N</isFirstFilingByFund>"
+"271","        <numAuthorizedClass>3</numAuthorizedClass>"
+"272","        <numAddedClass>0</numAddedClass>"
+"273","        <numTerminatedClass>0</numTerminatedClass>"
+"274","        <sharesOutstandings>"
+"275","          <sharesOutstanding sharesOutstandingClassName=Investor sharesOutstandingClassId=C000132084 sharesOutstandingTickerSymbol=DGSMX/>"
+"276","          <sharesOutstanding sharesOutstandingClassName=Institutional sharesOutstandingClassId=C000132085 sharesOutstandingTickerSymbol=DGIVX/>"
+"277","          <sharesOutstanding sharesOutstandingClassName=C sharesOutstandingClassId=C000132086 sharesOutstandingTickerSymbol=DGSVX/>"
+"278","        </sharesOutstandings>"
+"279","        <fundType>N/A</fundType>"
+"280","        <isNonDiversifiedCompany>N</isNonDiversifiedCompany>"
+"281","        <isForeignSubsidiary>N</isForeignSubsidiary>"
+"282","        <isFundSecuritiesLending>N</isFundSecuritiesLending>"
+"283","        <didFundLendSecurities>N</didFundLendSecurities>"
+"284","        <paymentToAgentManagerType>N/A</paymentToAgentManagerType>"
+"285","        <avgPortfolioSecuritiesValue>N/A</avgPortfolioSecuritiesValue>"
+"286","        <netIncomeSecuritiesLending>N/A</netIncomeSecuritiesLending>"
+"287","        <relyOnRuleType>N/A</relyOnRuleType>"
+"288","        <isExpenseLimitationInPlace>Y</isExpenseLimitationInPlace>"
+"289","        <isExpenseReducedOrWaived>Y</isExpenseReducedOrWaived>"
+"290","        <isFeesWaivedRecoupable>Y</isFeesWaivedRecoupable>"
+"291","        <isExpenseWaivedRecoupable>N</isExpenseWaivedRecoupable>"
+"292","        <investmentAdvisers>"
+"293","          <investmentAdviser>"
+"294","            <investmentAdviserName>Dalton, Greiner, Hartman, Maher &amp; Co., LLC</investmentAdviserName>"
+"295","            <investmentAdviserFileNo>801-62895</investmentAdviserFileNo>"
+"296","            <investmentAdviserCrdNo>000130913</investmentAdviserCrdNo>"
+"297","            <investmentAdviserLei>N/A</investmentAdviserLei>"
+"298","            <investmentAdviserStateCountry investmentAdviserState=US-NY investmentAdviserCountry=US/>"
+"299","            <isInvestmentAdviserHired>N</isInvestmentAdviserHired>"
+"300","          </investmentAdviser>"
+"301","        </investmentAdvisers>"
+"302","        <transferAgents>"
+"303","          <transferAgent>"
+"304","            <transferAgentName>Commonwealth Fund Services, Inc.</transferAgentName>"
+"305","            <transferAgentFileNo>084-01553</transferAgentFileNo>"
+"306","            <transferAgentLei>N/A</transferAgentLei>"
+"307","            <transferAgentStateCountry transferAgentState=US-VA transferAgentCountry=US/>"
+"308","            <isTransferAgentAffiliated>Y</isTransferAgentAffiliated>"
+"309","            <isTransferAgentSubAgent>N</isTransferAgentSubAgent>"
+"310","          </transferAgent>"
+"311","        </transferAgents>"
+"312","        <isTransferAgentHiredOrTerminated>N</isTransferAgentHiredOrTerminated>"
+"313","        <pricingServices>"
+"314","          <pricingService>"
+"315","            <pricingServiceName>Bloomberg</pricingServiceName>"
+"316","            <pricingServiceLei>5493001KJTIIGC8Y1R12</pricingServiceLei>"
+"317","            <pricingServiceIdNumberDesc>N/A</pricingServiceIdNumberDesc>"
+"318","            <pricingServiceStateCountry pricingServiceState=US-NY pricingServiceCountry=US/>"
+"319","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"320","          </pricingService>"
+"321","          <pricingService>"
+"322","            <pricingServiceName>ICE Data Pricing &amp; Reference Data LLC</pricingServiceName>"
+"323","            <pricingServiceLei>5493000NQ9LYLDBCTL34</pricingServiceLei>"
+"324","            <pricingServiceIdNumberDesc>N/A</pricingServiceIdNumberDesc>"
+"325","            <pricingServiceStateCountry pricingServiceState=US-DE pricingServiceCountry=US/>"
+"326","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"327","          </pricingService>"
+"328","        </pricingServices>"
+"329","        <isPricingServiceHiredOrTerminated>N</isPricingServiceHiredOrTerminated>"
+"330","        <custodians>"
+"331","          <custodian>"
+"332","            <custodianName>Fifth Third Bank</custodianName>"
+"333","            <custodianLei>QFROUN1UWUYU0DVIWD51</custodianLei>"
+"334","            <custodianStateCountry custodianState=US-OH custodianCountry=US/>"
+"335","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"336","            <isSubCustodian>N</isSubCustodian>"
+"337","            <custodyType>Bank - section 17(f)(1) (15 U.S.C. 80a-17(f)(1))</custodyType>"
+"338","            <otherCustodianDesc>N/A</otherCustodianDesc>"
+"339","          </custodian>"
+"340","        </custodians>"
+"341","        <isCustodianHiredOrTerminated>N</isCustodianHiredOrTerminated>"
+"342","        <shareholderServicingAgents>"
+"343","          <shareholderServicingAgent>"
+"344","            <shareholderServiceAgentName>Commonwealth Fund Services, Inc.</shareholderServiceAgentName>"
+"345","            <shareholderServiceAgentLei>084-01553</shareholderServiceAgentLei>"
+"346","            <shareholderServiceIdNumberDesc>SEC File Number</shareholderServiceIdNumberDesc>"
+"347","            <shareholderServiceAgentStateCountry shareholderServiceAgentState=US-VA shareholderServiceAgentCountry=US/>"
+"348","            <isShareholderServiceAgentAffiliated>Y</isShareholderServiceAgentAffiliated>"
+"349","            <isShareholderServiceAgentSubshare>N</isShareholderServiceAgentSubshare>"
+"350","          </shareholderServicingAgent>"
+"351","        </shareholderServicingAgents>"
+"352","        <isShareholderServiceHiredTerminated>N</isShareholderServiceHiredTerminated>"
+"353","        <admins>"
+"354","          <admin>"
+"355","            <adminName>Commonwealth Fund Services, Inc.</adminName>"
+"356","            <adminLei>084-01553</adminLei>"
+"357","            <idNumberDesc>SEC File Number</idNumberDesc>"
+"358","            <adminStateCountry adminState=US-VA adminCountry=US/>"
+"359","            <isAdminAffiliated>Y</isAdminAffiliated>"
+"360","            <isAdminSubAdmin>N</isAdminSubAdmin>"
+"361","          </admin>"
+"362","        </admins>"
+"363","        <isAdminHiredOrTerminated>N</isAdminHiredOrTerminated>"
+"364","        <brokers>"
+"365","          <broker>"
+"366","            <brokerName>COWEN AND COMPANY</brokerName>"
+"367","            <brokerFileNo>8-22522</brokerFileNo>"
+"368","            <brokerCrdNo>000007616</brokerCrdNo>"
+"369","            <brokerLei>N/A</brokerLei>"
+"370","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"371","            <grossCommission>14571</grossCommission>"
+"372","          </broker>"
+"373","          <broker>"
+"374","            <brokerName>RBC CAPITAL MARKETS, LLC</brokerName>"
+"375","            <brokerFileNo>8-45411</brokerFileNo>"
+"376","            <brokerCrdNo>000031194</brokerCrdNo>"
+"377","            <brokerLei>N/A</brokerLei>"
+"378","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"379","            <grossCommission>10037</grossCommission>"
+"380","          </broker>"
+"381","          <broker>"
+"382","            <brokerName>LIQUIDNET, INC.</brokerName>"
+"383","            <brokerFileNo>8-52461</brokerFileNo>"
+"384","            <brokerCrdNo>000103987</brokerCrdNo>"
+"385","            <brokerLei>N/A</brokerLei>"
+"386","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"387","            <grossCommission>3381</grossCommission>"
+"388","          </broker>"
+"389","          <broker>"
+"390","            <brokerName>INSTINET, LLC</brokerName>"
+"391","            <brokerFileNo>8-23669</brokerFileNo>"
+"392","            <brokerCrdNo>000007897</brokerCrdNo>"
+"393","            <brokerLei>N/A</brokerLei>"
+"394","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"395","            <grossCommission>1725</grossCommission>"
+"396","          </broker>"
+"397","          <broker>"
+"398","            <brokerName>ITG INC.</brokerName>"
+"399","            <brokerFileNo>8-44218</brokerFileNo>"
+"400","            <brokerCrdNo>000029299</brokerCrdNo>"
+"401","            <brokerLei>N/A</brokerLei>"
+"402","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"403","            <grossCommission>1680</grossCommission>"
+"404","          </broker>"
+"405","          <broker>"
+"406","            <brokerName>EVERCORE GROUP L.L.C.</brokerName>"
+"407","            <brokerFileNo>8-49830</brokerFileNo>"
+"408","            <brokerCrdNo>000042405</brokerCrdNo>"
+"409","            <brokerLei>N/A</brokerLei>"
+"410","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"411","            <grossCommission>860</grossCommission>"
+"412","          </broker>"
+"413","          <broker>"
+"414","            <brokerName>KEYBANC CAPITAL MARKETS INC.</brokerName>"
+"415","            <brokerFileNo>8-30177</brokerFileNo>"
+"416","            <brokerCrdNo>000000566</brokerCrdNo>"
+"417","            <brokerLei>N/A</brokerLei>"
+"418","            <brokerStateCountry brokerState=US-OH brokerCountry=US/>"
+"419","            <grossCommission>784</grossCommission>"
+"420","          </broker>"
+"421","          <broker>"
+"422","            <brokerName>WOLFE RESEARCH SECURITIES</brokerName>"
+"423","            <brokerFileNo>8-68406</brokerFileNo>"
+"424","            <brokerCrdNo>000151850</brokerCrdNo>"
+"425","            <brokerLei>N/A</brokerLei>"
+"426","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"427","            <grossCommission>640</grossCommission>"
+"428","          </broker>"
+"429","          <broker>"
+"430","            <brokerName>STEPHENS</brokerName>"
+"431","            <brokerFileNo>8-1927</brokerFileNo>"
+"432","            <brokerCrdNo>000003496</brokerCrdNo>"
+"433","            <brokerLei>N/A</brokerLei>"
+"434","            <brokerStateCountry brokerState=US-AR brokerCountry=US/>"
+"435","            <grossCommission>606</grossCommission>"
+"436","          </broker>"
+"437","          <broker>"
+"438","            <brokerName>STIFEL, NICOLAUS &amp; COMPANY, INCORPORATED</brokerName>"
+"439","            <brokerFileNo>8-1447</brokerFileNo>"
+"440","            <brokerCrdNo>000000793</brokerCrdNo>"
+"441","            <brokerLei>N/A</brokerLei>"
+"442","            <brokerStateCountry brokerState=US-MO brokerCountry=US/>"
+"443","            <grossCommission>546</grossCommission>"
+"444","          </broker>"
+"445","        </brokers>"
+"446","        <aggregateCommission>39954</aggregateCommission>"
+"447","        <principalAggregatePurchase>0</principalAggregatePurchase>"
+"448","        <isBrokerageResearchPayment>Y</isBrokerageResearchPayment>"
+"449","        <mnthlyAvgNetAssets>25635407</mnthlyAvgNetAssets>"
+"450","        <hasLineOfCredit>N</hasLineOfCredit>"
+"451","        <isInterfundLending>N</isInterfundLending>"
+"452","        <isInterfundBorrowing>N</isInterfundBorrowing>"
+"453","        <isSwingPricing>N</isSwingPricing>"
+"454","      </managementInvestmentQuestion>"
+"455","      <managementInvestmentQuestion>"
+"456","        <mgmtInvFundName>DGHM MicroCap Value Fund</mgmtInvFundName>"
+"457","        <mgmtInvSeriesId>S000053800</mgmtInvSeriesId>"
+"458","        <mgmtInvLei>5493004XCI6G3DM2JN39</mgmtInvLei>"
+"459","        <isFirstFilingByFund>N</isFirstFilingByFund>"
+"460","        <numAuthorizedClass>2</numAuthorizedClass>"
+"461","        <numAddedClass>0</numAddedClass>"
+"462","        <numTerminatedClass>0</numTerminatedClass>"
+"463","        <sharesOutstandings>"
+"464","          <sharesOutstanding sharesOutstandingClassName=Investor sharesOutstandingClassId=C000169254 sharesOutstandingTickerSymbol=DGMMX/>"
+"465","          <sharesOutstanding sharesOutstandingClassName=Institutional sharesOutstandingClassId=C000169255 sharesOutstandingTickerSymbol=DGMIX/>"
+"466","        </sharesOutstandings>"
+"467","        <fundType>N/A</fundType>"
+"468","        <isNonDiversifiedCompany>N</isNonDiversifiedCompany>"
+"469","        <isForeignSubsidiary>N</isForeignSubsidiary>"
+"470","        <isFundSecuritiesLending>N</isFundSecuritiesLending>"
+"471","        <didFundLendSecurities>N</didFundLendSecurities>"
+"472","        <paymentToAgentManagerType>N/A</paymentToAgentManagerType>"
+"473","        <avgPortfolioSecuritiesValue>N/A</avgPortfolioSecuritiesValue>"
+"474","        <netIncomeSecuritiesLending>N/A</netIncomeSecuritiesLending>"
+"475","        <relyOnRuleType>N/A</relyOnRuleType>"
+"476","        <isExpenseLimitationInPlace>Y</isExpenseLimitationInPlace>"
+"477","        <isExpenseReducedOrWaived>Y</isExpenseReducedOrWaived>"
+"478","        <isFeesWaivedRecoupable>Y</isFeesWaivedRecoupable>"
+"479","        <isExpenseWaivedRecoupable>N</isExpenseWaivedRecoupable>"
+"480","        <investmentAdvisers>"
+"481","          <investmentAdviser>"
+"482","            <investmentAdviserName>Dalton, Greiner, Hartman, Maher &amp; Co., LLC</investmentAdviserName>"
+"483","            <investmentAdviserFileNo>801-62895</investmentAdviserFileNo>"
+"484","            <investmentAdviserCrdNo>000130913</investmentAdviserCrdNo>"
+"485","            <investmentAdviserLei>N/A</investmentAdviserLei>"
+"486","            <investmentAdviserStateCountry investmentAdviserState=US-NY investmentAdviserCountry=US/>"
+"487","            <isInvestmentAdviserHired>N</isInvestmentAdviserHired>"
+"488","          </investmentAdviser>"
+"489","        </investmentAdvisers>"
+"490","        <transferAgents>"
+"491","          <transferAgent>"
+"492","            <transferAgentName>Commonwealth Fund Services, Inc.</transferAgentName>"
+"493","            <transferAgentFileNo>084-01553</transferAgentFileNo>"
+"494","            <transferAgentLei>N/A</transferAgentLei>"
+"495","            <transferAgentStateCountry transferAgentState=US-VA transferAgentCountry=US/>"
+"496","            <isTransferAgentAffiliated>Y</isTransferAgentAffiliated>"
+"497","            <isTransferAgentSubAgent>N</isTransferAgentSubAgent>"
+"498","          </transferAgent>"
+"499","        </transferAgents>"
+"500","        <isTransferAgentHiredOrTerminated>N</isTransferAgentHiredOrTerminated>"
+"501","        <pricingServices>"
+"502","          <pricingService>"
+"503","            <pricingServiceName>Bloomberg</pricingServiceName>"
+"504","            <pricingServiceLei>5493001KJTIIGC8Y1R12</pricingServiceLei>"
+"505","            <pricingServiceIdNumberDesc>N/A</pricingServiceIdNumberDesc>"
+"506","            <pricingServiceStateCountry pricingServiceState=US-NY pricingServiceCountry=US/>"
+"507","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"508","          </pricingService>"
+"509","          <pricingService>"
+"510","            <pricingServiceName>ICE Data Pricing &amp; Reference Data LLC</pricingServiceName>"
+"511","            <pricingServiceLei>5493000NQ9LYLDBCTL34</pricingServiceLei>"
+"512","            <pricingServiceIdNumberDesc>N/A</pricingServiceIdNumberDesc>"
+"513","            <pricingServiceStateCountry pricingServiceState=US-DE pricingServiceCountry=US/>"
+"514","            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>"
+"515","          </pricingService>"
+"516","        </pricingServices>"
+"517","        <isPricingServiceHiredOrTerminated>N</isPricingServiceHiredOrTerminated>"
+"518","        <custodians>"
+"519","          <custodian>"
+"520","            <custodianName>Fifth Third Bank</custodianName>"
+"521","            <custodianLei>QFROUN1UWUYU0DVIWD51</custodianLei>"
+"522","            <custodianStateCountry custodianState=US-OH custodianCountry=US/>"
+"523","            <isCustodianAffiliated>N</isCustodianAffiliated>"
+"524","            <isSubCustodian>N</isSubCustodian>"
+"525","            <custodyType>Bank - section 17(f)(1) (15 U.S.C. 80a-17(f)(1))</custodyType>"
+"526","            <otherCustodianDesc>N/A</otherCustodianDesc>"
+"527","          </custodian>"
+"528","        </custodians>"
+"529","        <isCustodianHiredOrTerminated>N</isCustodianHiredOrTerminated>"
+"530","        <shareholderServicingAgents>"
+"531","          <shareholderServicingAgent>"
+"532","            <shareholderServiceAgentName>Commonwealth Fund Services, Inc.</shareholderServiceAgentName>"
+"533","            <shareholderServiceAgentLei>084-01553</shareholderServiceAgentLei>"
+"534","            <shareholderServiceIdNumberDesc>SEC File Number</shareholderServiceIdNumberDesc>"
+"535","            <shareholderServiceAgentStateCountry shareholderServiceAgentState=US-VA shareholderServiceAgentCountry=US/>"
+"536","            <isShareholderServiceAgentAffiliated>Y</isShareholderServiceAgentAffiliated>"
+"537","            <isShareholderServiceAgentSubshare>N</isShareholderServiceAgentSubshare>"
+"538","          </shareholderServicingAgent>"
+"539","        </shareholderServicingAgents>"
+"540","        <isShareholderServiceHiredTerminated>N</isShareholderServiceHiredTerminated>"
+"541","        <admins>"
+"542","          <admin>"
+"543","            <adminName>Commonwealth Fund Services, Inc.</adminName>"
+"544","            <adminLei>084-01553</adminLei>"
+"545","            <idNumberDesc>SEC File Number</idNumberDesc>"
+"546","            <adminStateCountry adminState=US-VA adminCountry=US/>"
+"547","            <isAdminAffiliated>Y</isAdminAffiliated>"
+"548","            <isAdminSubAdmin>N</isAdminSubAdmin>"
+"549","          </admin>"
+"550","        </admins>"
+"551","        <isAdminHiredOrTerminated>N</isAdminHiredOrTerminated>"
+"552","        <brokers>"
+"553","          <broker>"
+"554","            <brokerName>COWEN AND COMPANY</brokerName>"
+"555","            <brokerFileNo>8-22522</brokerFileNo>"
+"556","            <brokerCrdNo>000007616</brokerCrdNo>"
+"557","            <brokerLei>N/A</brokerLei>"
+"558","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"559","            <grossCommission>15792</grossCommission>"
+"560","          </broker>"
+"561","          <broker>"
+"562","            <brokerName>LIQUIDNET, INC.</brokerName>"
+"563","            <brokerFileNo>8-52461</brokerFileNo>"
+"564","            <brokerCrdNo>000103987</brokerCrdNo>"
+"565","            <brokerLei>N/A</brokerLei>"
+"566","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"567","            <grossCommission>12735</grossCommission>"
+"568","          </broker>"
+"569","          <broker>"
+"570","            <brokerName>INSTINET, LLC</brokerName>"
+"571","            <brokerFileNo>8-23669</brokerFileNo>"
+"572","            <brokerCrdNo>000007897</brokerCrdNo>"
+"573","            <brokerLei>N/A</brokerLei>"
+"574","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"575","            <grossCommission>4232</grossCommission>"
+"576","          </broker>"
+"577","          <broker>"
+"578","            <brokerName>ITG INC.</brokerName>"
+"579","            <brokerFileNo>8-44218</brokerFileNo>"
+"580","            <brokerCrdNo>000029299</brokerCrdNo>"
+"581","            <brokerLei>N/A</brokerLei>"
+"582","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"583","            <grossCommission>3625</grossCommission>"
+"584","          </broker>"
+"585","          <broker>"
+"586","            <brokerName>RBC CAPITAL MARKETS, LLC</brokerName>"
+"587","            <brokerFileNo>8-45411</brokerFileNo>"
+"588","            <brokerCrdNo>000031194</brokerCrdNo>"
+"589","            <brokerLei>N/A</brokerLei>"
+"590","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"591","            <grossCommission>3501</grossCommission>"
+"592","          </broker>"
+"593","          <broker>"
+"594","            <brokerName>J.P. MORGAN SECURITIES LLC</brokerName>"
+"595","            <brokerFileNo>8-35008</brokerFileNo>"
+"596","            <brokerCrdNo>000000079</brokerCrdNo>"
+"597","            <brokerLei>N/A</brokerLei>"
+"598","            <brokerStateCountry brokerState=US-NY brokerCountry=US/>"
+"599","            <grossCommission>1267</grossCommission>"
+"600","          </broker>"
+"601","          <broker>"
+"602","            <brokerName>CAPITAL ONE SECURITIES, INC.</brokerName>"
+"603","            <brokerFileNo>8-50561</brokerFileNo>"
+"604","            <brokerCrdNo>000044158</brokerCrdNo>"
+"605","            <brokerLei>N/A</brokerLei>"
+"606","            <brokerStateCountry brokerState=US-LA brokerCountry=US/>"
+"607","            <grossCommission>725</grossCommission>"
+"608","          </broker>"
+"609","          <broker>"
+"610","            <brokerName>PIPER JAFFRAY &amp; CO.</brokerName>"
+"611","            <brokerFileNo>8-15204</brokerFileNo>"
+"612","            <brokerCrdNo>000000665</brokerCrdNo>"
+"613","            <brokerLei>N/A</brokerLei>"
+"614","            <brokerStateCountry brokerState=US-MN brokerCountry=US/>"
+"615","            <grossCommission>706</grossCommission>"
+"616","          </broker>"
+"617","          <broker>"
+"618","            <brokerName>WEEDEN &amp; CO.L.P.</brokerName>"
+"619","            <brokerFileNo>8-37267</brokerFileNo>"
+"620","            <brokerCrdNo>000016835</brokerCrdNo>"
+"621","            <brokerLei>N/A</brokerLei>"
+"622","            <brokerStateCountry brokerState=US-CT brokerCountry=US/>"
+"623","            <grossCommission>676</grossCommission>"
+"624","          </broker>"
+"625","          <broker>"
+"626","            <brokerName>D.A. DAVIDSON &amp; CO.</brokerName>"
+"627","            <brokerFileNo>8-2399</brokerFileNo>"
+"628","            <brokerCrdNo>000000199</brokerCrdNo>"
+"629","            <brokerLei>N/A</brokerLei>"
+"630","            <brokerStateCountry brokerState=US-MT brokerCountry=US/>"
+"631","            <grossCommission>674</grossCommission>"
+"632","          </broker>"
+"633","        </brokers>"
+"634","        <aggregateCommission>50365</aggregateCommission>"
+"635","        <principalAggregatePurchase>0</principalAggregatePurchase>"
+"636","        <isBrokerageResearchPayment>Y</isBrokerageResearchPayment>"
+"637","        <mnthlyAvgNetAssets>45392945</mnthlyAvgNetAssets>"
+"638","        <lineOfCredit hasLineOfCredit=Y>"
+"639","          <lineOfCreditDetails>"
+"640","            <lineOfCreditDetail>"
+"641","              <isCreditLineCommitted>Uncommitted</isCreditLineCommitted>"
+"642","              <lineOfCreditSize>1500000</lineOfCreditSize>"
+"643","              <lineOfCreditInstitutions>"
+"644","                <lineOfCreditInstitution creditInstitutionName=Fifth Third Bank N.A./>"
+"645","              </lineOfCreditInstitutions>"
+"646","              <soleCreditType creditType=Sole/>"
+"647","              <isCreditLineUsed>N</isCreditLineUsed>"
+"648","            </lineOfCreditDetail>"
+"649","          </lineOfCreditDetails>"
+"650","        </lineOfCredit>"
+"651","        <isInterfundLending>N</isInterfundLending>"
+"652","        <isInterfundBorrowing>N</isInterfundBorrowing>"
+"653","        <isSwingPricing>N</isSwingPricing>"
+"654","      </managementInvestmentQuestion>"
+"655","    </managementInvestmentQuestionSeriesInfo>"
+"656","    <attachmentsTab>"
+"657","      <isLegalProceedings>false</isLegalProceedings>"
+"658","      <isProvisionFinancialSupport>false</isProvisionFinancialSupport>"
+"659","      <isIPAReportInternalControl>true</isIPAReportInternalControl>"
+"660","      <isChangeAccPrinciples>false</isChangeAccPrinciples>"
+"661","      <isInfoRequiredEO>false</isInfoRequiredEO>"
+"662","      <isOtherInfoRequired>false</isOtherInfoRequired>"
+"663","    </attachmentsTab>"
+"664","    <signature registrantSignedName=World Funds Trust signedDate=2020-05-14 signature=/s/ Ann MacDonald title=Principal Financial Officer/>"
+"665","  </formData>"
+"666","</edgarSubmission>"
+"667","</XML>"
+"668","</TEXT>"
+"669","</DOCUMENT>"
+"670","<DOCUMENT>"
+"671","<TYPE>GRAPHIC"
+"672","<SEQUENCE>2"
+"673","<FILENAME>image_001.jpg"
+"674","<DESCRIPTION>GRAPHIC"
+"675","<TEXT>"
+"676","begin 644 image_001.jpg"
+"677","M_]C_X  02D9)1@ ! 0$.Q [$  #_VP!#  , @, @,# P,$ P,$!0@%!00$"
+"678","M!0H'!P8(# H,# L*PL-#A(0#0X1#@L+$!80$1,4%145# \7&!84&!(4%13_
+MVP!# 0,$! 4$!0D%!0D4#0L-%!04%!04%!04%!04%!04%!04%!04%!04%!04
+M%!04%!04%!04%!04%!04%!04%!04%!3_P  1  O 34# 2(  A$! Q$!_\0"
+"679","M'P   04! 0$! 0$           $ P0%!@<(0H+_\0 M1   @$# P($ P4%"
+"680","M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*"
+"681","M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U"
+"682","M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&"
+"683","MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!"
+"684","M 0$! 0        $ P0%!@<(0H+_\0 M1$  @$! 0#! <%! 0  0)W  $"
+"685","M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!2,S4O 58G+1A8D-.$E\1<8&1HF"
+"686","M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$"
+"687","MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4"
+"688","MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#]4Z*** B
+MBB@ J&25+>)G=]B+]YWK@?B%\7K+P;>1Z+IMG+XC\77('V;0K$_O>?\ EI*?
+M^64?^VU<K%\%-=^(\]O??%#7/[0M4;>OA322T6F)_LR_Q3X_VJ /4_#?BK1_
+M%MG)>:)J=MJMK%.]L\UI(LJ>8G#+N'I6W6;HVB:?X?L([#3+.WTZSB^Y;6D2
+MQ(G_  $5I4 %%<7X_P#B /8L-/L+4ZSXEU-VCT_2XY AD*_>D<_PQI_$U>9"
+"689","M_$;PCXRT'PGJOC+4OBMJ&E:MIUJUW';6=O%%I22*N[RCREY$9OE^9MU 'T!
+M16'X.U:?Q!X3T35;NW^R75[917$L1X\MG16*_F:W* BBB@ HKD_B)\0M'^%"
+"690","MWA&^U_6KJ.UM+9&VAS\\TF/E1!_$S8KS?]G+QQXQ\1^'[63Q%X4URT:\9[N\"
+"691","MU76I(H0)7^81P0;B_E+PJT >Z4444 %%%>=^./CCX5\:O#I%Q=7.J^()O\
+M5Z+I%NUW=G/^PGW?^!4 >B45FZ-JJZUIEO?+!<VD<J;_ ;N-HI4_P!Y36E0"
+"692","M 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 -6O-/'"
+"693","M7B36?$>N2>#O5S'87:(K:KK)^;^SHWSM5%[S,/N_G7I:UXM:^ _B+X&\8:Q
+M<^$KSP[J/A_6-1?49[;6(Y8KJ1S\^V2/_6+Z;JF6P'>^ ?AIH?PWL9(-*@D"
+"694","MDNIOGNM1NW\V[NF_O2R'YF-;'B#Q'I/A33)=1UG4+?3+&+E[BZD5$]>IK@[F"
+"695","M/XO7@=$D\(:2C=)?+N;IU7_OI*X/XA?LGZG\4KS2[[Q'\1-0U&]T_<\=G)I\"
+"696","M7]FDGU@&/;^*H Y2T_:Q\2>(W2Y2[\(^$=%FG=;#5-2COKNUOHU;;N6=$C1?"
+"697","M]UJT?^&Q[/P#JEM;^.-5\(ZKIUV66/4_&HM<M&VW*K+;'<_/W=U>A:=\+OB
+M3IFFPZ7:_$#1K'3(H_*CMK3PM&B1K_LKYNVN;\5?LE1>,=+BEU'Q5=7?B&VG
+MAN+&_N-/@6WM&217;9;1JB_-M_BH]X#C/!_QAUV_M#QM<^%Y(_$^MI_R$O%"
+"698","M-PNDZ?IUF&_=6\7F_O9<?Q>7'\SUI_#_ ,5^'?BQ\1M(M_%FLZCXJU>9);S3"
+"699","M+2/2I[30H/+/S-&LN&F9?^>K5ZOX1^ FC:3K \2>)9!XV\8[=G]MZM;HSP)U"
+"700","M\N!/NPK_ +M86K? KQ/=?$37/$VG_$&XTU-41;?$>EQR7=K;+SY$$SMB-=WS"
+"701","M?=ZT_? B\5?M(M:?$S3O7AO24UL_P!IPZ;J%S)<>4Z._P!_R(PI,OE+\TC?
+M=6O<J^;_  ;^QQ9>%M0U..7Q?JM]I&HS-)<HD:Q7UVI??Y4]XO[QH]W\*[-U
+M;6B?LZ:E#ID'AG6?%UQ=^!K!W^PZ/IL;VDIB+,\<<\X<NRIP%VX_2CW@/>:*
+M\@B\ ^,_AY<R#P5KL&JZ*_W=$\42RR^0W_3*YY?_ (VZO5;;S1;1?:-B3;/"
+"702","MF\O[N[VK0#P[XR^%_$>E^.!\1+.TT+6M(T;2)2MGKMQ)FGR+N>2XCVHX9F7
+MY:ZOX,ZY\1/%&E?VUXUL]TVQU*>QL=+\[[1K<_OF<[<[?[M=SXITJRUO
+MPYJEAJ-H+ZRN+62&>V_Y[(5^9?QK@OV;M'U30_@QX8AU>[U2ZO7M1,R:O\UQ
+M K?<A/ ^XN!60'JE%%9^LS75MI%Y-8Q>?>I[PPG^.3;\HK4#RKQUXRUKQMX"
+"703","ML/@'P+>_8+J'YM>\01IO73(C_P L4_A-P_/^YU^G;> /A?X?^&]B8=&M-DTO"
+"704","MS7-_<'S;NZ;^]+*?F8UX7\$/C+X6^'OP_M].U6#7O^$PN));S6+7^P[I[B>^"
+"705","M=MTQ^6/#>WTJ_P#%?XG?%3Q1\-_$UQX'\$WWAN*&R<QZCK,FV]D^7_EWMH]S"
+"706","M;O\ ::L^<#Z4HK\^[CPIX7CAL-1TW]H/6K?Q)^Z\VZ33KF[O3*%7S%C4,/O?"
+"707","MW65Z]A\*^&?&>M?#;4/%?Q3\=^*H+*Q2XF33M,CBTII[2/.QY5A7?N=?X-U+"
+"708","MG ^HZ*^0/A-IWQ5U;X11Q:;)JOAS1HH+J_1KF3S=8U%GW216\'GD^3&N47<W"
+"709","MS5EV/B[XX1?$?P1X3'B+3[KQ=+HDKZGI'E[[33HMD:1W5U)]Z29F^;91S@?5"
+"710","M7C/XB^&?AY9QW/B+7+/1TF.V);B3#S-Z(GWF_P TSP)\2?#OQ*L9[OP]?\
+MVZ&W?RIE>)XI(WZX9'4,*\&UKP;XX^'OBXO?#'PXC^(OBYX%>7QQXFU6!/G"
+"711","MV_=BB^]&J_W5V55T^U^-_@CP1XGU73?%C/XRU9UN[R]N]12XEGG^6-5BMH\
+M(JHO_32CG ^KZ*^<V^)?QDL=4M]N/%E<ZOJ^GK)IUS;[WMM-E5MDK7LOW?
+M]O;'_NUK_P#B/$.I6,E_P(_BGXEF\3;-\5_IES]BLK5E'\-LGR,OKYF:?.
+M![K17S;X _:)\6^-K'4-T'PI%XL\4:-=M8:AK$%XEOH[N/NS+)RS;E^;8JU"
+"712","M[-X4U;6(=!T__A-/[)T[7KB9H?)L)V:!WRVU4,F&9MJUH!L^(/$%AX6T:[U7"
+"713","M5;N.QTZTC::>YF.%C4=2:I>#/%>-/^GZ[%9W%C!?)YT4-T-K^6?NM^*X:O"
+"714","M)/B9_P 7E^+5A\-0G_%-Z,D.M>(V/_+?O;6O^ZS?.WTKM_C7\2I?A!\.-0\4"
+"715","M6VF1:O\ 8=K?87O5M?,7/S>6Q4[GP/E3^*@#T2N ^-?Q#G^%?PXU3Q3:V:E
+M)8R0;[9Y-F]7E1&Q_M;6KYP_9T^*7BKXQ?%+Q#\7_$VGZKX:\ VFG-8Z5#/J
+M*II]K GSSS3J6'F2;E^]M^6NF^('Q6TO]I71?_@CP@EQ+-KVH17E^UU%L^Q"
+"716","M:;;7N\S?]==G[O^]6?,!]21R^9&C?WJDHHK0 HHHH **** BBB@ HHHH *"
+"717","M*** BBB@ HHHH **** BBB@ HHHH **** &4^BB@L+..3SE@C#_WA'\U"
+"718","M6:** O,_AK\$-*^'?BCQ1XF^UW&K>(_$-T\USJ-W]](MV4A0=E6O3** BB"
+"719","MB@ KQ?XN22_$KQQIGPO@N9(-,EM3JOB*23:YLPVV.W!'3S7^]WV U[17@WC
+MOX7^,Y_B7XBU7PU=6UK8>*-)M]*OM1DF_P!(TT1-)NEB3&&+1OP!T;DT :7[
+M-VD6D>D^*M?L+2*QTO6M;F?3X((]BTA1;:(J.VX0EOQI?$/PXUKQY\>M$U["
+"720","M5Q]E\(^$H?.TVW$@;[=J$BLK3,%^ZL2_+\W4FO4= T:T\-Z'8Z981F.RL[>."
+"721","MWA''*N%K5H \P\;?L^>$O'GBB/Q)>)J.FZZD?DM?:1J$MI+-&/X7V'YA4?A
+MS]G+P+X<U2+4?[/N=5U6)&6*_P!5U>[FC#)L;9YCG;\I_AKU.B@#F[#P'X="
+"722","MTKP9'X2MM)MH_#D=K]C&F[-T7DGC;SVK*^''P<\%_6.\3PEH%MHWVUPUPT.
+:YGDQTRS$G KN:* BBB@ HHHH **** /_]D!"
+"723","end"
+"724","</TEXT>"
+"725","</DOCUMENT>"
+"726","<DOCUMENT>"
+"727","<TYPE>GRAPHIC"
+"728","<SEQUENCE>3"
+"729","<FILENAME>image_002.jpg"
+"730","<DESCRIPTION>GRAPHIC"
+"731","<TEXT>"
+"732","begin 644 image_002.jpg"
+"733","MB5!.1PT*&@H    -24A$4@   2P    M 8   %C46;R    &71%6'13;V9T
+M=V%R90!!9&]B92!);6%G95)E861Y<<EE/    R9I5%AT6$U,.F-O;2YA9&]B
+M92YX;7       #P_>'!A8VME=!B96=I;CTB[[N_(B!I9#TB5S5-,$UP0V5H"
+"734","M:4AZ<F53>DY48WIK8SED(C\^(#QX.GAM<&UE=&$@>&UL;G,Z>#TB861O8F4Z"
+"735","M;G,Z;65T82\B('@Z>&UP=&L](D%D;V)E(%A-4!#;W)E(#4N-BUC,30U(#<Y
+M+C$V,S0Y.2P@,C Q.\P.\Q,RTQ-CHT,#HR,B @( @( @(CX@/')D9CI2
+M1$8@>&UL;G,Z<F1F/2)H='1P.B\O=W=W+G<S+F]R9R\Q.3DY+S R+S(R+7)D
+M9BUS>6YT87@M;G,C(CX@/')D9CI$97-C<FEP=&EO;B!R9&8Z86)O=70](B(@
+M>&UL;G,Z>&UP34T](FAT=' Z+R]N<RYA9&]B92YC;VTO>&%P+S$N,]M;2\B"
+"736","M('AM;&YS.G-T4F5F/2)H='1P.B\O;G,N861O8F4N8V]M+WAA<\Q+C O<U1Y
+M<&4O4F5S;W5R8V52968C(B!X;6QN<SIX;7 ](FAT=' Z+R]N<RYA9&]B92YC
+M;VTO>&%P+S$N,\B('AM<$U-.D1O8W5M96YT240](GAM<YD:60Z.#,V13!$
+M-$4S-SE,3%%04(U-C%-T,X-#,R130W-3$B('AM<$U-.DEN<W1A;F-E240]
+M(GAM<YI:60Z.#,V13!$-$0S-SE,3%%04(U-C%-T,X-#,R130W-3$B('AM"
+"737","M<#I#<F5A=&]R5&]O;#TB061O8F4@4&AO=&]S:&]P($-#(#(P,34@*%=I;F1O"
+"738","M=W,I(CX@/'AM<$U-.D1E<FEV961&<F]M('-T4F5F.FEN<W1A;F-E240](GAM"
+"739","M<YI:60Z-38P-$,S0C U,C1,3%%-D%%,D%-D-%1C$P,CA#,4,B('-T4F5F
+M.F1O8W5M96YT240](GAM<YD:60Z-38P-$,S0C$U,C1,3%%-D%%,D%-D-%"
+"740","M1C$P,CA#,4,B+SX@/]R9&8Z1&5S8W)I<'1I;VX^(#PO<F1F.E)$1CX@/]X"
+"741","M.GAM<&UE=&$^(#P_>'!A8VME=!E;F0](G(B/S[ ,]?L   >1TE$051XVF)@
+M@ +CM(:]0*S+@ 4 Q048R 1 O<)XY/X3TOP?GV*@6 *9COI/C . \@YH_!DX
+M+06*/P!B%YC#@#@7B)<CR?,A6PS$Z]$= .0_(3:DT#W! L0M0+P 7='960V,
+M2 H3@?S)0'HRD'\#2*M#Y1EA>H#\0*#<!S3[#&%F(9M) (2 "":@8AF@IOLD
+MQ! 'L=$(-/LUU%$/T1SU%4WM,23N&F0)3R!F1%-<B<3^L0R:$$^$8B9T,0^"
+"742","MP,30Q)]@B>;_\/0$!0_KK?X,5@<((0%7['XWL+G*E*@[Q9"">BTO396)S
+M%AD.JH;27,26 $#^85!PZV Q[!46S=;8LCV0?0Y*8RO[6J!I[!LNAV/)'I,"
+"743","M.-0*HVL LH\BR8LA)6HCJ/QE+%P'4?N>X8G)OAP.>H;@9BQQN%+9/ 8**\%
+M+=/4T>2DT$,+J(8;QF:E2=H+N8AD);60^5O 7$X$/=B42,+I4'IZ@:R65 ["
+"744","MET+- >?=9*[)&&Y#R D(/P&Q O0P]68A,Y4-TF<C,$!3G[/RF9$:B&#4O&"
+"745","MRH;ZTX& WG;D,M *&+)16#('L0&P;@ ZA^)ZG^B9P4@?RJR&%=&E**CH&Q"
+"746","M@6HJF6#E.9!S 4=I @O08UABY3@6,0&TE)F&Q#Z%)>+GC*0ZQ9J1KJ09#["
+"747","M8;7J0VA[!XQQ:+N)Q[P#0'T@^9NPP /22X!4)LP=H(#0(C)R+('X)H%EE/"
+"748","M:2*)H;=IJI#8H ? ,) =C$0@VIX3B2]G$AJ/^)*(4BQ#?(4%[0T5P!A(/\>
+ME,8&U FD/&R-SE 8@P5H\'V@0G-<C3,D\2] ;(,F-QOJZ.L@,X@(\'PB&X!$
+M VBA7 OU[&<@GP_JMF7(Q0JLP@#B.B[<T?:DCN8H06[J#Z?350W!FFCO'_
+M?[J6R4,:  00>L,8%(I;@7@W,$1]22QP54#F ?7=IG-![P:T<Q>)>D#ELSP0
+M*V(I-G %BS9C0/*!^5O4']K(U \@ BS0('4,0-= HD4,=3#Q10TRX%<CV"
+"749","M(:)&# 6J,T!O<N K'J!-[GE,Z!U4I#P.JAFN#N)<(0UTXSLDCWH3TR8#JEU#"
+"750","MH.^ #5PXJDL0$-^XBD\=8#R&P9[60)THQV0^DU,94!D>\P,J/8TE,T*9?"
+"751","MLB$; 0LT QB XK]AK+3@.S96QCA3I^E ^%RH>*36@MIMH.XHM!',#&I!"
+"752","M@]0A&0%J/GPGQG- O6>!5# 0+P2J9<.C[C@Q@0AU^UE00'7H+RG8G$%C ["
+"753","M**0+)@%%.=%4E8/$@?B/Z#  .(<Y!8^K($+I&VA#<H\4 L:V=% _(.$YH41
+M4.T#(%9$;I!B:922,EABB<7OI40'%E!Q=0SO[!(?T)B;T1B7R>BWS:1CS7
+M@&40D ':$ 75<'%X&J7$M-M^XQHU8$R11';&+M P*P)E 04<NJ%LD&%^E:@"
+"754","MN:#_BG4LX>PZ.D$XG(B(R,*:,8R;$41*&4M),*,*51J;1>@8Q)3U4PT\[9!
+MF4\(V%L!U5^!PUQ8*QW4^E^*).Z.K(X)5M)#.Y'HAC!RY$\/&ZQ(<*?S#@<"
+"755","M.9?$\,Y [ZPC9T<D=@86O=. N!V'N7N@9GV&%NJ[@1C4O3N!7'XR(5D(&IJX"
+"756","MC>213%!?#LE ?K11 M#HX%70,5H]@*61; $B Y0#6@HY3:_N= \60*>D
+M6@H!Z5\-Q.^!<I)X.MD=6%(7J-:=AFVX';U62>YZPX0<P/QAX?U5E-&^X9D"
+"757","M (  [%M-2%5!%+Z]E H+0<H*(G\B$RFA'Q,J?]ZBR$7R*EJT*2KI;2(*-_TH"
+"758","M*6&$]$>+K-*) @7U5,B#2J+:F5$&N$F05L492A28-*SOH-G[#3<N?==[RM"
+"759","M&CC,?7?.G)D[<V;.[YMBV%&RRBOY9[TU%I+ZQ+X+ %<!@[<I*BCFSMA_Q,"
+"760","MA+FH2'M=#;I5DW'A6=C1R?W. C21FQKQS3OB. Y=,>I.)G.TF75@NH]KF0=*"
+"761","M,&8K^Q/IN3W>3H<H7V//0'R=RX2SA2H5\<M8@B[)FZN3E;%8%)LH>A2CM:6
+MB^J5!Y/5-,949E@J>T#KB@L^Q;./\L_@1!@+-.[RY4.:6U,OUR(JI=QGK(Q"
+"762","MXJ8Q41 I07S _Q);N<#U$YLU[<2:^F7<E3'^2?9,HTQ[&4%6^NM#G3+4-$M
+MF\2O*']AMV#4L 90 >@1=DZO6*0@E@_ KA1-AH+#)/)1/48L$!K:D#?,@^+"
+"763","M12>[2S-DMX#&;8<^=.))3 =UK1;]+FFX9'63EIMLH^DV62)B@?(6L)@5/C\E"
+"764","M3+>7I,4P, $F2I?,)45U,)W#:I9#.]#%0]PGJIU]J7:)Y3I90'2:VGC2_T"
+"765","MZ#5T^T E4BE[)M6FG?Q.RN%8!9QJ@RBD1:I0;AV!0V99EMU\T49Z6KOI6]#^"
+"766","M =5<PCYTNP\J5R& 67 N6' >8VV91-8&XI3R T<X;&R0>^]SW67\Q\ O10?
+MM#:Q/D9E,VC=,>UH%*N?(H41M7)*(RS#O%#F)NIAM-!BYFK& M]/AO(5>I,"
+"767","MQ25?C-<FGD\IID()&<:>ITZ@2VI$B<Y4@N&H+/6J]P!ZF*ENBB8Z9*6*J8 3"
+"768","M AQ1)JZ >X!M'H9\YW,KF\6:.445I!]D7(*0*+P,V!LGINK61(;3U=LE](D4"
+"769","MNL5L?+ U,0PK@_'EXCD(FD$?7C>3 DLW[70/:R(5XU6@^X*?MPO&I@P+BM)N"
+"770","MX$TD.!%+@$XK(]:O:$JNS^U\5C.WY$.7PUX*6)Y_%#3E=76*6X,)%BKU:!"
+"771","M< 8E:QO@I9 SK%][Y\<P.(TYF4[M >LO%*S+3L%4;P13C:L=P.FSQC+KUAL2"
+"772","M3=(\#$DAL:A?B<.>WA52[ ,R#%U4C*!'1IT-B?BD<>)-+ U8&F#Y[CTFZ,M
+M<G\<]O*!>+[^#UB L]W6 ]]-%GFFW%B1/;D1[7VB+6!PE2M:H_)P>\W 9!=Z
+MMJ9O4X@SG>>UG_&F 92W>9 9<9&D%=('!(?5QNC/O40?<N9QKDB?:(0_>/
+M7'<[7/6)'L47_;FACG\68_PZA[G3WTDZ_B1783Z4]QMQVVA*C>,U4$E *G$I
+MK*%&I;@QT!IB6IUB+_-<]G$6SRV=4ULDO2_,. 3G^=VW6_/O[P.$ 36N#E)M
+M,,HQV6IHIHS0M1R<=YKP19O%H4(G:Z7,7C5XWBT[:Y4#8 ,N.$5D==++B1
+M&$_V0>>$[B#FLAWM)I$OQF\;B:EG]9B-6>/4)ZB;CATHUO J)M&C-9E@'E
+M&NCN,O7O/;9FB&\MIS(SK?KY;SK83P'8N?K0+*LH_JP6V=,(THW=;BK D5
+M6HN^5D-7_9&+%%VF82OH Z&@M//5A2*3F@1F5#!_-J4FG2ATFIE:Y:4?XU
+MV@@R2VQ&8YNLK)AV?NU<=][SWO<^]S[O\Y;I#CQL[_/<K^?>\YQ[SKGG=UR,
+M!25P%5V+V3R'OO(B#6)U 7624MX^)L*OE,;1PHE.#.N!VZ,C!=]8KCY@:]A"
+"773","M)^8$9K1U(7ZN4K*\67UL>5SD)7/3O:X0OHTT?4KZU.06+^EY/LZYI) )QDS
+M82[[V2KOY0_WN!&#T(&4^H%T-/ PQ*6UL(^E=>UCJY/J+]:9O#/TIKS8C40"
+"774","M!.09)$FI!;H%!KN'/;2#*>LC1>PM/WJ22R@L*A1R@#>FB_L(R7B,YS6-#Q7@"
+"775","MV4:ZAJB?\>HQUF\'EQM. V8%+!FV<KJNI?YJI*(]5S#5&3%X0 KAPJ@[)X*
+M<2G[^5VGJW=_7*S%ECP7>0LS561A*CWGIZ?T7E^P'ZV*^M]]FE#PC#+[0IQ2
+MSE06C5'H@M?&%&GGOPUY]%$GZE_J62V-TQ>H3=_S=EMJML)^P<'+/*7+,!]1
+M5(VQC#<UQ5E7QAA+PY>': G/M?S4%55!SS N1%C>+&Z_1/7DB<VK;.S!DW!=
+M,3LJSTSX$K51_F=2IQ*5B,4ZVT-!!FXT>R$TFJYVII,&=3UC:W,N2#_%6"
+"776","MB' XQHS6S;I9*]V#2V8^5_G:*.\2F?=YH$[T4PRGXU#X$74;DWD3U?TJ8,+>"
+"777","M9E/9$&*B9\34:6=41YBXZ6!$/I#E$-$+!3/<Z/1@'.@#O=QEHXN9>0LI6<;
+M$S+6=NX+A/BG:C$.XVC<0.U_E[!]Z=3>$+B6S<#TJCG\A=T_'TDP(IRF]*>"
+"778","MGL,A_C#]+:=[V5=3/IEZL6#K3G+HLYF;@93+3*>6^X/^_7KI0M%C?$8?[:"
+"779","MK^3;U2Y+AN'W4&#7BK[QGL@7<L0 CY@0]O%RI% ,'##70U<],Y8YQ6^3Z8H
+MYTI&<EXB<N/@& TH^SHJ\T!*TO&#?-:2QO0@,Y4YT;108LMH/+G9/BQU (M"
+"780","MI$8VY:F@(K3#M'$>M7?(4@;2:J:-,=5X@)I=(? X.NSV8WIV@ZK_%S,D/9W
+MJF?28X]%W)ECW- EMEG&!HE>DX^/C=HX*MP)0^P?7.MPH3M7LS2-14?H$XQ"
+"781","MXU'N9RHWV>K'BD;/[Y(.ID@L3I^-J7B@LT2VD@/TNR)'DQ62J831('4\V?]Z"
+"782","M\TZ:J?A>OPA[E#^(@DIW!:-YO*1!)!#-_>UDMI;E6:$,JSR_@*Z9IFHC X"
+"783","M4O8]1UV< ^8*AZF)_EN:I+=2?GZD:3N,RS3KE,IJ+HFL#^?;:1C8(1KW#I"
+"784","MCY9[/>+GO,/[EYF:DC)(]JOQ80^(;F@8U6*:PKK3ZI-BY%MX@,T!Q(TH:6"
+"785","M6!/S')-<J#=BR@+A8S+[( IAJ64ANP(FP_> =H_HZ\G(GOBAPZ.=*L]Q02H."
+"786","MLW3LA%=:A6;_ Z4%E Z1=%(=.GK 'U'#-2D^\4>7>U+4?KD#9#1 Y[!2F_>
+ME .M+JE',-:2R)YV*83N5@O:FJ.<C!N:DZ.,3]X<7QW&'%$AQM[H9W_2^-K$
+M.^-@7Z-LGV7&6N39SX?J_:'?]B9<NSZA;B1RA.NM,!@;R$%?W0GZ[G6,(PGY
+MYD9#R/1S?*TOI-)!\[)=^?SDXND/0<?]&XOL-4]FT&'=MR88[T/*8@ZA;[7$
+MPBFW\:',3-#@;5%@U&E*VZZF@VJB_Y7PXQB:(\:SV_*\3.@PB/M'?CJ3 F1Q
+M IT7^MHT_O]1=J.$T%RN![J%KO?-=FX[QQ59+T79T@L;=GH7,4>]$S+U]:
+M73M36,1-T?^,6*=J$;=:A>*,O6A!J- 1_U^48$APP7S#8X-EO-<FC2S;[TJ.
+M'L[:@M8I4SN$+A!G4H.0>,0,C(5T_TI+-+F$YF)D'DZQ[A71.*L%BH8_JR
+M,L6Q0N^: ^ &#HCR\P+&-\'2'J00,)X7<CJM\[GL]>PO!#7:@C\-F )G3&:/
+MKN>S()_!0%2VBULR%&1U %/TI+1^76)LRV/&7JD!'04@:02\ZWA_K19LS:$T
+M-WO,Y90 RUP2@+PW6MIK8@<I&&P7NTQ@Q=_'IQKM3N6=I2(^X?CMD2&C %%"
+"787","MTBC:@)YC''PUCKI/BY]GI;6*U'^U^+G6T?\X-L\'\E5-!X99XX\4/,=Q4O4
+M[P'IWT,>WP=2V:P'O 0$' 6][IP8%6IVLJ,U/U6Y.W=_[0?'4+79.\3&9Q
+M\ AJH$:VJN?C63*4Y_*O,#JYGDWM$AG?1<_NH#\F#URE@C<AK$0B:S/@]Z*<
+MG.!WHA$DL?'DEZFM)2,2EI[#(X]TVU5 Q_ ]>,!_5 ;%\>>.OF=IK& .)I9!
+MD5EY*UARXO@J3H)FS%=,OXA8^=U5ES/S(E1YOX9O:2(&NHL5^ZRT I5/=11Y
+M^6(X_GF/PPVPA'.A.[>::,0):O.JORG+&P+EN6CHO)M,64STN]P[E%;2LT,"
+"788","MM M'6S8XOM2BN'%Z)H/%2<3SCB+($_$*ESUD83)DL O..S2)MD(']Q50*4[
+M&I.2FXFQKH]B['&LM2-42'H;P':.Q\@JZHZCA^6Q3(G0YT4,@NS$A@:0TF3"
+"789","MQE0L1X1AQJ#$,F*<R14M9] : F;$B8MQ78$'<OQ3^2?!/L#:BI$KMAJ4[-6
+M8D9FQ9])(IM94%A!ICH?]GO;P]ES[KOWOOO>6_=F1WTWG?^WG-^Y_?W^QN4"
+"790","M<_=C+ 8)^8NF%]4O:X'<8NNZT_>E%S87?E*/A0S'#9#>N%HG1BM6PY:M,&#
+MO=AO/,+T1IQ=$%'+O)9H=U^XZX#8#[H2XE2GY3C3,.>HDE9$H(YEML8K,_D"
+"791","MB ZV(24+QC1>J5@51CF/$:BXNG^<(1@:WA7V@GC))3)!(:BL$@OT_H3''B!K"
+"792","MLD2-:FW4 .=V3SB!P61>I_DO&0?_T4'\A$%G[?H6V.(PJ K#)#^Q4],5@Y"
+"793","MVP?(7!*LTVO1L]-<4!8 ACL+V1H T*-;K[#,0O_7C+D-*?=U@;-$=ESG/KO
+MDBTA-< >2]7=GEP(DM9E1:/_)%1W.D3*+:7!XY:\<&CK;FMR6 <LH1HL_8:K
+M587X=%2H!X<UT7L,M_%P ^<$<$NYJJQ42B=7PT8A6T7WZ(8-M/9]02Z4(#D"
+"794","M?$ED2%_0FB=UN:QJ5089?^(7%CF$N,0J1?:ZLF5%GI?#\@]O5 *7N:Q_Z"
+"795","M)58MD@9<8G5;)6*EO7J^Z9_D\IX&SH78O-T>L2(HXVW5$A0APPPQ%;+PU*D0"
+"796","M_(%E98K^2$:P6.JB63X@R+6FOY$3 C7*5GBIK!&15%UFH_N:QZI9:EBXJ7T8"
+"797","M^TYZB,-N#HN;+U#,GA&ETFH4*E@%?'=X-?8<4PL\4RBVAE;:,NI]C*VI/*"
+"798","MG3G !&W*(%8O)TC)]/H5(N&1JOUZ0:[^SLT:BM@3 DZ^NDQBY2S0_=(K+&J>"
+"799","MJV:IU7D//,,DO##C@3O/>[RTSL1JJ#A$WWN*N)QI->H6#@XXEA$YQHE3#CHU"
+"800","M$+A<ESZ\L/#A>$V$:XS$VO^3 =&7#H<NW*BUGZ(Y0J/0S3T ^$21>=K$6)%
+M1^VU^B X1L?X,>K_+!X/)VL6^@=$F5WB$K#YCXG+.%Z;+)AF@^B[Y$:!\XX"
+"801","M@$#^J>2^<&PBC1:*Y/$#8.*@4+YF239914W)&O)9L1BBL?<AE F5(V#.8_4
+MG'=ISL2,KV\@XMG? L_&*<G,K17F#JJ&F[5PCJWS[3H2*\;09<*NGNVU,@ (
+M[@5Q^(\9QHA2'#=?%UCA._*'3JN'+KM#%\H34OJC,P3%=X_VR\_,_EEU]Y56
+M9>)^0^OJ,-!)PTF823K,WY()DOP'2RBB^Q0Q_XG[J!B$''PGF,ZB6_8V%(
+M[/IBB9L+9_V;306+BC,&'*[:DH0S.?HY475=Q_D>$8;-(B[ P8SV^ONK^EL3
+M:3?5&<TIQ^O&IPYN >!R'Y)AW/P#Y,]%D=3/M2HH;D-A6H#3;[9C>2A ).#X
+MYSJ/X<:N:0#1763BV1I6U+)CK(QV+:[2GN@.?,_!$I=/]5]E<0-!EVUZT7 X
+M,PE4 D1RMRZ3*$32H!11T&B3?V] \/:7[@OLO-WL;[4$9!>,K>X*=8=('K[(
+M>T4X^]P*=6>:OBQD;L%5&HL-%BB4H=-]]VVG#3;?O!#[G45A*C?J'WASW\^;
+M-E '0O*@Z<O(Y8KXBU/JM>A 7! A6(@,P# A&ET2\RV[2 BA/J99NL\6,=]"
+"802","MX^8P\LLLW>+ ;'U9Q!?W<<S]-Z3D#:KUF ^1SB=V&0RNE\00.4NHB'RPG&_:"
+"803","M,5U3H#VD@'=YC[]EVYH7(UB;37_%9%)(0K6ZP80*,0,8K<.J)::VK=--&.=C"
+"804","MDH^2E(%@O2BQ;Q]8H:^YYA \G,CT, 4'<;S@0\ZTL](DK/?OZN-W9$ZN)>$
+MPC,1-7%)^:&M^_F,ETPH6W#%V).2]]!=XLA#98?6Y]9*%U\=QPNW$7.?V&C'
+M.:*!8X/##T'HCL[B_Q5H+P3V23DCY+#:FD*L*'L:_.%<;#VWW%&$\[-UGM;-
+M?Y/WZF'[/*]?%<0* ,HY&7]_3X1@P>&U!>:./N[/GMB;W&0;<LSY>G%H;K 6
+M&WX]NK^<H@[$*D^RY?LB!(O;<VJ-]P[K1LS09280?NL4DAB>%)6M@U 19^M"
+"805","M8AC;;;M#]1+(TC=#3R/0R*$?V\18J42BPOCL@L2+! <8AC<@QJX.--'-VC"
+"806","M&N7G$A$./]P8J& @F)=G;&=K#F)%>2WR_+2(6/94@%A1?E1@SO>;_M&E$!\W"
+"807","MS7V6TF-R@&N #J+P:U]Q?$J-]@P&B%N\N:)X)_=*IWT_WX0MA!<JV=!8UPJH"
+"808","ME'2A1.,HFOW0+72GD_- @*>472GOAIK&E6,C>[*:!*,Q AS4W[5(#Y1VHS:J"
+"809","M7!=Y_G(>#B-PB/ W61=YG2=-7EF(-J$-B)R>.3W17#?8T K,W.V\U#&%#A%
+MYER42*'6N%-1Z>L<8L6<2<P /$*GOCVZQ+,B38'UL5V<;=K^P;HUWGN,3]2P
+MDH@5)2WAP[$%X,7**AO-_IBY21E619LQ;+P@Q]8J_4S,K0!KU.WU6 G[$;!@
+MM3I0[;&-M:V$[EZ./#\!F D[ABSI:[;5<#DFI+Q[/2T!2,Y<JY#[7Q[,OY^"
+"810","MEQE Q8X=[O3I@00U;%!<&P]#DE(-PC7]!*A*A7@2%QW3BR4GVB9*7#\OO1"
+"811","MR)EEWL_487WA)MNE!KA9+@]!RZM]/C;!Z<O;3>3YTB#!PM(D$^:' N^G8[ZN"
+"812","MM2G:]L'M1LIQ(9LY4X;B79F%I&0!G\2UIW,E <)M,+$Z+G)H=QH/,SM"
+"813","M$+K%J7S?_AO2QRU3)NY)$1V?:\Z?5Z/O,5O$.%1FU(-@F5X=(*Y!6YVUFPV&"
+"814","MH^GU>_2Y]6=S?D/$R]#%\J48^'YR.,^-$ )T6]?686': OJ9F!6I##S'HV+R"
+"815","M= A=K0$E3;1XCVD6RA61YQNRBJWV=\ DD7$J1)0FBIL-<0!)^-HO;1LWU&)R"
+"816","MMET(TKS(ZUDG*OEA8""'1])F)65WMA8$S^N\LH$+#='P;W%U6_R'3YIVU^:
+MRDW8'T!!1T>(UES2PM5P8?6Q0=FBQV'BXH0\Q4A/;(*KL=%WE^XP YC-]-
+MX0*GFF:AQ'(%C=%ARTH8?B&.]C>!UW#YO[7MK1/<?OU7JE*GC<%$Y3F&!LZ"
+"817","MU5CHVIHD#6&-I$ N!)](^3^8I^!YG*TQU6MM&-ZM!(8-HCA]H^(#-=9F7Y:
+M8L[-_<0?)?$<:L+A#*MM!^?6@%B!G]HIRGJ.MR HM6^*W3!5],DBA92$JVV?
+MP?2;3C(-M)+%? ?#_'Y)NTW!MY#I&Y+N=ZOV'_$/-B' +6QQZEEL3Y^&X2
+M^J8Y;Y*,%T.  *BKV0M8<D.P2QC$7O!B\\HZEPO%7:V5H2(V-M!73A;D+JXC
+M6+8)M7M5<^=O+^@OSO__5[\[5'JJ8P2\O2#+V&(8R4FXC%]01,XH(TQ!J7_P
+M*,:C=TP,5%KZM1#GDQLS6,#<.,KZ2/(@H5X2J8-L'O1TS^.WY>5R=4O4$5!(
+MDJ'DR7#$^%]6F#=N?TZI(,(>A2G.(YR4&?F[*_;]'=K*.J?Y+?-+;\L\KJ]"
+"818","M2/8D6>#P'[NP K&<$0NM$N>#6#]6^IBE)<P5+A G[C.\5XP!!^^U)?1QF!@("
+"819","MPMJ6VS8_8P98J91JXDJ))_[O!.Y/&_H@J R0!Y-XH<6Z0:I5 \ ZOHQRYE"
+"820","M]G:7Q6.?)=)Y3%C Q]*L@K8>MW7(W^HGMMZG2B!86.C>&5M+W: 0K1#DQQ6V"
+"821","MWBT9^X>K7YN@?F>KK0AH=_&PFKZ)=PN2+ HPZ6**..0(=:%TIZ@XK@X;U)S
+MJ1R8_Q<J_)1@=M*#/K<9)T:Q?K/8B\I8KPNG17!0C73LWUIP7:_+8$8Q?"
+"822","M^%01,K:^C/%N7# >QURLG429C-=_'^[]C#URYGN_WOF'J@B6,Z'A^H#3 Z_Q"
+"823","MB7I E'F3/ARW.![T)^J ?,+T.=JQ$*6_JK PG)S$0D.^^@ZNQ+<>Y?I]5_A
+M$.R5?,T-]UE/9Y4D%/JJCR^O/HBC.\_D@VSF8.S0O%;D)%AN8=Q8G9+Z>H3"
+"824","M+D3DRP/UMFG^:_4-L+X<IPW_!/?(@*0+Y7(Z;9-N,6G3;X<1GLU9];QC@($
+M*RG_T88E,/KQ*@_SY\2UAWS8$N7QX](_O:++T)^BE029YD^RWQ<E>)&!'D
+MW99C*#OU#9^H);=AYPN&.VX')P2X+D+-.^!/Q+.K^W:R] H;HW^1,L >^"
+"825","MDM?B:0D22%3'()4UAVM258BTLA6(&%.EH*L[,UZ7<[F_T-;89-VA@H,Q_)"
+"826","MFD<HYS@.UV*=(Q'G>&<<KXN0X?K_I&Z[K1G:A, 6U1%UI8BV*((G96SG*:49"
+"827","M3!OGJ2(R:Q+<FLA)OY;&Q6GX)5I:7'4UFDF[JA:J3R7AI>F0Y5%?[K&,=7"
+"828","MQ?X8I<OR([J\($Y'B*#WB.!N$Z>$\'/TR M-]P@YBJ_?96$:<MNBP1)1]K"
+"829","M!)R.1-EQ.I?,%S>EHTR?>]!.211PUUUB,%;G\,&+$2R,=1\L6!WBN,$2JG]D"
+"830","7K? _3Q>;4$H/P;<     245.1*Y8((!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INTERNAL CONTROL RPT
+<SEQUENCE>4
+<FILENAME>itemg1aiii_report-cohen.htm
+<DESCRIPTION>INTERNAL CONTROL REPORT
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE=font: 10pt Times New Roman, Times, Serif>
+
+<P STYLE=margin: 0></P>
+<!-- Field: Rule-Page --><DIV STYLE=margin: 0; width: 100%><DIV STYLE=font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid>&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+<P STYLE=font: 10pt Calibri, Helvetica, Sans-Serif; margin: 2.75pt 99.5pt 0 99.6pt; text-align: center>&nbsp;</P>
+
+<P STYLE=font: 10pt Calibri, Helvetica, Sans-Serif; margin-top: 2.75pt; margin-bottom: 0; text-align: right><IMG SRC=image_002.jpg ALT="" STYLE=right: auto></P>
+
+
+<P STYLE=font: 10pt Calibri, Helvetica, Sans-Serif; margin: 2.75pt 99.5pt 0 99.6pt; text-align: center>&nbsp;</P>
+
+<P STYLE=font: 10pt Calibri, Helvetica, Sans-Serif; margin: 2.75pt 99.5pt 0 99.6pt; text-align: center><B><U>REPORT
+OF I<FONT STYLE=letter-spacing: -0.05pt>N</FONT>DEPENDENT REG<FONT STYLE=letter-spacing: 0.05pt>I</FONT>STERED P<FONT STYLE=letter-spacing: -0.05pt>U</FONT>BLIC
+ACCOUNT<FONT STYLE=letter-spacing: 0.05pt>I</FONT>NG F<FONT STYLE=letter-spacing: -0.05pt>I</FONT>RM</U></B></P>
+
+<P STYLE=font: 12pt/12pt Times New Roman, Times, Serif; margin: 0.2pt 0 0>&nbsp;</P>
+
+<P STYLE=font: 10pt Calibri, Helvetica, Sans-Serif; margin: 0 80.65pt 0 6pt; text-align: justify>To the Shar<FONT STYLE=letter-spacing: -0.05pt>eh</FONT>olders
+of DG<FONT STYLE=letter-spacing: -0.05pt>H</FONT>M <FONT STYLE=letter-spacing: -0.05pt>V</FONT>2<FONT STYLE=letter-spacing: -0.05pt>0</FONT>00
+Smal<FONT STYLE=letter-spacing: -0.1pt>l</FONT>Cap Value F<FONT STYLE=letter-spacing: -0.05pt>un</FONT>d and DGHM MicroC<FONT STYLE=letter-spacing: -0.05pt>a</FONT>p
+Va<FONT STYLE=letter-spacing: -0.1pt>l</FONT><FONT STYLE=letter-spacing: -0.05pt>u</FONT>e F<FONT STYLE=letter-spacing: -0.05pt>u</FONT>nd
+and</P>
+
+<P STYLE=font: 10pt/12pt Calibri, Helvetica, Sans-Serif; margin: 0 312.9pt 0 6.05pt; text-align: justify>Board <FONT STYLE=letter-spacing: -0.05pt>o</FONT>f
+Trustees of World <FONT STYLE=letter-spacing: -0.05pt>F</FONT>unds <FONT STYLE=letter-spacing: -0.05pt>Trust</FONT></P>
+
+<P STYLE=font: 12pt/12pt Times New Roman, Times, Serif; margin: 0.2pt 0 0>&nbsp;</P>
+
+<P STYLE=font: 10pt Calibri, Helvetica, Sans-Serif; margin: 0 4.05pt 0 6.1pt; text-align: justify; text-indent: -0.05pt>In pl<FONT STYLE=letter-spacing: -0.05pt>a</FONT>nni<FONT STYLE=letter-spacing: -0.05pt>n</FONT>g
+and per<FONT STYLE=letter-spacing: -0.05pt>f</FONT>orming <FONT STYLE=letter-spacing: -0.05pt>o</FONT>ur audit <FONT STYLE=letter-spacing: -0.05pt>o</FONT>f
+<FONT STYLE=letter-spacing: -0.05pt>t</FONT>he financial statements of DG<FONT STYLE=letter-spacing: -0.05pt>H</FONT>M <FONT STYLE=letter-spacing: -0.05pt>V</FONT>2<FONT STYLE=letter-spacing: -0.05pt>00</FONT>0
+Sma<FONT STYLE=letter-spacing: -0.1pt>l</FONT>lCap Value F<FONT STYLE=letter-spacing: -0.05pt>un</FONT>d <FONT STYLE=letter-spacing: -0.05pt>a</FONT>nd
+DGHM MicroC<FONT STYLE=letter-spacing: -0.05pt>a</FONT>p Va<FONT STYLE=letter-spacing: -0.1pt>l</FONT><FONT STYLE=letter-spacing: -0.05pt>u</FONT>e
+F<FONT STYLE=letter-spacing: -0.05pt>u</FONT>nd, (<FONT STYLE=letter-spacing: -0.05pt>t</FONT>he <FONT STYLE=letter-spacing: -0.05pt>&#8220;F</FONT>unds<FONT STYLE=letter-spacing: -0.05pt>&#8221;</FONT>),
+each a series of Wor<FONT STYLE=letter-spacing: -0.1pt>l</FONT>ds F<FONT STYLE=letter-spacing: -0.2pt>u</FONT>nds <FONT STYLE=letter-spacing: -0.05pt>Trust</FONT>,
+as of <FONT STYLE=letter-spacing: -0.05pt>a</FONT>nd <FONT STYLE=letter-spacing: -0.05pt>f</FONT>or <FONT STYLE=letter-spacing: -0.05pt>t</FONT>he
+y<FONT STYLE=letter-spacing: -0.05pt>e</FONT>ar ended Februa<FONT STYLE=letter-spacing: -0.05pt>r</FONT>y 2<FONT STYLE=letter-spacing: -0.05pt>9</FONT>,</P>
+
+<P STYLE=font: 10pt/12pt Calibri, Helvetica, Sans-Serif; margin: 0 4.55pt 0 6.05pt; text-align: justify>2<FONT STYLE=letter-spacing: -0.05pt>0</FONT>2<FONT STYLE=letter-spacing: -0.05pt>0</FONT>,
+in <FONT STYLE=letter-spacing: -0.05pt>a</FONT>cco<FONT STYLE=letter-spacing: -0.05pt>r</FONT>da<FONT STYLE=letter-spacing: -0.05pt>n</FONT>ce
+<FONT STYLE=letter-spacing: -0.05pt>wit</FONT>h <FONT STYLE=letter-spacing: -0.05pt>th</FONT>e standards of the Public <FONT STYLE=letter-spacing: -0.05pt>Co</FONT>mpany
+<FONT STYLE=letter-spacing: 0.05pt>A</FONT><FONT STYLE=letter-spacing: -0.05pt>c</FONT>counting Oversight Boa<FONT STYLE=letter-spacing: -0.05pt>r</FONT>d
+(Unit<FONT STYLE=letter-spacing: -0.05pt>e</FONT>d States), we</P>
+
+<P STYLE=font: 10pt Calibri, Helvetica, Sans-Serif; margin: 0.05pt 4.15pt 0 5.9pt; text-align: justify; text-indent: 0.1pt>considered
+the Fu<FONT STYLE=letter-spacing: -0.05pt>n</FONT>ds&#8217; internal control over <FONT STYLE=letter-spacing: -0.05pt>f</FONT>inancial
+r<FONT STYLE=letter-spacing: -0.05pt>e</FONT>porting, including controls over safegua<FONT STYLE=letter-spacing: -0.05pt>r</FONT>ding
+securities, as a basis for <FONT STYLE=letter-spacing: -0.05pt>d</FONT>esi<FONT STYLE=letter-spacing: -0.05pt>g</FONT>ning
+our a<FONT STYLE=letter-spacing: -0.05pt>u</FONT>diting proc<FONT STYLE=letter-spacing: -0.05pt>e</FONT>dures for <FONT STYLE=letter-spacing: -0.05pt>t</FONT>he
+purp<FONT STYLE=letter-spacing: -0.1pt>o</FONT>se of expressing <FONT STYLE=letter-spacing: -0.05pt>o</FONT><FONT STYLE=letter-spacing: 0.15pt>u</FONT>r
+op<FONT STYLE=letter-spacing: -0.1pt>i</FONT>nion on <FONT STYLE=letter-spacing: -0.05pt>t</FONT>he financial statements and
+to comply with the requirements of <FONT STYLE=letter-spacing: -0.05pt>For</FONT>m N&#45;CEN, but n<FONT STYLE=letter-spacing: -0.05pt>o</FONT>t
+for the purpose of expressing <FONT STYLE=letter-spacing: -0.05pt>a</FONT>n op<FONT STYLE=letter-spacing: -0.1pt>i</FONT>nion
+on <FONT STYLE=letter-spacing: -0.05pt>t</FONT>he effectiveness <FONT STYLE=letter-spacing: -0.05pt>o</FONT>f the F<FONT STYLE=letter-spacing: -0.05pt>u</FONT>nds&#8217;
+internal c<FONT STYLE=letter-spacing: -0.05pt>o</FONT>ntrol <FONT STYLE=letter-spacing: -0.05pt>ov</FONT>er financial r<FONT STYLE=letter-spacing: -0.05pt>e</FONT>porting.
+A<FONT STYLE=letter-spacing: -0.05pt>c</FONT>co<FONT STYLE=letter-spacing: -0.05pt>r</FONT>dingl<FONT STYLE=letter-spacing: -0.05pt>y</FONT>,
+we express no such opinion.</P>
+
+<P STYLE=font: 12pt/12pt Times New Roman, Times, Serif; margin: 0.2pt 0 0>&nbsp;</P>
+
+<P STYLE=font: 10pt Calibri, Helvetica, Sans-Serif; margin: 0 4.05pt 0 5.85pt; text-align: justify; text-indent: 0.05pt>The manage<FONT STYLE=letter-spacing: -0.1pt>m</FONT>ent
+of the F<FONT STYLE=letter-spacing: -0.05pt>u</FONT>n<FONT STYLE=letter-spacing: -0.05pt>d</FONT>s is responsible for establishing
+and ma<FONT STYLE=letter-spacing: -0.05pt>i</FONT>ntaining eff<FONT STYLE=letter-spacing: -0.05pt>e</FONT>ctive internal co<FONT STYLE=letter-spacing: -0.05pt>n</FONT>trol
+over financial reporting. <FONT STYLE=letter-spacing: -0.05pt>I</FONT>n fulfilling this <FONT STYLE=letter-spacing: -0.05pt>r</FONT>esponsibility,
+estimates and judgments by management are required to assess the expect<FONT STYLE=letter-spacing: -0.05pt>e</FONT>d b<FONT STYLE=letter-spacing: -0.05pt>en</FONT>efits
+and related costs <FONT STYLE=letter-spacing: -0.05pt>o</FONT>f controls. A <FONT STYLE=letter-spacing: -0.05pt>f</FONT>u<FONT STYLE=letter-spacing: -0.05pt>n</FONT>d&#8217;s
+inte<FONT STYLE=letter-spacing: -0.05pt>r</FONT>nal c<FONT STYLE=letter-spacing: -0.05pt>o</FONT>ntrol over fin<FONT STYLE=letter-spacing: -0.05pt>a</FONT>ncial
+report<FONT STYLE=letter-spacing: -0.1pt>i</FONT>ng is a proce<FONT STYLE=letter-spacing: -0.1pt>s</FONT>s design<FONT STYLE=letter-spacing: -0.05pt>e</FONT>d
+to p<FONT STYLE=letter-spacing: -0.05pt>r</FONT>ovide reasonable assurance regarding the reliability of financial report<FONT STYLE=letter-spacing: 0.05pt>i</FONT>ng
+<FONT STYLE=letter-spacing: -0.05pt>a</FONT>nd the p<FONT STYLE=letter-spacing: -0.05pt>r</FONT>eparation of financial statements
+for ext<FONT STYLE=letter-spacing: -0.05pt>e</FONT>rnal pu<FONT STYLE=letter-spacing: -0.1pt>r</FONT>poses <FONT STYLE=letter-spacing: -0.1pt>i</FONT>n
+accordance with generally acc<FONT STYLE=letter-spacing: -0.05pt>e</FONT>pted a<FONT STYLE=letter-spacing: -0.05pt>c</FONT>c<FONT STYLE=letter-spacing: -0.05pt>o</FONT>unti<FONT STYLE=letter-spacing: -0.05pt>n</FONT>g
+princip<FONT STYLE=letter-spacing: -0.1pt>l</FONT>es (G<FONT STYLE=letter-spacing: -0.05pt>A</FONT><FONT STYLE=letter-spacing: 0.05pt>A</FONT>P).
+A fun<FONT STYLE=letter-spacing: -0.05pt>d</FONT>&#8217;s inte<FONT STYLE=letter-spacing: -0.05pt>r</FONT>nal control over
+financial r<FONT STYLE=letter-spacing: -0.05pt>e</FONT>po<FONT STYLE=letter-spacing: -0.1pt>r</FONT>ting includes <FONT STYLE=letter-spacing: -0.05pt>t</FONT>hose
+policies and proc<FONT STYLE=letter-spacing: -0.05pt>e</FONT>du<FONT STYLE=letter-spacing: -0.1pt>r</FONT>es that (<FONT STYLE=letter-spacing: -0.05pt>1</FONT>)
+p<FONT STYLE=letter-spacing: -0.05pt>e</FONT>rtain to <FONT STYLE=letter-spacing: -0.05pt>t</FONT>he mainten<FONT STYLE=letter-spacing: -0.05pt>a</FONT>nce
+<FONT STYLE=letter-spacing: -0.05pt>o</FONT>f records th<FONT STYLE=letter-spacing: -0.05pt>a</FONT>t, in reasonable detail,
+<FONT STYLE=letter-spacing: -0.05pt>a</FONT>c<FONT STYLE=letter-spacing: -0.05pt>c</FONT>u<FONT STYLE=letter-spacing: -0.05pt>r</FONT>a<FONT STYLE=letter-spacing: -0.05pt>t</FONT>e<FONT STYLE=letter-spacing: -0.05pt>l</FONT>y
+and fairly <FONT STYLE=letter-spacing: -0.05pt>r</FONT>eflect <FONT STYLE=letter-spacing: -0.05pt>t</FONT>he transactions <FONT STYLE=letter-spacing: -0.05pt>a</FONT>nd
+d<FONT STYLE=letter-spacing: -0.15pt>i</FONT>spositions of the assets of <FONT STYLE=letter-spacing: -0.05pt>t</FONT>he <FONT STYLE=letter-spacing: -0.05pt>f</FONT>u<FONT STYLE=letter-spacing: -0.05pt>n</FONT>d;
+<FONT STYLE=letter-spacing: -0.05pt>(</FONT>2) provide reasonable assu<FONT STYLE=letter-spacing: -0.1pt>r</FONT>ance that
+transactions are r<FONT STYLE=letter-spacing: -0.05pt>e</FONT>c<FONT STYLE=letter-spacing: -0.05pt>o</FONT>rded as necessary
+<FONT STYLE=letter-spacing: -0.05pt>t</FONT>o permit preparati<FONT STYLE=letter-spacing: -0.05pt>o</FONT>n of financial statements
+in acco<FONT STYLE=letter-spacing: -0.05pt>r</FONT>dance with GAAP, and that <FONT STYLE=letter-spacing: -0.05pt>r</FONT>eceipts
+<FONT STYLE=letter-spacing: -0.05pt>a</FONT>nd e<FONT STYLE=letter-spacing: -0.1pt>x</FONT>pendi<FONT STYLE=letter-spacing: -0.05pt>t</FONT>ures
+of the <FONT STYLE=letter-spacing: -0.05pt>f</FONT>u<FONT STYLE=letter-spacing: -0.05pt>n</FONT>d are being made <FONT STYLE=letter-spacing: -0.05pt>o</FONT>n<FONT STYLE=letter-spacing: -0.05pt>l</FONT>y
+<FONT STYLE=letter-spacing: -0.1pt>i</FONT>n <FONT STYLE=letter-spacing: -0.05pt>a</FONT>c<FONT STYLE=letter-spacing: -0.05pt>c</FONT>o<FONT STYLE=letter-spacing: -0.05pt>r</FONT>d<FONT STYLE=letter-spacing: -0.05pt>a</FONT>nce
+with au<FONT STYLE=letter-spacing: -0.05pt>th</FONT>orizations of management and trustees of <FONT STYLE=letter-spacing: -0.05pt>t</FONT>he
+<FONT STYLE=letter-spacing: -0.05pt>f</FONT>u<FONT STYLE=letter-spacing: -0.05pt>n</FONT>d; <FONT STYLE=letter-spacing: -0.05pt>a</FONT><FONT STYLE=letter-spacing: 0.2pt>n</FONT>d
+<FONT STYLE=letter-spacing: -0.05pt>(</FONT>3) provide reasonable as<FONT STYLE=letter-spacing: -0.1pt>s</FONT>urance regard<FONT STYLE=letter-spacing: -0.05pt>i</FONT>ng
+prevention or timely de<FONT STYLE=letter-spacing: -0.05pt>te</FONT>ction <FONT STYLE=letter-spacing: -0.05pt>o</FONT>f unauthorized
+acquisition, use or disposition of a fun<FONT STYLE=letter-spacing: -0.05pt>d</FONT>&#8217;s assets <FONT STYLE=letter-spacing: -0.05pt>t</FONT>hat
+could have a material ef<FONT STYLE=letter-spacing: -0.05pt>f</FONT>ect <FONT STYLE=letter-spacing: -0.05pt>o</FONT>n <FONT STYLE=letter-spacing: -0.05pt>t</FONT>he
+fin<FONT STYLE=letter-spacing: -0.05pt>a</FONT>ncial statem<FONT STYLE=letter-spacing: -0.05pt>en</FONT>ts.</P>
+
+<P STYLE=font: 12pt/12pt Times New Roman, Times, Serif; margin: 0.25pt 0 0>&nbsp;</P>
+
+<P STYLE=font: 10pt Calibri, Helvetica, Sans-Serif; margin: 0 4.05pt 0 5.9pt; text-align: justify; text-indent: 0.2pt>Bec<FONT STYLE=letter-spacing: -0.05pt>a</FONT>use
+of <FONT STYLE=letter-spacing: -0.05pt>it</FONT>s inher<FONT STYLE=letter-spacing: -0.05pt>e</FONT>nt limitations, <FONT STYLE=letter-spacing: -0.05pt>i</FONT>n<FONT STYLE=letter-spacing: -0.05pt>t</FONT>ernal
+control over f<FONT STYLE=letter-spacing: -0.1pt>i</FONT>nancial reporting may not pr<FONT STYLE=letter-spacing: -0.05pt>e</FONT>vent
+or d<FONT STYLE=letter-spacing: -0.05pt>e</FONT>t<FONT STYLE=letter-spacing: -0.05pt>e</FONT>ct misstatements. Also, pr<FONT STYLE=letter-spacing: -0.05pt>o</FONT>jec<FONT STYLE=letter-spacing: -0.05pt>t</FONT>ions
+of <FONT STYLE=letter-spacing: -0.05pt>a</FONT>ny e<FONT STYLE=letter-spacing: -0.15pt>v</FONT>aluation of ef<FONT STYLE=letter-spacing: -0.05pt>f</FONT>ectiveness
+<FONT STYLE=letter-spacing: -0.05pt>t</FONT>o <FONT STYLE=letter-spacing: -0.05pt>f</FONT>utu<FONT STYLE=letter-spacing: -0.05pt>r</FONT>e
+peri<FONT STYLE=letter-spacing: -0.05pt>o</FONT>ds are subject <FONT STYLE=letter-spacing: -0.05pt>t</FONT>o the risk <FONT STYLE=letter-spacing: -0.05pt>t</FONT>h<FONT STYLE=letter-spacing: -0.05pt>at
+</FONT>controls <FONT STYLE=letter-spacing: -0.05pt>ma</FONT>y become i<FONT STYLE=letter-spacing: -0.05pt>n</FONT>ad<FONT STYLE=letter-spacing: -0.05pt>e</FONT>quate
+be<FONT STYLE=letter-spacing: -0.05pt>c</FONT>ause of c<FONT STYLE=letter-spacing: -0.05pt>h</FONT>a<FONT STYLE=letter-spacing: -0.05pt>n</FONT>ges
+in conditions, or that <FONT STYLE=letter-spacing: -0.05pt>t</FONT>he de<FONT STYLE=letter-spacing: 0.05pt>g</FONT><FONT STYLE=letter-spacing: -0.05pt>r</FONT>ee
+of co<FONT STYLE=letter-spacing: -0.1pt>m</FONT>pliance with the policies or pr<FONT STYLE=letter-spacing: -0.05pt>o</FONT>cedures
+may deteriorate.</P>
+
+<P STYLE=font: 12pt/12pt Times New Roman, Times, Serif; margin: 0.2pt 0 0>&nbsp;</P>
+
+<P STYLE=font: 10pt Calibri, Helvetica, Sans-Serif; margin: 0 4.05pt 0 6pt; text-align: justify; text-indent: -0.1pt>A d<FONT STYLE=letter-spacing: -0.05pt>e</FONT>ficie<FONT STYLE=letter-spacing: -0.05pt>n</FONT>cy
+in internal c<FONT STYLE=letter-spacing: -0.05pt>o</FONT>nt<FONT STYLE=letter-spacing: -0.05pt>r</FONT>ol over financ<FONT STYLE=letter-spacing: -0.1pt>i</FONT>al
+reporting e<FONT STYLE=letter-spacing: -0.1pt>x</FONT>ists when <FONT STYLE=letter-spacing: -0.05pt>t</FONT>he design or operation
+of a co<FONT STYLE=letter-spacing: 0.15pt>n</FONT><FONT STYLE=letter-spacing: -0.05pt>t</FONT>rol does not allow management
+or empl<FONT STYLE=letter-spacing: -0.05pt>o</FONT><FONT STYLE=letter-spacing: 0.05pt>y</FONT>ees, <FONT STYLE=letter-spacing: -0.1pt>i</FONT>n
+<FONT STYLE=letter-spacing: -0.05pt>t</FONT>he n<FONT STYLE=letter-spacing: -0.05pt>o</FONT>rmal course of performing their
+assigned function<FONT STYLE=letter-spacing: -0.1pt>s</FONT>, to pr<FONT STYLE=letter-spacing: -0.05pt>e</FONT>vent or det<FONT STYLE=letter-spacing: -0.05pt>e</FONT>ct
+misstatements on a timely basis. A mater<FONT STYLE=letter-spacing: -0.05pt>i</FONT>al weakness is a defici<FONT STYLE=letter-spacing: -0.05pt>e</FONT>n<FONT STYLE=letter-spacing: -0.05pt>c</FONT><FONT STYLE=letter-spacing: 0.05pt>y</FONT>,
+or combination of <FONT STYLE=letter-spacing: -0.05pt>d</FONT>eficie<FONT STYLE=letter-spacing: -0.05pt>n</FONT>c<FONT STYLE=letter-spacing: -0.1pt>i</FONT>es,
+in inte<FONT STYLE=letter-spacing: -0.05pt>r</FONT>nal control over f<FONT STYLE=letter-spacing: -0.1pt>i</FONT>nancial report<FONT STYLE=letter-spacing: -0.1pt>i</FONT>ng,
+such <FONT STYLE=letter-spacing: -0.05pt>t</FONT>hat <FONT STYLE=letter-spacing: -0.05pt>t</FONT>h<FONT STYLE=letter-spacing: -0.05pt>er</FONT>e
+is a reas<FONT STYLE=letter-spacing: -0.05pt>o</FONT>nable possibility that a material misstatement of the F<FONT STYLE=letter-spacing: -0.1pt>u</FONT>nd<FONT STYLE=letter-spacing: -0.1pt>s</FONT>&#8217;
+ann<FONT STYLE=letter-spacing: -0.05pt>u</FONT>al or interim financial st<FONT STYLE=letter-spacing: -0.05pt>a</FONT>tements
+will not be prevent<FONT STYLE=letter-spacing: -0.05pt>e</FONT>d or dete<FONT STYLE=letter-spacing: -0.05pt>c</FONT>ted on
+a timely basis.</P>
+
+<P STYLE=font: 12pt/12pt Times New Roman, Times, Serif; margin: 0.25pt 0 0>&nbsp;</P>
+
+<P STYLE=font: 10pt Calibri, Helvetica, Sans-Serif; margin: 0 4.05pt 0 6pt; text-align: justify; text-indent: 0.05pt>Our consideration
+of the Fu<FONT STYLE=letter-spacing: -0.05pt>nds</FONT>&#8217; inte<FONT STYLE=letter-spacing: -0.05pt>r</FONT>nal con<FONT STYLE=letter-spacing: -0.05pt>t</FONT>rol
+over fin<FONT STYLE=letter-spacing: -0.05pt>a</FONT>nc<FONT STYLE=letter-spacing: -0.1pt>i</FONT>al reporting <FONT STYLE=letter-spacing: -0.05pt>wa</FONT>s
+for <FONT STYLE=letter-spacing: -0.05pt>t</FONT>he limited purpose de<FONT STYLE=letter-spacing: -0.1pt>s</FONT><FONT STYLE=letter-spacing: -0.05pt>c</FONT>ribed
+in <FONT STYLE=letter-spacing: -0.05pt>t</FONT>he first <FONT STYLE=letter-spacing: 0.1pt>paragraph and</FONT> <FONT STYLE=letter-spacing: 0.05pt>would</FONT>
+not <FONT STYLE=letter-spacing: 0.05pt>necessarily disclose</FONT> <FONT STYLE=letter-spacing: 0.1pt>all</FONT> deficie<FONT STYLE=letter-spacing: -0.05pt>n</FONT>cies
+<FONT STYLE=letter-spacing: 0.1pt>in</FONT> <FONT STYLE=letter-spacing: 0.05pt>internal</FONT> c<FONT STYLE=letter-spacing: -0.05pt>o</FONT>n<FONT STYLE=letter-spacing: -0.05pt>t</FONT>rol
+<FONT STYLE=letter-spacing: 0.05pt>that might be material</FONT> weaknesses <FONT STYLE=letter-spacing: -0.15pt>u</FONT>nder
+standards established by the <FONT STYLE=letter-spacing: -0.05pt>P</FONT>ublic Company <FONT STYLE=letter-spacing: -0.05pt>A</FONT>c<FONT STYLE=letter-spacing: -0.05pt>c</FONT>ounti<FONT STYLE=letter-spacing: -0.05pt>n</FONT>g
+Over<FONT STYLE=letter-spacing: -0.05pt>s</FONT>ight Boa<FONT STYLE=letter-spacing: -0.05pt>r</FONT>d (<FONT STYLE=letter-spacing: -0.05pt>U</FONT>nited
+St<FONT STYLE=letter-spacing: -0.05pt>a</FONT>tes). However, we noted no d<FONT STYLE=letter-spacing: -0.05pt>e</FONT>fici<FONT STYLE=letter-spacing: -0.05pt>e</FONT>ncies
+<FONT STYLE=letter-spacing: -0.1pt>i</FONT>n the <FONT STYLE=letter-spacing: -0.05pt>Fu</FONT>nds&#8217; inte<FONT STYLE=letter-spacing: -0.05pt>r</FONT>nal
+control over financial reporting and its oper<FONT STYLE=letter-spacing: -0.05pt>a</FONT>tion, inc<FONT STYLE=letter-spacing: -0.1pt>l</FONT>udi<FONT STYLE=letter-spacing: -0.05pt>n</FONT>g
+controls over safeguarding securities, that <FONT STYLE=letter-spacing: -0.1pt>w</FONT>e consider to <FONT STYLE=letter-spacing: -0.05pt>b</FONT>e
+a material weakness as de<FONT STYLE=letter-spacing: -0.05pt>f</FONT>ined <FONT STYLE=letter-spacing: -0.05pt>a</FONT>bove
+as of F<FONT STYLE=letter-spacing: -0.15pt>e</FONT>brua<FONT STYLE=letter-spacing: -0.05pt>r</FONT>y</P>
+
+<P STYLE=font: 10pt Calibri, Helvetica, Sans-Serif; margin: 0 434.75pt 0 6pt; text-align: justify>29, <FONT STYLE=letter-spacing: -0.05pt>2</FONT>0<FONT STYLE=letter-spacing: -0.05pt>2</FONT>0.</P>
+
+<P STYLE=font: 12pt/12pt Times New Roman, Times, Serif; margin: 0.2pt 0 0>&nbsp;</P>
+
+<P STYLE=font: 10pt Calibri, Helvetica, Sans-Serif; margin: 0 4.2pt 0 5.95pt; text-align: justify; text-indent: 0.05pt>This
+report is <FONT STYLE=letter-spacing: -0.05pt>i</FONT>nte<FONT STYLE=letter-spacing: -0.05pt>n</FONT>ded solely for <FONT STYLE=letter-spacing: -0.05pt>t</FONT>he
+<FONT STYLE=letter-spacing: -0.1pt>i</FONT>nfor<FONT STYLE=letter-spacing: -0.1pt>m</FONT>ation <FONT STYLE=letter-spacing: -0.05pt>a</FONT>nd
+use of management <FONT STYLE=letter-spacing: -0.05pt>a</FONT>nd the B<FONT STYLE=letter-spacing: -0.05pt>oa</FONT>rd of Trustees
+of the <FONT STYLE=letter-spacing: -0.05pt>F</FONT>u<FONT STYLE=letter-spacing: -0.05pt>n</FONT>ds and the Se<FONT STYLE=letter-spacing: -0.05pt>c</FONT>urities
+and Exc<FONT STYLE=letter-spacing: -0.05pt>h</FONT>a<FONT STYLE=letter-spacing: -0.05pt>n</FONT>ge Commission and is not int<FONT STYLE=letter-spacing: -0.05pt>e</FONT>nded
+to <FONT STYLE=letter-spacing: -0.05pt>b</FONT>e <FONT STYLE=letter-spacing: -0.05pt>a</FONT>nd shou<FONT STYLE=letter-spacing: -0.1pt>l</FONT>d
+not be used by <FONT STYLE=letter-spacing: -0.05pt>a</FONT>n<FONT STYLE=letter-spacing: 0.05pt>y</FONT><FONT STYLE=letter-spacing: -0.05pt>on</FONT>e
+other <FONT STYLE=letter-spacing: -0.05pt>t</FONT>h<FONT STYLE=letter-spacing: -0.05pt>an </FONT>these specified parties.</P>
+
+<P STYLE=font: 10pt Calibri, Helvetica, Sans-Serif; margin: 0 4.2pt 0 5.95pt; text-align: justify; text-indent: 0.05pt>&nbsp;</P>
+
+<P STYLE=font: 10pt Calibri, Helvetica, Sans-Serif; margin: 0 365.95pt 0 6pt><IMG SRC=image_001.jpg ALT="" STYLE=height: 30px; width: 198px></P>
+
+<P STYLE=font: 10pt Calibri, Helvetica, Sans-Serif; margin: 0 365.95pt 0 6pt>&nbsp;</P>
+
+<P STYLE=font: 10pt Calibri, Helvetica, Sans-Serif; margin: 0 365.95pt 0 6pt>CO<FONT STYLE=letter-spacing: -0.05pt>H</FONT>EN
+&amp; <FONT STYLE=letter-spacing: -0.05pt>C</FONT>O<FONT STYLE=letter-spacing: -0.05pt>MP</FONT><FONT STYLE=letter-spacing: 0.05pt>A</FONT>N<FONT STYLE=letter-spacing: -0.05pt>Y</FONT>,
+L<FONT STYLE=letter-spacing: -0.1pt>T</FONT>D. Cleveland, Oh<FONT STYLE=letter-spacing: -0.1pt>i</FONT>o</P>
+
+<P STYLE=font: 10pt/12pt Calibri, Helvetica, Sans-Serif; margin: 0 415.95pt 0 6pt; text-align: justify>April <FONT STYLE=letter-spacing: -0.05pt>2</FONT>9,
+<FONT STYLE=letter-spacing: -0.05pt>2</FONT>0<FONT STYLE=letter-spacing: -0.05pt>20</FONT></P>
+
+<P STYLE=font: 7.5pt/7pt Times New Roman, Times, Serif; margin: 0.15pt 0 0>&nbsp;</P>
+
+<P STYLE=font: 7pt Bookman Old Style, Times, Serif; margin: 1.85pt 0 0 15.75pt; color: #32647F>C O H E N &amp; C O M P A N Y<FONT STYLE=letter-spacing: 0.7pt>,
+</FONT> L T D<FONT STYLE=letter-spacing: 0.65pt>.</FONT></P>
+
+<P STYLE=font: 10pt Times New Roman, Times, Serif; margin: 0.3pt 0 0 15.75pt><FONT STYLE=font-family: Century,serif; font-size: 9pt; color: #B2B3B2; letter-spacing: 0.15pt>8</FONT><FONT STYLE=font-family: Century,serif; font-size: 9pt; color: #B2B3B2; letter-spacing: 0.2pt>0</FONT><FONT STYLE=font-family: Century,serif; font-size: 9pt; color: #B2B3B2>0<FONT STYLE=letter-spacing: 0.15pt>.22</FONT><FONT STYLE=letter-spacing: -0.15pt>9</FONT><FONT STYLE=letter-spacing: -0.3pt>.</FONT><FONT STYLE=letter-spacing: -0.25pt>1</FONT><FONT STYLE=letter-spacing: 0.2pt>0</FONT><FONT STYLE=letter-spacing: 0.15pt>9</FONT>9</FONT>
+<FONT STYLE=font-family: Bookman Old Style, Times, Serif; font-size: 9pt; color: #E47E3C>|</FONT> <FONT STYLE=font-family: Century,serif; font-size: 9pt; color: #B2B3B2; letter-spacing: 0.15pt>86</FONT><FONT STYLE=font-family: Century,serif; font-size: 9pt; color: #B2B3B2; letter-spacing: 0.1pt>6.</FONT><FONT STYLE=font-family: Century,serif; font-size: 9pt; color: #B2B3B2; letter-spacing: -0.3pt>8</FONT><FONT STYLE=font-family: Century,serif; font-size: 9pt; color: #B2B3B2; letter-spacing: -0.15pt>1</FONT><FONT STYLE=font-family: Century,serif; font-size: 9pt; color: #B2B3B2; letter-spacing: 0.15pt>8</FONT><FONT STYLE=font-family: Century,serif; font-size: 9pt; color: #B2B3B2; letter-spacing: -0.15pt>.</FONT><FONT STYLE=font-family: Century,serif; font-size: 9pt; color: #B2B3B2; letter-spacing: 0.15pt>453</FONT><FONT STYLE=font-family: Century,serif; font-size: 9pt; color: #B2B3B2>8</FONT>
+<FONT STYLE=font-family: Bookman Old Style, Times, Serif; font-size: 7pt; color: #B2B3B2; letter-spacing: 0.15pt>f</FONT><FONT STYLE=font-family: Bookman Old Style, Times, Serif; font-size: 7pt; color: #B2B3B2; letter-spacing: 0.2pt>a</FONT><FONT STYLE=font-family: Bookman Old Style, Times, Serif; font-size: 7pt; color: #B2B3B2>x</FONT>
+<FONT STYLE=font-family: Bookman Old Style, Times, Serif; font-size: 9pt; color: #E47E3C>|</FONT> <FONT STYLE=font-family: Century,serif; font-size: 9pt; color: #E47E3C; letter-spacing: 0.05pt>c</FONT><FONT STYLE=font-family: Century,serif; font-size: 9pt; color: #E47E3C>oh<FONT STYLE=letter-spacing: 0.1pt>e</FONT>n<FONT STYLE=letter-spacing: 0.2pt>c</FONT><FONT STYLE=letter-spacing: 0.05pt>p</FONT><FONT STYLE=letter-spacing: 0.35pt>a</FONT><FONT STYLE=letter-spacing: -0.2pt>.</FONT><FONT STYLE=letter-spacing: 0.05pt>c</FONT>om</FONT></P>
+
+<P STYLE=font: 13pt/13pt Times New Roman, Times, Serif; margin: 0.2pt 0 0>&nbsp;</P>
+
+<P STYLE=font: 7pt Bookman Old Style, Times, Serif; margin: 0 0 0 15.75pt; color: #B2B3B2><FONT STYLE=letter-spacing: 0.05pt>R</FONT><FONT STYLE=letter-spacing: 0.1pt>e</FONT><FONT STYLE=letter-spacing: 0.2pt>g</FONT><FONT STYLE=letter-spacing: 0.15pt>i</FONT><FONT STYLE=letter-spacing: 0.25pt>s</FONT><FONT STYLE=letter-spacing: 0.2pt>t</FONT><FONT STYLE=letter-spacing: 0.15pt>e</FONT><FONT STYLE=letter-spacing: 0.2pt>r</FONT><FONT STYLE=letter-spacing: 0.15pt>e</FONT>d
+<FONT STYLE=letter-spacing: 0.1pt>w</FONT><FONT STYLE=letter-spacing: 0.15pt>i</FONT><FONT STYLE=letter-spacing: 0.2pt>t</FONT>h
+<FONT STYLE=letter-spacing: 0.2pt>t</FONT><FONT STYLE=letter-spacing: 0.05pt>h</FONT>e <FONT STYLE=letter-spacing: 0.1pt>P</FONT><FONT STYLE=letter-spacing: 0.05pt>ubli</FONT>c
+<FONT STYLE=letter-spacing: 0.15pt>C</FONT><FONT STYLE=letter-spacing: 0.05pt>om</FONT><FONT STYLE=letter-spacing: 0.1pt>p</FONT><FONT STYLE=letter-spacing: 0.05pt>an</FONT>y
+<FONT STYLE=letter-spacing: 0.05pt>A</FONT><FONT STYLE=letter-spacing: 0.15pt>cc</FONT><FONT STYLE=letter-spacing: 0.05pt>ou</FONT><FONT STYLE=letter-spacing: 0.1pt>n</FONT><FONT STYLE=letter-spacing: 0.2pt>t</FONT><FONT STYLE=letter-spacing: 0.05pt>in</FONT>g
+<FONT STYLE=letter-spacing: 0.2pt>O</FONT><FONT STYLE=letter-spacing: 0.1pt>v</FONT><FONT STYLE=letter-spacing: 0.15pt>e</FONT><FONT STYLE=letter-spacing: 0.3pt>r</FONT><FONT STYLE=letter-spacing: 0.15pt>s</FONT><FONT STYLE=letter-spacing: 0.1pt>i</FONT><FONT STYLE=letter-spacing: 0.2pt>g</FONT><FONT STYLE=letter-spacing: 0.15pt>h</FONT>t
+<FONT STYLE=letter-spacing: 0.15pt>Bo</FONT><FONT STYLE=letter-spacing: 0.1pt>a</FONT><FONT STYLE=letter-spacing: 0.25pt>r</FONT>d</P>
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE=margin-bottom: 6pt; border-bottom: Black 1pt solid><TABLE CELLPADDING=0 CELLSPACING=0 STYLE=border-collapse: collapse; width: 100%; font-size: 10pt><TR STYLE=vertical-align: top; text-align: left><TD STYLE=width: 33%>&nbsp;</TD><TD STYLE=width: 34%>&nbsp;</TD><TD STYLE=width: 33%>&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+"

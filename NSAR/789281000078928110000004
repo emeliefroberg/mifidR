@@ -1,0 +1,1439 @@
+"","V1"
+"1","-----BEGIN PRIVACY-ENHANCED MESSAGE-----"
+"2","Proc-Type: 2001,MIC-CLEAR"
+"3","Originator-Name: webmaster@www.sec.gov"
+"4","Originator-Key-Asymmetric:"
+"5"," MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen"
+"6"," TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB"
+"7","MIC-Info: RSA-MD5,RSA,"
+"8"," BFVLj/R6mjOF2brSy+HXe0JOEn5ISdJ5JXRYdcyO76JTRVHLESGVbEJTfj9+6tKM"
+"9"," I5Z3Qhnmek7wMMfZ+sl9JA=="
+"10","<SEC-DOCUMENT>0000789281-10-000004.txt : 20100628"
+"11","<SEC-HEADER>0000789281-10-000004.hdr.sgml : 20100628"
+"12","<ACCEPTANCE-DATETIME>20100628113824"
+"13","ACCESSION NUMBER:		0000789281-10-000004"
+"14","CONFORMED SUBMISSION TYPE:	NSAR-B"
+"15","PUBLIC DOCUMENT COUNT:		4"
+"16","CONFORMED PERIOD OF REPORT:	20100430"
+"17","FILED AS OF DATE:		20100628"
+"18","DATE AS OF CHANGE:		20100628"
+"19","EFFECTIVENESS DATE:		20100628"
+"20","FILER:"
+"21","	COMPANY DATA:	"
+"22","		COMPANY CONFORMED NAME:			FEDERATED INCOME SECURITIES TRUST"
+"23","		CENTRAL INDEX KEY:			0000789281"
+"24","		IRS NUMBER:				251412886"
+"25","		STATE OF INCORPORATION:			MA"
+"26","		FISCAL YEAR END:			0430"
+"27","	FILING VALUES:"
+"28","		FORM TYPE:		NSAR-B"
+"29","		SEC ACT:		1940 Act"
+"30","		SEC FILE NUMBER:	811-04577"
+"31","		FILM NUMBER:		10919172"
+"32","	BUSINESS ADDRESS:	"
+"33","		STREET 1:		4000 ERICSSON DRIVE"
+"34","		CITY:			WARRENDALE"
+"35","		STATE:			PA"
+"36","		ZIP:			15086-7561"
+"37","		BUSINESS PHONE:		8003417400"
+"38","	MAIL ADDRESS:	"
+"39","		STREET 1:		4000 ERICSSON DRIVE"
+"40","		CITY:			WARRENDALE"
+"41","		STATE:			PA"
+"42","		ZIP:			15086-7561"
+"43","	FORMER COMPANY:	"
+"44","		FORMER CONFORMED NAME:	FEDERATED FLOATING RATE TRUST"
+"45","		DATE OF NAME CHANGE:	19920205"
+"46","<SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"47","<EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"48","<SERIES>"
+"49","<OWNER-CIK>0000789281"
+"50","<SERIES-ID>S000009075"
+"51","<SERIES-NAME>Federated Intermediate Corporate Bond Fund"
+"52","<CLASS-CONTRACT>"
+"53","<CLASS-CONTRACT-ID>C000024655"
+"54","<CLASS-CONTRACT-NAME>Institutional Shares"
+"55","<CLASS-CONTRACT-TICKER-SYMBOL>FIIFX"
+"56","</CLASS-CONTRACT>"
+"57","<CLASS-CONTRACT>"
+"58","<CLASS-CONTRACT-ID>C000024656"
+"59","<CLASS-CONTRACT-NAME>Institutional Service Shares"
+"60","<CLASS-CONTRACT-TICKER-SYMBOL>INISX"
+"61","</CLASS-CONTRACT>"
+"62","</SERIES>"
+"63","<SERIES>"
+"64","<OWNER-CIK>0000789281"
+"65","<SERIES-ID>S000009077"
+"66","<SERIES-NAME>Federated Short-Term Income Fund"
+"67","<CLASS-CONTRACT>"
+"68","<CLASS-CONTRACT-ID>C000024660"
+"69","<CLASS-CONTRACT-NAME>Class A Shares"
+"70","<CLASS-CONTRACT-TICKER-SYMBOL>FTIAX"
+"71","</CLASS-CONTRACT>"
+"72","<CLASS-CONTRACT>"
+"73","<CLASS-CONTRACT-ID>C000024661"
+"74","<CLASS-CONTRACT-NAME>Class Y Shares"
+"75","<CLASS-CONTRACT-TICKER-SYMBOL>FSTYX"
+"76","</CLASS-CONTRACT>"
+"77","<CLASS-CONTRACT>"
+"78","<CLASS-CONTRACT-ID>C000024662"
+"79","<CLASS-CONTRACT-NAME>Institutional Shares"
+"80","<CLASS-CONTRACT-TICKER-SYMBOL>FSTIX"
+"81","</CLASS-CONTRACT>"
+"82","<CLASS-CONTRACT>"
+"83","<CLASS-CONTRACT-ID>C000024663"
+"84","<CLASS-CONTRACT-NAME>Institutional Service Shares"
+"85","<CLASS-CONTRACT-TICKER-SYMBOL>FSISX"
+"86","</CLASS-CONTRACT>"
+"87","</SERIES>"
+"88","</EXISTING-SERIES-AND-CLASSES-CONTRACTS>"
+"89","</SERIES-AND-CLASSES-CONTRACTS-DATA>"
+"90","</SEC-HEADER>"
+"91","<DOCUMENT>"
+"92","<TYPE>NSAR-B"
+"93","<SEQUENCE>1"
+"94","<FILENAME>answer.fil"
+"95","<TEXT>"
+"96","<PAGE>      PAGE  1"
+"97","000 B000000 04/30/2010"
+"98","000 C000000 0000789281"
+"99","000 D000000 N"
+"100","000 E000000 NF"
+"101","000 F000000 Y"
+"102","000 G000000 N"
+"103","000 H000000 N"
+"104","000 I000000 6.1"
+"105","000 J000000 A"
+"106","001 A000000 FEDERATED INCOME SECURITIES TRUST"
+"107","001 B000000 811-4577"
+"108","001 C000000 4122882614"
+"109","002 A000000 4000 ERICSSON DRIVE"
+"110","002 B000000 WARRENDALE"
+"111","002 C000000 PA"
+"112","002 D010000 15086"
+"113","002 D020000 7561"
+"114","003  000000 N"
+"115","004  000000 N"
+"116","005  000000 N"
+"117","006  000000 N"
+"118","007 A000000 Y"
+"119","007 B000000  7"
+"120","007 C010100  1"
+"121","007 C020100 Federated Short-Term Income Fund"
+"122","007 C030100 N"
+"123","007 C010200  2"
+"124","007 C020200 Federated Intermediate Corporate Bond Fund"
+"125","007 C030200 N"
+"126","008 A00AA01 FEDERATED INVESTMENT MANAGEMENT COMPANY"
+"127","008 B00AA01 A"
+"128","008 C00AA01 801-34610"
+"129","008 D01AA01 PITTSBURGH"
+"130","008 D02AA01 PA"
+"131","008 D03AA01 15222"
+"132","008 D04AA01 3779"
+"133","010 A00AA01 FEDERATED ADMINISTRATIVE SERVICES"
+"134","010 C01AA01 PITTSBURGH"
+"135","010 C02AA01 PA"
+"136","010 C03AA01 15222"
+"137","010 C04AA01 3779"
+"138","011 A00AA01 FEDERATED SECURITIES CORP."
+"139","011 B00AA01 8-15561"
+"140","011 C01AA01 PITTSBURGH"
+"141","011 C02AA01 PA"
+"142","011 C03AA01 15222"
+"143","011 C04AA01 3779"
+"144","012 A00AA01 STATE STREET BANK AND TRUST COMPANY"
+"145","012 B00AA01 84-1869"
+"146","012 C01AA01 BOSTON"
+"147","012 C02AA01 MA"
+"148","<PAGE>      PAGE  2"
+"149","012 C03AA01 02266"
+"150","012 C04AA01 8600"
+"151","013 A00AA01 ERNST & YOUNG LLP"
+"152","013 B01AA01 BOSTON"
+"153","013 B02AA01 MA"
+"154","013 B03AA01 02116"
+"155","013 B04AA01 5072"
+"156","014 A00AA01 FEDERATED SECURITIES CORP."
+"157","014 B00AA01 8-15561"
+"158","014 A00AA02 EDGEWOOD SERVICES"
+"159","014 B00AA02 8-46985"
+"160","015 A00AA01 STATE STREET BANK & TRUST CO."
+"161","015 B00AA01 C"
+"162","015 C01AA01 BOSTON"
+"163","015 C02AA01 MA"
+"164","015 C03AA01 02266"
+"165","015 C04AA01 8600"
+"166","015 E01AA01 X"
+"167","015 A00AA02 BANK OF NEW YORK"
+"168","015 B00AA02 S"
+"169","015 C01AA02 NEW YORK"
+"170","015 C02AA02 NY"
+"171","015 C03AA02 10006"
+"172","015 E01AA02 X"
+"173","015 A00AA03 JP MORGAN CHASE BANK"
+"174","015 B00AA03 S"
+"175","015 C01AA03 NEW YORK"
+"176","015 C02AA03 NY"
+"177","015 C03AA03 10006"
+"178","015 E01AA03 X"
+"179","015 A00AA04 BANK OF AMERICA"
+"180","015 B00AA04 S"
+"181","015 C01AA04 CHARLOTTE"
+"182","015 C02AA04 NC"
+"183","015 C03AA04 28555"
+"184","015 E01AA04 X"
+"185","018  00AA00 Y"
+"186","019 A00AA00 Y"
+"187","019 B00AA00  116"
+"188","019 C00AA00 FEDERATEDX"
+"189","021  000000        0"
+"190","022 A000001 DEUTSCHE BANK SECURITIES INC"
+"191","022 B000001 13-6124068"
+"192","022 C000001    128291"
+"193","022 D000001     77623"
+"194","022 A000002 SALOMON SMITH BARNEY CITIGROUP"
+"195","022 B000002 13-3082694"
+"196","022 C000002    157837"
+"197","022 D000002     19141"
+"198","022 A000003 GOLDMAN SACHS & CO."
+"199","022 B000003 13-5108880"
+"200","<PAGE>      PAGE  3"
+"201","022 C000003    101119"
+"202","022 D000003     57215"
+"203","022 A000004 BANK OF AMERICA"
+"204","022 B000004 95-4035346"
+"205","022 C000004    133051"
+"206","022 D000004     22342"
+"207","022 A000005 BARCLAYS CAPITAL INC."
+"208","022 B000005 13-3297824"
+"209","022 C000005    134083"
+"210","022 D000005      8292"
+"211","022 A000006 JP MORGAN CHASE & COMPANY"
+"212","022 B000006 13-3112953"
+"213","022 C000006    108608"
+"214","022 D000006      4628"
+"215","022 A000007 RBS SECURITIES"
+"216","022 C000007     30399"
+"217","022 D000007     45623"
+"218","022 A000008 MORGAN STANLEY & CO."
+"219","022 B000008 13-2655998"
+"220","022 C000008     59853"
+"221","022 D000008      7221"
+"222","022 A000009 WELLS FARGO BANK N.A."
+"223","022 C000009     42755"
+"224","022 D000009      7062"
+"225","022 A000010 CS FIRST BOSTON"
+"226","022 B000010 13-5659485"
+"227","022 C000010     36802"
+"228","022 D000010      3907"
+"229","023 C000000    1073556"
+"230","023 D000000     325633"
+"231","024  000100 Y"
+"232","024  000200 Y"
+"233","025 A000101 BANK OF AMERICA"
+"234","025 B000101 95-4035346"
+"235","025 C000101 D"
+"236","025 D000101    2819"
+"237","025 A000102 Barclays Bank PLC"
+"238","025 B000102 13-3297824"
+"239","025 C000102 D"
+"240","025 D000102     988"
+"241","025 A000103 JP MORGAN CHASE"
+"242","025 B000103 13-3112953"
+"243","025 C000103 D"
+"244","025 D000103    4266"
+"245","025 A000104 CITIGROUP"
+"246","025 B000104 13-3082694"
+"247","025 C000104 D"
+"248","025 D000104    3164"
+"249","025 A000105 MORGAN STANLEY"
+"250","025 B000105 13-2655998"
+"251","025 C000105 D"
+"252","<PAGE>      PAGE  4"
+"253","025 D000105    2665"
+"254","025 A000106 WELLS FARGO & CO."
+"255","025 C000106 D"
+"256","025 D000106    1422"
+"257","025 A000201 GOLDMAN SACHS GROUP, INC."
+"258","025 B000201 13-5108880"
+"259","025 C000201 D"
+"260","025 D000201   15492"
+"261","025 A000202 BANK OF AMERICA"
+"262","025 B000202 94-4035346"
+"263","025 C000202 D"
+"264","025 D000202   17430"
+"265","025 A000203 CITIGROUP, INC."
+"266","025 B000203 13-3082694"
+"267","025 C000203 D"
+"268","025 D000203    1851"
+"269","025 A000204 Barclays Bank PLC"
+"270","025 B000204 13-3297824"
+"271","025 C000204 D"
+"272","025 D000204    1556"
+"273","025 A000205 JP MORGAN CHASE & COMPANY"
+"274","025 B000205 13-3112953"
+"275","025 C000205 D"
+"276","025 D000205   10998"
+"277","025 A000206 MORGAN STANLEY & CO INC."
+"278","025 B000206 13-2655998"
+"279","025 C000206 D"
+"280","025 D000206   10400"
+"281","025 A000207 CREDIT SUISSE (USA), INC."
+"282","025 B000207 13-5659485"
+"283","025 C000207 D"
+"284","025 D000207    3543"
+"285","026 A000000 N"
+"286","026 B000000 N"
+"287","026 C000000 N"
+"288","026 D000000 Y"
+"289","026 E000000 N"
+"290","026 F000000 N"
+"291","026 G010000 N"
+"292","026 G020000 N"
+"293","026 H000000 N"
+"294","027  000000 Y"
+"295","028 A010100     29455"
+"296","028 A020100       830"
+"297","028 A030100         0"
+"298","028 A040100      7357"
+"299","028 B010100     33019"
+"300","028 B020100       905"
+"301","028 B030100         0"
+"302","028 B040100     19842"
+"303","028 C010100     57350"
+"304","<PAGE>      PAGE  5"
+"305","028 C020100       985"
+"306","028 C030100         0"
+"307","028 C040100     10861"
+"308","028 D010100     50692"
+"309","028 D020100       957"
+"310","028 D030100         0"
+"311","028 D040100      6333"
+"312","028 E010100     67210"
+"313","028 E020100      1059"
+"314","028 E030100         0"
+"315","028 E040100     12542"
+"316","028 F010100    259768"
+"317","028 F020100      1125"
+"318","028 F030100         0"
+"319","028 F040100     24093"
+"320","028 G010100    497494"
+"321","028 G020100      5861"
+"322","028 G030100         0"
+"323","028 G040100     81028"
+"324","028 H000100    497514"
+"325","028 A010200     13581"
+"326","028 A020200      1480"
+"327","028 A030200         0"
+"328","028 A040200     20232"
+"329","028 B010200     73162"
+"330","028 B020200      1511"
+"331","028 B030200         0"
+"332","028 B040200     10867"
+"333","028 C010200     48166"
+"334","028 C020200      1640"
+"335","028 C030200         0"
+"336","028 C040200     10913"
+"337","028 D010200     15365"
+"338","028 D020200      1701"
+"339","028 D030200         0"
+"340","028 D040200     78349"
+"341","028 E010200     19259"
+"342","028 E020200      1516"
+"343","028 E030200         0"
+"344","028 E040200     30090"
+"345","028 F010200     17715"
+"346","028 F020200      1532"
+"347","028 F030200         0"
+"348","028 F040200     11047"
+"349","028 G010200    187248"
+"350","028 G020200      9380"
+"351","028 G030200         0"
+"352","028 G040200    161498"
+"353","028 H000200         0"
+"354","029  000100 Y"
+"355","029  000200 N"
+"356","<PAGE>      PAGE  6"
+"357","030 A000100    152"
+"358","030 B000100  1.00"
+"359","030 C000100  0.00"
+"360","030 A000200      0"
+"361","030 B000200  0.00"
+"362","030 C000200  0.00"
+"363","031 A000100      2"
+"364","031 B000100      0"
+"365","031 A000200      0"
+"366","031 B000200      0"
+"367","032  000100    150"
+"368","032  000200      0"
+"369","033  000100      0"
+"370","033  000200      0"
+"371","034  000100 N"
+"372","034  000200 N"
+"373","035  000100      0"
+"374","035  000200      0"
+"375","036 B000100      0"
+"376","036 B000200      0"
+"377","037  000100 N"
+"378","037  000200 N"
+"379","038  000100      0"
+"380","038  000200      0"
+"381","039  000100 N"
+"382","039  000200 N"
+"383","040  000100 Y"
+"384","040  000200 Y"
+"385","041  000100 Y"
+"386","041  000200 N"
+"387","042 A000100   0"
+"388","042 B000100   0"
+"389","042 C000100 100"
+"390","042 D000100   0"
+"391","042 E000100   0"
+"392","042 F000100   0"
+"393","042 G000100   0"
+"394","042 H000100   0"
+"395","042 A000200   0"
+"396","042 B000200   0"
+"397","042 C000200   0"
+"398","042 D000200   0"
+"399","042 E000200   0"
+"400","042 F000200   0"
+"401","042 G000200   0"
+"402","042 H000200   0"
+"403","043  000100    340"
+"404","043  000200      0"
+"405","044  000100      0"
+"406","044  000200      0"
+"407","045  000100 Y"
+"408","<PAGE>      PAGE  7"
+"409","045  000200 Y"
+"410","046  000100 N"
+"411","046  000200 N"
+"412","047  000100 Y"
+"413","047  000200 Y"
+"414","048  000100  0.400"
+"415","048 A010100        0"
+"416","048 A020100 0.000"
+"417","048 B010100        0"
+"418","048 B020100 0.000"
+"419","048 C010100        0"
+"420","048 C020100 0.000"
+"421","048 D010100        0"
+"422","048 D020100 0.000"
+"423","048 E010100        0"
+"424","048 E020100 0.000"
+"425","048 F010100        0"
+"426","048 F020100 0.000"
+"427","048 G010100        0"
+"428","048 G020100 0.000"
+"429","048 H010100        0"
+"430","048 H020100 0.000"
+"431","048 I010100        0"
+"432","048 I020100 0.000"
+"433","048 J010100        0"
+"434","048 J020100 0.000"
+"435","048 K010100        0"
+"436","048 K020100 0.000"
+"437","048  000200  0.500"
+"438","048 A010200        0"
+"439","048 A020200 0.000"
+"440","048 B010200        0"
+"441","048 B020200 0.000"
+"442","048 C010200        0"
+"443","048 C020200 0.000"
+"444","048 D010200        0"
+"445","048 D020200 0.000"
+"446","048 E010200        0"
+"447","048 E020200 0.000"
+"448","048 F010200        0"
+"449","048 F020200 0.000"
+"450","048 G010200        0"
+"451","048 G020200 0.000"
+"452","048 H010200        0"
+"453","048 H020200 0.000"
+"454","048 I010200        0"
+"455","048 I020200 0.000"
+"456","048 J010200        0"
+"457","048 J020200 0.000"
+"458","048 K010200        0"
+"459","048 K020200 0.000"
+"460","<PAGE>      PAGE  8"
+"461","049  00AA00 N"
+"462","050  00AA00 N"
+"463","051  00AA00 N"
+"464","052  00AA00 N"
+"465","053 A00AA00 Y"
+"466","053 B00AA00 Y"
+"467","053 C00AA00 N"
+"468","054 A00AA00 N"
+"469","054 B00AA00 N"
+"470","054 C00AA00 N"
+"471","054 D00AA00 N"
+"472","054 E00AA00 N"
+"473","054 F00AA00 N"
+"474","054 G00AA00 N"
+"475","054 H00AA00 N"
+"476","054 I00AA00 N"
+"477","054 J00AA00 N"
+"478","054 K00AA00 N"
+"479","054 L00AA00 N"
+"480","054 M00AA00 N"
+"481","054 N00AA00 N"
+"482","054 O00AA00 N"
+"483","055 A000100 N"
+"484","055 B000100 N"
+"485","055 A000200 Y"
+"486","055 B000200 N"
+"487","056  000100 N"
+"488","056  000200 N"
+"489","057  000100 N"
+"490","057  000200 N"
+"491","058 A000100 N"
+"492","058 A000200 N"
+"493","059  000100 Y"
+"494","059  000200 Y"
+"495","060 A000100 Y"
+"496","060 B000100 Y"
+"497","060 A000200 Y"
+"498","060 B000200 Y"
+"499","061  000100     1500"
+"500","061  000200    25000"
+"501","062 A000100 Y"
+"502","062 B000100   0.0"
+"503","062 C000100   0.0"
+"504","062 D000100   0.0"
+"505","062 E000100   0.0"
+"506","062 F000100   0.0"
+"507","062 G000100   0.0"
+"508","062 H000100   0.0"
+"509","062 I000100   0.0"
+"510","062 J000100   0.0"
+"511","062 K000100   0.0"
+"512","<PAGE>      PAGE  9"
+"513","062 L000100   0.0"
+"514","062 M000100  10.0"
+"515","062 N000100   6.6"
+"516","062 O000100   0.0"
+"517","062 P000100  26.5"
+"518","062 Q000100  37.9"
+"519","062 R000100  23.6"
+"520","062 A000200 Y"
+"521","062 B000200   0.0"
+"522","062 C000200   0.0"
+"523","062 D000200   0.0"
+"524","062 E000200   0.0"
+"525","062 F000200   0.0"
+"526","062 G000200   0.0"
+"527","062 H000200   0.0"
+"528","062 I000200   0.0"
+"529","062 J000200   0.0"
+"530","062 K000200   0.0"
+"531","062 L000200   0.0"
+"532","062 M000200   0.0"
+"533","062 N000200   0.0"
+"534","062 O000200   0.0"
+"535","062 P000200  97.1"
+"536","062 Q000200   0.9"
+"537","062 R000200   0.6"
+"538","063 A000100   0"
+"539","063 B000100  1.5"
+"540","063 A000200   0"
+"541","063 B000200  8.2"
+"542","064 A000100 Y"
+"543","064 B000100 Y"
+"544","064 A000200 Y"
+"545","064 B000200 N"
+"546","065  000100 N"
+"547","066 A00AA00 N"
+"548","067  00AA00 N"
+"549","068 A00AA00 N"
+"550","068 B00AA00 N"
+"551","069  00AA00 N"
+"552","070 A010100 Y"
+"553","070 A020100 N"
+"554","070 B010100 Y"
+"555","070 B020100 N"
+"556","070 C010100 Y"
+"557","070 C020100 N"
+"558","070 D010100 Y"
+"559","070 D020100 N"
+"560","070 E010100 Y"
+"561","070 E020100 Y"
+"562","070 F010100 Y"
+"563","070 F020100 N"
+"564","<PAGE>      PAGE  10"
+"565","070 G010100 Y"
+"566","070 G020100 N"
+"567","070 H010100 Y"
+"568","070 H020100 N"
+"569","070 I010100 N"
+"570","070 I020100 N"
+"571","070 J010100 Y"
+"572","070 J020100 Y"
+"573","070 K010100 Y"
+"574","070 K020100 Y"
+"575","070 L010100 Y"
+"576","070 L020100 Y"
+"577","070 M010100 Y"
+"578","070 M020100 Y"
+"579","070 N010100 Y"
+"580","070 N020100 N"
+"581","070 O010100 Y"
+"582","070 O020100 N"
+"583","070 P010100 Y"
+"584","070 P020100 N"
+"585","070 Q010100 N"
+"586","070 Q020100 N"
+"587","070 R010100 N"
+"588","070 R020100 N"
+"589","070 A010200 Y"
+"590","070 A020200 N"
+"591","070 B010200 N"
+"592","070 B020200 N"
+"593","070 C010200 Y"
+"594","070 C020200 N"
+"595","070 D010200 N"
+"596","070 D020200 N"
+"597","070 E010200 Y"
+"598","070 E020200 Y"
+"599","070 F010200 N"
+"600","070 F020200 N"
+"601","070 G010200 Y"
+"602","070 G020200 N"
+"603","070 H010200 N"
+"604","070 H020200 N"
+"605","070 I010200 N"
+"606","070 I020200 N"
+"607","070 J010200 Y"
+"608","070 J020200 Y"
+"609","070 K010200 Y"
+"610","070 K020200 N"
+"611","070 L010200 Y"
+"612","070 L020200 Y"
+"613","070 M010200 Y"
+"614","070 M020200 N"
+"615","070 N010200 Y"
+"616","<PAGE>      PAGE  11"
+"617","070 N020200 N"
+"618","070 O010200 Y"
+"619","070 O020200 N"
+"620","070 P010200 Y"
+"621","070 P020200 N"
+"622","070 Q010200 N"
+"623","070 Q020200 N"
+"624","070 R010200 N"
+"625","070 R020200 N"
+"626","071 A000100    687342"
+"627","071 B000100    160768"
+"628","071 C000100    423886"
+"629","071 D000100   38"
+"630","071 A000200    452702"
+"631","071 B000200    293493"
+"632","071 C000200    418170"
+"633","071 D000200   70"
+"634","072 A000100 12"
+"635","072 B000100    13363"
+"636","072 C000100     2165"
+"637","072 D000100        0"
+"638","072 E000100      360"
+"639","072 F000100     1844"
+"640","072 G000100      358"
+"641","072 H000100        0"
+"642","072 I000100      187"
+"643","072 J000100       29"
+"644","072 K000100        0"
+"645","072 L000100       77"
+"646","072 M000100        3"
+"647","072 N000100       84"
+"648","072 O000100        0"
+"649","072 P000100        0"
+"650","072 Q000100      152"
+"651","072 R000100       24"
+"652","072 S000100        4"
+"653","072 T000100     1113"
+"654","072 U000100        0"
+"655","072 V000100        0"
+"656","072 W000100        8"
+"657","072 X000100     3883"
+"658","072 Y000100     1170"
+"659","072 Z000100    13175"
+"660","072AA000100     1818"
+"661","072BB000100        0"
+"662","072CC010100    19395"
+"663","072CC020100        0"
+"664","072DD010100     8148"
+"665","072DD020100     4669"
+"666","072EE000100        0"
+"667","072 A000200 12"
+"668","<PAGE>      PAGE  12"
+"669","072 B000200    23762"
+"670","072 C000200       92"
+"671","072 D000200        0"
+"672","072 E000200        0"
+"673","072 F000200     2221"
+"674","072 G000200      345"
+"675","072 H000200        0"
+"676","072 I000200      482"
+"677","072 J000200       22"
+"678","072 K000200        0"
+"679","072 L000200       70"
+"680","072 M000200        2"
+"681","072 N000200       77"
+"682","072 O000200        0"
+"683","072 P000200        0"
+"684","072 Q000200      142"
+"685","072 R000200       24"
+"686","072 S000200       10"
+"687","072 T000200     1006"
+"688","072 U000200        0"
+"689","072 V000200        0"
+"690","072 W000200        9"
+"691","072 X000200     4410"
+"692","072 Y000200     1462"
+"693","072 Z000200    20906"
+"694","072AA000200     4222"
+"695","072BB000200        0"
+"696","072CC010200    42696"
+"697","072CC020200        0"
+"698","072DD010200    12907"
+"699","072DD020200     8031"
+"700","072EE000200        0"
+"701","073 A010100   0.0000"
+"702","073 A020100   0.0000"
+"703","073 B000100   0.0000"
+"704","073 C000100   0.0000"
+"705","073 A010200   0.4668"
+"706","073 A020200   0.4428"
+"707","073 B000200   0.0000"
+"708","073 C000200   0.0000"
+"709","074 A000100        0"
+"710","074 B000100    40939"
+"711","074 C000100        0"
+"712","074 D000100   709869"
+"713","074 E000100        0"
+"714","074 F000100        0"
+"715","074 G000100        0"
+"716","074 H000100        0"
+"717","074 I000100   166282"
+"718","074 J000100        5"
+"719","074 K000100        0"
+"720","<PAGE>      PAGE  13"
+"721","074 L000100     6436"
+"722","074 M000100        0"
+"723","074 N000100   923531"
+"724","074 O000100     2534"
+"725","074 P000100      219"
+"726","074 Q000100        0"
+"727","074 R010100        0"
+"728","074 R020100        0"
+"729","074 R030100        0"
+"730","074 R040100    43667"
+"731","074 S000100        0"
+"732","074 T000100   877111"
+"733","074 U010100    47013"
+"734","074 U020100    55495"
+"735","074 V010100     0.00"
+"736","074 V020100     0.00"
+"737","074 W000100   0.0000"
+"738","074 X000100     3966"
+"739","074 Y000100        0"
+"740","074 A000200     1142"
+"741","074 B000200        0"
+"742","074 C000200        0"
+"743","074 D000200   494115"
+"744","074 E000200        0"
+"745","074 F000200        0"
+"746","074 G000200        0"
+"747","074 H000200        0"
+"748","074 I000200     3246"
+"749","074 J000200        0"
+"750","074 K000200        0"
+"751","074 L000200     8672"
+"752","074 M000200        0"
+"753","074 N000200   507175"
+"754","074 O000200        0"
+"755","074 P000200       51"
+"756","074 Q000200        0"
+"757","074 R010200        0"
+"758","074 R020200        0"
+"759","074 R030200        0"
+"760","074 R040200     2765"
+"761","074 S000200        0"
+"762","074 T000200   504359"
+"763","074 U010200    33386"
+"764","074 U020200    16764"
+"765","074 V010200    10.06"
+"766","074 V020200    10.06"
+"767","074 W000200   0.0000"
+"768","074 X000200    21211"
+"769","074 Y000200        0"
+"770","075 A000100        0"
+"771","075 B000100   461072"
+"772","<PAGE>      PAGE  14"
+"773","075 A000200        0"
+"774","075 B000200   444281"
+"775","076  000100     0.00"
+"776","076  000200     0.00"
+"777","077 A000000 Y"
+"778","077 B000000 Y"
+"779","077 C000000 N"
+"780","077 D000000 N"
+"781","077 E000000 Y"
+"782","077 F000000 N"
+"783","077 G000000 N"
+"784","077 H000000 N"
+"785","077 I000000 N"
+"786","077 J000000 N"
+"787","077 K000000 N"
+"788","077 L000000 N"
+"789","077 M000000 N"
+"790","077 N000000 N"
+"791","077 O000000 N"
+"792","077 P000000 N"
+"793","077 Q010000 Y"
+"794","077 Q020000 N"
+"795","077 Q030000 N"
+"796","078  000000 N"
+"797","080 A00AA00 Federal Insurance Company"
+"798","080 B00AA00 Great Amer Ins; Natl Fire Ins; St. Paul Ins."
+"799","080 C00AA00    50000"
+"800","081 A00AA00 Y"
+"801","081 B00AA00 128"
+"802","082 A00AA00 N"
+"803","082 B00AA00        0"
+"804","083 A00AA00 N"
+"805","083 B00AA00        0"
+"806","084 A00AA00 N"
+"807","084 B00AA00        0"
+"808","085 A00AA00 Y"
+"809","085 B00AA00 N"
+"810","086 A010000      0"
+"811","086 A020000      0"
+"812","086 B010000      0"
+"813","086 B020000      0"
+"814","086 C010000      0"
+"815","086 C020000      0"
+"816","086 D010000      0"
+"817","086 D020000      0"
+"818","086 E010000      0"
+"819","086 E020000      0"
+"820","086 F010000      0"
+"821","086 F020000      0"
+"822","SIGNATURE   RICHARD A. NOVAK"
+"823","TITLE       TREASURER"
+"824","</TEXT>"
+"825","</DOCUMENT>"
+"826","<DOCUMENT>"
+"827","<TYPE>EX-99.77E LEGAL"
+"828","<SEQUENCE>2"
+"829","<FILENAME>leg.txt"
+"830","<TEXT>"
+"831","SUB-ITEM 77E - LEGAL PROCEEDINGS"
+"832","Since October 2003,"
+"833","Federated and related"
+"834"," entities (collectively,"
+"835","Federated) and various"
+"836","Federated-sponsored"
+"837","mutual funds (Funds)"
+"838","have been named as defendants"
+"839","in several class action"
+"840","lawsuits now pending"
+"841","in the United States"
+"842","District Court for the"
+"843","District of Maryland."
+"844","The lawsuits were"
+"845","purportedly filed on"
+"846","behalf of people who"
+"847","purchased, owned"
+"848","and/or redeemed"
+"849","shares of certain Funds"
+"850","during specified"
+"851","periods beginning"
+"852","November 1, 1998. The suits"
+"853","are generally similar in"
+"854","alleging that"
+"855","Federated engaged in illegal"
+"856","and improper trading practices"
+"857","including market timing and"
+"858","late trading in"
+"859","concert with certain"
+"860","institutional traders,"
+"861","which allegedly caused"
+"862","financial injury to the mutual"
+"863","fund"
+"864","shareholders. Federated"
+"865","without admitting the validity"
+"866","of any claim has reached a"
+"867","preliminary settlement"
+"868","with the Plaintiffs in these"
+"869","cases. Any settlement would"
+"870","have to be approved by the Court."
+"871","     Federated entities have"
+"872","also been named as defendants"
+"873","in several additional lawsuits"
+"874","that are now"
+"875","pending in the United States"
+"876","District Court for the Western"
+"877","District of Pennsylvania. These"
+"878","lawsuits have"
+"879","been consolidated into a single"
+"880","action alleging excessive"
+"881","advisory fees involving one"
+"882","of the Funds."
+"883","     The Board of the Funds"
+"884","retained the law firm of Dickstein"
+"885","Shapiro LLP to represent the Funds in"
+"886","each of the lawsuits described"
+"887"," in the preceding two paragraphs."
+"888"," Federated and the Funds, and their"
+"889","respective counsel, have been"
+"890","defending this litigation, and"
+"891","none of the Funds remains a"
+"892","defendant in"
+"893","any of the lawsuits. Additional"
+"894","lawsuits based upon similar allegations"
+"895"," may"
+"896","be filed in the future. The"
+"897","potential impact of these lawsuits,"
+"898","all of which seek monetary damages,"
+"899","attorneys' fees and expenses,"
+"900","and future potential similar suits is"
+"901","uncertain. Although we do not believe"
+"902","that these lawsuits will have a"
+"903","material adverse effect on the Funds,"
+"904","there can be no assurance that these"
+"905","suits, ongoing adverse"
+"906","publicity and/or other developments"
+"907","resulting from the allegations in"
+"908"," these matters will not result in"
+"909","increased redemptions, or reduced"
+"910","sales of shares of the Funds or"
+"911","other adverse consequences for the"
+"912","Funds."
+"913","</TEXT>"
+"914","</DOCUMENT>"
+"915","<DOCUMENT>"
+"916","<TYPE>EX-99.77B ACCT LTTR"
+"917","<SEQUENCE>3"
+"918","<FILENAME>aud.txt"
+"919","<TEXT>"
+"920","Report of Independent Registered"
+"921","Public Accounting Firm"
+"922","To the Shareholders"
+"923","and Board of Trustees of"
+"924","Federated Income Securities"
+"925","Trust:"
+"926","In planning and performing"
+"927"," our audit of the financial"
+"928","statements of Federated Intermediate"
+"929","Corporate Bond Fund and"
+"930","Federated Short-Term Income"
+"931","Fund (collectively the Funds)"
+"932","(two of"
+"933","the portfolios constituting"
+"934","Federated Income Securities Trust)"
+"935","as of and for the year ended April"
+"936","30, 2010, in accordance with"
+"937","the standards of the Public"
+"938","Company Accounting Oversight Board"
+"939","(United States), we considered"
+"940","the Funds' internal control"
+"941"," over financial reporting,"
+"942","including"
+"943","controls over safeguarding"
+"944","securities, as a basis for"
+"945","designing our auditing procedures"
+"946"," for the"
+"947","purpose of expressing our"
+"948","opinion on the financial"
+"949","statements and to comply with the"
+"950","requirements of Form N-SAR,"
+"951","but not for the purpose of"
+"952","expressing an opinion on the"
+"953","effectiveness of the Funds'"
+"954","internal control over financial"
+"955","reporting. Accordingly, we express"
+"956","no"
+"957","such opinion."
+"958","The management of the Funds is"
+"959","responsible for establishing and"
+"960","maintaining effective internal"
+"961","control over financial reporting."
+"962","In fulfilling this responsibility,"
+"963","estimates and judgments by"
+"964","management are required to assess"
+"965","the expected benefits and related"
+"966","costs of controls. The"
+"967","company's internal control over"
+"968","financial reporting is a process"
+"969","designed to provide reasonable"
+"970","assurance regarding the reliability"
+"971","of financial reporting and the"
+"972","preparation of financial"
+"973","statements for external purposes"
+"974","in accordance with generally"
+"975","accepted accounting principles. A"
+"976","company's internal control over"
+"977","financial reporting includes"
+"978","those policies and procedures that"
+"979","(1) pertain to the maintenance"
+"980","of records that, in reasonable"
+"981","detail, accurately and fairly reflect"
+"982","the transactions and dispositions"
+"983","of the assets of the company; (2)"
+"984","provide reasonable assurance"
+"985","that transactions are recorded as"
+"986","necessary to permit preparation of"
+"987","financial statements in"
+"988","accordance with generally accepted"
+"989","accounting principles, and that"
+"990","receipts and expenditures of"
+"991","the company are being made only"
+"992","in accordance with authorizations"
+"993","of management and"
+"994","directors of the company; and (3)"
+"995","provide reasonable assurance regarding"
+"996","prevention or timely"
+"997","detection of unauthorized acquisition,"
+"998"," use or disposition of a company's"
+"999"," assets that could have a"
+"1000","material effect on the financial"
+"1001","statements."
+"1002","Because of its inherent limitations,"
+"1003","internal control over financial"
+"1004","reporting may not prevent or"
+"1005","detect misstatements. Also,"
+"1006","projections of any evaluation of"
+"1007","effectiveness to future periods are"
+"1008","subject to the risk that"
+"1009","controls may become inadequate"
+"1010","because of changes in conditions, or that"
+"1011","the degree of compliance"
+"1012","with the policies or procedures"
+"1013","may deteriorate."
+"1014","A deficiency in internal control"
+"1015","over financial reporting exists"
+"1016","when the design or operation of a"
+"1017","control does not allow management"
+"1018","or employees, in the normal course"
+"1019"," of performing their"
+"1020","assigned functions, to prevent or"
+"1021"," detect misstatements on a timely"
+"1022","basis. A material weakness is"
+"1023","a deficiency, or a combination of"
+"1024","deficiencies, in internal control"
+"1025","over financial reporting, such"
+"1026","that there is a reasonable"
+"1027","possibility that a material"
+"1028","misstatement of the company's"
+"1029","annual or"
+"1030","interim financial statements will"
+"1031","not be prevented or detected on a"
+"1032","timely basis."
+"1033","Our consideration of the Funds'"
+"1034","internal control over financial"
+"1035","reporting was for the limited"
+"1036","purpose described in the first"
+"1037","paragraph and would not necessarily"
+"1038","disclose all deficiencies in"
+"1039","internal control that might be"
+"1040","material weaknesses under standards"
+"1041","established by the Public"
+"1042","Fund Accounting Oversight Board"
+"1043","(United States). However, we noted"
+"1044","no deficiencies in the"
+"1045","Funds' internal control over"
+"1046","financial reporting and its operation,"
+"1047","including controls over"
+"1048","safeguarding securities, that we"
+"1049","consider to be a material weakness"
+"1050","as defined above as of April"
+"1051","30, 2010."
+"1052","This report is intended solely for"
+"1053","the information and use of management"
+"1054","and the Board of"
+"1055","Trustees of the Funds and the Securities"
+"1056","and Exchange Commission and is not"
+"1057","intended to be,"
+"1058","and should not be, used by anyone"
+"1059","other"
+"1060","than these specified parties."
+"1061","								/s/ Ernst & Young LLP"
+"1062","Boston, Massachusetts"
+"1063","June 23, 2010"
+"1064","</TEXT>"
+"1065","</DOCUMENT>"
+"1066","<DOCUMENT>"
+"1067","<TYPE>EX-99.77Q1 OTHR EXHB"
+"1068","<SEQUENCE>4"
+"1069","<FILENAME>exh.txt"
+"1070","<TEXT>"
+"1071","SUB-ITEM 77D:"
+"1072","Policies with"
+"1073","respect to security"
+"1074"," investments"
+"1075","A Meeting of the Board of"
+"1076","Trustees (the Trustees)"
+"1077","of Federated Income Securities"
+"1078","Trust (the"
+"1079","Fund) was held on"
+"1080","November 12, 2009."
+"1081","After full discussion,"
+"1082","on motion duly made and"
+"1083","seconded, the Trustees"
+"1084","unanimously, and"
+"1085","without shareholder approval,"
+"1086","authorized and approved"
+"1087"," a proposal to amend the investment"
+"1088","policies of Federated Income"
+"1089"," Securities Trust (the Fund)"
+"1090"," and the following:"
+"1091","1. The lowering of the breakpoint"
+"1092","from 1.00% to 0.00% on purchases"
+"1093","of $250,000 and over"
+"1094","(rather than $1 million and over)"
+"1095","for the Class A Shares of Federated"
+"1096","Short-Term Income Fund"
+"1097","(FSTIF), a series of Federated"
+"1098","Income Securities Trust (Trust), effective as of January 15,"
+"1099","2010;"
+"1100","2. The removal of the FSTIFA from"
+"1101","the advanced commissions large ticket"
+"1102","program with"
+"1103","respect to shares purchased on or"
+"1104"," after January 15, 2010."
+"1105","The Trustees hereby adopt and"
+"1106","approve the following new"
+"1107","non-fundamental operating"
+"1108","policy for the Fund.   As a"
+"1109","non-fundamental operating policy,"
+"1110"," under normal market"
+"1111","conditions, the Fund will invest"
+"1112","70% or more of its portfolio in"
+"1113"," non-U.S. dollar"
+"1114","denominated investments and gold"
+"1115","related investments which may be"
+"1116","denominated in"
+"1117","U.S. dollars.  The Fund may invest,"
+"1118","for temporary or defensive purposes,"
+"1119","more than"
+"1120","30% of its assets in U.S. dollar"
+"1121","denominated investments.
+
+The above-referenced policy became
+effective on January 15, 2010.
+
+
+
+SUB-ITEM 77Q1(b):
+
+FEDERATED INCOME SECURITIES TRUST
+
+MINUTES OF THE REGULAR MEETING
+
+OF
+
+THE BOARD OF TRUSTEES
+
+November 12, 2009
+
+
+      Pursuant to written call,
+the Regular Meeting of the Board
+of Trustees (the Board) of
+Federated Income Securities Trust
+(the Trust) convened at 9:10 A.M.
+ on Thursday,
+November 12, 2009, at the Ritz Carlton
+in Naples, Florida, following the General
+Session
+Meeting of the Board
+(held on November 12, 2009).
+The following members, constituting a
+quorum of the Board, were present in
+person at the meeting:
+
+
+      John F. Donahue (via telephone)
+John T. Conroy, Jr.
+Nicholas P. Constantakis
+John F. Cunningham
+J. Christopher Donahue
+Maureen Lally-Green
+Peter E. Madden
+Charles F. Mansfield, Jr.
+R. James Nicholson
+Thomas M. O'Neill
+John S. Walsh
+James F. Will
+
+
+
+      In addition to the
+Board, the same persons were
+present as were in attendance at
+the close
+of the General Session Meeting
+held on Thursday, November 12, 2009,at
+ 8:00 A.M.
+      Mr. Peter E. Madden presided
+as Chairman, and the proceedings were
+recorded by
+Ms. Erin J. Dugan.
+	Mr. Peter J. Germain
+reported that the Board will
+be asked to approve amendments to the
+Rule 18f-3 Multi-Class Plan (18f-3 Plan).
+He noted the amendments included lowering the
+breakpoint on the front-end sales charge
+on Class A Shares of Federated Short-Term
+Income
+Fund (FSTIFA), as well as removing FSTIFA
+from the advanced commissions large ticket
+program with respect to shares purchased on
+or after January 15, 2010.  He then directed
+ the
+Board to the memorandum contained behind Tab
+39 of the Meeting Materials.  Mr. Germain
+explained that currently the front-end sales
+ charge for FSTIFA is 0.00% for purchases of $1
+million and over.  It is being proposed by
+Federated Investment Management Company
+ (the
+Adviser) that this be modified to 0.00 %
+for $250,000 and over.  Mr. Germain noted that
+currently purchases between $250,000 and $1
+ million would incur a front-end sales charge
+ of
+1.00%.  He then went on to say that Adviser
+also recommends removal of FSTIFA from the
+advanced commissions large ticket program,
+thus eliminating a 0.75% contingent deferred
+sales charge (CDSC) on FSTIFA when redeemed
+up to 24 months after purchase with respect
+to shares purchased on or after January 15,
+2010.  Mr. Germain reported that it is the
+Adviser's
+belief that the proposed changes will aid in
+attracting assets as investors look to move out
+of the
+yield curve by lowering the barriers to entry,
+thus benefitting the Fund by diversifying its
+customers and securities and increased cash flow.
+It was also noted that if the changes are
+approved, all five of Federated's ultrashort
+and short/short intermediate funds would have
+load-
+waivers on purchases of $250,000 and over.
+	Mr. Germain then reviewed the legal
+considerations and business risks with the
+Board,
+noting that amendment to the Rule 18f-3 Plan
+do not require shareholder approval.  He noted
+that
+should the proposed changes be approved,
+supplements to the Registration Statement
+ would be
+prepared, filed and mailed to shareholders.
+ He added that the changes would take effect
+on
+January 15, 2010 and that expenses associated
+with this mailing are approximately $1,370.00.
+	Next, Mr. Germain reported to the
+Board on the proposed name change of Federated
+Prudent Global Income Fund (FPGIF or the Fund),
+a series of Federated Income Securities
+Trust (FIST).  He explained that the Board is
+being asked to change the name of the Fund to
+the Federated Prudent DollarBear Fund.  Mr.
+Germain reported that this is being proposed in
+order to reposition the Fund as a fund that
+seeks to invest in securities that will rise
+relative to the
+U.S. dollar.  He added that in connection with
+this name change, new disclosure is being
+proposed to be added to the Prospectus.
+	Mr. Germain outlined the two Investment
+Company Act provisions that needed to be
+considered when contemplating the name change.
+He explained that Section (b)(1) and Section
+(b)(3) of Rule 2a-7 prohibit a registered
+investment company as portraying itself as a money
+market fund if it is in fact not a money market
+fund.  He noted concerns on this matter due to the
+word dollar being including in the proposed
+Fund name.  Mr. Germain explained that in order
+to eliminate any potential investor confusion,
+additional prospectus cover disclosure would be
+added to emphasize that the Fund is not a money
+ market fund and has a fluctuating share value.
+	Next, Mr. Germain reminded the Board
+about provisions under the Investment Company
+Act Rule 35d-1 (the Names Rule) which states
+that a fund name must not be misleading and
+that at least 80% of the assets must be
+invested in a manner consistent with the name.
+ He
+reported that Fund Management has researched
+other funds containing the word dollar in the
+names and has found numerous examples of non-money
+market funds using dollar in a
+modified manner such as Strengthening Dollar,
+Weak Dollar, Dollar Bear, or Dollar"
+"1122","Bull.  Mr. Germain reminded the Board that the
+proposed name will use dollar in a modified
+fashion in conjunction with bear.  In this
+regard, Mr. Germain indicated that the name
+connoted a philosophy rather than a particular
+specific investment strategy.  He then added that
+in order to further minimize any risk of the
+Fund's proposed name being characterized as
+misleading, Fund Management is recommending
+that the fund adopt a non-fundamental policy
+that states:
+	As a  non-fundamental operating policy,
+under normal market
+condition, the Fund will invest 70% or more
+of its portfolio in
+non-U.S. dollar denominated investments and
+gold related
+investments which my be denominated in U.S.
+dollars.  The Fund
+may invest, for temporary or defensive purposes,
+be able to invest
+more than 30% of its assets in U.S. dollar
+denominated
+investments.
+
+	Mr. Germain concluded by mentioning that
+ a 485(a) filing would be submitted to the
+Securities and Exchange Commission (SEC) upon
+Board approval of the name change, as
+discussed during the Board Meetings.  He noted
+that should the SEC staff disagree with
+Federated's interpretation of the Names Rule
+and various other portions of the application,
+Federated will hold off on implementing the
+proposed name change to consider alternatives.
+	A discussion ensued regarding the proposed
+name change.
+      The meeting was then adjourned and
+reconvened at 10:25 A.M. on Thursday,
+November 12, 2009, at the Ritz Carlton in Naples,
+Florida.
+The same persons were present as
+were in attendance at the close of the Meeting held
+on Thursday, November 12, 2009, at
+9:10 A.M.
+	Mr. Peter E. Madden reported on the
+proposed amendment to the 18f-3 Plan for FSTIFA.
+He noted that the Independent Trustees had
+reviewed materials regarding this matter.
+After full
+discussion, on motion duly made and seconded,
+the Board unanimously
+RESOLVED,	that the Board hereby approves
+the lowering of the breakpoint
+from 1.00% to 0.00% on purchases of $250,000
+and over (rather
+than $1 million and over) for the Class A Shares
+ of Federated
+Short-Term Income Fund (FSTIF), a series of
+Federated Income
+Securities Trust (Trust), effective as of
+January 15, 2010;
+
+RESOLVED,	that the Board hereby approves
+the removal of the FSTIFA from
+the advanced commissions large ticket program
+with respect to
+shares purchased on or after January 15, 2010;
+
+RESOLVED,	that the amendments to the Rule
+18f-3 Multi-Class Plan for
+FSTIFA reflecting the lowering of the breakpoints
+and removal of
+the Funds from the advanced commissions
+ large ticket program,
+substantially in the form presented to
+ the Board, with such changes
+as approved by Dickstein Shapiro (the
+18f-3 Plan Amendments),
+are hereby approved;
+
+RESOLVED,	that the officers are
+ hereby authorized to prepare, execute,
+and/or
+deliver, and, as necessary, file and
+distribute to shareholders, the
+18f-3 Plan Amendments and a supplement
+to the Trust's
+Registration Statements to reflect the
+lowering of the breakpoints
+from 1.00% to 0.00% on purchases of $250,000
+and over (rather
+than $1 million and over) for FSTIFA effective
+as of January 15,
+2010 and removal of FSTIFA from the advanced
+commissions
+large ticket program with respect to shares
+purchased on or after
+January 15, 2010.
+
+	Mr. Madden also reported on the proposed
+name change to FPGIF to Federated Prudent
+DollarBear Fund.  He noted that the Independent
+Trustees had reviewed materials regarding this
+matter.  Mr. Madden noted that the Board would
+approve the proposed name change, contingent
+upon the Fund adopting a non-fundamental operating
+policy which would provide that, under
+normal market conditions, the Fund will invest
+70% or more of its assets in non-U.S. dollar
+denominated investments and gold related
+investments which may be denominated in U.S.
+dollars.  He further noted that the Fund may
+invest, for temporary or defensive purposes, more
+than 30% of its assets in U.S. dollar denominated
+investments.  After full discussion, on motion
+duly made and seconded, the Board unanimously
+RESOLVED,	that the Board hereby adopts and
+approves the following new
+non-fundamental operating policy for the Fund:
+
+	As a non-fundamental operating policy,
+under normal market
+conditions, the Fund will invest 70% or more of
+its portfolio in
+non-U.S. dollar denominated investments and gold
+related
+investments which my be denominated in U.S. dollars.
+The Fund
+may invest, for temporary or defensive purposes, more
+than 30%
+of its assets in U.S. dollar denominated investments.
+
+RESOLVED,	that the Board hereby authorizes
+and approves changing the name
+of the Federated Prudent Global Income Fund to
+Federated"
+"1123","Prudent DollarBear Fund.
+	Numerous other incidental operational
+matters were discussed but no further formal
+action was taken.
+	There being no further business, the
+meeting was thereupon duly adjourned.
+
+
+Respectfully submitted,
+
+
+				Secretary
+	- 11 -
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
+"
