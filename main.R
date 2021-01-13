@@ -296,3 +296,4 @@ dev.off()
 #         xlim = c(0,8), # these two lines allow space for the legend
 #         width = 1) # these two lines allow space for the legend
 # legend("right", title = "Cost ratios", c("Execution", "Research", "OC, excl. mgmt fees", "Mgmt fees"), fill = sequential[4:1])
+#A line I wrote on my local computer
