@@ -1,4 +1,3 @@
-#test
 rm(list=ls())
 setwd("~/R/FM")
 
@@ -11,9 +10,8 @@ library(tidyr)
 library(weights)
 
 #AR data SE
-#ToDo: update to mendeley data open repository
-setwd("~/R/FM")
-df.main = read.csv("Rts.csv")
+#DOI:10.17632/v6v427yr6h.1#file-8f85f4ce-dd10-42cf-8f42-a962a9e31456
+df.main = read.csv("https://data.mendeley.com/public-files/datasets/v6v427yr6h/files/8f85f4ce-dd10-42cf-8f42-a962a9e31456/file_downloaded")
 
 #DOI:10.17632/529ks6bwk6.1#file-86d5251a-b496-4c49-8a81-be26c5ba6811
 df.supp = read.csv("https://data.mendeley.com/public-files/datasets/529ks6bwk6/files/86d5251a-b496-4c49-8a81-be26c5ba6811/file_downloaded")
@@ -27,11 +25,11 @@ df.internal = df.supp %>%
               research2018 == 0, 1, 0))
 
 #firm data
-#ToDO: update to mendeley data open repository
-df.fund.firm = read.csv("Fund_Firm.csv")
-
+#DOI: 10.17632/bv5c963gk3.1#file-3d48ed66-ab5b-4566-98dc-e5e8d4fc989c
+df.fund.firm = read.csv("https://data.mendeley.com/public-files/datasets/bv5c963gk3/files/3d48ed66-ab5b-4566-98dc-e5e8d4fc989c/file_downloaded")
 #DOI: 10.17632/x92nhgdbxc.1#file-67176d16-33f0-4f56-ac73-f8fc31d20f03
 df.firm = read.csv("https://data.mendeley.com/public-files/datasets/x92nhgdbxc/files/67176d16-33f0-4f56-ac73-f8fc31d20f03/file_downloaded")
+
 ###############
 ### Table 4 ### 
 
