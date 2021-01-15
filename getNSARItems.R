@@ -39,7 +39,8 @@ getValue = function(item, FUN = 'none', sub = NA, sub_7 = NA, dummy = F, num = T
   } 
 }
 
-myFiles = list.files("./NSAR")
+setwd("./NSAR")
+myFiles = list.files()
 
 df = as.data.frame(matrix(NA, ncol = 48, nrow = length(myFiles)))
 cols = c("rownr", "id", "cik", "date", "series", "ticker", "classes", "family", 
@@ -128,7 +129,6 @@ for (i in 1:length(myFiles)) {
   
     }
 }
-## GO THROUGH ERROR WARNINGS
 pw = {"Kzou2RL2pkQzjl0T"}
 con = dbConnect(MySQL(), 
                 host = "mysql-1.cda.hhs.se", port = 3306, dbname = "SEC",
@@ -164,8 +164,8 @@ df.merge = merge(df, cik,
                  by = c('cik', 'year'),
                  all.x = T)
 df.merge = df.merge[!is.na(df.merge$cik),]
+#for stata
 df.merge[is.na(df.merge)] = ""
 
-#setwd("~/R/FM/")
+setwd("..")
 write.csv(df.merge, "us_commissions_NSAR.csv")
-
