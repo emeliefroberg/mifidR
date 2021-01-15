@@ -5,7 +5,7 @@ library(RMySQL)
 library(stringr)
 library(tidyr)
 
-myFiles = list.files()
+myFiles = list.files("./NCEN")
 
 df = as.data.frame(matrix(NA, ncol = 15, nrow = length(myFiles)))
 cols = c("rownr", "id", "cik", "date", "series", "ticker", "classes", 
