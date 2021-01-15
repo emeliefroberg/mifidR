@@ -39,8 +39,7 @@ getValue = function(item, FUN = 'none', sub = NA, sub_7 = NA, dummy = F, num = T
   } 
 }
 
-#setwd("~/NSAR")
-myFiles = list.files()
+myFiles = list.files("./NSAR")
 
 df = as.data.frame(matrix(NA, ncol = 48, nrow = length(myFiles)))
 cols = c("rownr", "id", "cik", "date", "series", "ticker", "classes", "family", 
