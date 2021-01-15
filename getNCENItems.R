@@ -5,7 +5,8 @@ library(RMySQL)
 library(stringr)
 library(tidyr)
 
-myFiles = list.files("./NCEN")
+setwd("./NCEN")
+myFiles = list.files()
 
 df = as.data.frame(matrix(NA, ncol = 15, nrow = length(myFiles)))
 cols = c("rownr", "id", "cik", "date", "series", "ticker", "classes", 
@@ -68,7 +69,6 @@ for (i in 1:length(myFiles)) {
     #separateAccountTotalAsset
   }
 }
-## GO THROUGH ERROR WARNINGS
 pw = {"Kzou2RL2pkQzjl0T"}
 con = dbConnect(MySQL(), 
                 host = "mysql-1.cda.hhs.se", port = 3306, dbname = "SEC",
@@ -105,5 +105,5 @@ df.merge = merge(df, cik,
 df.merge = df.merge[!is.na(df.merge$cik),]
 df.merge[is.na(df.merge)] = ""
 
-#setwd("~/R/FM/")
+setwd('..')
 write.csv(df.merge, "us_commissions_NCEN.csv")
