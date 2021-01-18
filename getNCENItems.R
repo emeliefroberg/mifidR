@@ -84,19 +84,18 @@ cik = dbGetQuery(
       COUNT(DISTINCT Series_ID) AS n_series,
       COUNT(DISTINCT Class_ID) AS n_class,
       SUM(CASE WHEN uniqueCIK>1 THEN 1 ELSE 0 END) n_nonunique,
-      SUM(CASE WHEN before_15 < 1 OR after_15 < 1 THEN 1 ELSE 0 END) n_nonboth15,
+      SUM(CASE WHEN nCIK<6 THEN 1 ELSE 0 END) n_nonall,
       SUM(CASE WHEN before_16 < 1 OR after_16 < 1 THEN 1 ELSE 0 END) n_nonboth16
     FROM (
-      SELECT ticker, 
-      COUNT(DISTINCT s.CIK) AS uniqueCIK,
-      SUM(Year<2015) AS before_15, 
-      SUM(Year>=2015) AS after_15,
+      SELECT Class_Ticker as ticker, 
+      COUNT(DISTINCT CIK) AS uniqueCIK,
+      COUNT(CIK) AS nCIK,
       SUM(Year<2016) AS before_16,
       SUM(Year>=2016) AS after_16
-      FROM SEC.TickerCik tc
-        LEFT JOIN SEC.SEC s ON tc.ticker = s.Class_Ticker
-      GROUP BY ticker) t
-      LEFT JOIN SEC ON t.ticker = SEC.Class_Ticker
+      FROM SEC.SEC 
+      WHERE year > 2012 & year < 2019   
+      GROUP BY Class_Ticker) t
+    LEFT JOIN SEC ON t.ticker = SEC.Class_Ticker
     GROUP BY SEC.CIK, SEC.Year")
 df$year = substr(df$date, 1,4)
 df$year = as.numeric(df$year)
