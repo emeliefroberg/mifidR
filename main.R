@@ -30,8 +30,8 @@ df.fund.firm = read.csv("https://data.mendeley.com/public-files/datasets/bv5c963
 #DOI: 10.17632/x92nhgdbxc.1#file-67176d16-33f0-4f56-ac73-f8fc31d20f03
 df.firm = read.csv("https://data.mendeley.com/public-files/datasets/x92nhgdbxc/files/67176d16-33f0-4f56-ac73-f8fc31d20f03/file_downloaded")
 
-###############
-### Table 4 ### 
+#########################
+### Interaction plots ### 
 
 #EBIT
 df.internal = df.internal %>% left_join(df.fund.firm, by = "isin") %>% 
@@ -40,7 +40,6 @@ df.internal = df.internal %>% left_join(df.fund.firm, by = "isin") %>%
 
 xtab = table(df.internal$internal, df.internal$Bank_d)
 xtab
-#run chi2 on this?
 
 #research, execution, mgmt. fee
 df.internal = df.internal %>% 
@@ -66,12 +65,14 @@ pdf(file = "r_iplot.pdf")
 par(mfrow=c(2,2), xpd = T)
 interaction.plot(x.factor = research$time, trace.factor = research$internal, 
                  response = research$research, fun = mean, 
-                 type = "b", legend = F, 
+                 type = "b", legend = T, 
+                 trace.label = "", fixed = T,
                  xlab = "Year", ylab="Research",
                  pch=c(1,2), col = c("black", "lightgray"), main = "Fund-level")
 interaction.plot(x.factor = execution$time, trace.factor = execution$internal, 
                  response = execution$execution, fun = mean, 
-                 type = "b", legend = F, 
+                 type = "b", legend = T, 
+                 trace.label = "", fixed = T,
                  xlab = "Year", ylab="Execution",
                  pch=c(1,2), col = c("black", "lightgray"))
 #ebit and mgmfee, firm-level
@@ -94,41 +95,17 @@ ebit$ebit = ebit$ebit / 1000
 #plot interactions
 interaction.plot(x.factor = mgmfee$time, trace.factor = mgmfee$internal, 
                  response = mgmfee$mgmfee, fun = mean, 
-                 type = "b", legend = F, 
+                 type = "b", legend = T, 
+                 trace.label = "", fixed = T,
                  xlab = "Year", ylab="Mgmt. fee",
                  pch=c(1,2), col = c("black", "lightgray"), main = "Firm-level")
 interaction.plot(x.factor = ebit$time, trace.factor = ebit$internal, 
                  response = ebit$ebit, fun = mean, 
-                 type = "b", legend = F, 
+                 type = "b", legend = T, 
+                 trace.label = "", fixed = T,
                  xlab = "Year", ylab="EBIT, in MSEK",
                  pch=c(1,2), col = c("black", "lightgray"))
-## ToDo: FIX!
-legend("bottomleft", inset = c(-0.45, -0.48), title = "Internalized?", legend=c(0,1), 
-       col = c("black", "lightgray"), pch=c(1,2), xpd = T, bty = "n", horiz = T)
-
 dev.off()
-#regressions with interactions
-research$time = as.factor(research$time)
-research$internal = as.factor(research$internal)
-execution$time = as.factor(execution$time)
-execution$internal = as.factor(execution$internal)
-mgmfee$time = as.factor(mgmfee$time)
-mgmfee$internal = as.factor(mgmfee$internal)
-ebit$time = as.factor(ebit$time)
-ebit$internal = as.factor(ebit$internal)
-
-#ToDo: Solution is singulair
-
-summary(lm(research_r ~time*internal, research))
-summary(lm(execution_r ~time*internal, execution))
-summary(lm(mgmfee ~time*internal, mgmfee))
-summary(lm(ebit ~time*internal, ebit))
-
-#for anova 2x2 between x within test:
-summary(aov(research_r ~ time*internal + Error(isin/time), data=research))
-summary(aov(execution_r ~ time*internal + Error(isin/time), data=execution))
-summary(aov(mgmfee ~ time*internal + Error(firmnr/time), data=mgmfee))
-summary(aov(ebit ~ time*internal + Error(firmnr/time), data=ebit))
 
 ################
 ### Figure 1 ###
