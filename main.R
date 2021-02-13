@@ -110,10 +110,10 @@ dev.off()
 ### Figure Barplot ###
 
 #Main, value-weighted
-df.2012 = df.main[,c("tiar2012", "ocxfixed2012", "fixed2012")]
-ll12 = lapply(df.2012, weighted.mean,  w = df.main$amt2012, na.rm=T)
-ll12 = data.frame("2012", ll12, 0, 0)
-colnames(ll12) =c("year", "tiar", "ocxfixed", "fixed", "txar", "extanr")
+#df.2012 = df.main[,c("tiar2012", "ocxfixed2012", "fixed2012")]
+#ll12 = lapply(df.2012, weighted.mean,  w = df.main$amt2012, na.rm=T)
+#ll12 = data.frame("2012", ll12, 0, 0)
+#colnames(ll12) =c("year", "tiar", "ocxfixed", "fixed", "txar", "extanr")
 df.2013 = df.main[,c("tiar2013", "ocxfixed2013", "fixed2013")]
 ll13 = lapply(df.2013, weighted.mean,  w = df.main$amt2013, na.rm=T)
 ll13 = data.frame("2013", ll13, 0, 0)
@@ -139,7 +139,7 @@ df.2018 = df.main[,c("ocxfixed2018", "fixed2018", "txar2018", "extanr2018")]
 ll18 = lapply(df.2018, weighted.mean,  w = df.main$amt2018, na.rm=T)
 ll18 = data.frame("2018", 0, ll18)
 colnames(ll18) = c("year", "tiar", "ocxfixed", "fixed", "txar", "extanr")
-ll = rbind(ll12, ll13, ll14, ll15, ll16, ll17, ll18)
+ll = rbind(ll13, ll14, ll15, ll16, ll17, ll18)
 attach(ll)
 ll = data.frame(year, fixed, ocxfixed, tiar, extanr, txar)
 #plot main value-weighted
