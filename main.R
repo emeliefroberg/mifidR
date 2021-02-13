@@ -1,5 +1,4 @@
 rm(list=ls())
-setwd("~/R/FM")
 
 library(dplyr)
 library(gdata)
@@ -168,11 +167,8 @@ barplot(t(ll[,-1]),
 # ll14 = data.frame("2014", t(ll14), 0, 0)
 # colnames(ll14) = c("year", "tiar", "ocxfixed", "fixed", "txar", "extanr")
 # ll15 = apply(df.2015, 2, mean, na.rm=T)
-# ll15 = data.frame("2015a", t(ll15), 0, 0)
+# ll15 = data.frame("2015", t(ll15), 0, 0)
 # colnames(ll15) = c("year", "tiar", "ocxfixed", "fixed", "txar", "extanr")
-# ll15.early = apply(df.2015.early, 2, mean, na.rm=T)
-# ll15.early = data.frame("2015b", 0, t(ll15.early))
-# colnames(ll15.early) = c("year", "tiar", "ocxfixed", "fixed", "txar", "extanr")
 # ll16 = apply(df.2016, 2, mean, na.rm=T)
 # ll16 = data.frame("2016", 0, t(ll16))
 # colnames(ll16) = c("year", "tiar", "ocxfixed", "fixed", "txar", "extanr")
@@ -199,7 +195,6 @@ barplot(t(ll[,-1]),
 #         xlim = c(0,20), # these two lines allow space for the legend
 #         width = 1) # these two lines allow space for the legend
 # legend("right", cex = 0.7, title = "Cost ratios", c("Execution", "Research", "Bundled commissions", "OC, excl. mgmt fees", "Mgmt fees"), fill = sequential[5:1])
-
 
 #suppl, value-weighted
 df.2016 = df.supp[,c("oc2016", "mgmfee2016", "execution2016", "research2016")]
@@ -268,4 +263,3 @@ dev.off()
 #         xlim = c(0,8), # these two lines allow space for the legend
 #         width = 1) # these two lines allow space for the legend
 # legend("right", title = "Cost ratios", c("Execution", "Research", "OC, excl. mgmt fees", "Mgmt fees"), fill = sequential[4:1])
-#A line I wrote on my local computer
