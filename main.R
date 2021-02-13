@@ -107,8 +107,8 @@ interaction.plot(x.factor = ebit$time, trace.factor = ebit$internal,
                  pch=c(1,2), col = c("black", "lightgray"))
 dev.off()
 
-################
-### Figure 1 ###
+######################
+### Figure Barplot ###
 
 #Main, value-weighted
 df.2012 = df.main[,c("tiar2012", "ocxfixed2012", "fixed2012")]
@@ -123,14 +123,10 @@ df.2014 = df.main[,c("tiar2014", "ocxfixed2014", "fixed2014")]
 ll14 = lapply(df.2014, weighted.mean,  w = df.main$amt2014, na.rm=T)
 ll14 = data.frame("2014", ll14, 0, 0)
 colnames(ll14) = c("year", "tiar", "ocxfixed", "fixed", "txar", "extanr")
-df.2015 = df.main[!is.na(df.main$tiar2015),c("tiar2015", "ocxfixed2015", "fixed2015")]
-ll15 = lapply(df.2015, weighted.mean,  w = df.main$amt2015[!is.na(df.main$tiar2015)], na.rm=T)
-ll15 = data.frame("2015a", ll15, 0, 0)
+df.2015 = data.frame(tiar2015 = rowSums(df.main[,c("tiar2015", "txar2015","extanr2015")], na.rm=T), df.main[,c("ocxfixed2015", "fixed2015")])
+ll15 = lapply(df.2015, weighted.mean,  w = df.main$amt2015, na.rm=T)
+ll15 = data.frame("2015", ll15, 0, 0)
 colnames(ll15) = c("year", "tiar", "ocxfixed", "fixed", "txar", "extanr")
-df.2015.early = df.main[is.na(df.main$tiar2015),c("ocxfixed2015", "fixed2015", "txar2015", "extanr2015")]
-ll15.early = lapply(df.2015.early, weighted.mean,  w = df.main$amt2015[is.na(df.main$tiar2015)], na.rm=T)
-ll15.early = data.frame("2015b", 0,ll15.early)
-colnames(ll15.early) = c("year", "tiar", "ocxfixed", "fixed", "txar", "extanr")
 df.2016 = df.main[,c("ocxfixed2016", "fixed2016", "txar2016", "extanr2016")]
 ll16 = lapply(df.2016, weighted.mean,  w = df.main$amt2016, na.rm=T)
 ll16 = data.frame("2016", 0, ll16)
@@ -143,7 +139,7 @@ df.2018 = df.main[,c("ocxfixed2018", "fixed2018", "txar2018", "extanr2018")]
 ll18 = lapply(df.2018, weighted.mean,  w = df.main$amt2018, na.rm=T)
 ll18 = data.frame("2018", 0, ll18)
 colnames(ll18) = c("year", "tiar", "ocxfixed", "fixed", "txar", "extanr")
-ll = rbind(ll12, ll13, ll14, ll15, ll15.early, ll16, ll17, ll18)
+ll = rbind(ll12, ll13, ll14, ll15, ll16, ll17, ll18)
 attach(ll)
 ll = data.frame(year, fixed, ocxfixed, tiar, extanr, txar)
 #plot main value-weighted
