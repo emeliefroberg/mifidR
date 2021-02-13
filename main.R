@@ -123,6 +123,7 @@ ll14 = lapply(df.2014, weighted.mean,  w = df.main$amt2014, na.rm=T)
 ll14 = data.frame("2014", ll14, 0, 0)
 colnames(ll14) = c("year", "tiar", "ocxfixed", "fixed", "txar", "extanr")
 df.2015 = data.frame(tiar2015 = rowSums(df.main[,c("tiar2015", "txar2015","extanr2015")], na.rm=T), df.main[,c("ocxfixed2015", "fixed2015")])
+df.2015[is.na(df.2015$ocxfixed2015),] = NA
 ll15 = lapply(df.2015, weighted.mean,  w = df.main$amt2015, na.rm=T)
 ll15 = data.frame("2015", ll15, 0, 0)
 colnames(ll15) = c("year", "tiar", "ocxfixed", "fixed", "txar", "extanr")
