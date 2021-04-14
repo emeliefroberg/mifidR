@@ -146,7 +146,7 @@ ll = data.frame(year, fixed, ocxfixed, tiar, extanr, txar)
 sequential = brewer.pal(5, "RdYlGn")
 
 pdf(file = "r_barplot.pdf")
-par(mfrow=c(1,2)) 
+par(mfrow=c(2,2)) 
 barplot(t(ll[,-1]),
         names.arg = ll$year, # x-axis labels
         cex.names = 0.7, # makes x-axis labels small enough to show all
@@ -157,6 +157,20 @@ barplot(t(ll[,-1]),
         #xlim = c(0,20), # these two lines allow space for the legend
         #width = 1,
         main = "Main sample") # these two lines allow space for the legend
+ll = data.frame(year, fixed, ocxfixed, tiar, extanr, txar)
+#only commissions 
+sequential3 = sequential[3:5]
+barplot(t(ll[,c(-1, -2, -3)]),
+        names.arg = ll$year, # x-axis labels
+        cex.names = 0.7, # makes x-axis labels small enough to show all
+        col = sequential3, # colors
+        xlab = "Year",
+        ylab = "Costs, %",
+        las = 2,
+        #xlim = c(0,20), # these two lines allow space for the legend
+        #width = 1,
+        main = "Main sample") # these two lines allow space for the legend
+
 # #Equally-weighted
 # ll12 = apply(df.2012, 2, mean, na.rm=T)
 # ll12 = data.frame("2012", t(ll12), 0, 0)
@@ -224,19 +238,30 @@ detach()
 attach(ll)
 ll = data.frame(year, fixed, ocxfixed, extanr, txar)
 
-sequential.2 = brewer.pal(4, "RdYlGn")
-#par(mfrow=c(1,2)) 
+sequential4 = sequential[-3]
 barplot(t(ll[,-1]),
         names.arg = ll$year, # x-axis labels
         cex.names = 0.7, # makes x-axis labels small enough to show all
-        col = sequential.2, # colors
+        col = sequential4, # colors
         xlab = "Year",
         ylab = "Costs, %", 
         las = 2,
         xlim = c(0,8), # these two lines allow space for the legend
         width = 1,
         main = "Suppl. sample ") # these two lines allow space for the legend
-legend("right", cex = 0.7,  box.lty=0, inset = -0.3, title = "Cost ratios", c("Execution", "Research", "Bundled commissions", "OC, excl. mgmt fees", "Mgmt fees"), fill = sequential[5:1])
+#only commissions
+sequential2 = sequential[4:5]
+barplot(t(ll[,c(-1, -2,-3)]),
+        names.arg = ll$year, # x-axis labels
+        cex.names = 0.7, # makes x-axis labels small enough to show all
+        col = sequential2, # colors
+        xlab = "Year",
+        ylab = "Costs, %", 
+        las = 2,
+        xlim = c(0,8), # these two lines allow space for the legend
+        width = 1,
+        main = "Suppl. sample ") # these two lines allow space for the legend
+legend("right", cex = 0.7,  box.lty=0, inset = -0.01, title = "Cost ratios", c("Execution", "Research", "Bundled commissions", "OC, excl. mgmt fees", "Mgmt fees"), fill = sequential[5:1])
 dev.off()
 #Equally-weighted, suppl. sample
 # ll16 = apply(df.2016, 2, mean, na.rm=T)
