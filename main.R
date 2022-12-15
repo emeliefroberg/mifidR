@@ -143,7 +143,9 @@ ll = rbind(ll13, ll14, ll15, ll16, ll17, ll18)
 attach(ll)
 ll = data.frame(year, fixed, ocxfixed, tiar, extanr, txar)
 #plot main value-weighted
-sequential = brewer.pal(5, "RdYlGn")
+#sequential = brewer.pal(5, "RdYlGn")
+#changed to grey coloring
+sequential = brewer.pal(5, "Greys")
 
 pdf(file = "r_barplot.pdf")
 par(mfrow=c(2,2)) 
